@@ -1,0 +1,14 @@
+src/main/java/org/example/Mappers/CloudMapper.class
+src/main/java/org/example/Utils/Statistics/OpenSource/ParetoDevelopers.class
+src/main/java/org/example/DO/FileListDO.class
+src/main/java/org/example/Utils/Statistics/OpenSource/ActiveDevelopers.class
+src/main/java/org/example/Utils/Statistics/AnalyzedFiles.class
+src/main/java/org/example/Utils/Statistics/AverageTopFileAuthorship.class
+src/main/java/org/example/Utils/Thresholds.class
+src/main/java/org/example/Main.class
+src/main/java/org/example/DO/CSAuthorDO.class
+src/main/java/org/example/Mappers/OnPremMapper.class
+src/main/java/org/example/DO/FileDO.class
+src/main/java/org/example/Utils/Developers.class
+src/main/java/org/example/Utils/CSVWriter.class
+src/main/java/org/example/Optimize/OptimizeThresholds.class
