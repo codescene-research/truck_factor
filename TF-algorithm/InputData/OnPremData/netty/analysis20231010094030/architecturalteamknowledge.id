@@ -1,0 +1,127 @@
+author,rev,date,entity,message,ticket-id,loc-added,loc-deleted,author-email,basic-date-time
+Trustin Lee,75af257a62,2015-08-15,No Component,,75af257a62,2,0,t@motd.kr,2015-08-15T02:05:13+02:00
+Norman Maurer,fd27c403d3,2015-07-27,No Component,,fd27c403d3,40,5,norman_maurer@apple.com,2015-07-27T12:15:23+02:00
+Scott Mitchell,d2683c3911,2015-08-04,No Component,,d2683c3911,51,37,scott_mitchell@apple.com,2015-08-04T02:58:37+02:00
+Scott Mitchell,a4261d481c,2015-08-05,No Component,,a4261d481c,1,1,scott_mitchell@apple.com,2015-08-05T17:23:35+02:00
+Scott Mitchell,2d4bef9b18,2015-08-03,No Component,,2d4bef9b18,5,2,scott_mitchell@apple.com,2015-08-03T21:46:29+02:00
+Norman Maurer,5ac84760c4,2015-07-15,No Component,,5ac84760c4,803,134,norman_maurer@apple.com,2015-07-15T14:13:47+02:00
+Norman Maurer,9d417c1626,2015-08-12,No Component,Fix,9d417c1626,2,1,norman_maurer@apple.com,2015-08-12T14:25:45+02:00
+Ivan Bahdanau,5d011b8895,2015-08-12,No Component,Fix,5d011b8895,51,3,ibahdanau@fitbit.com,2015-08-12T04:55:54+02:00
+Matteo Merli,0be53f296f,2015-08-08,No Component,Fix,0be53f296f,9,1,mmerli@yahoo-inc.com,2015-08-08T07:37:51+02:00
+Scott Mitchell,cf171ff525,2015-06-05,No Component,,cf171ff525,1065,351,scott_mitchell@apple.com,2015-06-05T03:36:55+02:00
+Scott Mitchell,b714297a44,2015-07-21,No Component,,b714297a44,128,3,scott_mitchell@apple.com,2015-07-21T21:41:03+02:00
+Scott Mitchell,7bd6472804,2015-07-21,No Component,Fix,7bd6472804,51,33,scott_mitchell@apple.com,2015-07-21T02:03:03+02:00
+Scott Mitchell,209aa28573,2015-07-29,No Component,,209aa28573,3,0,scott_mitchell@apple.com,2015-07-29T18:32:59+02:00
+Norman Maurer,f65717be82,2015-07-27,No Component,,f65717be82,39,2,norman_maurer@apple.com,2015-07-27T13:48:07+02:00
+Scott Mitchell,5ed89648c3,2015-07-30,No Component,,5ed89648c3,1,1,scott_mitchell@apple.com,2015-07-30T19:19:17+02:00
+Ning Sun,9236a8d156,2015-07-30,No Component,fix,9236a8d156,2,2,sunng@about.me,2015-07-30T12:37:01+02:00
+Francisco A. Lozano,a91e648505,2015-07-29,No Component,,a91e648505,11,5,flozano@gmail.com,2015-07-29T14:00:18+02:00
+Scott Mitchell,a7713069a1,2015-07-25,No Component,,a7713069a1,146,33,scott_mitchell@apple.com,2015-07-25T17:03:45+02:00
+fratboy,083dbe5c59,2015-07-28,No Component,Fix,083dbe5c59,11,14,fratboy77@gmail.com,2015-07-28T19:49:28+02:00
+tczerwinski,b33c7b12a4,2015-07-29,No Component,bug fix,b33c7b12a4,27,9,tczerwinski@77P6N12.SIIPOLSKA.PL,2015-07-29T13:16:53+02:00
+Daniel Darabos,623d9d7202,2015-07-29,No Component,Fix,623d9d7202,2,2,darabos.daniel@gmail.com,2015-07-29T18:27:40+02:00
+nmittler,94f65ed7ff,2015-07-28,No Component,,94f65ed7ff,2,2,nathanmittler@google.com,2015-07-28T18:43:50+02:00
+nmittler,296649cfc8,2015-07-13,No Component,Fix,296649cfc8,4,5,nathanmittler@google.com,2015-07-13T23:53:20+02:00
+nmittler,93fc3c6e45,2015-07-13,No Component,Fix,93fc3c6e45,70,64,nathanmittler@google.com,2015-07-13T23:53:20+02:00
+Norman Maurer,ecc01da9dd,2015-07-20,No Component,,ecc01da9dd,9,16,norman_maurer@apple.com,2015-07-20T15:14:17+02:00
+Norman Maurer,c3ab557f85,2015-07-16,No Component,,c3ab557f85,11,9,norman_maurer@apple.com,2015-07-16T21:29:04+02:00
+Norman Maurer,bd42987143,2015-07-20,No Component,Fix,bd42987143,18,2,norman_maurer@apple.com,2015-07-20T14:48:27+02:00
+Brendt Lucas,57d28dd421,2015-07-11,No Component,bug,57d28dd421,197,30,brendt@idnet.com,2015-07-11T13:09:45+02:00
+Norman Maurer,1a5dac175e,2015-07-16,No Component,,1a5dac175e,3,0,norman_maurer@apple.com,2015-07-16T11:19:42+02:00
+nmittler,0d73907c58,2015-07-20,No Component,Fix,0d73907c58,1,1,nathanmittler@google.com,2015-07-20T21:44:52+02:00
+Minwoo Jung,5fb349ca5a,2015-07-19,No Component,,5fb349ca5a,1,1,jmwsoft@gmail.com,2015-07-19T09:26:34+02:00
+Norman Maurer,05dae57ad7,2015-07-18,No Component,,05dae57ad7,36,38,norman_maurer@apple.com,2015-07-18T20:50:34+02:00
+Norman Maurer,d1344345bb,2015-07-10,No Component,,d1344345bb,18,0,norman_maurer@apple.com,2015-07-10T22:00:30+02:00
+Scott Mitchell,74dd7f85ca,2015-06-02,No Component,,74dd7f85ca,41,5,scott_mitchell@apple.com,2015-06-02T02:24:49+02:00
+Norman Maurer,f1c5f0e0c7,2015-07-09,No Component,,f1c5f0e0c7,25,0,norman_maurer@apple.com,2015-07-09T22:48:10+02:00
+Scott Mitchell,d7cdc469bc,2015-07-17,No Component,bug,d7cdc469bc,67,74,scott_mitchell@apple.com,2015-07-17T18:29:51+02:00
+James Roper,b958263853,2015-07-17,No Component,,b958263853,57,3,james@jazzy.id.au,2015-07-17T08:49:54+02:00
+Scott Mitchell,9747ffe5fc,2015-06-30,No Component,,9747ffe5fc,392,193,scott_mitchell@apple.com,2015-06-30T19:10:17+02:00
+Louis Ryan,e6ed3ce6b1,2015-07-16,No Component,,e6ed3ce6b1,20,19,lryan@google.com,2015-07-16T00:04:22+02:00
+Effective Light,80c59864cf,2015-07-12,No Component,Fix,80c59864cf,1,1,hamzaxx@users.noreply.github.com,2015-07-12T17:35:31+02:00
+Ryo Okubo,aaba1b9ed5,2015-07-09,No Component,,aaba1b9ed5,84,3,syucream1031@gmail.com,2015-07-09T16:39:42+02:00
+Louis Ryan,60c59f39af,2015-06-30,No Component,,60c59f39af,25,93,lryan@google.com,2015-06-30T21:31:08+02:00
+zhangduo,e949dcd94f,2015-07-07,No Component,Fix,e949dcd94f,19,10,zhangduo@wandoujia.com,2015-07-07T04:50:02+02:00
+Louis Ryan,cdbf43596d,2015-06-30,No Component,fix,cdbf43596d,432,0,lryan@google.com,2015-06-30T21:31:08+02:00
+nmittler,6e044b082c,2015-07-08,No Component,Fix,6e044b082c,67,27,nathanmittler@google.com,2015-07-08T20:38:22+02:00
+Norman Maurer,8650679f29,2015-07-08,No Component,Fix,8650679f29,12,12,norman_maurer@apple.com,2015-07-08T21:37:58+02:00
+Norman Maurer,ab43c78c85,2015-07-07,No Component,,ab43c78c85,26,11,norman_maurer@apple.com,2015-07-07T10:27:49+02:00
+Norman Maurer,9660e2f6a9,2015-07-07,No Component,,9660e2f6a9,30,64,norman_maurer@apple.com,2015-07-07T07:00:12+02:00
+Norman Maurer,8d1c6ebf71,2015-07-04,No Component,,8d1c6ebf71,31,52,norman_maurer@apple.com,2015-07-04T23:40:30+02:00
+Norman Maurer,18356911ab,2015-07-03,No Component,,18356911ab,5,0,norman_maurer@apple.com,2015-07-03T23:07:41+02:00
+Norman Maurer,a9d2b5cef0,2015-07-03,No Component,,a9d2b5cef0,6,0,norman_maurer@apple.com,2015-07-03T20:43:13+02:00
+Norman Maurer,61b9da470a,2015-07-07,No Component,,61b9da470a,4,0,norman_maurer@apple.com,2015-07-07T17:14:12+02:00
+Scott Mitchell,a7f83aa23e,2015-06-23,No Component,,a7f83aa23e,26,13,scott_mitchell@apple.com,2015-06-23T18:25:03+02:00
+Scott Mitchell,ecacd11b06,2015-06-18,No Component,,ecacd11b06,109,18,scott_mitchell@apple.com,2015-06-18T02:33:09+02:00
+Ryo Okubo,ba84a596e2,2015-07-07,No Component,,ba84a596e2,3,2,syucream1031@gmail.com,2015-07-07T18:06:32+02:00
+Norman Maurer,0f95b85ec2,2015-06-18,No Component,,0f95b85ec2,318,188,norman_maurer@apple.com,2015-06-18T14:55:33+02:00
+Norman Maurer,0f6559d188,2015-06-19,No Component,,0f6559d188,39,11,norman_maurer@apple.com,2015-06-19T21:33:54+02:00
+Norman Maurer,11f9e9084b,2015-06-29,No Component,,11f9e9084b,50,3,norman_maurer@apple.com,2015-06-29T12:21:51+02:00
+Norman Maurer,dd6ac55fa0,2015-06-24,No Component,,dd6ac55fa0,68,5,norman_maurer@apple.com,2015-06-24T17:16:40+02:00
+Norman Maurer,ae163d687d,2015-06-18,No Component,,ae163d687d,8,10,norman_maurer@apple.com,2015-06-18T12:10:50+02:00
+Norman Maurer,8c90d602d7,2015-06-19,No Component,Fix,8c90d602d7,1,1,norman_maurer@apple.com,2015-06-19T21:50:05+02:00
+Louis Ryan,ba6319eb6c,2015-06-26,No Component,Fix,ba6319eb6c,66,4,lryan@google.com,2015-06-26T23:43:16+02:00
+nmittler,b39223e295,2015-06-23,No Component,Fix fix,b39223e295,34,23,nathanmittler@google.com,2015-06-23T00:38:53+02:00
+Norman Maurer,c53dbb748e,2015-05-29,No Component,,c53dbb748e,217,9,norman_maurer@apple.com,2015-05-29T09:26:57+02:00
+Norman Maurer,bad8e0d6ab,2015-06-11,No Component,,bad8e0d6ab,285,204,norman_maurer@apple.com,2015-06-11T13:39:28+02:00
+nmittler,391df0547b,2015-06-20,No Component,Fix,391df0547b,1,6,nathanmittler@google.com,2015-06-20T01:08:37+02:00
+Louis Ryan,05ce33f5ca,2015-06-04,No Component,,05ce33f5ca,476,90,lryan@google.com,2015-06-04T20:55:18+02:00
+nmittler,1ecc37fbb2,2015-06-17,No Component,bug Fix,1ecc37fbb2,69,24,nathanmittler@google.com,2015-06-17T00:11:28+02:00
+a-mkarjalainen,e1e8a59ad9,2015-06-18,No Component,Fix,e1e8a59ad9,1,6,a-mkarjalainen@expedia.com,2015-06-18T12:48:20+02:00
+Norman Maurer,e0ef01cf93,2015-06-17,No Component,,e0ef01cf93,9,3,norman_maurer@apple.com,2015-06-17T09:39:54+02:00
+Norman Maurer,29ac2ae3c2,2015-06-12,No Component,,29ac2ae3c2,2,6,norman_maurer@apple.com,2015-06-12T06:11:54+02:00
+Norman Maurer,4a0d68c50b,2015-06-12,No Component,Fix,4a0d68c50b,1,1,norman_maurer@apple.com,2015-06-12T06:19:10+02:00
+Scott Mitchell,09d826ed46,2015-06-10,No Component,,09d826ed46,29,1,scott_mitchell@apple.com,2015-06-10T18:10:02+02:00
+Norman Maurer,3a4d64bb84,2015-06-05,No Component,,3a4d64bb84,36,0,norman_maurer@apple.com,2015-06-05T12:44:55+02:00
+Scott Mitchell,43a558b9e1,2015-06-09,No Component,,43a558b9e1,30,0,scott_mitchell@apple.com,2015-06-09T19:44:05+02:00
+Norman Maurer,d1b7f990f2,2015-06-08,No Component,,d1b7f990f2,2,2,norman_maurer@apple.com,2015-06-08T10:58:42+02:00
+Trustin Lee,b169a76d46,2015-06-10,No Component,Fix,b169a76d46,1,1,t@motd.kr,2015-06-10T05:20:50+02:00
+Trustin Lee,0ca65f1373,2015-06-09,No Component,,0ca65f1373,95,81,t@motd.kr,2015-06-09T12:24:35+02:00
+Trustin Lee,950da2eae1,2015-06-10,No Component,,950da2eae1,2,2,t@motd.kr,2015-06-10T05:00:55+02:00
+Trustin Lee,73d79a4b3b,2015-06-09,No Component,Fix,73d79a4b3b,90,90,t@motd.kr,2015-06-09T07:55:39+02:00
+Trustin Lee,e72d04509f,2015-06-09,No Component,Fix,e72d04509f,22,16,t@motd.kr,2015-06-09T07:24:32+02:00
+Norman Maurer,4570f30dd9,2015-06-08,No Component,,4570f30dd9,172,136,norman_maurer@apple.com,2015-06-08T15:09:17+02:00
+Scott Mitchell,5c22a01522,2015-06-08,No Component,,5c22a01522,3,0,scott_mitchell@apple.com,2015-06-08T16:59:36+02:00
+Scott Mitchell,49b0d6ed07,2015-05-30,No Component,,49b0d6ed07,25,9,scott_mitchell@apple.com,2015-05-30T01:27:59+02:00
+Norman Maurer,e9a2cac16d,2015-06-08,No Component,,e9a2cac16d,12,0,norman_maurer@apple.com,2015-06-08T09:59:44+02:00
+Norman Maurer,cf54c04241,2015-06-03,No Component,,cf54c04241,2,2,norman_maurer@apple.com,2015-06-03T22:29:28+02:00
+Norman Maurer,a485ae68dc,2015-06-04,No Component,,a485ae68dc,14,0,norman_maurer@apple.com,2015-06-04T21:02:55+02:00
+Norman Maurer,6f9eb2cd34,2015-06-03,No Component,,6f9eb2cd34,15,1,norman_maurer@apple.com,2015-06-03T11:31:47+02:00
+Norman Maurer,49643fb5b1,2015-06-01,No Component,,49643fb5b1,20,2,norman_maurer@apple.com,2015-06-01T21:17:51+02:00
+nmittler,d2615ab532,2015-06-03,No Component,,d2615ab532,778,0,nathanmittler@google.com,2015-06-03T05:15:59+02:00
+Norman Maurer,2b0dfc4e80,2015-06-05,No Component,,2b0dfc4e80,39,28,norman_maurer@apple.com,2015-06-05T07:23:09+02:00
+Trustin Lee,0775089496,2015-06-01,No Component,,0775089496,280,45,t@motd.kr,2015-06-01T09:05:00+02:00
+Trustin Lee,afb46b926f,2015-05-30,No Component,bug,afb46b926f,113,115,t@motd.kr,2015-05-30T10:53:46+02:00
+Jean-Rémi Desjardins,9bcfef0f10,2015-06-02,No Component,Fix,9bcfef0f10,3,3,jeanremi.desjardins@gmail.com,2015-06-02T02:08:55+02:00
+Norman Maurer,ed3d26cf7d,2015-05-29,No Component,,ed3d26cf7d,15,0,norman_maurer@apple.com,2015-05-29T08:04:34+02:00
+Trustin Lee,5d11be58ea,2015-06-04,No Component,,5d11be58ea,2,2,t@motd.kr,2015-06-04T05:06:15+02:00
+Trustin Lee,311532feb0,2015-06-03,No Component,Fix fix,311532feb0,122,45,t@motd.kr,2015-06-03T12:12:25+02:00
+Scott Mitchell,09ecc34924,2015-06-02,No Component,,09ecc34924,25,5,scott_mitchell@apple.com,2015-06-02T21:44:18+02:00
+Scott Mitchell,3c432b5a19,2015-06-02,No Component,,3c432b5a19,5,0,scott_mitchell@apple.com,2015-06-02T21:17:32+02:00
+Jean-Rémi Desjardins,0bd6acc5d8,2015-06-02,No Component,Fix,0bd6acc5d8,1,1,jeanremi.desjardins@gmail.com,2015-06-02T02:20:14+02:00
+Scott Mitchell,5121fba466,2015-05-28,No Component,,5121fba466,150,17,scott_mitchell@apple.com,2015-05-28T03:37:56+02:00
+Trustin Lee,4d79be44ef,2015-06-01,No Component,Fix,4d79be44ef,36,4,t@motd.kr,2015-06-01T10:31:14+02:00
+Trustin Lee,5f59591a72,2015-06-01,No Component,Fix,5f59591a72,18,11,t@motd.kr,2015-06-01T07:44:49+02:00
+Trustin Lee,c7b164b409,2015-06-01,No Component,Fix,c7b164b409,0,1,t@motd.kr,2015-06-01T06:55:20+02:00
+Clebert Suconic,70e3d17620,2015-05-29,No Component,fix,70e3d17620,36,14,clebertsuconic@apache.org,2015-05-29T22:43:28+02:00
+Norman Maurer,2a848ce1c9,2015-05-27,No Component,,2a848ce1c9,1,1,norman_maurer@apple.com,2015-05-27T09:09:56+02:00
+Norman Maurer,9f5a3e553c,2015-05-27,No Component,Fix,9f5a3e553c,2,1,norman_maurer@apple.com,2015-05-27T16:56:05+02:00
+Norman Maurer,81fee66c78,2015-05-19,No Component,,81fee66c78,636,109,norman_maurer@apple.com,2015-05-19T15:03:29+02:00
+Norman Maurer,bac2e3a6d2,2015-05-21,No Component,,bac2e3a6d2,33,16,norman_maurer@apple.com,2015-05-21T22:21:22+02:00
+Norman Maurer,6fce3b79c3,2015-05-20,No Component,,6fce3b79c3,4,32,norman_maurer@apple.com,2015-05-20T16:28:26+02:00
+Norman Maurer,f2ba221e7e,2015-05-26,No Component,bug,f2ba221e7e,91,8,norman_maurer@apple.com,2015-05-26T22:23:43+02:00
+Norman Maurer,ab1bb9136b,2015-05-20,No Component,,ab1bb9136b,31,10,norman_maurer@apple.com,2015-05-20T07:27:55+02:00
+Norman Maurer,dce0dd9b78,2015-05-25,No Component,,dce0dd9b78,101,57,norman_maurer@apple.com,2015-05-25T21:00:24+02:00
+Scott Mitchell,d5f1dc66aa,2015-05-22,No Component,,d5f1dc66aa,16,14,scott_mitchell@apple.com,2015-05-22T23:05:39+02:00
+Scott Mitchell,0f28bdf7bb,2015-05-19,No Component,,0f28bdf7bb,2,2,scott_mitchell@apple.com,2015-05-19T23:35:24+02:00
+Norman Maurer,08d234cdf0,2015-05-22,No Component,Fix,08d234cdf0,2,2,norman_maurer@apple.com,2015-05-22T15:51:32+02:00
+johnou,ad7f033c06,2015-05-25,No Component,,ad7f033c06,5,0,johno@sulake.com,2015-05-25T19:16:18+02:00
+Norman Maurer,9d675def81,2015-05-22,No Component,,9d675def81,1,2,norman_maurer@apple.com,2015-05-22T13:40:01+02:00
+nmittler,e4af176be7,2015-05-22,No Component,,e4af176be7,18,13,nathanmittler@google.com,2015-05-22T17:34:16+02:00
+nmittler,c20b38378b,2015-05-21,No Component,,c20b38378b,36,1,nathanmittler@google.com,2015-05-21T21:12:29+02:00
+Ruslan Sennov,1a5254b597,2015-05-21,No Component,fix,1a5254b597,4,4,ruslan.sennov@gmail.com,2015-05-21T06:04:46+02:00
+Robert Varga,f3dcad3230,2015-05-20,No Component,,f3dcad3230,16,3,robert.varga@pantheon.sk,2015-05-20T15:02:10+02:00
+nmittler,b034cf18f9,2015-05-20,No Component,Fix,b034cf18f9,4,0,nathanmittler@google.com,2015-05-20T17:33:59+02:00
+Scott Mitchell,c6d61f9b43,2015-05-18,No Component,Fix,c6d61f9b43,1,1,scott_mitchell@apple.com,2015-05-18T17:44:08+02:00
+Robin Stocker,9bf636076a,2015-05-18,No Component,Fix,9bf636076a,1,1,robin@nibor.org,2015-05-18T07:34:35+02:00
+Norman Maurer,b934257796,2015-05-17,No Component,,b934257796,77,8,norman_maurer@apple.com,2015-05-17T19:57:09+02:00

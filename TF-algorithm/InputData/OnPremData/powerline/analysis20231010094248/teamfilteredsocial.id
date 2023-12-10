@@ -1,0 +1,56 @@
+author,rev,date,entity,message,ticket-id,loc-added,loc-deleted,author-email,basic-date-time
+Foo,ab9c2bd8,2015-08-08,powerline/powerline/segments/common/bat.py,,ab9c2bd8,0,4,kp-pav@yandex.ru,2015-08-08T00:15:26+02:00
+Foo,63a8b492,2015-08-08,powerline/powerline/segments/common/bat.py,,63a8b492,9,4,kp-pav@yandex.ru,2015-08-08T00:15:05+02:00
+Foo,d02b8e98,2015-08-08,powerline/powerline/segments/common/bat.py,Fix,d02b8e98,3,1,kp-pav@yandex.ru,2015-08-08T00:10:57+02:00
+Fumihiro Xue,f098ed2f,2015-07-01,powerline/powerline/segments/common/bat.py,,f098ed2f,49,30,xfumihiro@gmail.com,2015-07-01T13:59:52+02:00
+Fumihiro Xue,f098ed2f,2015-07-01,powerline/tests/test_segments.py,,f098ed2f,43,3,xfumihiro@gmail.com,2015-07-01T13:59:52+02:00
+Timothée Ravier,9ce7fa30,2015-07-19,powerline/docs/source/powerline_automan.py,fix,9ce7fa30,2,0,tim@siosm.fr,2015-07-19T11:05:15+02:00
+Foo,26ea5f0f,2015-07-18,powerline/powerline/lib/inotify.py,Fix,26ea5f0f,1,1,kp-pav@yandex.ru,2015-07-18T15:55:04+02:00
+Foo,21c1ba9e,2015-06-27,powerline/scripts/powerline-release.py,,21c1ba9e,4,0,kp-pav@yandex.ru,2015-06-27T01:05:49+02:00
+Foo,9021b189,2015-06-27,powerline/setup.py,,9021b189,1,1,kp-pav@yandex.ru,2015-06-27T00:51:29+02:00
+Foo,248c2f80,2015-06-15,powerline/powerline/segments/common/sys.py,Fix,248c2f80,4,2,kp-pav@yandex.ru,2015-06-15T00:28:30+02:00
+Foo,e0240f2c,2015-05-30,powerline/tools/purge-PRs.py,,e0240f2c,27,0,kp-pav@yandex.ru,2015-05-30T13:09:00+02:00
+Foo,c64570a5,2015-05-17,powerline/tests/test_segments.py,,c64570a5,12,0,kp-pav@yandex.ru,2015-05-17T14:06:42+02:00
+Foo,72f8b599,2015-05-17,powerline/powerline/lint/checks.py,,72f8b599,34,3,kp-pav@yandex.ru,2015-05-17T13:58:18+02:00
+Foo,72f8b599,2015-05-17,powerline/powerline/segments/vim/__init__.py,,72f8b599,2,0,kp-pav@yandex.ru,2015-05-17T13:58:18+02:00
+Foo,bfd9a21b,2015-05-17,powerline/powerline/lint/__init__.py,,bfd9a21b,9,7,kp-pav@yandex.ru,2015-05-17T13:45:49+02:00
+Foo,f5d85b72,2015-05-17,powerline/powerline/renderer.py,Fix,f5d85b72,72,10,kp-pav@yandex.ru,2015-05-17T13:16:48+02:00
+Foo,f5d85b72,2015-05-17,powerline/powerline/segment.py,Fix,f5d85b72,7,0,kp-pav@yandex.ru,2015-05-17T13:16:48+02:00
+Foo,f5d85b72,2015-05-17,powerline/powerline/segments/vim/__init__.py,Fix,f5d85b72,16,0,kp-pav@yandex.ru,2015-05-17T13:16:48+02:00
+Foo,a718a105,2015-05-23,powerline/tests/lib/terminal.py,,a718a105,8,0,kp-pav@yandex.ru,2015-05-23T15:10:46+02:00
+Foo,a718a105,2015-05-23,powerline/tests/lib/vterm.py,,a718a105,8,0,kp-pav@yandex.ru,2015-05-23T15:10:46+02:00
+Foo,a718a105,2015-05-23,powerline/tests/test_in_vterm/test_tmux.py,,a718a105,80,22,kp-pav@yandex.ru,2015-05-23T15:10:46+02:00
+Foo,fe3b3b15,2015-05-23,powerline/powerline/renderers/tmux.py,fix,fe3b3b15,7,0,kp-pav@yandex.ru,2015-05-23T14:12:43+02:00
+Foo,524fc317,2015-05-23,powerline/powerline/lib/overrides.py,,524fc317,1,1,kp-pav@yandex.ru,2015-05-23T14:09:33+02:00
+Werner Beroux,cc7f2122,2015-05-19,powerline/powerline/segments/common/players.py,,cc7f2122,8,1,werner@beroux.com,2015-05-19T14:57:54+02:00
+Foo,dd886841,2015-05-17,powerline/powerline/segments/i3wm.py,,dd886841,5,4,kp-pav@yandex.ru,2015-05-17T20:03:27+02:00
+Foo,dd886841,2015-05-17,powerline/tests/test_segments.py,,dd886841,45,1,kp-pav@yandex.ru,2015-05-17T20:03:27+02:00
+Foo,c02516a4,2015-05-17,powerline/powerline/bindings/bar/powerline-bar.py,Fix,c02516a4,2,3,kp-pav@yandex.ru,2015-05-17T19:42:21+02:00
+Foo,c02516a4,2015-05-17,powerline/powerline/segments/i3wm.py,Fix,c02516a4,10,12,kp-pav@yandex.ru,2015-05-17T19:42:21+02:00
+Foo,acb7c27a,2015-05-17,powerline/powerline/segments/common/net.py,Fix,acb7c27a,2,2,kp-pav@yandex.ru,2015-05-17T10:35:27+02:00
+Foo,acb7c27a,2015-05-17,powerline/tests/test_segments.py,Fix,acb7c27a,13,14,kp-pav@yandex.ru,2015-05-17T10:35:27+02:00
+Foo,9b0269ad,2015-05-17,powerline/powerline/segments/common/mail.py,Fix,9b0269ad,14,10,kp-pav@yandex.ru,2015-05-17T10:58:33+02:00
+S0lll0s,34026ee3,2015-05-16,powerline/powerline/bindings/bar/powerline-bar.py,,34026ee3,1,1,s0lll0s@blinkenshell.org,2015-05-16T22:21:56+02:00
+S0lll0s,e8b502bb,2015-05-16,powerline/powerline/bindings/bar/powerline-bar.py,fix,e8b502bb,18,15,s0lll0s@blinkenshell.org,2015-05-16T16:46:40+02:00
+S0lll0s,e8b502bb,2015-05-16,powerline/powerline/renderers/bar.py,fix,e8b502bb,3,3,s0lll0s@blinkenshell.org,2015-05-16T16:46:40+02:00
+S0lll0s,e8b502bb,2015-05-16,powerline/powerline/segments/i3wm.py,fix,e8b502bb,19,26,s0lll0s@blinkenshell.org,2015-05-16T16:46:40+02:00
+S0lll0s,b20a7072,2015-05-15,powerline/powerline/bindings/bar/powerline-bar.py,,b20a7072,7,4,s0lll0s@blinkenshell.org,2015-05-15T23:33:14+02:00
+S0lll0s,b20a7072,2015-05-15,powerline/powerline/segments/i3wm.py,,b20a7072,34,0,s0lll0s@blinkenshell.org,2015-05-15T23:33:14+02:00
+S0lll0s,918fd822,2015-05-14,powerline/powerline/bindings/bar/powerline-bar.py,,918fd822,14,8,s0lll0s@blinkenshell.org,2015-05-14T16:08:52+02:00
+S0lll0s,918fd822,2015-05-14,powerline/powerline/segments/i3wm.py,,918fd822,16,5,s0lll0s@blinkenshell.org,2015-05-14T16:08:52+02:00
+Foo,20868f7a,2015-05-10,powerline/setup.py,,20868f7a,1,1,kp-pav@yandex.ru,2015-05-10T22:18:10+02:00
+Foo,2dff7674,2015-05-10,powerline/powerline/bindings/config.py,Fix,2dff7674,1,0,kp-pav@yandex.ru,2015-05-10T21:46:40+02:00
+Foo,7b698602,2015-05-10,powerline/setup.py,,7b698602,1,1,kp-pav@yandex.ru,2015-05-10T21:31:06+02:00
+Foo,e097f656,2015-05-10,powerline/tests/test_cmdline.py,Fix,e097f656,20,7,kp-pav@yandex.ru,2015-05-10T21:23:19+02:00
+Foo,6e0951d4,2015-05-10,powerline/setup.py,,6e0951d4,1,1,kp-pav@yandex.ru,2015-05-10T21:16:32+02:00
+Foo,ca2809be,2015-05-10,powerline/powerline/commands/main.py,Fix,ca2809be,1,0,kp-pav@yandex.ru,2015-05-10T21:16:14+02:00
+Foo,af9515f8,2015-05-10,powerline/setup.py,,af9515f8,1,1,kp-pav@yandex.ru,2015-05-10T16:54:13+02:00
+Foo,cf76231b,2015-05-10,powerline/powerline/commands/main.py,,cf76231b,1,1,kp-pav@yandex.ru,2015-05-10T16:44:38+02:00
+Foo,d6b6dd58,2015-05-10,powerline/powerline/bindings/config.py,,d6b6dd58,19,14,kp-pav@yandex.ru,2015-05-10T15:11:53+02:00
+Foo,d6b6dd58,2015-05-10,powerline/powerline/commands/config.py,,d6b6dd58,17,1,kp-pav@yandex.ru,2015-05-10T15:11:53+02:00
+Foo,424d71ee,2015-05-10,powerline/tests/test_in_vterm/test_tmux.py,,424d71ee,28,6,kp-pav@yandex.ru,2015-05-10T14:33:43+02:00
+Foo,bd9359c9,2015-05-08,powerline/powerline/bindings/config.py,fix,bd9359c9,36,5,kp-pav@yandex.ru,2015-05-08T23:57:21+02:00
+Foo,bd9359c9,2015-05-08,powerline/powerline/bindings/tmux/__init__.py,fix,bd9359c9,9,0,kp-pav@yandex.ru,2015-05-08T23:57:21+02:00
+Foo,bd9359c9,2015-05-08,powerline/powerline/commands/config.py,fix,bd9359c9,1,0,kp-pav@yandex.ru,2015-05-08T23:57:21+02:00
+Foo,9f7e59d0,2015-05-08,powerline/powerline/bindings/config.py,Fix,9f7e59d0,6,0,kp-pav@yandex.ru,2015-05-08T23:13:44+02:00
+Foo,9f7e59d0,2015-05-08,powerline/powerline/bindings/tmux/__init__.py,Fix,9f7e59d0,5,0,kp-pav@yandex.ru,2015-05-08T23:13:44+02:00

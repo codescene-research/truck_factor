@@ -1,0 +1,5 @@
+KCollections.template
+KObjectHashMap.template
+KObjectHashMapTest.template
+KObjectMap.template
+WorldClockProtocol.proto

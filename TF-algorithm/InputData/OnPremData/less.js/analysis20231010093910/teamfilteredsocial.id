@@ -1,0 +1,13 @@
+author,rev,date,entity,message,ticket-id,loc-added,loc-deleted,author-email,basic-date-time
+jurcovicovam,19dc9e78,2015-07-25,less.js/lib/less/tree/anonymous.js,,19dc9e78,10,2,meri@meri.org,2015-07-25T16:03:06+02:00
+jurcovicovam,19dc9e78,2015-07-25,less.js/lib/less/tree/import.js,,19dc9e78,2,2,meri@meri.org,2015-07-25T16:03:06+02:00
+jurcovicovam,19dc9e78,2015-07-25,less.js/lib/less/visitors/to-css-visitor.js,,19dc9e78,9,0,meri@meri.org,2015-07-25T16:03:06+02:00
+jurcovicovam,34e3ea61,2015-07-19,less.js/lib/less/tree/import.js,,34e3ea61,1,1,meri@meri.org,2015-07-19T14:07:21+02:00
+seven-phases-max,3178103b,2015-06-25,less.js/lib/less/parser/parser.js,,3178103b,9,4,seven.phases.max@gmail.com,2015-06-25T21:53:32+02:00
+seven-phases-max,3178103b,2015-06-25,less.js/lib/less/tree/mixin-call.js,,3178103b,17,7,seven.phases.max@gmail.com,2015-06-25T21:53:32+02:00
+Luke Page,59c012c1,2015-05-21,less.js/dist/less.js,,59c012c1,20,12,luke.a.page@gmail.com,2015-05-21T13:26:46+02:00
+Luke Page,59c012c1,2015-05-21,less.js/lib/less/index.js,,59c012c1,1,1,luke.a.page@gmail.com,2015-05-21T13:26:46+02:00
+Christian Hammond,f6675755,2015-04-28,less.js/lib/less-browser/bootstrap.js,Fix fix,f6675755,4,5,christian@beanbaginc.com,2015-04-28T08:12:12+02:00
+Christian Hammond,f6675755,2015-04-28,less.js/lib/less-browser/index.js,Fix fix,f6675755,11,3,christian@beanbaginc.com,2015-04-28T08:12:12+02:00
+seven-phases-max,47ce670c,2015-04-26,less.js/lib/less/tree/ruleset.js,fix,47ce670c,1,1,seven.phases.max@gmail.com,2015-04-26T17:55:00+02:00
+seven-phases-max,28006cf7,2015-04-26,less.js/lib/less/tree/ruleset.js,fix,28006cf7,1,1,seven.phases.max@gmail.com,2015-04-26T17:50:47+02:00

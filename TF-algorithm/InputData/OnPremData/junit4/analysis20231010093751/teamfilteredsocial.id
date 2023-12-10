@@ -1,0 +1,53 @@
+author,rev,date,entity,message,ticket-id,loc-added,loc-deleted,author-email,basic-date-time
+smallyard,41d44734,2016-07-18,junit4/src/main/java/org/junit/AssumptionViolatedException.java,Fix,41d44734,4,4,liuhongqiang@live.cn,2016-07-18T07:59:19+02:00
+aishahalim,e6a20043,2016-07-17,junit4/src/main/java/org/junit/internal/ArrayComparisonFailure.java,fix Fix,e6a20043,8,1,aishahalim@gmail.com,2016-07-17T14:31:03+02:00
+aishahalim,e6a20043,2016-07-17,junit4/src/test/java/org/junit/internal/AllInternalTests.java,fix Fix,e6a20043,2,1,aishahalim@gmail.com,2016-07-17T14:31:03+02:00
+aishahalim,e6a20043,2016-07-17,junit4/src/test/java/org/junit/internal/ArrayComparisonFailureTest.java,fix Fix,e6a20043,68,0,aishahalim@gmail.com,2016-07-17T14:31:03+02:00
+Alberto Scotto,c07965ab,2016-06-29,junit4/src/main/java/org/junit/rules/ExternalResource.java,,c07965ab,0,1,scotto.alberto.86@gmail.com,2016-06-29T00:33:59+02:00
+Alberto Scotto,85d7d332,2016-06-25,junit4/src/main/java/org/junit/rules/ExternalResource.java,Fix,85d7d332,14,0,scotto.alberto.86@gmail.com,2016-06-25T21:06:25+02:00
+Alberto Scotto,85d7d332,2016-06-25,junit4/src/test/java/org/junit/rules/ExternalResourceRuleTest.java,Fix,85d7d332,31,0,scotto.alberto.86@gmail.com,2016-06-25T21:06:25+02:00
+smallyard,b1d37670,2016-07-16,junit4/src/test/java/org/junit/tests/experimental/max/MaxStarterTest.java,,b1d37670,0,2,liuhongqiang@live.cn,2016-07-16T16:30:58+02:00
+Alberto Scotto,7e38e390,2016-07-12,junit4/src/main/java/org/junit/rules/RuleChain.java,,7e38e390,5,1,scotto.alberto.86@gmail.com,2016-07-12T17:43:33+02:00
+Alberto Scotto,7e38e390,2016-07-12,junit4/src/test/java/org/junit/rules/RuleChainTest.java,,7e38e390,38,0,scotto.alberto.86@gmail.com,2016-07-12T17:43:33+02:00
+Alberto Scotto,4c0c7876,2016-06-25,junit4/src/test/java/org/junit/tests/experimental/theories/runner/UnsuccessfulWithDataPointFields.java,Fix,4c0c7876,1,1,scotto.alberto.86@gmail.com,2016-06-25T17:02:35+02:00
+Nick Harris,48846549,2016-06-01,junit4/src/main/java/org/junit/rules/RuleChain.java,Fix,48846549,19,4,harrisnick@live.com,2016-06-01T18:31:21+02:00
+Alberto Scotto,0e4cb7ee,2016-06-23,junit4/src/main/java/org/junit/internal/runners/ErrorReportingRunner.java,,0e4cb7ee,4,0,scotto.alberto.86@gmail.com,2016-06-23T20:53:43+02:00
+Alberto Scotto,0e4cb7ee,2016-06-23,junit4/src/main/java/org/junit/runners/ParentRunner.java,,0e4cb7ee,2,1,scotto.alberto.86@gmail.com,2016-06-23T20:53:43+02:00
+Alberto Scotto,0e4cb7ee,2016-06-23,junit4/src/main/java/org/junit/runners/model/InvalidTestClassError.java,,0e4cb7ee,39,0,scotto.alberto.86@gmail.com,2016-06-23T20:53:43+02:00
+Alberto Scotto,0e4cb7ee,2016-06-23,junit4/src/test/java/org/junit/internal/runners/ErrorReportingRunnerTest.java,,0e4cb7ee,61,0,scotto.alberto.86@gmail.com,2016-06-23T20:53:43+02:00
+Alberto Scotto,0e4cb7ee,2016-06-23,junit4/src/test/java/org/junit/runners/model/AllModelTests.java,,0e4cb7ee,1,0,scotto.alberto.86@gmail.com,2016-06-23T20:53:43+02:00
+Alberto Scotto,0e4cb7ee,2016-06-23,junit4/src/test/java/org/junit/runners/model/InvalidTestClassErrorTest.java,,0e4cb7ee,23,0,scotto.alberto.86@gmail.com,2016-06-23T20:53:43+02:00
+Alberto Scotto,0e4cb7ee,2016-06-23,junit4/src/test/java/org/junit/tests/experimental/theories/runner/UnsuccessfulWithDataPointFields.java,,0e4cb7ee,3,11,scotto.alberto.86@gmail.com,2016-06-23T20:53:43+02:00
+Alberto Scotto,0e4cb7ee,2016-06-23,junit4/src/test/java/org/junit/tests/experimental/theories/runner/WithUnresolvedGenericTypeVariablesOnTheoryParms.java,,0e4cb7ee,1,1,scotto.alberto.86@gmail.com,2016-06-23T20:53:43+02:00
+Alberto Scotto,0e4cb7ee,2016-06-23,junit4/src/test/java/org/junit/tests/running/classes/ParameterizedTestTest.java,,0e4cb7ee,5,4,scotto.alberto.86@gmail.com,2016-06-23T20:53:43+02:00
+Alberto Scotto,0e4cb7ee,2016-06-23,junit4/src/test/java/org/junit/tests/running/classes/ParentRunnerTest.java,,0e4cb7ee,3,2,scotto.alberto.86@gmail.com,2016-06-23T20:53:43+02:00
+Alberto Scotto,0e4cb7ee,2016-06-23,junit4/src/test/java/org/junit/tests/validation/BadlyFormedClassesTest.java,,0e4cb7ee,3,1,scotto.alberto.86@gmail.com,2016-06-23T20:53:43+02:00
+Alberto Scotto,0e4cb7ee,2016-06-23,junit4/src/test/java/org/junit/tests/validation/ValidationTest.java,,0e4cb7ee,3,1,scotto.alberto.86@gmail.com,2016-06-23T20:53:43+02:00
+Serge Bishyr,72acfaaa,2016-06-11,junit4/src/main/java/org/junit/experimental/theories/Theories.java,,72acfaaa,1,1,SeriyBg@gmail.com,2016-06-11T20:00:48+02:00
+Kevin Cooney,dc43a04f,2016-05-29,junit4/src/main/java/org/junit/runner/notification/RunListener.java,,dc43a04f,10,1,kcooney@google.com,2016-05-29T19:31:15+02:00
+Kevin Cooney,dc43a04f,2016-05-29,junit4/src/main/java/org/junit/runner/notification/RunNotifier.java,,dc43a04f,4,1,kcooney@google.com,2016-05-29T19:31:15+02:00
+Alberto Scotto,7f2569fb,2016-05-31,junit4/src/main/java/junit/framework/TestFailure.java,,7f2569fb,2,6,scotto.alberto.86@gmail.com,2016-05-31T15:47:25+02:00
+Alberto Scotto,7f2569fb,2016-05-31,junit4/src/main/java/junit/framework/TestSuite.java,,7f2569fb,4,15,scotto.alberto.86@gmail.com,2016-05-31T15:47:25+02:00
+Alberto Scotto,7f2569fb,2016-05-31,junit4/src/main/java/junit/runner/BaseTestRunner.java,,7f2569fb,3,5,scotto.alberto.86@gmail.com,2016-05-31T15:47:25+02:00
+Alberto Scotto,7f2569fb,2016-05-31,junit4/src/main/java/org/junit/internal/Throwables.java,,7f2569fb,15,0,scotto.alberto.86@gmail.com,2016-05-31T15:47:25+02:00
+Alberto Scotto,7f2569fb,2016-05-31,junit4/src/main/java/org/junit/internal/matchers/StacktracePrintingMatcher.java,,7f2569fb,3,6,scotto.alberto.86@gmail.com,2016-05-31T15:47:25+02:00
+Alberto Scotto,7f2569fb,2016-05-31,junit4/src/main/java/org/junit/runner/notification/Failure.java,,7f2569fb,2,6,scotto.alberto.86@gmail.com,2016-05-31T15:47:25+02:00
+Tom Anderson,b2d7fce6,2016-05-16,junit4/src/main/java/org/junit/internal/ComparisonCriteria.java,,b2d7fce6,28,6,twic@urchin.earth.li,2016-05-16T01:06:52+02:00
+Tom Anderson,b2d7fce6,2016-05-16,junit4/src/test/java/org/junit/tests/assertion/AssertionTest.java,,b2d7fce6,29,7,twic@urchin.earth.li,2016-05-16T01:06:52+02:00
+Tom Anderson,892f798b,2016-05-16,junit4/src/test/java/org/junit/tests/assertion/AssertionTest.java,,892f798b,136,73,twic@urchin.earth.li,2016-05-16T00:42:19+02:00
+Tom Anderson,a688f6ce,2016-05-16,junit4/src/main/java/org/junit/internal/ComparisonCriteria.java,,a688f6ce,36,18,twic@urchin.earth.li,2016-05-16T00:35:58+02:00
+Tom Anderson,a688f6ce,2016-05-16,junit4/src/test/java/org/junit/tests/assertion/AssertionTest.java,,a688f6ce,38,5,twic@urchin.earth.li,2016-05-16T00:35:58+02:00
+Carsten Varming,9b85ea03,2016-05-22,junit4/src/main/java/org/junit/rules/TemporaryFolder.java,,9b85ea03,5,0,cvarming@twitter.com,2016-05-22T00:02:43+02:00
+Kevin Cooney,b8b21a2a,2016-05-24,junit4/src/main/java/org/junit/Assert.java,,b8b21a2a,1,11,kcooney@google.com,2016-05-24T08:05:00+02:00
+Kevin Cooney,b8b21a2a,2016-05-24,junit4/src/main/java/org/junit/function/ThrowingRunnable.java,,b8b21a2a,12,0,kcooney@google.com,2016-05-24T08:05:00+02:00
+Kevin Cooney,b8b21a2a,2016-05-24,junit4/src/main/java/org/junit/rules/ErrorCollector.java,,b8b21a2a,21,0,kcooney@google.com,2016-05-24T08:05:00+02:00
+Kevin Cooney,b8b21a2a,2016-05-24,junit4/src/test/java/org/junit/rules/VerifierRuleTest.java,,b8b21a2a,61,0,kcooney@google.com,2016-05-24T08:05:00+02:00
+Kevin Cooney,b8b21a2a,2016-05-24,junit4/src/test/java/org/junit/tests/assertion/AssertionTest.java,,b8b21a2a,1,1,kcooney@google.com,2016-05-24T08:05:00+02:00
+Alberto Scotto,db8d5800,2016-05-27,junit4/src/main/java/org/junit/rules/RuleChain.java,,db8d5800,1,4,scotto.alberto.86@gmail.com,2016-05-27T15:51:11+02:00
+Carsten Varming,23688534,2016-05-27,junit4/src/main/java/org/junit/rules/TemporaryFolder.java,Fix,23688534,3,3,cvarming@twitter.com,2016-05-27T21:02:52+02:00
+Carsten Varming,23688534,2016-05-27,junit4/src/test/java/org/junit/rules/TempFolderRuleTest.java,Fix,23688534,7,0,cvarming@twitter.com,2016-05-27T21:02:52+02:00
+peter.wippermann,316e5b6e,2016-05-24,junit4/src/main/java/org/junit/runners/model/RunnerBuilder.java,,316e5b6e,8,1,peter.wippermann@bearingpoint.com,2016-05-24T09:00:42+02:00
+Carsten Varming,24b8ee0b,2016-05-22,junit4/src/main/java/org/junit/rules/TemporaryFolder.java,,24b8ee0b,21,4,cvarming@twitter.com,2016-05-22T04:43:07+02:00
+Alberto Scotto,df016dc0,2016-05-14,junit4/src/test/java/org/junit/tests/experimental/AssumptionTest.java,bug,df016dc0,18,3,scotto.alberto.86@gmail.com,2016-05-14T21:37:00+02:00
+Alberto Scotto,17a2f117,2016-05-14,junit4/src/main/java/org/junit/internal/runners/ErrorReportingRunner.java,,17a2f117,7,6,scotto.alberto.86@gmail.com,2016-05-14T12:47:23+02:00
+emopers,de6077c8,2016-05-04,junit4/src/test/java/junit/tests/runner/ResultTest.java,,de6077c8,3,1,emopers@gmail.com,2016-05-04T07:13:48+02:00

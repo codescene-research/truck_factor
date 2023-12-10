@@ -1,0 +1,254 @@
+author,rev,date,entity,message,ticket-id,loc-added,loc-deleted,author-email,basic-date-time
+Artem Zinnatullin,6e8651e24,2015-08-10,RxJava/src/main/java/rx/functions/Actions.java,,6e8651e24,1,1,artem.zinnatullin@gmail.com,2015-08-10T18:08:13+02:00
+akarnokd,9643d94e5,2015-08-11,RxJava/src/main/java/rx/internal/operators/OnSubscribeRange.java,,9643d94e5,54,30,akarnokd@akarnokd-PC2,2015-08-11T16:39:29+02:00
+akarnokd,9643d94e5,2015-08-11,RxJava/src/perf/java/rx/operators/OperatorRangePerf.java,,9643d94e5,5,12,akarnokd@akarnokd-PC2,2015-08-11T16:39:29+02:00
+akarnokd,9643d94e5,2015-08-11,RxJava/src/test/java/rx/internal/operators/OnSubscribeRangeTest.java,,9643d94e5,19,0,akarnokd@akarnokd-PC2,2015-08-11T16:39:29+02:00
+Artem Zinnatullin,f3ce7238c,2015-08-11,RxJava/src/main/java/rx/Notification.java,,f3ce7238c,1,1,artem.zinnatullin@gmail.com,2015-08-11T01:15:48+02:00
+Artem Zinnatullin,f3ce7238c,2015-08-11,RxJava/src/main/java/rx/Single.java,,f3ce7238c,2,2,artem.zinnatullin@gmail.com,2015-08-11T01:15:48+02:00
+Artem Zinnatullin,620981ad1,2015-08-10,RxJava/src/main/java/rx/exceptions/Exceptions.java,,620981ad1,1,1,artem.zinnatullin@gmail.com,2015-08-10T18:51:03+02:00
+Artem Zinnatullin,b96c6a6fe,2015-08-10,RxJava/src/main/java/rx/internal/operators/BackpressureUtils.java,Fix,b96c6a6fe,1,3,artem.zinnatullin@gmail.com,2015-08-10T18:18:03+02:00
+akarnokd,54bb58811,2015-08-09,RxJava/src/test/java/rx/schedulers/CachedThreadSchedulerTest.java,,54bb58811,12,49,akarnokd@akarnokd-PC2,2015-08-09T11:25:00+02:00
+akarnokd,54bb58811,2015-08-09,RxJava/src/test/java/rx/schedulers/ComputationSchedulerTests.java,,54bb58811,17,0,akarnokd@akarnokd-PC2,2015-08-09T11:25:00+02:00
+akarnokd,54bb58811,2015-08-09,RxJava/src/test/java/rx/schedulers/ExecutorSchedulerTest.java,,54bb58811,75,4,akarnokd@akarnokd-PC2,2015-08-09T11:25:00+02:00
+akarnokd,f6ea890ea,2015-08-08,RxJava/src/main/java/rx/internal/operators/OnSubscribeFromIterable.java,,f6ea890ea,38,29,akarnokd@akarnokd-PC2,2015-08-08T01:47:25+02:00
+akarnokd,f6ea890ea,2015-08-08,RxJava/src/perf/java/rx/operators/FromIterablePerf.java,,f6ea890ea,85,0,akarnokd@akarnokd-PC2,2015-08-08T01:47:25+02:00
+David Gross,ad1fbc2d1,2015-08-08,RxJava/src/main/java/rx/Observable.java,,ad1fbc2d1,5,4,davgross@netflix.com,2015-08-08T00:59:03+02:00
+Aaron Tull,fc0c0d734,2015-07-16,RxJava/src/main/java/rx/Observable.java,,fc0c0d734,26,5,atull@netflix.com,2015-07-16T07:59:11+02:00
+Aaron Tull,fc0c0d734,2015-07-16,RxJava/src/test/java/rx/ObservableConversionTest.java,,fc0c0d734,234,0,atull@netflix.com,2015-07-16T07:59:11+02:00
+Aaron Tull,fc0c0d734,2015-07-16,RxJava/src/test/java/rx/ObservableTests.java,,fc0c0d734,15,1,atull@netflix.com,2015-07-16T07:59:11+02:00
+David Gross,bb89744b6,2015-08-06,RxJava/src/main/java/rx/Observable.java,,bb89744b6,5,3,davgross@netflix.com,2015-08-06T18:48:29+02:00
+David Gross,bb89744b6,2015-08-06,RxJava/src/main/java/rx/internal/util/RxRingBuffer.java,,bb89744b6,3,2,davgross@netflix.com,2015-08-06T18:48:29+02:00
+David Gross,bb89744b6,2015-08-06,RxJava/src/main/java/rx/observables/BlockingObservable.java,,bb89744b6,1,1,davgross@netflix.com,2015-08-06T18:48:29+02:00
+David Gross,bb89744b6,2015-08-06,RxJava/src/main/java/rx/observers/SafeSubscriber.java,,bb89744b6,1,1,davgross@netflix.com,2015-08-06T18:48:29+02:00
+David Gross,bb89744b6,2015-08-06,RxJava/src/main/java/rx/subjects/SerializedSubject.java,,bb89744b6,2,2,davgross@netflix.com,2015-08-06T18:48:29+02:00
+David Gross,bb89744b6,2015-08-06,RxJava/src/main/java/rx/subjects/Subject.java,,bb89744b6,5,3,davgross@netflix.com,2015-08-06T18:48:29+02:00
+akarnokd,d000c1035,2015-08-03,RxJava/src/main/java/rx/Observable.java,Fix,d000c1035,2,0,akarnokd@akarnokd-PC2,2015-08-03T21:26:22+02:00
+akarnokd,d000c1035,2015-08-03,RxJava/src/main/java/rx/internal/operators/OperatorRetryWithPredicate.java,Fix,d000c1035,18,4,akarnokd@akarnokd-PC2,2015-08-03T21:26:22+02:00
+akarnokd,d000c1035,2015-08-03,RxJava/src/test/java/rx/internal/operators/OperatorRetryWithPredicateTest.java,Fix,d000c1035,38,3,akarnokd@akarnokd-PC2,2015-08-03T21:26:22+02:00
+Artem Zinnatullin,dd5c6464f,2015-07-29,RxJava/src/main/java/rx/internal/schedulers/NewThreadWorker.java,,dd5c6464f,80,14,artem.zinnatullin@gmail.com,2015-07-29T20:13:09+02:00
+Artem Zinnatullin,dd5c6464f,2015-07-29,RxJava/src/main/java/rx/internal/util/PlatformDependent.java,,dd5c6464f,34,10,artem.zinnatullin@gmail.com,2015-07-29T20:13:09+02:00
+Artem Zinnatullin,dd5c6464f,2015-07-29,RxJava/src/test/java/rx/internal/schedulers/NewThreadWorkerTest.java,,dd5c6464f,65,0,artem.zinnatullin@gmail.com,2015-07-29T20:13:09+02:00
+Jacek Rzeniewicz,5cb9f4182,2015-07-30,RxJava/src/main/java/rx/functions/Actions.java,,5cb9f4182,2,2,jacek@rzrz.pl,2015-07-30T01:29:16+02:00
+Yuya Tanaka,8ad226067,2015-07-29,RxJava/src/main/java/rx/internal/operators/BlockingOperatorToIterator.java,,8ad226067,4,0,yuya.presto@gmail.com,2015-07-29T17:26:44+02:00
+Yuya Tanaka,8ad226067,2015-07-29,RxJava/src/main/java/rx/observables/BlockingObservable.java,,8ad226067,21,19,yuya.presto@gmail.com,2015-07-29T17:26:44+02:00
+Yuya Tanaka,8ad226067,2015-07-29,RxJava/src/test/java/rx/internal/operators/BlockingOperatorNextTest.java,,8ad226067,15,9,yuya.presto@gmail.com,2015-07-29T17:26:44+02:00
+Yuya Tanaka,8ad226067,2015-07-29,RxJava/src/test/java/rx/observables/BlockingObservableTest.java,,8ad226067,148,49,yuya.presto@gmail.com,2015-07-29T17:26:44+02:00
+akarnokd,2423a17b5,2015-07-27,RxJava/src/main/java/rx/observers/SerializedObserver.java,,2423a17b5,74,102,akarnokd@gmail.com,2015-07-27T10:16:26+02:00
+akarnokd,2423a17b5,2015-07-27,RxJava/src/main/java/rx/observers/TestObserver.java,,2423a17b5,9,5,akarnokd@gmail.com,2015-07-27T10:16:26+02:00
+akarnokd,2423a17b5,2015-07-27,RxJava/src/main/java/rx/observers/TestSubscriber.java,,2423a17b5,9,4,akarnokd@gmail.com,2015-07-27T10:16:26+02:00
+akarnokd,2423a17b5,2015-07-27,RxJava/src/test/java/rx/observers/ObserversTest.java,,2423a17b5,189,0,akarnokd@gmail.com,2015-07-27T10:16:26+02:00
+akarnokd,2423a17b5,2015-07-27,RxJava/src/test/java/rx/observers/SafeObserverTest.java,,2423a17b5,43,8,akarnokd@gmail.com,2015-07-27T10:16:26+02:00
+akarnokd,2423a17b5,2015-07-27,RxJava/src/test/java/rx/observers/SafeSubscriberTest.java,,2423a17b5,230,0,akarnokd@gmail.com,2015-07-27T10:16:26+02:00
+akarnokd,2423a17b5,2015-07-27,RxJava/src/test/java/rx/observers/SerializedObserverTest.java,,2423a17b5,172,27,akarnokd@gmail.com,2015-07-27T10:16:26+02:00
+akarnokd,2423a17b5,2015-07-27,RxJava/src/test/java/rx/observers/SubscribersTest.java,,2423a17b5,188,0,akarnokd@gmail.com,2015-07-27T10:16:26+02:00
+akarnokd,2423a17b5,2015-07-27,RxJava/src/test/java/rx/observers/TestObserverTest.java,,2423a17b5,110,7,akarnokd@gmail.com,2015-07-27T10:16:26+02:00
+akarnokd,2423a17b5,2015-07-27,RxJava/src/test/java/rx/observers/TestSubscriberTest.java,,2423a17b5,445,10,akarnokd@gmail.com,2015-07-27T10:16:26+02:00
+akarnokd,b4a759bac,2015-07-27,RxJava/src/test/java/rx/internal/util/LinkedArrayListTest.java,,b4a759bac,0,0,akarnokd@gmail.com,2015-07-27T08:42:25+02:00
+akarnokd,7d03daa8d,2015-07-27,RxJava/src/main/java/rx/Observable.java,,7d03daa8d,90,123,akarnokd@gmail.com,2015-07-27T08:41:02+02:00
+akarnokd,7d03daa8d,2015-07-27,RxJava/src/main/java/rx/internal/operators/OperatorReplay.java,,7d03daa8d,1134,46,akarnokd@gmail.com,2015-07-27T08:41:02+02:00
+akarnokd,7d03daa8d,2015-07-27,RxJava/src/test/java/rx/internal/operators/OperatorReplayTest.java,,7d03daa8d,390,9,akarnokd@gmail.com,2015-07-27T08:41:02+02:00
+akarnokd,b21c23725,2015-07-27,RxJava/src/main/java/rx/Observable.java,,b21c23725,2,2,akarnokd@gmail.com,2015-07-27T08:23:56+02:00
+akarnokd,b21c23725,2015-07-27,RxJava/src/main/java/rx/internal/operators/CachedObservable.java,,b21c23725,462,0,akarnokd@gmail.com,2015-07-27T08:23:56+02:00
+akarnokd,b21c23725,2015-07-27,RxJava/src/main/java/rx/internal/util/LinkedArrayList.java,,b21c23725,136,0,akarnokd@gmail.com,2015-07-27T08:23:56+02:00
+akarnokd,b21c23725,2015-07-27,RxJava/src/test/java/rx/internal/util/LinkedArrayListTest.java,,b21c23725,37,0,akarnokd@gmail.com,2015-07-27T08:23:56+02:00
+akarnokd,b21c23725,2015-07-27,RxJava/src/test/java/rx/internal/operators/CachedObservableTest.java,,b21c23725,293,0,akarnokd@gmail.com,2015-07-27T08:23:56+02:00
+akarnokd,6aa442a0f,2015-07-24,RxJava/src/test/java/rx/functions/ActionsTest.java,,6aa442a0f,290,0,akarnokd@gmail.com,2015-07-24T12:32:29+02:00
+akarnokd,6aa442a0f,2015-07-24,RxJava/src/test/java/rx/functions/FunctionsTest.java,,6aa442a0f,268,0,akarnokd@gmail.com,2015-07-24T12:32:29+02:00
+Dave Moten,cc977395e,2015-07-23,RxJava/src/main/java/rx/internal/operators/OperatorMaterialize.java,,cc977395e,105,8,davidmoten@gmail.com,2015-07-23T08:21:41+02:00
+Dave Moten,cc977395e,2015-07-23,RxJava/src/test/java/rx/internal/operators/OperatorMaterializeTest.java,,cc977395e,111,3,davidmoten@gmail.com,2015-07-23T08:21:41+02:00
+akarnokd,66519c0cc,2015-07-24,RxJava/src/main/java/rx/internal/util/atomic/MpscLinkedAtomicQueue.java,,66519c0cc,1,1,akarnokd@gmail.com,2015-07-24T11:12:32+02:00
+akarnokd,66519c0cc,2015-07-24,RxJava/src/main/java/rx/internal/util/atomic/SpscLinkedAtomicQueue.java,,66519c0cc,1,1,akarnokd@gmail.com,2015-07-24T11:12:32+02:00
+akarnokd,66519c0cc,2015-07-24,RxJava/src/main/java/rx/internal/util/unsafe/MpmcArrayQueue.java,,66519c0cc,2,18,akarnokd@gmail.com,2015-07-24T11:12:32+02:00
+akarnokd,66519c0cc,2015-07-24,RxJava/src/main/java/rx/internal/util/unsafe/MpscLinkedQueue.java,,66519c0cc,1,1,akarnokd@gmail.com,2015-07-24T11:12:32+02:00
+akarnokd,66519c0cc,2015-07-24,RxJava/src/main/java/rx/internal/util/unsafe/SpmcArrayQueue.java,,66519c0cc,2,18,akarnokd@gmail.com,2015-07-24T11:12:32+02:00
+akarnokd,66519c0cc,2015-07-24,RxJava/src/main/java/rx/internal/util/unsafe/SpscArrayQueue.java,,66519c0cc,5,18,akarnokd@gmail.com,2015-07-24T11:12:32+02:00
+akarnokd,66519c0cc,2015-07-24,RxJava/src/main/java/rx/internal/util/unsafe/SpscLinkedQueue.java,,66519c0cc,1,1,akarnokd@gmail.com,2015-07-24T11:12:32+02:00
+akarnokd,66519c0cc,2015-07-24,RxJava/src/test/java/rx/internal/util/JCToolsQueueTests.java,,66519c0cc,415,4,akarnokd@gmail.com,2015-07-24T11:12:32+02:00
+akarnokd,07eefcd00,2015-07-24,RxJava/src/main/java/rx/internal/operators/OperatorTake.java,Fix,07eefcd00,14,6,akarnokd@gmail.com,2015-07-24T08:54:37+02:00
+akarnokd,07eefcd00,2015-07-24,RxJava/src/test/java/rx/internal/operators/OperatorTakeTest.java,Fix,07eefcd00,26,23,akarnokd@gmail.com,2015-07-24T08:54:37+02:00
+Dave Moten,5430c98db,2015-07-24,RxJava/src/main/java/rx/internal/util/SynchronizedQueue.java,fix,5430c98db,16,4,davidmoten@gmail.com,2015-07-24T07:13:19+02:00
+Dave Moten,5430c98db,2015-07-24,RxJava/src/test/java/rx/internal/util/SynchronizedQueueTest.java,fix,5430c98db,15,0,davidmoten@gmail.com,2015-07-24T07:13:19+02:00
+David Gross,18a47ea64,2015-07-21,RxJava/src/main/java/rx/Observable.java,,18a47ea64,1,1,davgross@netflix.com,2015-07-21T21:43:36+02:00
+akarnokd,0a24f8d01,2015-07-20,RxJava/src/main/java/rx/internal/operators/OperatorMerge.java,Fix,0a24f8d01,4,2,akarnokd@akarnokd-PC2,2015-07-20T23:04:52+02:00
+akarnokd,0a24f8d01,2015-07-20,RxJava/src/test/java/rx/BackpressureTests.java,Fix,0a24f8d01,24,0,akarnokd@akarnokd-PC2,2015-07-20T23:04:52+02:00
+Ben Christensen,6870e7ee2,2015-07-20,RxJava/src/main/java/rx/Single.java,,6870e7ee2,11,0,benjchristensen@netflix.com,2015-07-20T19:08:54+02:00
+Ben Christensen,6870e7ee2,2015-07-20,RxJava/src/test/java/rx/SingleTest.java,,6870e7ee2,9,0,benjchristensen@netflix.com,2015-07-20T19:08:54+02:00
+Ben Christensen,1e2a7252b,2015-07-20,RxJava/src/main/java/rx/Single.java,,1e2a7252b,28,28,benjchristensen@netflix.com,2015-07-20T19:03:30+02:00
+akarnokd,d43b3d1f7,2015-07-20,RxJava/src/main/java/rx/internal/operators/OnSubscribeAutoConnect.java,Fix,d43b3d1f7,4,2,akarnokd@akarnokd-PC2,2015-07-20T19:04:15+02:00
+George Campbell,e8dd4edf5,2015-07-18,RxJava/src/main/java/rx/Observable.java,,e8dd4edf5,2,2,abersnaze@gmail.com,2015-07-18T01:39:26+02:00
+George Campbell,e8dd4edf5,2015-07-18,RxJava/src/main/java/rx/internal/util/LinkedArrayList.java,,e8dd4edf5,0,136,abersnaze@gmail.com,2015-07-18T01:39:26+02:00
+George Campbell,e8dd4edf5,2015-07-18,RxJava/src/test/java/rx/internal/util/LinkedArrayListTest.java,,e8dd4edf5,0,37,abersnaze@gmail.com,2015-07-18T01:39:26+02:00
+George Campbell,5411086ce,2015-07-18,RxJava/src/main/java/rx/Observable.java,,5411086ce,4,2,abersnaze@gmail.com,2015-07-18T01:33:59+02:00
+George Campbell,47644d3c7,2015-07-18,RxJava/src/main/java/rx/Observable.java,,47644d3c7,123,90,abersnaze@gmail.com,2015-07-18T01:27:55+02:00
+George Campbell,47644d3c7,2015-07-18,RxJava/src/main/java/rx/internal/operators/OperatorReplay.java,,47644d3c7,46,1116,abersnaze@gmail.com,2015-07-18T01:27:55+02:00
+George Campbell,47644d3c7,2015-07-18,RxJava/src/test/java/rx/internal/operators/OperatorReplayTest.java,,47644d3c7,19,141,abersnaze@gmail.com,2015-07-18T01:27:55+02:00
+George Campbell,2f7031e78,2015-07-18,RxJava/src/main/java/rx/internal/operators/OperatorReplay.java,,2f7031e78,15,13,abersnaze@gmail.com,2015-07-18T01:27:48+02:00
+Dave Moten,e25cd27e4,2015-07-17,RxJava/src/test/java/rx/schedulers/ExecutorSchedulerTest.java,,e25cd27e4,2,2,davidmoten@gmail.com,2015-07-17T01:49:46+02:00
+Dave Moten,8d1cecc95,2015-07-17,RxJava/src/test/java/rx/BackpressureTests.java,,8d1cecc95,6,0,davidmoten@gmail.com,2015-07-17T01:36:48+02:00
+Dave Moten,8d1cecc95,2015-07-17,RxJava/src/test/java/rx/internal/operators/OperatorMergeMaxConcurrentTest.java,,8d1cecc95,4,0,davidmoten@gmail.com,2015-07-17T01:36:48+02:00
+Dave Moten,899e6a8f2,2015-07-15,RxJava/src/main/java/rx/Observable.java,fix,899e6a8f2,9,6,davidmoten@gmail.com,2015-07-15T05:16:33+02:00
+Dave Moten,899e6a8f2,2015-07-15,RxJava/src/test/java/rx/ObservableTests.java,fix,899e6a8f2,19,0,davidmoten@gmail.com,2015-07-15T05:16:33+02:00
+David Gross,3deba11f3,2015-07-14,RxJava/src/main/java/rx/Observable.java,,3deba11f3,3,0,davgross@netflix.com,2015-07-14T22:23:54+02:00
+David Gross,3deba11f3,2015-07-14,RxJava/src/main/java/rx/observers/Subscribers.java,,3deba11f3,1,1,davgross@netflix.com,2015-07-14T22:23:54+02:00
+akarnokd,0420193e7,2015-07-14,RxJava/src/main/java/rx/Observable.java,,0420193e7,71,1,akarnokd@akarnokd-PC2,2015-07-14T19:18:04+02:00
+akarnokd,0420193e7,2015-07-14,RxJava/src/main/java/rx/internal/operators/OperatorMapNotification.java,,0420193e7,165,6,akarnokd@akarnokd-PC2,2015-07-14T19:18:04+02:00
+akarnokd,0420193e7,2015-07-14,RxJava/src/main/java/rx/internal/operators/OperatorMerge.java,,0420193e7,595,556,akarnokd@akarnokd-PC2,2015-07-14T19:18:04+02:00
+akarnokd,0420193e7,2015-07-14,RxJava/src/main/java/rx/internal/util/ScalarSynchronousObservable.java,,0420193e7,32,1,akarnokd@akarnokd-PC2,2015-07-14T19:18:04+02:00
+akarnokd,0420193e7,2015-07-14,RxJava/src/perf/java/rx/operators/OperatorFlatMapPerf.java,,0420193e7,1,1,akarnokd@akarnokd-PC2,2015-07-14T19:18:04+02:00
+akarnokd,0420193e7,2015-07-14,RxJava/src/test/java/rx/internal/operators/OperatorFlatMapTest.java,,0420193e7,128,0,akarnokd@akarnokd-PC2,2015-07-14T19:18:04+02:00
+akarnokd,0420193e7,2015-07-14,RxJava/src/test/java/rx/internal/operators/OperatorMergeDelayErrorTest.java,,0420193e7,45,14,akarnokd@akarnokd-PC2,2015-07-14T19:18:04+02:00
+akarnokd,0420193e7,2015-07-14,RxJava/src/test/java/rx/internal/operators/OperatorMergeMaxConcurrentTest.java,,0420193e7,1,1,akarnokd@akarnokd-PC2,2015-07-14T19:18:04+02:00
+akarnokd,0420193e7,2015-07-14,RxJava/src/test/java/rx/internal/operators/OperatorMergeTest.java,,0420193e7,103,40,akarnokd@akarnokd-PC2,2015-07-14T19:18:04+02:00
+Dave Moten,e22acf63e,2015-07-13,RxJava/src/main/java/rx/internal/operators/OperatorSwitch.java,fix,e22acf63e,37,83,davidmoten@gmail.com,2015-07-13T08:02:22+02:00
+Dave Moten,e22acf63e,2015-07-13,RxJava/src/test/java/rx/internal/operators/OperatorSwitchIfEmptyTest.java,fix,e22acf63e,0,1,davidmoten@gmail.com,2015-07-13T08:02:22+02:00
+Dave Moten,e22acf63e,2015-07-13,RxJava/src/test/java/rx/internal/operators/OperatorSwitchTest.java,fix,e22acf63e,10,9,davidmoten@gmail.com,2015-07-13T08:02:22+02:00
+Dave Moten,a0998b9fb,2015-07-06,RxJava/src/main/java/rx/internal/operators/OnSubscribeDefer.java,,a0998b9fb,2,14,davidmoten@gmail.com,2015-07-06T00:48:56+02:00
+Dave Moten,a0998b9fb,2015-07-06,RxJava/src/main/java/rx/internal/operators/OnSubscribeDelaySubscription.java,,a0998b9fb,2,14,davidmoten@gmail.com,2015-07-06T00:48:56+02:00
+Dave Moten,a0998b9fb,2015-07-06,RxJava/src/main/java/rx/internal/operators/OnSubscribeDelaySubscriptionWithSelector.java,,a0998b9fb,2,14,davidmoten@gmail.com,2015-07-06T00:48:56+02:00
+Dave Moten,a0998b9fb,2015-07-06,RxJava/src/main/java/rx/internal/operators/OnSubscribeUsing.java,,a0998b9fb,2,14,davidmoten@gmail.com,2015-07-06T00:48:56+02:00
+Dave Moten,a0998b9fb,2015-07-06,RxJava/src/main/java/rx/internal/operators/OperatorDoOnSubscribe.java,,a0998b9fb,2,14,davidmoten@gmail.com,2015-07-06T00:48:56+02:00
+Dave Moten,a0998b9fb,2015-07-06,RxJava/src/main/java/rx/internal/operators/OperatorDoOnUnsubscribe.java,,a0998b9fb,2,17,davidmoten@gmail.com,2015-07-06T00:48:56+02:00
+Dave Moten,a0998b9fb,2015-07-06,RxJava/src/main/java/rx/observers/Subscribers.java,,a0998b9fb,38,0,davidmoten@gmail.com,2015-07-06T00:48:56+02:00
+David Gross,11a4157a5,2015-07-09,RxJava/src/main/java/rx/Observable.java,,11a4157a5,3,0,davgross@netflix.com,2015-07-09T17:12:22+02:00
+Dave Moten,bd2d5fef9,2015-07-01,RxJava/src/main/java/rx/Subscriber.java,,bd2d5fef9,30,6,davidmoten@gmail.com,2015-07-01T06:40:54+02:00
+Dave Moten,a9f13b7c1,2015-06-30,RxJava/src/main/java/rx/internal/operators/OnSubscribeSingle.java,,a9f13b7c1,1,1,davidmoten@gmail.com,2015-06-30T03:32:28+02:00
+Dave Moten,a9f13b7c1,2015-06-30,RxJava/src/test/java/rx/internal/operators/OnSubscribeSingleTest.java,,a9f13b7c1,23,3,davidmoten@gmail.com,2015-06-30T03:32:28+02:00
+Lalit Maganti,cb9d1eb67,2015-06-24,RxJava/src/main/java/rx/Observable.java,,cb9d1eb67,20,0,lalitmaganti@gmail.com,2015-06-24T01:32:08+02:00
+Lalit Maganti,cb9d1eb67,2015-06-24,RxJava/src/main/java/rx/internal/operators/OnSubscribeSingle.java,,cb9d1eb67,89,0,lalitmaganti@gmail.com,2015-06-24T01:32:08+02:00
+Lalit Maganti,cb9d1eb67,2015-06-24,RxJava/src/test/java/rx/internal/operators/OnSubscribeSingleTest.java,,cb9d1eb67,73,0,lalitmaganti@gmail.com,2015-06-24T01:32:08+02:00
+akarnokd,070e42adc,2015-06-24,RxJava/src/test/java/rx/observers/SerializedObserverTest.java,,070e42adc,2,1,akarnokd@gmail.com,2015-06-24T13:32:57+02:00
+akarnokd,8951a339d,2015-06-23,RxJava/src/main/java/rx/exceptions/CompositeException.java,,8951a339d,8,1,akarnokd@akarnokd-PC2,2015-06-23T23:05:51+02:00
+akarnokd,8951a339d,2015-06-23,RxJava/src/test/java/rx/exceptions/CompositeExceptionTest.java,,8951a339d,13,0,akarnokd@akarnokd-PC2,2015-06-23T23:05:51+02:00
+akarnokd,46f9138f5,2015-06-23,RxJava/src/main/java/rx/internal/operators/OperatorReplay.java,,46f9138f5,13,15,akarnokd@gmail.com,2015-06-23T18:25:41+02:00
+akarnokd,82d7b9cca,2015-06-23,RxJava/src/main/java/rx/Observable.java,,82d7b9cca,90,123,akarnokd@gmail.com,2015-06-23T17:31:14+02:00
+akarnokd,82d7b9cca,2015-06-23,RxJava/src/main/java/rx/internal/operators/OperatorReplay.java,,82d7b9cca,1116,46,akarnokd@gmail.com,2015-06-23T17:31:14+02:00
+akarnokd,82d7b9cca,2015-06-23,RxJava/src/test/java/rx/internal/operators/OperatorReplayTest.java,,82d7b9cca,141,19,akarnokd@gmail.com,2015-06-23T17:31:14+02:00
+akarnokd,90ef143b0,2015-06-23,RxJava/src/main/java/rx/internal/operators/OperatorElementAt.java,,90ef143b0,45,12,akarnokd@akarnokd-PC2,2015-06-23T09:22:47+02:00
+Dave Moten,60924afdc,2015-06-23,RxJava/src/main/java/rx/Observable.java,,60924afdc,9,2,davidmoten@gmail.com,2015-06-23T08:19:23+02:00
+Dave Moten,60924afdc,2015-06-23,RxJava/src/test/java/rx/internal/operators/OperatorDefaultIfEmptyTest.java,,60924afdc,25,0,davidmoten@gmail.com,2015-06-23T08:19:23+02:00
+Dave Moten,acb1259c3,2015-06-23,RxJava/src/main/java/rx/observers/TestSubscriber.java,,acb1259c3,17,17,davidmoten@gmail.com,2015-06-23T08:35:32+02:00
+akarnokd,39d3bd97b,2015-06-22,RxJava/src/main/java/rx/Observable.java,fix,39d3bd97b,1,1,akarnokd@gmail.com,2015-06-22T10:18:02+02:00
+akarnokd,39d3bd97b,2015-06-22,RxJava/src/main/java/rx/internal/operators/OperatorWindowWithObservable.java,fix,39d3bd97b,9,29,akarnokd@gmail.com,2015-06-22T10:18:02+02:00
+akarnokd,39d3bd97b,2015-06-22,RxJava/src/main/java/rx/internal/operators/OperatorWindowWithObservableFactory.java,fix,39d3bd97b,320,0,akarnokd@gmail.com,2015-06-22T10:18:02+02:00
+akarnokd,39d3bd97b,2015-06-22,RxJava/src/main/java/rx/internal/operators/OperatorWindowWithStartEndObservable.java,fix,39d3bd97b,23,14,akarnokd@gmail.com,2015-06-22T10:18:02+02:00
+akarnokd,39d3bd97b,2015-06-22,RxJava/src/test/java/rx/internal/operators/OperatorWindowWithObservableTest.java,fix,39d3bd97b,167,7,akarnokd@gmail.com,2015-06-22T10:18:02+02:00
+akarnokd,39d3bd97b,2015-06-22,RxJava/src/test/java/rx/internal/operators/OperatorWindowWithStartEndObservableTest.java,fix,39d3bd97b,80,14,akarnokd@gmail.com,2015-06-22T10:18:02+02:00
+Dave Moten,935822cee,2015-06-19,RxJava/src/main/java/rx/Observable.java,,935822cee,7,5,davidmoten@gmail.com,2015-06-19T02:25:24+02:00
+Dave Moten,2d5ce6935,2015-06-19,RxJava/src/main/java/rx/Observable.java,fix,2d5ce6935,28,26,davidmoten@gmail.com,2015-06-19T01:49:20+02:00
+Dave Moten,2d5ce6935,2015-06-19,RxJava/src/main/java/rx/internal/operators/OperatorTakeLast.java,fix,2d5ce6935,2,2,davidmoten@gmail.com,2015-06-19T01:49:20+02:00
+Ben Christensen,0a0f6f7a9,2015-06-18,RxJava/src/perf/java/rx/operators/OperatorFlatMapPerf.java,Fix,0a0f6f7a9,4,1,benjchristensen@netflix.com,2015-06-18T20:35:35+02:00
+akarnokd,6f259eb22,2015-06-18,RxJava/src/main/java/rx/internal/operators/OperatorDelay.java,,6f259eb22,18,2,akarnokd@gmail.com,2015-06-18T11:09:53+02:00
+akarnokd,6f259eb22,2015-06-18,RxJava/src/test/java/rx/internal/operators/OperatorDelayTest.java,,6f259eb22,23,0,akarnokd@gmail.com,2015-06-18T11:09:53+02:00
+David Gross,ec3d522c8,2015-06-17,RxJava/src/main/java/rx/Observable.java,,ec3d522c8,2,4,davgross@netflix.com,2015-06-17T19:32:44+02:00
+akarnokd,b3c611c39,2015-06-17,RxJava/src/main/java/rx/Observable.java,,b3c611c39,3,3,akarnokd@gmail.com,2015-06-17T14:51:57+02:00
+akarnokd,b3c611c39,2015-06-17,RxJava/src/main/java/rx/internal/operators/OnSubscribeAutoConnect.java,,b3c611c39,55,0,akarnokd@gmail.com,2015-06-17T14:51:57+02:00
+akarnokd,b3c611c39,2015-06-17,RxJava/src/main/java/rx/observables/ConnectableObservable.java,,b3c611c39,56,5,akarnokd@gmail.com,2015-06-17T14:51:57+02:00
+akarnokd,b3c611c39,2015-06-17,RxJava/src/test/java/rx/observables/ConnectableObservableTest.java,,b3c611c39,175,0,akarnokd@gmail.com,2015-06-17T14:51:57+02:00
+akarnokd,18ff5afd3,2015-06-10,RxJava/src/main/java/rx/Observable.java,,18ff5afd3,2,2,akarnokd@akarnokd-PC2,2015-06-10T19:22:58+02:00
+akarnokd,18ff5afd3,2015-06-10,RxJava/src/main/java/rx/internal/util/LinkedArrayList.java,,18ff5afd3,136,0,akarnokd@akarnokd-PC2,2015-06-10T19:22:58+02:00
+akarnokd,18ff5afd3,2015-06-10,RxJava/src/test/java/rx/internal/util/LinkedArrayListTest.java,,18ff5afd3,37,0,akarnokd@akarnokd-PC2,2015-06-10T19:22:58+02:00
+David Gross,a658325e4,2015-06-12,RxJava/src/main/java/rx/Single.java,,a658325e4,12,12,davgross@netflix.com,2015-06-12T00:33:22+02:00
+David Gross,a658325e4,2015-06-12,RxJava/src/main/java/rx/SingleSubscriber.java,,a658325e4,10,6,davgross@netflix.com,2015-06-12T00:33:22+02:00
+David Gross,7614c9c56,2015-06-12,RxJava/src/main/java/rx/Single.java,,7614c9c56,293,373,davgross@netflix.com,2015-06-12T00:15:27+02:00
+David Gross,03336a980,2015-06-11,RxJava/src/main/java/rx/Single.java,,03336a980,49,46,davgross@netflix.com,2015-06-11T23:05:50+02:00
+Dave Moten,63b67d5de,2015-06-11,RxJava/src/main/java/rx/observers/TestSubscriber.java,fix,63b67d5de,7,3,davidmoten@gmail.com,2015-06-11T03:16:16+02:00
+Dave Moten,63b67d5de,2015-06-11,RxJava/src/test/java/rx/observers/TestSubscriberTest.java,fix,63b67d5de,33,1,davidmoten@gmail.com,2015-06-11T03:16:16+02:00
+Dave Moten,9fa9cea2a,2015-06-08,RxJava/src/main/java/rx/internal/operators/OnSubscribeFromIterable.java,,9fa9cea2a,25,15,davidmoten@gmail.com,2015-06-08T08:22:27+02:00
+Dave Moten,9fa9cea2a,2015-06-08,RxJava/src/test/java/rx/internal/operators/OnSubscribeFromIterableTest.java,,9fa9cea2a,93,0,davidmoten@gmail.com,2015-06-08T08:22:27+02:00
+Dave Moten,23c06b1d6,2015-06-08,RxJava/src/test/java/rx/internal/operators/OperatorRetryWithPredicateTest.java,,23c06b1d6,55,0,davidmoten@gmail.com,2015-06-08T06:28:12+02:00
+zsxwing,596ecd2a5,2015-06-02,RxJava/src/main/java/rx/observers/TestSubscriber.java,,596ecd2a5,18,12,zsxwing@gmail.com,2015-06-02T14:10:21+02:00
+Dave Moten,d16a62267,2015-06-02,RxJava/src/main/java/rx/internal/operators/OperatorDelayWithSelector.java,,d16a62267,2,18,davidmoten@gmail.com,2015-06-02T13:25:35+02:00
+Dave Moten,d16a62267,2015-06-02,RxJava/src/main/java/rx/internal/operators/OperatorMulticast.java,,d16a62267,2,16,davidmoten@gmail.com,2015-06-02T13:25:35+02:00
+zsxwing,a22cce7c5,2015-06-02,RxJava/src/main/java/rx/observers/TestSubscriber.java,,a22cce7c5,12,6,zsxwing@gmail.com,2015-06-02T11:12:27+02:00
+zsxwing,a22cce7c5,2015-06-02,RxJava/src/main/java/rx/subjects/ReplaySubject.java,,a22cce7c5,1,1,zsxwing@gmail.com,2015-06-02T11:12:27+02:00
+zsxwing,a90788c2d,2015-06-02,RxJava/src/main/java/rx/observers/TestSubscriber.java,Fix,a90788c2d,1,1,zsxwing@gmail.com,2015-06-02T10:40:39+02:00
+zsxwing,a90788c2d,2015-06-02,RxJava/src/test/java/rx/observers/TestSubscriberTest.java,Fix,a90788c2d,7,0,zsxwing@gmail.com,2015-06-02T10:40:39+02:00
+Dave Moten,c4fcd9187,2015-05-31,RxJava/src/main/java/rx/internal/operators/OperatorSwitchIfEmpty.java,fix,c4fcd9187,36,39,davidmoten@gmail.com,2015-05-31T11:10:20+02:00
+Dave Moten,c4fcd9187,2015-05-31,RxJava/src/test/java/rx/internal/operators/OperatorSwitchIfEmptyTest.java,fix,c4fcd9187,52,0,davidmoten@gmail.com,2015-05-31T11:10:20+02:00
+Dave Moten,eadd43f00,2015-06-01,RxJava/src/main/java/rx/internal/operators/OnSubscribeRedo.java,fix,eadd43f00,56,34,davidmoten@gmail.com,2015-06-01T05:06:22+02:00
+Dave Moten,eadd43f00,2015-06-01,RxJava/src/test/java/rx/internal/operators/OperatorRetryTest.java,fix,eadd43f00,34,28,davidmoten@gmail.com,2015-06-01T05:06:22+02:00
+Dave Moten,d32a1b0ea,2015-05-31,RxJava/src/main/java/rx/internal/operators/OperatorSwitch.java,,d32a1b0ea,17,4,davidmoten@gmail.com,2015-05-31T09:17:29+02:00
+Dave Moten,d32a1b0ea,2015-05-31,RxJava/src/test/java/rx/internal/operators/OperatorSwitchTest.java,,d32a1b0ea,97,1,davidmoten@gmail.com,2015-05-31T09:17:29+02:00
+Dave Moten,2d98e3480,2015-05-30,RxJava/src/main/java/rx/internal/operators/OperatorTakeWhile.java,,2d98e3480,7,4,davidmoten@gmail.com,2015-05-30T09:54:10+02:00
+Dave Moten,2d98e3480,2015-05-30,RxJava/src/test/java/rx/internal/operators/OperatorTakeWhileTest.java,,2d98e3480,18,0,davidmoten@gmail.com,2015-05-30T09:54:10+02:00
+Dave Moten,bd9926555,2015-05-30,RxJava/src/main/java/rx/exceptions/OnErrorThrowable.java,fix,bd9926555,26,2,davidmoten@gmail.com,2015-05-30T05:01:01+02:00
+Dave Moten,bd9926555,2015-05-30,RxJava/src/test/java/rx/exceptions/OnNextValueTest.java,fix,bd9926555,49,0,davidmoten@gmail.com,2015-05-30T05:01:01+02:00
+Dave Moten,0fbc4077d,2015-05-30,RxJava/src/main/java/rx/internal/operators/OperatorTakeUntilPredicate.java,,0fbc4077d,7,4,davidmoten@gmail.com,2015-05-30T04:30:55+02:00
+Dave Moten,0fbc4077d,2015-05-30,RxJava/src/test/java/rx/internal/operators/OperatorTakeUntilPredicateTest.java,,0fbc4077d,18,0,davidmoten@gmail.com,2015-05-30T04:30:55+02:00
+Dave Moten,0cf708256,2015-05-30,RxJava/src/main/java/rx/Subscriber.java,,0cf708256,45,35,davidmoten@gmail.com,2015-05-30T03:34:58+02:00
+Dave Moten,85a035d91,2015-05-29,RxJava/src/main/java/rx/internal/operators/OperatorTake.java,,85a035d91,16,5,davidmoten@gmail.com,2015-05-29T01:17:30+02:00
+Dave Moten,85a035d91,2015-05-29,RxJava/src/test/java/rx/internal/operators/OperatorTakeTest.java,,85a035d91,26,0,davidmoten@gmail.com,2015-05-29T01:17:30+02:00
+Dave Moten,142f31e58,2015-05-28,RxJava/src/main/java/rx/internal/operators/OperatorAny.java,,142f31e58,18,9,davidmoten@gmail.com,2015-05-28T23:56:43+02:00
+Dave Moten,142f31e58,2015-05-28,RxJava/src/test/java/rx/internal/operators/OperatorAnyTest.java,,142f31e58,50,0,davidmoten@gmail.com,2015-05-28T23:56:43+02:00
+Dave Moten,d8f9e8620,2015-05-28,RxJava/src/main/java/rx/internal/operators/OperatorSkip.java,fix,d8f9e8620,4,13,davidmoten@gmail.com,2015-05-28T11:53:07+02:00
+Dave Moten,d8f9e8620,2015-05-28,RxJava/src/test/java/rx/internal/operators/OperatorSkipTest.java,fix,d8f9e8620,39,1,davidmoten@gmail.com,2015-05-28T11:53:07+02:00
+Dave Moten,3faea61ea,2015-05-27,RxJava/src/main/java/rx/internal/operators/OperatorAll.java,,3faea61ea,17,8,davidmoten@gmail.com,2015-05-27T20:38:01+02:00
+Dave Moten,3faea61ea,2015-05-27,RxJava/src/test/java/rx/internal/operators/OperatorAllTest.java,,3faea61ea,50,0,davidmoten@gmail.com,2015-05-27T20:38:01+02:00
+Dave Moten,80a0b017c,2015-05-27,RxJava/src/test/java/rx/internal/operators/OperatorSerializeTest.java,,80a0b017c,14,5,davidmoten@gmail.com,2015-05-27T13:48:35+02:00
+Dave Moten,5db7b9416,2015-05-19,RxJava/src/main/java/rx/internal/operators/OperatorConcat.java,fix,5db7b9416,30,28,davidmoten@gmail.com,2015-05-19T02:26:36+02:00
+Dave Moten,5db7b9416,2015-05-19,RxJava/src/main/java/rx/internal/producers/ProducerArbiter.java,fix,5db7b9416,1,1,davidmoten@gmail.com,2015-05-19T02:26:36+02:00
+Dave Moten,5db7b9416,2015-05-19,RxJava/src/test/java/rx/internal/operators/OperatorConcatTest.java,fix,5db7b9416,29,2,davidmoten@gmail.com,2015-05-19T02:26:36+02:00
+akarnokd,fd9b6bcbc,2015-05-26,RxJava/src/main/java/rx/internal/operators/OnSubscribeDefer.java,Fix,fd9b6bcbc,15,2,akarnokd@gmail.com,2015-05-26T09:15:33+02:00
+akarnokd,fd9b6bcbc,2015-05-26,RxJava/src/main/java/rx/internal/operators/OnSubscribeDelaySubscription.java,Fix,fd9b6bcbc,16,4,akarnokd@gmail.com,2015-05-26T09:15:33+02:00
+akarnokd,fd9b6bcbc,2015-05-26,RxJava/src/main/java/rx/internal/operators/OnSubscribeDelaySubscriptionWithSelector.java,Fix,fd9b6bcbc,15,3,akarnokd@gmail.com,2015-05-26T09:15:33+02:00
+akarnokd,fd9b6bcbc,2015-05-26,RxJava/src/main/java/rx/internal/operators/OnSubscribeUsing.java,Fix,fd9b6bcbc,17,9,akarnokd@gmail.com,2015-05-26T09:15:33+02:00
+akarnokd,fd9b6bcbc,2015-05-26,RxJava/src/main/java/rx/internal/operators/OperatorDoOnSubscribe.java,Fix,fd9b6bcbc,14,1,akarnokd@gmail.com,2015-05-26T09:15:33+02:00
+akarnokd,fd9b6bcbc,2015-05-26,RxJava/src/main/java/rx/internal/operators/OperatorDoOnUnsubscribe.java,Fix,fd9b6bcbc,18,2,akarnokd@gmail.com,2015-05-26T09:15:33+02:00
+akarnokd,fd9b6bcbc,2015-05-26,RxJava/src/main/java/rx/internal/operators/OperatorGroupBy.java,Fix,fd9b6bcbc,3,1,akarnokd@gmail.com,2015-05-26T09:15:33+02:00
+akarnokd,fd9b6bcbc,2015-05-26,RxJava/src/main/java/rx/internal/operators/OperatorMulticast.java,Fix,fd9b6bcbc,15,2,akarnokd@gmail.com,2015-05-26T09:15:33+02:00
+akarnokd,fd9b6bcbc,2015-05-26,RxJava/src/main/java/rx/internal/operators/OperatorOnErrorResumeNextViaFunction.java,Fix,fd9b6bcbc,30,11,akarnokd@gmail.com,2015-05-26T09:15:33+02:00
+akarnokd,fd9b6bcbc,2015-05-26,RxJava/src/main/java/rx/observers/TestSubscriber.java,Fix,fd9b6bcbc,0,2,akarnokd@gmail.com,2015-05-26T09:15:33+02:00
+akarnokd,fd9b6bcbc,2015-05-26,RxJava/src/test/java/rx/internal/operators/OperatorPublishTest.java,Fix,fd9b6bcbc,2,1,akarnokd@gmail.com,2015-05-26T09:15:33+02:00
+Dave Moten,76f001bc1,2015-05-26,RxJava/src/main/java/rx/observers/TestSubscriber.java,,76f001bc1,25,0,davidmoten@gmail.com,2015-05-26T06:34:59+02:00
+Dave Moten,76f001bc1,2015-05-26,RxJava/src/test/java/rx/internal/operators/OnSubscribeRangeTest.java,,76f001bc1,5,5,davidmoten@gmail.com,2015-05-26T06:34:59+02:00
+Dave Moten,9585c6e2a,2015-05-19,RxJava/src/main/java/rx/internal/operators/OnSubscribeAmb.java,fix,9585c6e2a,68,24,davidmoten@gmail.com,2015-05-19T07:40:58+02:00
+Dave Moten,9585c6e2a,2015-05-19,RxJava/src/test/java/rx/internal/operators/OnSubscribeAmbTest.java,fix,9585c6e2a,70,0,davidmoten@gmail.com,2015-05-19T07:40:58+02:00
+George Campbell,7ebea1369,2015-05-20,RxJava/src/main/java/rx/Observable.java,,7ebea1369,66,4,abersnaze@gmail.com,2015-05-20T19:13:40+02:00
+George Campbell,7ebea1369,2015-05-20,RxJava/src/perf/java/rx/operators/OperatorSerializePerf.java,,7ebea1369,1,1,abersnaze@gmail.com,2015-05-20T19:13:40+02:00
+George Campbell,7ebea1369,2015-05-20,RxJava/src/test/java/rx/internal/operators/OnSubscribeCombineLatestTest.java,,7ebea1369,1,1,abersnaze@gmail.com,2015-05-20T19:13:40+02:00
+George Campbell,7ebea1369,2015-05-20,RxJava/src/test/java/rx/internal/operators/OnSubscribeRefCountTest.java,,7ebea1369,2,2,abersnaze@gmail.com,2015-05-20T19:13:40+02:00
+George Campbell,7ebea1369,2015-05-20,RxJava/src/test/java/rx/internal/operators/OnSubscribeTimerTest.java,,7ebea1369,2,2,abersnaze@gmail.com,2015-05-20T19:13:40+02:00
+George Campbell,7ebea1369,2015-05-20,RxJava/src/test/java/rx/internal/operators/OperatorBufferTest.java,,7ebea1369,8,8,abersnaze@gmail.com,2015-05-20T19:13:40+02:00
+George Campbell,7ebea1369,2015-05-20,RxJava/src/test/java/rx/internal/operators/OperatorObserveOnTest.java,,7ebea1369,2,2,abersnaze@gmail.com,2015-05-20T19:13:40+02:00
+George Campbell,7ebea1369,2015-05-20,RxJava/src/test/java/rx/internal/operators/OperatorPublishTest.java,,7ebea1369,1,1,abersnaze@gmail.com,2015-05-20T19:13:40+02:00
+George Campbell,7ebea1369,2015-05-20,RxJava/src/test/java/rx/internal/producers/ProducersTest.java,,7ebea1369,3,3,abersnaze@gmail.com,2015-05-20T19:13:40+02:00
+akarnokd,c7e6cf972,2015-05-20,RxJava/src/main/java/rx/Observable.java,Fix,c7e6cf972,1,1,akarnokd@gmail.com,2015-05-20T13:28:45+02:00
+akarnokd,c7e6cf972,2015-05-20,RxJava/src/main/java/rx/internal/operators/OperatorWindowWithSize.java,Fix,c7e6cf972,41,15,akarnokd@gmail.com,2015-05-20T13:28:45+02:00
+akarnokd,c7e6cf972,2015-05-20,RxJava/src/main/java/rx/internal/operators/OperatorWindowWithTime.java,Fix,c7e6cf972,60,42,akarnokd@gmail.com,2015-05-20T13:28:45+02:00
+akarnokd,c7e6cf972,2015-05-20,RxJava/src/test/java/rx/internal/operators/OperatorWindowWithSizeTest.java,Fix,c7e6cf972,81,2,akarnokd@gmail.com,2015-05-20T13:28:45+02:00
+akarnokd,c7e6cf972,2015-05-20,RxJava/src/test/java/rx/internal/operators/OperatorWindowWithTimeTest.java,Fix,c7e6cf972,22,0,akarnokd@gmail.com,2015-05-20T13:28:45+02:00
+akarnokd,b0c8b42b2,2015-05-20,RxJava/src/main/java/rx/Observable.java,,b0c8b42b2,18,0,akarnokd@gmail.com,2015-05-20T10:40:51+02:00
+David Gross,536d01975,2015-05-19,RxJava/src/main/java/rx/observers/TestSubscriber.java,,536d01975,44,4,davgross@netflix.com,2015-05-19T19:34:41+02:00
+akarnokd,ad0d4225a,2015-05-19,RxJava/src/main/java/rx/internal/util/atomic/BaseLinkedAtomicQueue.java,,ad0d4225a,3,0,akarnokd@gmail.com,2015-05-19T18:36:05+02:00
+akarnokd,ad0d4225a,2015-05-19,RxJava/src/main/java/rx/internal/util/atomic/LinkedQueueNode.java,,ad0d4225a,3,0,akarnokd@gmail.com,2015-05-19T18:36:05+02:00
+akarnokd,ad0d4225a,2015-05-19,RxJava/src/main/java/rx/internal/util/atomic/MpscLinkedAtomicQueue.java,,ad0d4225a,3,0,akarnokd@gmail.com,2015-05-19T18:36:05+02:00
+akarnokd,ad0d4225a,2015-05-19,RxJava/src/main/java/rx/internal/util/atomic/SpscLinkedAtomicQueue.java,,ad0d4225a,3,0,akarnokd@gmail.com,2015-05-19T18:36:05+02:00
+akarnokd,ad0d4225a,2015-05-19,RxJava/src/main/java/rx/internal/util/unsafe/BaseLinkedQueue.java,,ad0d4225a,3,0,akarnokd@gmail.com,2015-05-19T18:36:05+02:00
+akarnokd,ad0d4225a,2015-05-19,RxJava/src/main/java/rx/internal/util/unsafe/MpscLinkedQueue.java,,ad0d4225a,3,0,akarnokd@gmail.com,2015-05-19T18:36:05+02:00
+akarnokd,ad0d4225a,2015-05-19,RxJava/src/main/java/rx/internal/util/unsafe/SpscLinkedQueue.java,,ad0d4225a,3,0,akarnokd@gmail.com,2015-05-19T18:36:05+02:00
+akarnokd,39be31087,2015-05-19,RxJava/src/main/java/rx/internal/operators/OperatorToObservableList.java,,39be31087,5,6,akarnokd@gmail.com,2015-05-19T13:40:00+02:00
+akarnokd,39be31087,2015-05-19,RxJava/src/main/java/rx/internal/operators/OperatorToObservableSortedList.java,,39be31087,2,1,akarnokd@gmail.com,2015-05-19T13:40:00+02:00
+akarnokd,39be31087,2015-05-19,RxJava/src/main/java/rx/internal/producers/ProducerArbiter.java,,39be31087,191,0,akarnokd@gmail.com,2015-05-19T13:40:00+02:00
+akarnokd,39be31087,2015-05-19,RxJava/src/main/java/rx/internal/producers/ProducerObserverArbiter.java,,39be31087,282,0,akarnokd@gmail.com,2015-05-19T13:40:00+02:00
+akarnokd,39be31087,2015-05-19,RxJava/src/main/java/rx/internal/producers/QueuedProducer.java,,39be31087,187,0,akarnokd@gmail.com,2015-05-19T13:40:00+02:00
+akarnokd,39be31087,2015-05-19,RxJava/src/main/java/rx/internal/producers/QueuedValueProducer.java,,39be31087,138,0,akarnokd@gmail.com,2015-05-19T13:40:00+02:00
+akarnokd,39be31087,2015-05-19,RxJava/src/main/java/rx/internal/producers/SingleDelayedProducer.java,,39be31087,115,0,akarnokd@gmail.com,2015-05-19T13:40:00+02:00
+akarnokd,39be31087,2015-05-19,RxJava/src/main/java/rx/internal/producers/SingleProducer.java,,39be31087,79,0,akarnokd@gmail.com,2015-05-19T13:40:00+02:00
+akarnokd,39be31087,2015-05-19,RxJava/src/main/java/rx/internal/util/atomic/BaseLinkedAtomicQueue.java,,39be31087,90,0,akarnokd@gmail.com,2015-05-19T13:40:00+02:00
+akarnokd,39be31087,2015-05-19,RxJava/src/main/java/rx/internal/util/atomic/LinkedQueueNode.java,,39be31087,54,0,akarnokd@gmail.com,2015-05-19T13:40:00+02:00
+akarnokd,39be31087,2015-05-19,RxJava/src/main/java/rx/internal/util/atomic/MpscLinkedAtomicQueue.java,,39be31087,123,0,akarnokd@gmail.com,2015-05-19T13:40:00+02:00
+akarnokd,39be31087,2015-05-19,RxJava/src/main/java/rx/internal/util/atomic/SpscLinkedAtomicQueue.java,,39be31087,103,0,akarnokd@gmail.com,2015-05-19T13:40:00+02:00
+akarnokd,39be31087,2015-05-19,RxJava/src/main/java/rx/internal/util/unsafe/BaseLinkedQueue.java,,39be31087,123,0,akarnokd@gmail.com,2015-05-19T13:40:00+02:00
+akarnokd,39be31087,2015-05-19,RxJava/src/main/java/rx/internal/util/unsafe/MpscLinkedQueue.java,,39be31087,133,0,akarnokd@gmail.com,2015-05-19T13:40:00+02:00
+akarnokd,39be31087,2015-05-19,RxJava/src/main/java/rx/internal/util/unsafe/SpscLinkedQueue.java,,39be31087,105,0,akarnokd@gmail.com,2015-05-19T13:40:00+02:00
+akarnokd,39be31087,2015-05-19,RxJava/src/main/java/rx/internal/util/unsafe/UnsafeAccess.java,,39be31087,21,0,akarnokd@gmail.com,2015-05-19T13:40:00+02:00
+akarnokd,39be31087,2015-05-19,RxJava/src/test/java/rx/internal/producers/ProducersTest.java,,39be31087,381,0,akarnokd@gmail.com,2015-05-19T13:40:00+02:00
+Dave Moten,7071fc0a8,2015-05-16,RxJava/src/main/java/rx/internal/operators/OperatorObserveOn.java,,7071fc0a8,3,1,davidmoten@gmail.com,2015-05-16T12:28:08+02:00
+Dave Moten,7071fc0a8,2015-05-16,RxJava/src/test/java/rx/internal/operators/OperatorObserveOnTest.java,,7071fc0a8,40,0,davidmoten@gmail.com,2015-05-16T12:28:08+02:00
+Dave Moten,bad4d40a7,2015-05-15,RxJava/src/main/java/rx/internal/operators/OperatorConcat.java,,bad4d40a7,1,1,davidmoten@gmail.com,2015-05-15T03:48:26+02:00
+Dave Moten,bad4d40a7,2015-05-15,RxJava/src/test/java/rx/internal/operators/OperatorConcatTest.java,,bad4d40a7,29,0,davidmoten@gmail.com,2015-05-15T03:48:26+02:00
+Dave Moten,1236f07d7,2015-05-15,RxJava/src/main/java/rx/internal/operators/OperatorGroupBy.java,,1236f07d7,11,1,davidmoten@gmail.com,2015-05-15T02:56:49+02:00
+Dave Moten,1236f07d7,2015-05-15,RxJava/src/test/java/rx/internal/operators/OperatorGroupByTest.java,,1236f07d7,47,0,davidmoten@gmail.com,2015-05-15T02:56:49+02:00
+David Gross,24ca4f78b,2015-05-14,RxJava/src/main/java/rx/Observable.java,,24ca4f78b,5,2,davgross@netflix.com,2015-05-14T21:46:46+02:00
+akarnokd,ff5001beb,2015-05-14,RxJava/src/main/java/rx/observers/TestSubscriber.java,,ff5001beb,172,14,akarnokd@gmail.com,2015-05-14T08:31:06+02:00
+Dave Moten,c9d932420,2015-05-13,RxJava/src/main/java/rx/internal/operators/OperatorObserveOn.java,,c9d932420,1,1,davidmoten@gmail.com,2015-05-13T08:28:14+02:00

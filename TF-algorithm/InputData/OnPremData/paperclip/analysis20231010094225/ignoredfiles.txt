@@ -1,0 +1,17 @@
+3.2.gemfile
+4.1.gemfile
+4.2.gemfile
+animated
+animated.unknown
+Appraisals
+basic_integration.feature
+empty.xlsx
+Gemfile
+LICENSE
+migration.feature
+NEWS
+paperclip.gemspec
+rake_tasks.feature
+Rakefile
+UPGRADING
+USAGE

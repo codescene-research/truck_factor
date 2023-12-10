@@ -1,0 +1,43 @@
+author,rev,date,entity,message,ticket-id,loc-added,loc-deleted,author-email,basic-date-time
+Pablo Marti,2b476159,2016-09-12,flask/flask/app.py,Fix,2b476159,2,2,pablo@albanta.eu,2016-09-12T09:41:09+02:00
+Armin Ronacher,1f0ca894,2016-09-11,flask/flask/helpers.py,,1f0ca894,0,5,armin.ronacher@active-4.com,2016-09-11T15:57:43+02:00
+Armin Ronacher,a30951ec,2016-09-10,flask/flask/helpers.py,,a30951ec,2,1,armin.ronacher@active-4.com,2016-09-10T02:33:53+02:00
+Armin Ronacher,a30951ec,2016-09-10,flask/tests/test_helpers.py,,a30951ec,0,2,armin.ronacher@active-4.com,2016-09-10T02:33:53+02:00
+Akbar Ibrahim,c687ffb1,2016-09-08,flask/flask/app.py,Fix,c687ffb1,1,1,iakbar@gmail.com,2016-09-08T17:34:51+02:00
+Armin Ronacher,9cd32cac,2016-09-08,flask/flask/app.py,,9cd32cac,23,2,armin.ronacher@active-4.com,2016-09-08T10:55:59+02:00
+Armin Ronacher,9cd32cac,2016-09-08,flask/tests/test_basic.py,,9cd32cac,23,0,armin.ronacher@active-4.com,2016-09-08T10:55:59+02:00
+Markus Unterwaditzer,c4ec6954,2016-09-06,flask/flask/app.py,Fix,c4ec6954,0,2,markus@unterwaditzer.net,2016-09-06T22:32:34+02:00
+Markus Unterwaditzer,c4ec6954,2016-09-06,flask/flask/cli.py,Fix,c4ec6954,1,2,markus@unterwaditzer.net,2016-09-06T22:32:34+02:00
+Markus Unterwaditzer,c4ec6954,2016-09-06,flask/tests/test_basic.py,Fix,c4ec6954,0,2,markus@unterwaditzer.net,2016-09-06T22:32:34+02:00
+Afonso Queirós,ccd02bfe,2016-09-05,flask/flask/app.py,,ccd02bfe,3,3,afonso.queiros@deliveryhero.com,2016-09-05T16:57:00+02:00
+Roman,92ce20ee,2016-09-05,flask/flask/helpers.py,Fix fix,92ce20ee,2,2,r.y.t@yandex.ru,2016-09-05T01:28:05+02:00
+Roman,92ce20ee,2016-09-05,flask/tests/test_helpers.py,Fix fix,92ce20ee,5,0,r.y.t@yandex.ru,2016-09-05T01:28:05+02:00
+Kyle Lawlor,b42e43e3,2016-08-31,flask/examples/flaskr/flaskr/__init__.py,,b42e43e3,1,0,wgwz@users.noreply.github.com,2016-08-31T18:37:36+02:00
+Josh Soref,6e6c3a46,2016-08-30,flask/flask/app.py,,6e6c3a46,1,1,jsoref@users.noreply.github.com,2016-08-30T00:26:20+02:00
+Markus Unterwaditzer,098ea0c8,2016-08-27,flask/flask/app.py,,098ea0c8,2,1,markus@unterwaditzer.net,2016-08-27T14:32:53+02:00
+Markus Unterwaditzer,098ea0c8,2016-08-27,flask/flask/cli.py,,098ea0c8,1,1,markus@unterwaditzer.net,2016-08-27T14:32:53+02:00
+Markus Unterwaditzer,098ea0c8,2016-08-27,flask/tests/test_basic.py,,098ea0c8,2,2,markus@unterwaditzer.net,2016-08-27T14:32:53+02:00
+Markus Unterwaditzer,71e10be2,2016-08-26,flask/flask/helpers.py,Fix,71e10be2,37,15,markus@unterwaditzer.net,2016-08-26T03:08:03+02:00
+Markus Unterwaditzer,71e10be2,2016-08-26,flask/tests/test_helpers.py,Fix,71e10be2,21,10,markus@unterwaditzer.net,2016-08-26T03:08:03+02:00
+Armin Ronacher,e00e2c22,2016-08-25,flask/flask/logging.py,,e00e2c22,4,0,armin.ronacher@active-4.com,2016-08-25T15:41:46+02:00
+Kyle Lawlor,5f009374,2016-08-22,flask/examples/flaskr/tests/test_flaskr.py,BUG Fix,5f009374,2,2,wgwz@users.noreply.github.com,2016-08-22T20:52:54+02:00
+Kyle Lawlor,5f009374,2016-08-22,flask/examples/minitwit/minitwit/__init__.py,BUG Fix,5f009374,1,0,wgwz@users.noreply.github.com,2016-08-22T20:52:54+02:00
+Kyle Lawlor,5f009374,2016-08-22,flask/examples/minitwit/minitwit/minitwit.py,BUG Fix,5f009374,0,0,wgwz@users.noreply.github.com,2016-08-22T20:52:54+02:00
+Kyle Lawlor,5f009374,2016-08-22,flask/examples/minitwit/minitwit/schema.sql,BUG Fix,5f009374,0,0,wgwz@users.noreply.github.com,2016-08-22T20:52:54+02:00
+Kyle Lawlor,5f009374,2016-08-22,flask/examples/minitwit/setup.py,BUG Fix,5f009374,16,0,wgwz@users.noreply.github.com,2016-08-22T20:52:54+02:00
+Kyle Lawlor,5f009374,2016-08-22,flask/examples/minitwit/tests/test_minitwit.py,BUG Fix,5f009374,1,1,wgwz@users.noreply.github.com,2016-08-22T20:52:54+02:00
+David Lord,f193f590,2016-08-21,flask/tests/test_helpers.py,,f193f590,14,15,davidism@gmail.com,2016-08-21T17:47:12+02:00
+Anton Sarukhanov,9121e109,2016-08-20,flask/tests/test_cli.py,,9121e109,16,1,code@ant.sr,2016-08-20T17:43:58+02:00
+Nate Prewitt,0f1cf50f,2016-08-12,flask/flask/cli.py,,0f1cf50f,6,0,nateprewitt@users.noreply.github.com,2016-08-12T15:12:00+02:00
+Nate Prewitt,0f1cf50f,2016-08-12,flask/tests/test_cli.py,,0f1cf50f,2,0,nateprewitt@users.noreply.github.com,2016-08-12T15:12:00+02:00
+Kyle Lawlor,17d4cb38,2016-07-06,flask/examples/flaskr/flaskr/__init__.py,Fix fix,17d4cb38,0,0,wgwz@users.noreply.github.com,2016-07-06T02:30:59+02:00
+Kyle Lawlor,17d4cb38,2016-07-06,flask/examples/flaskr/flaskr/flaskr.py,Fix fix,17d4cb38,0,0,wgwz@users.noreply.github.com,2016-07-06T02:30:59+02:00
+Kyle Lawlor,17d4cb38,2016-07-06,flask/examples/flaskr/flaskr/schema.sql,Fix fix,17d4cb38,0,0,wgwz@users.noreply.github.com,2016-07-06T02:30:59+02:00
+Kyle Lawlor,17d4cb38,2016-07-06,flask/examples/flaskr/setup.py,Fix fix,17d4cb38,16,0,wgwz@users.noreply.github.com,2016-07-06T02:30:59+02:00
+Kyle Lawlor,17d4cb38,2016-07-06,flask/examples/flaskr/tests/test_flaskr.py,Fix fix,17d4cb38,1,2,wgwz@users.noreply.github.com,2016-07-06T02:30:59+02:00
+Hyunchel Kim,f19d3bd6,2016-07-05,flask/tests/test_cli.py,,f19d3bd6,14,11,hyunchel.inbox@gmail.com,2016-07-05T21:46:01+02:00
+georgschoelly,67e39192,2016-06-26,flask/flask/app.py,fix,67e39192,1,1,git@gsch.ch,2016-06-26T22:32:47+02:00
+David Lord,1928f28a,2016-06-26,flask/docs/conf.py,fix,1928f28a,38,32,davidism@gmail.com,2016-06-26T22:03:29+02:00
+David Lord,1928f28a,2016-06-26,flask/flask/cli.py,fix,1928f28a,2,2,davidism@gmail.com,2016-06-26T22:03:29+02:00
+David Lord,0e460700,2016-06-23,flask/flask/cli.py,,0e460700,2,1,davidism@gmail.com,2016-06-23T22:00:45+02:00
+Archie Roller,b8aca21a,2016-06-15,flask/flask/json.py,Fix,b8aca21a,0,3,ArchRoller@users.noreply.github.com,2016-06-15T18:27:06+02:00

@@ -1,0 +1,44 @@
+author,rev,date,entity,message,ticket-id,loc-added,loc-deleted,author-email,basic-date-time
+Dominik Sander,b2f03100,2016-09-10,No Component,,b2f03100,67,61,git@dsander.de,2016-09-10T14:43:51+02:00
+Andrew Cantino,75502745,2016-09-10,No Component,,75502745,0,2,cantino@users.noreply.github.com,2016-09-10T16:24:23+02:00
+Thiago Talma,c3d5380f,2016-09-09,No Component,,c3d5380f,29,1,thiagotalma@users.noreply.github.com,2016-09-09T15:53:29+02:00
+Karol Bucek,c6a17c90,2016-09-09,No Component,,c6a17c90,9,8,kares@users.noreply.github.com,2016-09-09T15:50:32+02:00
+Dominik Sander,3e76fa0e,2016-09-07,No Component,,3e76fa0e,2,2,git@dsander.de,2016-09-07T14:53:54+02:00
+Karol Bucek,8ca39a58,2016-09-06,No Component,fix,8ca39a58,4,6,kares@users.noreply.github.com,2016-09-06T19:36:10+02:00
+Will Read,6b459ef4,2016-09-05,No Component,,6b459ef4,53,18,will.read@gmail.com,2016-09-05T01:39:49+02:00
+Albert Sun,6bb61065,2016-09-02,No Component,,6bb61065,79,5,albert@albertsun.info,2016-09-02T21:32:38+02:00
+Dominik Sander,7e43e077,2016-09-01,No Component,Fix,7e43e077,2,2,git@dsander.de,2016-09-01T22:12:29+02:00
+Géza Búza,c3ab764e,2016-08-31,No Component,,c3ab764e,15,2,gbuza@sessiondigital.com,2016-08-31T17:37:51+02:00
+Dominik Sander,49d36112,2016-08-23,No Component,,49d36112,68,12,git@dsander.de,2016-08-23T17:52:34+02:00
+Will Read,a6fe9743,2016-08-17,No Component,,a6fe9743,37,26,will.read@gmail.com,2016-08-17T05:05:16+02:00
+Andrew Cantino,577b4413,2016-08-15,No Component,,577b4413,2,2,cantino@users.noreply.github.com,2016-08-15T17:50:54+02:00
+Dominik Sander,fade7363,2016-08-11,No Component,fix Fix,fade7363,5,5,git@dsander.de,2016-08-11T20:56:32+02:00
+Dominik Sander,d6e185f0,2016-08-05,No Component,fix,d6e185f0,5,5,git@dsander.de,2016-08-05T15:43:12+02:00
+Andrew Cantino,ddb35e82,2016-08-05,No Component,Fix,ddb35e82,2,4,cantino@users.noreply.github.com,2016-08-05T04:05:52+02:00
+Sascha Hagedorn,d627a18f,2016-08-05,No Component,,d627a18f,7,3,saesh@users.noreply.github.com,2016-08-05T03:22:59+02:00
+Andrew Cantino,b765c0c3,2016-07-27,No Component,,b765c0c3,1,0,cantino@users.noreply.github.com,2016-07-27T02:19:52+02:00
+Akinori MUSHA,26a11afb,2016-07-26,No Component,,26a11afb,1,1,knu@idaemons.org,2016-07-26T14:11:29+02:00
+Darren Cauthon,9d584b6b,2016-07-26,No Component,Fix,9d584b6b,690,0,darren@cauthon.com,2016-07-26T03:23:33+02:00
+Andrew Cantino,cc72f79e,2016-07-26,No Component,,cc72f79e,29,7,cantino@users.noreply.github.com,2016-07-26T01:59:14+02:00
+Dominik Sander,5c53e660,2016-07-25,No Component,fix,5c53e660,11,0,git@dsander.de,2016-07-25T23:00:10+02:00
+Akinori MUSHA,8aed682b,2016-07-25,No Component,,8aed682b,1,0,knu@idaemons.org,2016-07-25T12:42:16+02:00
+Akinori MUSHA,cc8e1bb9,2016-07-25,No Component,,cc8e1bb9,0,1,knu@idaemons.org,2016-07-25T10:46:00+02:00
+Dominik Sander,c4d3c579,2016-07-15,No Component,,c4d3c579,12,6,git@dsander.de,2016-07-15T16:34:16+02:00
+Alex Jordan,c1095330,2016-07-20,No Component,,c1095330,21,6,alex@strugee.net,2016-07-20T14:29:09+02:00
+Darren Cauthon,29007c90,2016-07-15,No Component,,29007c90,50,2,darren@cauthon.com,2016-07-15T03:12:20+02:00
+Lloyd Pick,8c0a10fc,2016-07-10,No Component,,8c0a10fc,242,0,lloydpick@gmail.com,2016-07-10T01:51:08+02:00
+Paul Platenius,7f0ad070,2016-07-04,No Component,,7f0ad070,3,3,Platte79@gmx.net,2016-07-04T22:07:53+02:00
+Paul Platenius,da833b13,2016-07-03,No Component,,da833b13,26,2,Platte79@gmx.net,2016-07-03T22:44:44+02:00
+Lloyd Pick,c3e263d3,2016-07-01,No Component,,c3e263d3,1,1,lloydpick@gmail.com,2016-07-01T20:47:09+02:00
+Andrew Cantino,8aef73e2,2016-07-01,No Component,fix,8aef73e2,2,1,cantino@users.noreply.github.com,2016-07-01T01:15:07+02:00
+Andrew Cantino,e1a2b5ae,2016-06-30,No Component,,e1a2b5ae,3,1,cantino@users.noreply.github.com,2016-06-30T06:45:53+02:00
+Enfop,d26015c6,2016-06-23,No Component,,d26015c6,2,2,Platte79@gmx.net,2016-06-23T05:43:04+02:00
+ancientz,9b579617,2016-06-23,No Component,,9b579617,1,1,alisson.dias@neture.com.br,2016-06-23T05:39:54+02:00
+Alex Jordan,3c8d6655,2016-06-20,No Component,Fix,3c8d6655,82,18,alex@strugee.net,2016-06-20T09:37:15+02:00
+Andrey Yantsen,3b4b4f37,2016-06-19,No Component,fix,3b4b4f37,30,4,andrey@janzen.su,2016-06-19T01:09:54+02:00
+Enfop,5cdc37f7,2016-06-19,No Component,,5cdc37f7,18,0,Platte79@gmx.net,2016-06-19T00:53:58+02:00
+Akinori MUSHA,806722b4,2016-06-16,No Component,Fix,806722b4,3,6,knu@idaemons.org,2016-06-16T13:11:15+02:00
+Akinori MUSHA,4edb6e08,2016-06-16,No Component,bug,4edb6e08,24,0,knu@idaemons.org,2016-06-16T12:57:33+02:00
+Andrew Cantino,e4e2782e,2016-06-16,No Component,Fix,e4e2782e,1,1,cantino@users.noreply.github.com,2016-06-16T08:54:48+02:00
+Judy Ngai,1abcd947,2016-06-16,No Component,fix,1abcd947,80,38,judy.ngai1228@gmail.com,2016-06-16T08:52:50+02:00
+Enfop,2295875d,2016-06-16,No Component,,2295875d,41,0,Platte79@gmx.net,2016-06-16T08:30:33+02:00

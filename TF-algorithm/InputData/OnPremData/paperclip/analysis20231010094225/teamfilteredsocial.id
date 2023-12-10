@@ -1,0 +1,37 @@
+author,rev,date,entity,message,ticket-id,loc-added,loc-deleted,author-email,basic-date-time
+Adam Lassek,b0e515e,2015-07-28,paperclip/lib/paperclip/geometry_parser_factory.rb,Fix fix,b0e515e,1,1,adam@doubleprime.net,2015-07-28T09:04:14+02:00
+Adam Lassek,b0e515e,2015-07-28,paperclip/spec/paperclip/geometry_spec.rb,Fix fix,b0e515e,1,1,adam@doubleprime.net,2015-07-28T09:04:14+02:00
+Dave Gynn,c783b1f,2015-07-18,paperclip/features/step_definitions/attachment_steps.rb,,c783b1f,20,20,davegynn@gmail.com,2015-07-18T03:06:30+02:00
+Dave Gynn,c783b1f,2015-07-18,paperclip/features/step_definitions/html_steps.rb,,c783b1f,2,2,davegynn@gmail.com,2015-07-18T03:06:30+02:00
+Dave Gynn,c783b1f,2015-07-18,paperclip/features/step_definitions/rails_steps.rb,,c783b1f,11,11,davegynn@gmail.com,2015-07-18T03:06:30+02:00
+Dave Gynn,c783b1f,2015-07-18,paperclip/features/step_definitions/web_steps.rb,,c783b1f,1,103,davegynn@gmail.com,2015-07-18T03:06:30+02:00
+Dave Gynn,c783b1f,2015-07-18,paperclip/features/support/file_helpers.rb,,c783b1f,2,2,davegynn@gmail.com,2015-07-18T03:06:30+02:00
+Dave Gynn,c783b1f,2015-07-18,paperclip/spec/spec_helper.rb,,c783b1f,3,0,davegynn@gmail.com,2015-07-18T03:06:30+02:00
+Jon Yurek,36095bc,2015-06-26,paperclip/lib/paperclip/attachment.rb,,36095bc,0,2,jyurek@thoughtbot.com,2015-06-26T17:06:44+02:00
+Jon Yurek,36095bc,2015-06-26,paperclip/spec/paperclip/attachment_spec.rb,,36095bc,3,2,jyurek@thoughtbot.com,2015-06-26T17:06:44+02:00
+Jon Yurek,7f732ee,2015-06-19,paperclip/spec/paperclip/glue_spec.rb,,7f732ee,4,4,jyurek@thoughtbot.com,2015-06-19T17:46:29+02:00
+Jon Yurek,c160ae5,2015-06-19,paperclip/spec/paperclip/attachment_spec.rb,,c160ae5,0,21,jyurek@thoughtbot.com,2015-06-19T16:50:35+02:00
+Jon Yurek,c160ae5,2015-06-19,paperclip/spec/paperclip/glue_spec.rb,,c160ae5,44,0,jyurek@thoughtbot.com,2015-06-19T16:50:35+02:00
+sam,3f46100,2015-06-03,paperclip/lib/paperclip/glue.rb,fix,3f46100,1,1,sleung@talenttech.com,2015-06-03T07:35:56+02:00
+sam,3f46100,2015-06-03,paperclip/spec/paperclip/attachment_spec.rb,fix,3f46100,19,0,sleung@talenttech.com,2015-06-03T07:35:56+02:00
+Tute Costa,da56c39,2015-06-05,paperclip/lib/paperclip/version.rb,,da56c39,1,1,tutecosta@gmail.com,2015-06-05T17:27:37+02:00
+Isaac Betesh,900c839,2015-06-10,paperclip/lib/paperclip.rb,,900c839,1,1,iybetesh@gmail.com,2015-06-10T14:17:38+02:00
+Jon Yurek,ef1f40c,2015-06-12,paperclip/spec/paperclip/media_type_spoof_detector_spec.rb,,ef1f40c,3,3,jyurek@thoughtbot.com,2015-06-12T21:42:36+02:00
+Tute Costa,1522218,2015-06-05,paperclip/lib/paperclip/version.rb,,1522218,1,1,tutecosta@gmail.com,2015-06-05T17:27:37+02:00
+Jon Yurek,2e540f8,2015-06-05,paperclip/spec/paperclip/media_type_spoof_detector_spec.rb,Fix,2e540f8,8,8,jyurek@thoughtbot.com,2015-06-05T18:40:15+02:00
+Jon Yurek,2e540f8,2015-06-05,paperclip/spec/paperclip/paperclip_spec.rb,Fix,2e540f8,1,1,jyurek@thoughtbot.com,2015-06-05T18:40:15+02:00
+maclover7,ecdd542,2015-05-27,paperclip/lib/paperclip/version.rb,fix,ecdd542,1,1,me@jonathanmoss.me,2015-05-27T15:36:28+02:00
+Tute Costa,67580ee,2015-06-05,paperclip/lib/paperclip/version.rb,,67580ee,1,1,tutecosta@gmail.com,2015-06-05T17:27:37+02:00
+Jon Yurek,9aee411,2015-05-22,paperclip/lib/paperclip/media_type_spoof_detector.rb,Fix,9aee411,37,17,jyurek@thoughtbot.com,2015-05-22T21:21:01+02:00
+Jon Yurek,9aee411,2015-05-22,paperclip/lib/paperclip/validators/media_type_spoof_detection_validator.rb,Fix,9aee411,1,1,jyurek@thoughtbot.com,2015-05-22T21:21:01+02:00
+Jon Yurek,9aee411,2015-05-22,paperclip/spec/paperclip/media_type_spoof_detector_spec.rb,Fix,9aee411,10,0,jyurek@thoughtbot.com,2015-05-22T21:21:01+02:00
+Jon Yurek,9aee411,2015-05-22,paperclip/spec/paperclip/validators/media_type_spoof_detection_validator_spec.rb,Fix,9aee411,1,1,jyurek@thoughtbot.com,2015-05-22T21:21:01+02:00
+schneems,14356d7,2015-05-26,paperclip/features/step_definitions/attachment_steps.rb,fix,14356d7,7,1,richard.schneeman@gmail.com,2015-05-26T18:04:34+02:00
+schneems,14356d7,2015-05-26,paperclip/lib/paperclip.rb,fix,14356d7,8,1,richard.schneeman@gmail.com,2015-05-26T18:04:34+02:00
+Brian John,9fb1b0f,2015-05-15,paperclip/lib/paperclip/storage/fog.rb,,9fb1b0f,3,2,brian@brianjohn.com,2015-05-15T17:20:04+02:00
+Brian John,9fb1b0f,2015-05-15,paperclip/spec/paperclip/storage/fog_spec.rb,,9fb1b0f,8,2,brian@brianjohn.com,2015-05-15T17:20:04+02:00
+Jon Yurek,2bfd92b,2015-05-15,paperclip/lib/paperclip/has_attached_file.rb,Fix,2bfd92b,3,2,jyurek@thoughtbot.com,2015-05-15T20:44:47+02:00
+Jon Yurek,2bfd92b,2015-05-15,paperclip/spec/paperclip/attachment_definitions_spec.rb,Fix,2bfd92b,1,1,jyurek@thoughtbot.com,2015-05-15T20:44:47+02:00
+Jon Yurek,2610cc3,2015-05-15,paperclip/lib/paperclip/has_attached_file.rb,Fix,2610cc3,1,1,jyurek@thoughtbot.com,2015-05-15T16:49:02+02:00
+Luke Griffiths,30406c6,2015-05-09,paperclip/lib/paperclip/content_type_detector.rb,,30406c6,13,13,wlgriffiths@gmail.com,2015-05-09T22:55:29+02:00
+Luke Griffiths,03d14b2,2015-05-09,paperclip/lib/paperclip/content_type_detector.rb,,03d14b2,8,8,wlgriffiths@gmail.com,2015-05-09T22:50:29+02:00

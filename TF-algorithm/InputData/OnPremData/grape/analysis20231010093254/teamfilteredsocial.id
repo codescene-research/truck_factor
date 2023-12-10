@@ -1,0 +1,65 @@
+author,rev,date,entity,message,ticket-id,loc-added,loc-deleted,author-email,basic-date-time
+namusyaka,220c345d,2016-09-13,grape/lib/grape/api.rb,,220c345d,3,3,namusyaka@gmail.com,2016-09-13T21:15:05+02:00
+namusyaka,220c345d,2016-09-13,grape/lib/grape/cookies.rb,,220c345d,1,1,namusyaka@gmail.com,2016-09-13T21:15:05+02:00
+namusyaka,220c345d,2016-09-13,grape/lib/grape/dsl/inside_route.rb,,220c345d,2,3,namusyaka@gmail.com,2016-09-13T21:15:05+02:00
+namusyaka,220c345d,2016-09-13,grape/lib/grape/dsl/request_response.rb,,220c345d,1,1,namusyaka@gmail.com,2016-09-13T21:15:05+02:00
+namusyaka,220c345d,2016-09-13,grape/lib/grape/endpoint.rb,,220c345d,2,2,namusyaka@gmail.com,2016-09-13T21:15:05+02:00
+namusyaka,220c345d,2016-09-13,grape/lib/grape/error_formatter.rb,,220c345d,2,2,namusyaka@gmail.com,2016-09-13T21:15:05+02:00
+namusyaka,220c345d,2016-09-13,grape/lib/grape/exceptions/base.rb,,220c345d,18,18,namusyaka@gmail.com,2016-09-13T21:15:05+02:00
+namusyaka,220c345d,2016-09-13,grape/lib/grape/exceptions/validation.rb,,220c345d,6,7,namusyaka@gmail.com,2016-09-13T21:15:05+02:00
+namusyaka,220c345d,2016-09-13,grape/lib/grape/exceptions/validation_errors.rb,,220c345d,5,5,namusyaka@gmail.com,2016-09-13T21:15:05+02:00
+namusyaka,220c345d,2016-09-13,grape/lib/grape/formatter.rb,,220c345d,2,2,namusyaka@gmail.com,2016-09-13T21:15:05+02:00
+namusyaka,220c345d,2016-09-13,grape/lib/grape/middleware/auth/base.rb,,220c345d,2,2,namusyaka@gmail.com,2016-09-13T21:15:05+02:00
+namusyaka,220c345d,2016-09-13,grape/lib/grape/middleware/base.rb,,220c345d,2,2,namusyaka@gmail.com,2016-09-13T21:15:05+02:00
+namusyaka,220c345d,2016-09-13,grape/lib/grape/middleware/error.rb,,220c345d,1,1,namusyaka@gmail.com,2016-09-13T21:15:05+02:00
+namusyaka,220c345d,2016-09-13,grape/lib/grape/namespace.rb,,220c345d,1,1,namusyaka@gmail.com,2016-09-13T21:15:05+02:00
+namusyaka,220c345d,2016-09-13,grape/lib/grape/parser.rb,,220c345d,2,2,namusyaka@gmail.com,2016-09-13T21:15:05+02:00
+namusyaka,220c345d,2016-09-13,grape/lib/grape/presenters/presenter.rb,,220c345d,1,1,namusyaka@gmail.com,2016-09-13T21:15:05+02:00
+namusyaka,220c345d,2016-09-13,grape/lib/grape/router.rb,,220c345d,3,3,namusyaka@gmail.com,2016-09-13T21:15:05+02:00
+namusyaka,220c345d,2016-09-13,grape/lib/grape/router/pattern.rb,,220c345d,7,7,namusyaka@gmail.com,2016-09-13T21:15:05+02:00
+namusyaka,220c345d,2016-09-13,grape/lib/grape/router/route.rb,,220c345d,3,3,namusyaka@gmail.com,2016-09-13T21:15:05+02:00
+namusyaka,220c345d,2016-09-13,grape/spec/grape/exceptions/validation_spec.rb,,220c345d,1,1,namusyaka@gmail.com,2016-09-13T21:15:05+02:00
+namusyaka,3e9ed2f3,2016-09-11,grape/lib/grape/api.rb,Fix,3e9ed2f3,2,12,namusyaka@gmail.com,2016-09-11T11:14:17+02:00
+namusyaka,3e9ed2f3,2016-09-11,grape/lib/grape/endpoint.rb,Fix,3e9ed2f3,15,5,namusyaka@gmail.com,2016-09-11T11:14:17+02:00
+namusyaka,3e9ed2f3,2016-09-11,grape/lib/grape/middleware/versioner/header.rb,Fix,3e9ed2f3,1,1,namusyaka@gmail.com,2016-09-11T11:14:17+02:00
+namusyaka,3e9ed2f3,2016-09-11,grape/lib/grape/router.rb,Fix,3e9ed2f3,3,3,namusyaka@gmail.com,2016-09-11T11:14:17+02:00
+namusyaka,3e9ed2f3,2016-09-11,grape/lib/grape/util/env.rb,Fix,3e9ed2f3,1,1,namusyaka@gmail.com,2016-09-11T11:14:17+02:00
+Joe Faber,8f112579,2016-06-15,grape/spec/grape/api_spec.rb,,8f112579,41,0,jfaber@secureauth.com,2016-06-15T20:34:52+02:00
+Jonathan Chan,3540ea25,2016-09-09,grape/lib/grape/validations/validators/values.rb,,3540ea25,16,2,jc@jmccc.com,2016-09-09T16:31:26+02:00
+Jonathan Chan,3540ea25,2016-09-09,grape/spec/grape/validations/validators/values_spec.rb,,3540ea25,89,0,jc@jmccc.com,2016-09-09T16:31:26+02:00
+Rosa Gutierrez,39ff0d0d,2016-08-29,grape/lib/grape/middleware/stack.rb,,39ff0d0d,1,1,rosa@rosapolis.net,2016-08-29T14:16:28+02:00
+Rosa Gutierrez,39ff0d0d,2016-08-29,grape/spec/grape/middleware/stack_spec.rb,,39ff0d0d,20,0,rosa@rosapolis.net,2016-08-29T14:16:28+02:00
+dblock,62c6bbab,2016-07-29,grape/lib/grape/version.rb,,62c6bbab,1,1,dblock@dblock.org,2016-07-29T22:21:07+02:00
+Roman Kolesnev,b660e7ae,2016-07-27,grape/lib/grape.rb,Fix,b660e7ae,1,0,rvkolesnev@gmail.com,2016-07-27T15:23:54+02:00
+Roman Kolesnev,b660e7ae,2016-07-27,grape/lib/grape/dsl/parameters.rb,Fix,b660e7ae,2,1,rvkolesnev@gmail.com,2016-07-27T15:23:54+02:00
+Roman Kolesnev,b660e7ae,2016-07-27,grape/lib/grape/endpoint.rb,Fix,b660e7ae,2,0,rvkolesnev@gmail.com,2016-07-27T15:23:54+02:00
+Roman Kolesnev,b660e7ae,2016-07-27,grape/lib/grape/exceptions/validation_array_errors.rb,Fix,b660e7ae,11,0,rvkolesnev@gmail.com,2016-07-27T15:23:54+02:00
+Roman Kolesnev,b660e7ae,2016-07-27,grape/lib/grape/validations/attributes_iterator.rb,Fix,b660e7ae,32,7,rvkolesnev@gmail.com,2016-07-27T15:23:54+02:00
+Roman Kolesnev,b660e7ae,2016-07-27,grape/lib/grape/validations/params_scope.rb,Fix,b660e7ae,4,3,rvkolesnev@gmail.com,2016-07-27T15:23:54+02:00
+Roman Kolesnev,b660e7ae,2016-07-27,grape/lib/grape/validations/types/build_coercer.rb,Fix,b660e7ae,9,1,rvkolesnev@gmail.com,2016-07-27T15:23:54+02:00
+Roman Kolesnev,b660e7ae,2016-07-27,grape/lib/grape/validations/validators/base.rb,Fix,b660e7ae,12,2,rvkolesnev@gmail.com,2016-07-27T15:23:54+02:00
+Roman Kolesnev,b660e7ae,2016-07-27,grape/spec/grape/validations/validators/coerce_spec.rb,Fix,b660e7ae,1,1,rvkolesnev@gmail.com,2016-07-27T15:23:54+02:00
+Roman Kolesnev,b660e7ae,2016-07-27,grape/spec/grape/validations_spec.rb,Fix,b660e7ae,32,13,rvkolesnev@gmail.com,2016-07-27T15:23:54+02:00
+dblock,5a425d8f,2016-07-27,grape/spec/grape/api_spec.rb,Fix,5a425d8f,3,1,dblock@dblock.org,2016-07-27T20:11:51+02:00
+dblock,ffe2465f,2016-07-27,grape/spec/grape/api_spec.rb,Fix,ffe2465f,8,3,dblock@dblock.org,2016-07-27T19:24:42+02:00
+dblock,ffe2465f,2016-07-27,grape/spec/grape/entity_spec.rb,Fix,ffe2465f,0,2,dblock@dblock.org,2016-07-27T19:24:42+02:00
+dblock,ffe2465f,2016-07-27,grape/spec/grape/integration/rack_spec.rb,Fix,ffe2465f,1,1,dblock@dblock.org,2016-07-27T19:24:42+02:00
+dblock,ffe2465f,2016-07-27,grape/spec/spec_helper.rb,Fix,ffe2465f,1,8,dblock@dblock.org,2016-07-27T19:24:42+02:00
+Jeremy Steinberg,2d8ef474,2016-07-27,grape/lib/grape/endpoint.rb,Fix,2d8ef474,4,1,jeremy@quietfoundation.com,2016-07-27T18:33:08+02:00
+Jeremy Steinberg,2d8ef474,2016-07-27,grape/lib/grape/router.rb,Fix,2d8ef474,2,18,jeremy@quietfoundation.com,2016-07-27T18:33:08+02:00
+Jeremy Steinberg,2d8ef474,2016-07-27,grape/spec/grape/api_spec.rb,Fix,2d8ef474,30,0,jeremy@quietfoundation.com,2016-07-27T18:33:08+02:00
+Daniel Doubrovkine (dB.) @dblockdotorg,048b00ce,2016-07-22,grape/lib/grape/version.rb,,048b00ce,1,1,dblock@dblock.org,2016-07-22T21:36:12+02:00
+Joe Faber,8b721447,2016-07-14,grape/lib/grape/validations/validators/default.rb,,8b721447,26,1,jfaber@secureauth.com,2016-07-14T16:34:40+02:00
+Joe Faber,8b721447,2016-07-14,grape/spec/grape/api/parameters_modification_spec.rb,,8b721447,41,0,jfaber@secureauth.com,2016-07-14T16:34:40+02:00
+Leif Gensert,21925fc1,2016-07-20,grape/lib/grape/router.rb,,21925fc1,7,0,leif@leif.io,2016-07-20T15:16:43+02:00
+Leif Gensert,21925fc1,2016-07-20,grape/spec/grape/api_spec.rb,,21925fc1,15,0,leif@leif.io,2016-07-20T15:16:43+02:00
+Glauco Custódio,c9a81a85,2016-07-19,grape/lib/grape/dsl/parameters.rb,,c9a81a85,2,1,glauco.custodio@gmail.com,2016-07-19T19:38:26+02:00
+Glauco Custódio,c9a81a85,2016-07-19,grape/lib/grape/validations/params_scope.rb,,c9a81a85,7,1,glauco.custodio@gmail.com,2016-07-19T19:38:26+02:00
+Glauco Custódio,c9a81a85,2016-07-19,grape/spec/grape/validations/params_scope_spec.rb,,c9a81a85,87,0,glauco.custodio@gmail.com,2016-07-19T19:38:26+02:00
+Mason McLead,42107dab,2016-06-30,grape/lib/grape/dsl/request_response.rb,,42107dab,5,1,mason.mclead@avant.com,2016-06-30T10:55:51+02:00
+Mason McLead,42107dab,2016-06-30,grape/lib/grape/endpoint.rb,,42107dab,1,0,mason.mclead@avant.com,2016-06-30T10:55:51+02:00
+Mason McLead,42107dab,2016-06-30,grape/lib/grape/middleware/error.rb,,42107dab,8,2,mason.mclead@avant.com,2016-06-30T10:55:51+02:00
+Mason McLead,42107dab,2016-06-30,grape/spec/grape/dsl/request_response_spec.rb,,42107dab,14,0,mason.mclead@avant.com,2016-06-30T10:55:51+02:00
+Mason McLead,42107dab,2016-06-30,grape/spec/grape/exceptions/body_parse_errors_spec.rb,,42107dab,37,0,mason.mclead@avant.com,2016-06-30T10:55:51+02:00
+Arkanain,c059f985,2016-06-29,grape/lib/grape/validations/params_scope.rb,fix,c059f985,1,1,arkanainkiller@gmail.com,2016-06-29T16:38:41+02:00
+Arkanain,c059f985,2016-06-29,grape/spec/grape/endpoint_spec.rb,fix,c059f985,73,0,arkanainkiller@gmail.com,2016-06-29T16:38:41+02:00

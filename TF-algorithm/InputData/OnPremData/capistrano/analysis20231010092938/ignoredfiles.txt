@@ -1,0 +1,17 @@
+cap
+Capfile
+Capfile
+capify
+capistrano.gemspec
+CNAME
+configuration.feature
+deploy.feature
+deploy_failure.feature
+doctor.feature
+Gemfile
+Gemfile
+installation.feature
+Rakefile
+sshconnect.feature
+stage_failure.feature
+Vagrantfile

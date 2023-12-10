@@ -1,0 +1,1 @@
+{"code-health-degradations":{"monthly":[{"name":"less.js/test/less-test.js","strength":0.22}],"improvements":[],"predictions":[],"yearly":[{"name":"less.js/Gruntfile.js","strength":1.08},{"name":"less.js/lib/less/tree/import.js","strength":0.5},{"name":"less.js/lib/less/tree/ruleset.js","strength":0.24}]}}

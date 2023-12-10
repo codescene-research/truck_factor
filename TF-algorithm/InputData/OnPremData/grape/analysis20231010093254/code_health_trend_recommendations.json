@@ -1,0 +1,1 @@
+{"code-health-degradations":{"monthly":[],"improvements":[],"predictions":[],"yearly":[{"name":"grape/spec/grape/validations/validators/coerce_spec.rb","strength":2.28},{"name":"grape/lib/grape/endpoint.rb","strength":0.43}]}}

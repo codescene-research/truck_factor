@@ -1,0 +1,6 @@
+author,rev,date,entity,message,ticket-id,loc-added,loc-deleted,author-email,basic-date-time
+Nathan Samson,7ced4e38,2016-08-06,No Component,fix bug,7ced4e38,14,6,nathan@nathansamson.be,2016-08-06T12:30:26+02:00
+Nathan Samson,b7427a9b,2016-07-21,No Component,,b7427a9b,219,17,nathan@nathansamson.be,2016-07-21T01:12:40+02:00
+Nathan Samson,2df40c64,2016-07-22,No Component,fix bug,2df40c64,2,0,nathan@nathansamson.be,2016-07-22T01:27:38+02:00
+Matt Boersma,6f3649b2,2016-07-19,No Component,,6f3649b2,1,1,mboersma@deis.com,2016-07-19T22:46:41+02:00
+Matt Boersma,c5c4c7d2,2016-06-16,No Component,,c5c4c7d2,1,1,mboersma@deis.com,2016-06-16T19:53:49+02:00

@@ -1,0 +1,1 @@
+{"code-health-degradations":{"monthly":[],"improvements":[],"predictions":[],"yearly":[{"name":"deis/logspout/logspout.go","strength":0.64},{"name":"deis/deisctl/cmd/cmd_test.go","strength":0.28}]}}

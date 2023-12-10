@@ -1,0 +1,1144 @@
+author,rev,date,entity,message,ticket-id,loc-added,loc-deleted,author-email,basic-date-time
+Adam Lassek,b0e515e,2015-07-28,No Component,Fix fix,b0e515e,2,2,adam@doubleprime.net,2015-07-28T09:04:14+02:00
+Dave Gynn,c783b1f,2015-07-18,No Component,,c783b1f,39,138,davegynn@gmail.com,2015-07-18T03:06:30+02:00
+Jon Yurek,36095bc,2015-06-26,No Component,,36095bc,3,4,jyurek@thoughtbot.com,2015-06-26T17:06:44+02:00
+Jon Yurek,7f732ee,2015-06-19,No Component,,7f732ee,4,4,jyurek@thoughtbot.com,2015-06-19T17:46:29+02:00
+Jon Yurek,c160ae5,2015-06-19,No Component,,c160ae5,44,21,jyurek@thoughtbot.com,2015-06-19T16:50:35+02:00
+sam,3f46100,2015-06-03,No Component,fix,3f46100,20,1,sleung@talenttech.com,2015-06-03T07:35:56+02:00
+Tute Costa,da56c39,2015-06-05,No Component,,da56c39,1,1,tutecosta@gmail.com,2015-06-05T17:27:37+02:00
+Isaac Betesh,900c839,2015-06-10,No Component,,900c839,1,1,iybetesh@gmail.com,2015-06-10T14:17:38+02:00
+Jon Yurek,ef1f40c,2015-06-12,No Component,,ef1f40c,3,3,jyurek@thoughtbot.com,2015-06-12T21:42:36+02:00
+Tute Costa,1522218,2015-06-05,No Component,,1522218,1,1,tutecosta@gmail.com,2015-06-05T17:27:37+02:00
+Jon Yurek,2e540f8,2015-06-05,No Component,Fix,2e540f8,9,9,jyurek@thoughtbot.com,2015-06-05T18:40:15+02:00
+maclover7,ecdd542,2015-05-27,No Component,fix,ecdd542,1,1,me@jonathanmoss.me,2015-05-27T15:36:28+02:00
+Tute Costa,67580ee,2015-06-05,No Component,,67580ee,1,1,tutecosta@gmail.com,2015-06-05T17:27:37+02:00
+Jon Yurek,9aee411,2015-05-22,No Component,Fix,9aee411,49,19,jyurek@thoughtbot.com,2015-05-22T21:21:01+02:00
+schneems,14356d7,2015-05-26,No Component,fix,14356d7,15,2,richard.schneeman@gmail.com,2015-05-26T18:04:34+02:00
+Brian John,9fb1b0f,2015-05-15,No Component,,9fb1b0f,11,4,brian@brianjohn.com,2015-05-15T17:20:04+02:00
+Jon Yurek,2bfd92b,2015-05-15,No Component,Fix,2bfd92b,4,3,jyurek@thoughtbot.com,2015-05-15T20:44:47+02:00
+Gaurish Sharma,52543bd,2014-10-12,No Component,,52543bd,16,0,contact@gaurishsharma.com,2014-10-12T18:42:45+02:00
+Jon Yurek,2610cc3,2015-05-15,No Component,Fix,2610cc3,1,1,jyurek@thoughtbot.com,2015-05-15T16:49:02+02:00
+Luke Griffiths,30406c6,2015-05-09,No Component,,30406c6,13,13,wlgriffiths@gmail.com,2015-05-09T22:55:29+02:00
+Luke Griffiths,03d14b2,2015-05-09,No Component,,03d14b2,8,8,wlgriffiths@gmail.com,2015-05-09T22:50:29+02:00
+Jon Yurek,afbb3af,2015-04-30,No Component,,afbb3af,6,7,jyurek@thoughtbot.com,2015-04-30T17:30:22+02:00
+soramugi,65b7776,2015-04-25,No Component,fix,65b7776,6,2,soramugi.chika@gmail.com,2015-04-25T06:40:52+02:00
+soramugi,108fe47,2015-04-25,No Component,,108fe47,6,0,soramugi.chika@gmail.com,2015-04-25T06:27:25+02:00
+soramugi,3fbda79,2014-12-13,No Component,,3fbda79,1,1,soramugi.chika@gmail.com,2014-12-13T03:14:38+01:00
+Stephen Pike,9ecd52e,2015-04-27,No Component,Fix,9ecd52e,10,7,spike@scpike.net,2015-04-27T01:19:29+02:00
+Stephen Pike,2a0274d,2014-05-16,No Component,,2a0274d,31,6,spike@scpike.net,2014-05-16T22:22:10+02:00
+pierallard,2ed50fb,2015-03-27,No Component,,2ed50fb,5,5,pierallard@gmail.com,2015-03-27T18:37:32+01:00
+pierallard,2d27143,2015-03-27,No Component,,2d27143,3,2,pierallard@gmail.com,2015-03-27T18:26:01+01:00
+pierallard,aaebf94,2015-03-12,No Component,,aaebf94,6,3,pierallard@gmail.com,2015-03-12T00:25:12+01:00
+pierallard,ea142d8,2015-03-11,No Component,,ea142d8,11,1,pierallard@gmail.com,2015-03-11T10:01:34+01:00
+Robert Eshleman,c706693,2015-04-23,No Component,,c706693,1,1,c.robert.eshleman@gmail.com,2015-04-23T18:50:20+02:00
+Rocco Galluzzo,9a69194,2015-03-13,No Component,Fix,9a69194,60,20,rocco@galluzzo.me,2015-03-13T17:49:55+01:00
+Sammy Larbi,c81970d,2015-04-14,No Component,Fix,c81970d,22,2,sam@codeodor.com,2015-04-14T18:02:43+02:00
+Adam Niedzielski,e195ef6,2015-03-25,No Component,Fix,e195ef6,29,4,adamsunday@gmail.com,2015-03-25T07:51:41+01:00
+Denis Demchenko,85e9663,2015-03-23,No Component,,85e9663,0,1,lancedikson@gmail.com,2015-03-23T18:08:45+01:00
+Rocco Galluzzo,6a817eb,2015-03-13,No Component,,6a817eb,1,1,rocco@galluzzo.me,2015-03-13T19:14:09+01:00
+Denis Demchenko,ed2f192,2015-03-12,No Component,,ed2f192,1,1,lancedikson@gmail.com,2015-03-12T18:14:04+01:00
+Agustin Cavilliotti,bc8eafe,2015-02-06,No Component,,bc8eafe,4,2,cavi21@gmail.com,2015-02-06T17:58:41+01:00
+Agustin Cavilliotti,ba7cf29,2015-02-06,No Component,,ba7cf29,12,12,cavi21@gmail.com,2015-02-06T17:55:09+01:00
+Agustin Cavilliotti,e4c04c2,2015-02-06,No Component,Fix,e4c04c2,20,10,cavi21@gmail.com,2015-02-06T16:11:19+01:00
+Agustin Cavilliotti,7d2904d,2015-01-30,No Component,,7d2904d,20,8,cavi21@gmail.com,2015-01-30T22:46:24+01:00
+Agustin Cavilliotti,1d621d8,2015-01-30,No Component,,1d621d8,24,5,cavi21@gmail.com,2015-01-30T21:56:55+01:00
+Dmitry Polushkin,a6972db,2015-01-28,No Component,,a6972db,5,0,dmitry.polushkin@gmail.com,2015-01-28T13:27:53+01:00
+Jon Yurek,c46b40b,2015-01-05,No Component,,c46b40b,61,4,jyurek@thoughtbot.com,2015-01-05T16:19:59+01:00
+Oliver Heard,a767595,2014-12-19,No Component,,a767595,2,9,oliver@afinite.co.uk,2014-12-19T15:21:58+01:00
+Jon Yurek,0f7380b,2014-12-09,No Component,fix,0f7380b,1,1,jyurek@thoughtbot.com,2014-12-09T20:40:58+01:00
+Jon Yurek,ea1fc3c,2014-12-09,No Component,,ea1fc3c,1,1,jyurek@thoughtbot.com,2014-12-09T17:59:55+01:00
+Jon Yurek,b589d5a,2014-12-08,No Component,,b589d5a,2,2,jyurek@thoughtbot.com,2014-12-08T21:37:14+01:00
+Ahmad Sherif,34c9b74,2014-11-05,No Component,,34c9b74,21,1,me@ahmadsherif.com,2014-11-05T16:05:17+01:00
+Jon Yurek,3398282,2014-12-05,No Component,,3398282,2,2,jyurek@thoughtbot.com,2014-12-05T22:27:00+01:00
+Jon Yurek,d02b2fc,2014-12-05,No Component,,d02b2fc,3,3,jyurek@thoughtbot.com,2014-12-05T22:11:42+01:00
+Jon Yurek,68d777f,2014-12-05,No Component,,68d777f,2,2,jyurek@thoughtbot.com,2014-12-05T22:07:56+01:00
+Jon Yurek,8e0eb4c,2014-12-05,No Component,fix,8e0eb4c,2,2,jyurek@thoughtbot.com,2014-12-05T22:01:14+01:00
+soramugi,ae3ec23,2014-11-15,No Component,,ae3ec23,3,3,soramugi.chika@gmail.com,2014-11-15T06:51:46+01:00
+Jon Yurek,3a76abe,2014-12-05,No Component,Fix,3a76abe,4,7,jyurek@thoughtbot.com,2014-12-05T19:39:13+01:00
+soramugi,ecfb5e2,2014-11-14,No Component,,ecfb5e2,20,6,soramugi.chika@gmail.com,2014-11-14T11:01:07+01:00
+Jon Yurek,804b4ed,2014-11-07,No Component,,804b4ed,9,1,jyurek@thoughtbot.com,2014-11-07T16:45:17+01:00
+Jon Yurek,17cae0e,2014-10-24,No Component,fix,17cae0e,1,1,jyurek@thoughtbot.com,2014-10-24T22:10:31+02:00
+Jon Yurek and Nathan Walls,981fb51,2014-10-24,No Component,,981fb51,33,1,jyurek@thoughtbot.com,2014-10-24T21:52:12+02:00
+Jon Yurek,3ec2599,2014-09-25,No Component,,3ec2599,27,22,jyurek@thoughtbot.com,2014-09-25T17:32:36+02:00
+Keitaroh Kobayashi,6ea7c26,2014-09-12,No Component,,6ea7c26,70,3,keita@kkob.us,2014-09-12T07:37:29+02:00
+Strech (Sergey Fedorov),0680225,2014-09-09,No Component,,0680225,9,2,strech_ftf@mail.ru,2014-09-09T08:31:54+02:00
+lister,87cebf9,2014-09-09,No Component,,87cebf9,13,2,simon@lisuna.org,2014-09-09T12:22:40+02:00
+Edgar Gonzalez,c8011b1,2014-05-10,No Component,,c8011b1,137,37,edggonzalezg@gmail.com,2014-05-10T06:25:13+02:00
+Edgar Gonzalez,82507cf,2014-05-05,No Component,Fix,82507cf,1,1,edggonzalezg@gmail.com,2014-05-05T10:11:22+02:00
+Jon Yurek,56c3022,2014-08-29,No Component,,56c3022,7,3,jyurek@thoughtbot.com,2014-08-29T21:55:04+02:00
+Michael Baudino,5b22af3,2014-08-19,No Component,,5b22af3,34,1,michael.baudino@alpine-lab.com,2014-08-19T14:16:47+02:00
+Jon Yurek,3b66d30,2014-08-29,No Component,Fix,3b66d30,2,2,jyurek@thoughtbot.com,2014-08-29T17:48:18+02:00
+caneroj1,f1d0689,2014-06-13,No Component,,f1d0689,14,1,caneroj1@tcnj.edu,2014-06-13T00:00:48+02:00
+antico5,965fce9,2014-08-06,No Component,,965fce9,1,1,armando.andini@hotmail.com,2014-08-06T04:24:37+02:00
+Guillermo Vargas,c0b7d08,2014-07-30,No Component,,c0b7d08,5,4,guilleva@gmail.com,2014-07-30T07:16:37+02:00
+Fabio Kreusch,6b1f610,2014-08-26,No Component,,6b1f610,1,5,fabiokr@gmail.com,2014-08-26T20:48:49+02:00
+Jon Yurek,e8c1dc8,2014-08-07,No Component,,e8c1dc8,19,1,jyurek@thoughtbot.com,2014-08-07T22:01:09+02:00
+Jonathan Lim,dca87ec,2014-07-07,No Component,,dca87ec,8,0,jonlim@notonthehighstreet.com,2014-07-07T11:08:58+02:00
+Jordan Jennings,ad23a0f,2014-07-08,No Component,,ad23a0f,0,8,JJN2009@gmail.com,2014-07-08T09:08:31+02:00
+Jon Yurek,128db71,2014-07-08,No Component,,128db71,1,1,jyurek@thoughtbot.com,2014-07-08T20:01:10+02:00
+Jon Yurek,eafe311,2014-07-08,No Component,,eafe311,1,1,jyurek@thoughtbot.com,2014-07-08T20:00:39+02:00
+shaileshparamisoft,f1feed0,2014-06-04,No Component,Fix,f1feed0,1,1,shailesh@paramisoft.com,2014-06-04T15:44:10+02:00
+Ivan,24aa94d,2014-06-25,No Component,,24aa94d,1,1,kia84@mail.msiu.ru,2014-06-25T10:38:33+02:00
+Pablo Cantero,07e0330,2014-07-08,No Component,,07e0330,17,1,pablo@pablocantero.com,2014-07-08T15:09:47+02:00
+Jon Yurek,a424b82,2014-06-27,No Component,,a424b82,7,7,jyurek@thoughtbot.com,2014-06-27T19:22:19+02:00
+Jon Yurek,9294b4b,2014-06-27,No Component,Fix,9294b4b,1,1,jyurek@thoughtbot.com,2014-06-27T17:21:11+02:00
+Joost Baaij,955db22,2014-06-14,No Component,,955db22,12,12,joost@spacebabies.nl,2014-06-14T17:04:39+02:00
+printercu,11734e2,2014-06-17,No Component,Fix,11734e2,1,2,printercu@gmail.com,2014-06-17T11:17:21+02:00
+Jon Yurek,73fd316,2014-05-31,No Component,,73fd316,4,3,jyurek@thoughtbot.com,2014-05-31T03:50:02+02:00
+Gabriele Cirulli,f387833,2013-09-30,No Component,,f387833,1,1,gabrycir@gmail.com,2013-09-30T23:15:37+02:00
+jaredmoody,5fa9db4,2013-02-18,No Component,,5fa9db4,114,2,jared@jaredmoody.com,2013-02-18T07:23:52+01:00
+Prem Sichanugrist,c919514,2014-05-16,No Component,Fix,c919514,6,1,s@sikac.hu,2014-05-16T16:52:56+02:00
+Lucas Caton,e38bdc1,2014-03-29,No Component,,e38bdc1,20,6,lucascaton@gmail.com,2014-03-29T06:32:42+01:00
+Lucas Caton,35373da,2014-03-29,No Component,,35373da,6,6,lucascaton@gmail.com,2014-03-29T05:17:55+01:00
+Lucas Caton,5eae051,2014-03-04,No Component,,5eae051,1,3,lucascaton@gmail.com,2014-03-04T02:53:36+01:00
+Adarsh Pandit,20d8151,2014-05-03,No Component,Fix,20d8151,6,1,adarsh@thoughtbot.com,2014-05-03T00:17:09+02:00
+Andrey Novikov,51dd012,2014-05-11,No Component,,51dd012,1,0,anovikov@at-consulting.ru,2014-05-11T15:00:59+02:00
+Adarsh Pandit,a1e3353,2014-05-01,No Component,,a1e3353,81,28,adarsh@thoughtbot.com,2014-05-01T06:36:37+02:00
+Jake Quain,a250392,2014-04-11,No Component,,a250392,31,1,quainjn@gmail.com,2014-04-11T18:03:52+02:00
+Patrick Byrne,0632282,2014-04-11,No Component,,0632282,22,2,code@patrickbyrne.net,2014-04-11T00:57:21+02:00
+Andrey Novikov,5befa1a,2014-04-10,No Component,,5befa1a,50,3,anovikov@at-consulting.ru,2014-04-10T11:27:19+02:00
+Jon Yurek,41da3a3,2014-04-04,No Component,,41da3a3,9,7,jyurek@thoughtbot.com,2014-04-04T19:59:05+02:00
+Jon Yurek,4b31816,2014-04-04,No Component,,4b31816,5,4,jyurek@thoughtbot.com,2014-04-04T17:15:29+02:00
+Mike Mangino,ea62bcb,2014-03-06,No Component,,ea62bcb,6,1,mmangino@elevatedcode.com,2014-03-06T19:17:58+01:00
+Mike Mangino,7ef5d0e,2014-03-06,No Component,,7ef5d0e,7,1,mmangino@elevatedcode.com,2014-03-06T19:13:13+01:00
+Evan Prothro,113198f,2013-12-11,No Component,fix,113198f,2,2,evan.prothro@gmail.com,2013-12-11T18:11:34+01:00
+Jon Yurek,3b99151,2014-03-21,No Component,,3b99151,14,0,jyurek@thoughtbot.com,2014-03-21T15:35:11+01:00
+Chris Ell,de693b4,2014-03-13,No Component,,de693b4,5,5,cell@weblinc.com,2014-03-13T04:35:35+01:00
+Jon Yurek,9ee29f3,2014-03-11,No Component,,9ee29f3,1,1,jyurek@thoughtbot.com,2014-03-11T20:18:51+01:00
+Jon Yurek,263a498,2014-03-11,No Component,,263a498,95,61,jyurek@thoughtbot.com,2014-03-11T16:46:40+01:00
+Jon Yurek,743e2e0,2014-03-10,No Component,,743e2e0,9,8,jyurek@thoughtbot.com,2014-03-10T21:12:28+01:00
+Jon Yurek,71727f4,2014-03-05,No Component,,71727f4,720,719,jyurek@thoughtbot.com,2014-03-05T19:59:44+01:00
+Jon Yurek,1a9fb2c,2014-03-05,No Component,fix,1a9fb2c,1,1,jyurek@thoughtbot.com,2014-03-05T16:59:34+01:00
+Jon Yurek,c9e3df3,2014-03-05,No Component,,c9e3df3,219,273,jyurek@thoughtbot.com,2014-03-05T16:39:54+01:00
+Jon Yurek,40010c4,2014-03-04,No Component,,40010c4,900,894,jyurek@thoughtbot.com,2014-03-04T17:14:25+01:00
+Jon Yurek,1f3a746,2014-02-27,No Component,,1f3a746,1792,1568,jyurek@thoughtbot.com,2014-02-27T17:23:37+01:00
+Johan van Zonneveld,a93dfc7,2014-03-04,No Component,,a93dfc7,5,1,johan@vzonneveld.nl,2014-03-04T11:09:35+01:00
+Tyler Porter,94a1154,2014-03-04,No Component,,94a1154,4,2,porteta@gmail.com,2014-03-04T17:26:00+01:00
+Tyler Porter,8524e8f,2014-03-04,No Component,,8524e8f,2,1,porteta@gmail.com,2014-03-04T16:58:05+01:00
+Jon Yurek,ea92212,2014-02-26,No Component,,ea92212,1,1,jyurek@thoughtbot.com,2014-02-26T16:54:54+01:00
+Jon Yurek,ae89f79,2014-02-25,No Component,,ae89f79,2,1,jyurek@thoughtbot.com,2014-02-25T22:45:55+01:00
+Jon Yurek,c123e0a,2014-02-21,No Component,,c123e0a,1,1,jyurek@thoughtbot.com,2014-02-21T21:46:00+01:00
+Jon Yurek,48a9c3b,2014-02-14,No Component,,48a9c3b,1,1,jyurek@thoughtbot.com,2014-02-14T20:28:17+01:00
+Kylan McBride,4ee4fd3,2014-01-06,No Component,,4ee4fd3,1,1,kylans+github@gmail.com,2014-01-06T00:33:31+01:00
+Kylan McBride,36a91fe,2014-01-06,No Component,,36a91fe,11,1,kylans+github@gmail.com,2014-01-06T00:16:30+01:00
+Kylan McBride,44df863,2013-12-30,No Component,,44df863,1,1,kmcbride@users.noreply.github.com,2013-12-30T20:36:16+01:00
+Jonah Dahlquist,34121da,2013-12-21,No Component,Fix,34121da,1,1,jonah@nucleussystems.com,2013-12-21T03:36:40+01:00
+Wojciech Wnętrzak,8b5289b,2014-02-10,No Component,,8b5289b,19,3,w.wnetrzak@gmail.com,2014-02-10T12:09:08+01:00
+Jon Yurek,b45eac2,2014-02-14,No Component,,b45eac2,1,1,jyurek@thoughtbot.com,2014-02-14T16:19:26+01:00
+Wojciech Wnętrzak,00787da,2014-02-11,No Component,,00787da,20,0,w.wnetrzak@gmail.com,2014-02-11T12:29:04+01:00
+Jon Yurek,81669c1,2014-02-07,No Component,,81669c1,1,1,jyurek@thoughtbot.com,2014-02-07T21:49:31+01:00
+Scott Carleton,861ab21,2014-01-21,No Component,,861ab21,45,1,scott@artsicle.com,2014-01-21T22:07:00+01:00
+Marco Otte-Witte,9ba8263,2014-01-28,No Component,,9ba8263,5,0,mottewitte@rim.com,2014-01-28T14:43:06+01:00
+Marco Otte-Witte,44c10cc,2014-01-28,No Component,,44c10cc,1,1,mottewitte@rim.com,2014-01-28T14:09:12+01:00
+Adam Niedzielski,fe19916,2014-01-28,No Component,,fe19916,4,1,adamsunday@gmail.com,2014-01-28T21:13:18+01:00
+Jon Yurek,c5f2b14,2014-02-07,No Component,,c5f2b14,45,6,jyurek@thoughtbot.com,2014-02-07T18:00:56+01:00
+Jon Yurek,312126a,2014-01-31,No Component,,312126a,1,1,jyurek@thoughtbot.com,2014-01-31T21:58:45+01:00
+Jon Yurek,c132f6c,2014-01-31,No Component,,c132f6c,1,4,jyurek@thoughtbot.com,2014-01-31T21:43:17+01:00
+Jon Yurek,38c51d6,2014-01-31,No Component,,38c51d6,359,65,jyurek@thoughtbot.com,2014-01-31T15:04:50+01:00
+Jon Yurek,c9c5227,2014-01-29,No Component,,c9c5227,4,4,jyurek@thoughtbot.com,2014-01-29T01:38:48+01:00
+Jon Yurek,d840a1e,2014-01-27,No Component,,d840a1e,23,24,jyurek@thoughtbot.com,2014-01-27T04:01:13+01:00
+Jon Yurek,f1db7d7,2014-01-27,No Component,,f1db7d7,19,21,jyurek@thoughtbot.com,2014-01-27T04:01:13+01:00
+Dan Collis-Puro,19a3bfc,2014-01-26,No Component,,19a3bfc,65,0,djcp@thoughtbot.com,2014-01-26T00:20:04+01:00
+Dan Collis-Puro,066a139,2014-01-25,No Component,Fix,066a139,1,1,djcp@thoughtbot.com,2014-01-25T23:56:13+01:00
+Dan Collis-Puro,508563d,2014-01-24,No Component,Fix,508563d,36,31,djcp@thoughtbot.com,2014-01-24T23:05:24+01:00
+Dan Collis-Puro,a7313e9,2014-01-24,No Component,,a7313e9,0,11,djcp@thoughtbot.com,2014-01-24T22:53:20+01:00
+Dan Collis-Puro,7b5a71a,2014-01-24,No Component,,7b5a71a,2,2,djcp@thoughtbot.com,2014-01-24T22:50:06+01:00
+Dan Collis-Puro,f785f0e,2014-01-24,No Component,fix,f785f0e,3,1,djcp@thoughtbot.com,2014-01-24T22:45:59+01:00
+Jon Yurek,41c092d,2014-01-24,No Component,,41c092d,150,48,jyurek@thoughtbot.com,2014-01-24T20:36:35+01:00
+Jon Yurek,5ecd1d3,2014-01-24,No Component,,5ecd1d3,1,1,jyurek@thoughtbot.com,2014-01-24T16:45:06+01:00
+Jon Yurek,eb75c08,2014-01-10,No Component,,eb75c08,21,7,jyurek@thoughtbot.com,2014-01-10T21:34:46+01:00
+John Grimes,6b4c254,2014-01-08,No Component,,6b4c254,3,2,john@smallspark.com.au,2014-01-08T02:25:13+01:00
+Matt Patterson,6a6f855,2013-11-24,No Component,,6a6f855,2,2,matt@reprocessed.org,2013-11-24T12:55:01+01:00
+Claudio Contin,f79ec49,2014-01-03,No Component,fix,f79ec49,12,1,claudiocontin@mint,2014-01-03T03:16:23+01:00
+Jon Yurek,75441a4,2014-01-03,No Component,bug,75441a4,1,1,jyurek@thoughtbot.com,2014-01-03T21:03:28+01:00
+Jon Yurek,ad176ba,2014-01-03,No Component,,ad176ba,22,0,jyurek@thoughtbot.com,2014-01-03T17:32:38+01:00
+Dan Dockery,0f4029c,2013-09-20,No Component,,0f4029c,1,3,ddockery@socialcast.com,2013-09-20T20:47:51+02:00
+Jon Yurek,bfaec7c,2014-01-02,No Component,,bfaec7c,3,0,jyurek@thoughtbot.com,2014-01-02T21:19:31+01:00
+Anders Lemke,5a06d85,2013-10-07,No Component,,5a06d85,2,0,mail@anderslemke.dk,2013-10-07T10:40:49+02:00
+Jon Yurek,e803a12,2014-01-02,No Component,,e803a12,12,13,jyurek@thoughtbot.com,2014-01-02T15:41:45+01:00
+Jon Yurek,6ac2509,2013-12-20,No Component,,6ac2509,1,1,jyurek@thoughtbot.com,2013-12-20T20:29:49+01:00
+brad dunbar,2dd5d50,2013-08-29,No Component,,2dd5d50,1,1,dunbarb2@gmail.com,2013-08-29T15:25:19+02:00
+Alex Tambellini,73d40d1,2013-08-21,No Component,,73d40d1,8,3,atambellini@gmail.com,2013-08-21T05:28:00+02:00
+Scott Carleton,80f9b30,2013-08-29,No Component,,80f9b30,31,0,scott@artsicle.com,2013-08-29T15:15:57+02:00
+Dan Collis-Puro,51f37a1,2013-12-11,No Component,,51f37a1,21,21,djcp@thoughtbot.com,2013-12-11T20:49:22+01:00
+Henry Turner,0109948,2013-12-13,No Component,,0109948,13,1,henners@wheatstack.com,2013-12-13T22:04:04+01:00
+Gordan Grasarevic,699c657,2013-12-10,No Component,,699c657,1,1,me@ggordan.com,2013-12-10T17:20:45+01:00
+Jon Yurek,6459f2c,2013-11-15,No Component,,6459f2c,7,10,jyurek@thoughtbot.com,2013-11-15T19:52:23+01:00
+Scott Carleton,9a3f9f8,2013-08-29,No Component,,9a3f9f8,3,1,scott@artsicle.com,2013-08-29T18:41:05+02:00
+Scott Carleton,daefa87,2013-08-29,No Component,,daefa87,14,0,scott@artsicle.com,2013-08-29T18:29:23+02:00
+Sjoerd Andringa,5077095,2013-08-29,No Component,,5077095,21,1,sjoerd.andringa@me.com,2013-08-29T15:52:37+02:00
+Krzysiek,a01677f,2013-10-28,No Component,,a01677f,13,4,k.kotlarski@american-systems.pl,2013-10-28T18:49:52+01:00
+Jon Yurek,8c2904c,2013-11-01,No Component,,8c2904c,0,33,jyurek@thoughtbot.com,2013-11-01T18:49:33+01:00
+Jon Yurek,454b5ca,2013-11-01,No Component,,454b5ca,44,21,jyurek@thoughtbot.com,2013-11-01T18:48:52+01:00
+gmarik,c0503d2,2013-10-30,No Component,,c0503d2,2,4,gmarik@users.noreply.github.com,2013-10-30T20:51:02+01:00
+Jon Yurek,726f183,2013-10-22,No Component,,726f183,45,35,jyurek@thoughtbot.com,2013-10-22T19:56:54+02:00
+Jon Yurek,fb13e2e,2013-09-19,No Component,,fb13e2e,58,5,jyurek@thoughtbot.com,2013-09-19T16:09:58+02:00
+Jon Yurek,1446931,2013-10-22,No Component,,1446931,1,1,jyurek@thoughtbot.com,2013-10-22T20:03:09+02:00
+Prem Sichanugrist,1d89823,2013-10-08,No Component,bug,1d89823,5,0,s@sikac.hu,2013-10-08T19:22:26+02:00
+Dan Collis-Puro,c594c24,2013-08-21,No Component,Fix,c594c24,16,9,djcp@thoughtbot.com,2013-08-21T22:12:34+02:00
+Jon Yurek,a12dec1,2013-08-16,No Component,fix,a12dec1,37,5,jyurek@thoughtbot.com,2013-08-16T16:36:10+02:00
+William Ross,ce604d6,2013-08-07,No Component,,ce604d6,86,0,will@spanner.org,2013-08-07T14:24:35+02:00
+Dan Collis-Puro,0b080ee,2013-08-09,No Component,Fix,0b080ee,13,1,djcp@thoughtbot.com,2013-08-09T20:23:12+02:00
+Jon Yurek,203415c,2013-07-31,No Component,,203415c,1,1,jyurek@thoughtbot.com,2013-07-31T22:27:12+02:00
+Dan Collis-Puro,f59a589,2013-07-26,No Component,Fix fix,f59a589,27,1,djcp@thoughtbot.com,2013-07-26T21:54:13+02:00
+Jon Yurek,0d04ae1,2013-07-31,No Component,,0d04ae1,49,12,jyurek@thoughtbot.com,2013-07-31T21:46:49+02:00
+Jon Yurek,f29f96b,2013-07-31,No Component,,f29f96b,24,6,jyurek@thoughtbot.com,2013-07-31T18:18:08+02:00
+Jon Yurek,3b40121,2013-07-30,No Component,,3b40121,36,0,jyurek@thoughtbot.com,2013-07-30T22:12:45+02:00
+Jon Yurek,1f92b87,2013-07-30,No Component,,1f92b87,46,40,jyurek@thoughtbot.com,2013-07-30T18:02:34+02:00
+Zach Millman,deaef74,2013-03-09,No Component,,deaef74,4,5,zach.millman@gmail.com,2013-03-09T04:09:21+01:00
+Zach Millman,2fe6687,2013-03-09,No Component,,2fe6687,14,11,zach.millman@gmail.com,2013-03-09T03:57:30+01:00
+Zach Millman,f1f446c,2013-03-01,No Component,,f1f446c,32,13,zach.millman@gmail.com,2013-03-01T23:37:51+01:00
+Zach Millman,d42adb8,2013-03-01,No Component,,d42adb8,5,0,zach.millman@gmail.com,2013-03-01T22:55:52+01:00
+Zach Millman,04af582,2013-02-28,No Component,,04af582,3,2,zach.millman@gmail.com,2013-02-28T21:05:31+01:00
+Jon Yurek,dbb7e04,2013-07-29,No Component,,dbb7e04,13,1,jyurek@thoughtbot.com,2013-07-29T21:07:06+02:00
+Jon Yurek,ceb43f1,2013-07-25,No Component,,ceb43f1,33,3,jyurek@thoughtbot.com,2013-07-25T20:38:09+02:00
+Jon Yurek,f8cf74b,2013-07-25,No Component,,f8cf74b,1,2,jyurek@thoughtbot.com,2013-07-25T19:03:07+02:00
+Jon Yurek,b62cc2d,2013-07-23,No Component,,b62cc2d,98,38,jyurek@thoughtbot.com,2013-07-23T16:10:24+02:00
+Jon Yurek,edfdc03,2013-07-19,No Component,,edfdc03,1,1,jyurek@thoughtbot.com,2013-07-19T16:47:58+02:00
+Jon Yurek,1bcd49f,2013-07-18,No Component,,1bcd49f,5,11,jyurek@thoughtbot.com,2013-07-18T22:33:45+02:00
+Marco Otte-Witte,38a6b4d,2013-07-18,No Component,,38a6b4d,97,3,mottewitte@rim.com,2013-07-18T17:43:45+02:00
+Jon Yurek,d4f4313,2013-07-18,No Component,,d4f4313,4,0,jyurek@thoughtbot.com,2013-07-18T17:04:40+02:00
+Jon Yurek,7fee0b1,2013-07-18,No Component,,7fee0b1,38,25,jyurek@thoughtbot.com,2013-07-18T16:59:12+02:00
+Max Melentiev,a5427dc,2013-04-30,No Component,,a5427dc,49,9,melentievm@gmail.com,2013-04-30T14:02:44+02:00
+Max Melentiev,8b0f6d3,2013-04-30,No Component,fix,8b0f6d3,1,1,melentievm@gmail.com,2013-04-30T14:01:21+02:00
+Jon Yurek,f9cb5a4,2013-07-17,No Component,,f9cb5a4,14,0,jyurek@thoughtbot.com,2013-07-17T14:34:25+02:00
+Jon Yurek,e54b5bd,2013-07-16,No Component,,e54b5bd,36,0,jyurek@thoughtbot.com,2013-07-16T22:39:58+02:00
+Adam Milligan,fab4aea,2013-05-01,No Component,,fab4aea,14,0,adam@daisybill.com,2013-05-01T20:32:06+02:00
+Jon Yurek,83f82ed,2013-04-26,No Component,,83f82ed,103,26,jyurek@thoughtbot.com,2013-04-26T20:25:22+02:00
+Zachary Friedman,efe8db9,2013-07-07,No Component,,efe8db9,7,8,zafriedman@gmail.com,2013-07-07T22:58:04+02:00
+Dan Collis-Puro,e321608,2013-06-14,No Component,,e321608,4,0,djcp@thoughtbot.com,2013-06-14T21:20:54+02:00
+Johnny Shields,bf5b404,2013-06-25,No Component,,bf5b404,4,4,johnny.shields@gmail.com,2013-06-25T07:50:29+02:00
+Dan Collis-Puro,f2b273a,2013-06-21,No Component,,f2b273a,11,8,djcp@thoughtbot.com,2013-06-21T19:22:24+02:00
+Dan Collis-Puro,2aeb491,2013-06-07,No Component,,2aeb491,49,8,djcp@thoughtbot.com,2013-06-07T21:32:53+02:00
+Edward Holets,58e2c68,2013-06-15,No Component,,58e2c68,8,1,ned@labzero.com,2013-06-15T06:19:46+02:00
+Mike Burns,bc0758c,2013-05-03,No Component,,bc0758c,12,2,mike@mike-burns.com,2013-05-03T14:51:11+02:00
+Mike Burns,b491f2a,2013-05-03,No Component,,b491f2a,5,2,mike@mike-burns.com,2013-05-03T13:54:07+02:00
+Mike Burns,2ba2769,2013-05-03,No Component,,2ba2769,5,1,mike@mike-burns.com,2013-05-03T13:52:13+02:00
+Mike Burns,56a2cd6,2013-05-03,No Component,,56a2cd6,0,20,mike@mike-burns.com,2013-05-03T13:43:59+02:00
+Mike Burns,9f0bc34,2013-05-03,No Component,Fix,9f0bc34,1,1,mike@mike-burns.com,2013-05-03T13:43:15+02:00
+George Brocklehurst,169d8d7,2013-03-01,No Component,Fix fix,169d8d7,17,1,george.brocklehurst@gmail.com,2013-03-01T17:12:31+01:00
+George Brocklehurst,5046dfc,2013-03-01,No Component,,5046dfc,21,1,george.brocklehurst@gmail.com,2013-03-01T17:11:53+01:00
+George Brocklehurst,3254824,2013-03-01,No Component,,3254824,20,2,george.brocklehurst@gmail.com,2013-03-01T16:40:22+01:00
+George Brocklehurst,232cacb,2013-03-01,No Component,,232cacb,0,3,george.brocklehurst@gmail.com,2013-03-01T16:33:31+01:00
+Mike Burns,9bcb5c8,2013-03-01,No Component,,9bcb5c8,24,2,mike@mike-burns.com,2013-03-01T15:20:17+01:00
+Mike Burns and George Brocklehurst,24dc7b2,2013-03-01,No Component,,24dc7b2,33,81,support+mburns+george@thoughtbot.com,2013-03-01T15:06:05+01:00
+Mike Burns,d8a721f,2013-01-25,No Component,,d8a721f,29,6,mike@mike-burns.com,2013-01-25T18:31:51+01:00
+Mike Burns,2d28dbc,2013-01-25,No Component,,2d28dbc,13,4,mike@mike-burns.com,2013-01-25T12:30:38+01:00
+Mike Burns,c555f51,2013-01-25,No Component,,c555f51,64,23,mike@mike-burns.com,2013-01-25T12:30:27+01:00
+Mike Burns,02bd35f,2013-01-25,No Component,,02bd35f,41,11,mike@mike-burns.com,2013-01-25T11:56:18+01:00
+Mike Burns,dad6086,2013-01-25,No Component,,dad6086,1,14,mike@mike-burns.com,2013-01-25T11:33:17+01:00
+Mike Burns,d687fca,2013-01-25,No Component,,d687fca,25,9,mike@mike-burns.com,2013-01-25T11:29:56+01:00
+Mike Burns,710f658,2013-01-18,No Component,,710f658,39,9,mike@mike-burns.com,2013-01-18T15:44:14+01:00
+Mike Burns and George Brocklehurst,40bdd3d,2013-01-18,No Component,,40bdd3d,22,18,support+mburns+george@thoughtbot.com,2013-01-18T15:10:08+01:00
+Edward Holets,9cdc06e,2013-06-10,No Component,,9cdc06e,110,3,ned@labzero.com,2013-06-10T01:31:21+02:00
+Jon Yurek,58e3a97,2013-05-24,No Component,Fix,58e3a97,9,0,jyurek@thoughtbot.com,2013-05-24T23:45:33+02:00
+Mike Burns,acd34e0,2013-05-24,No Component,,acd34e0,4,1,mike@mike-burns.com,2013-05-24T16:17:59+02:00
+Jon Yurek,2a74ca4,2013-05-17,No Component,,2a74ca4,1,1,jyurek@thoughtbot.com,2013-05-17T18:46:12+02:00
+Loren Segal,022598c,2013-05-16,No Component,,022598c,3,3,lsegal@amazon.com,2013-05-16T07:09:41+02:00
+Simon Coffey,7d807c6,2013-02-25,No Component,,7d807c6,0,49,simon@tribesports.com,2013-02-25T15:45:01+01:00
+Andres Arellano,edffcab,2013-03-08,No Component,,edffcab,4,0,andres.arellano@gmail.com,2013-03-08T21:22:25+01:00
+Andres Arellano,27c0eee,2013-03-08,No Component,,27c0eee,7,0,andres.arellano@gmail.com,2013-03-08T15:50:12+01:00
+Dan Collis-Puro,eb4e88b,2013-03-08,No Component,,eb4e88b,3,3,djcp@thoughtbot.com,2013-03-08T23:07:55+01:00
+Tieg Zaharia,6721b46,2013-03-08,No Component,fix,6721b46,24,9,tieg@kickstarter.com,2013-03-08T20:26:52+01:00
+Tieg Zaharia,4a625e0,2013-03-08,No Component,,4a625e0,1,1,tieg@kickstarter.com,2013-03-08T17:29:10+01:00
+Tieg Zaharia,3d0d49f,2013-03-07,No Component,,3d0d49f,22,4,tieg@kickstarter.com,2013-03-07T00:22:00+01:00
+Jon Yurek,7135b6b,2013-03-01,No Component,Fix,7135b6b,1,1,jyurek@thoughtbot.com,2013-03-01T18:55:56+01:00
+Jon Yurek,b4385bd,2013-03-01,No Component,,b4385bd,4,4,jyurek@thoughtbot.com,2013-03-01T18:55:35+01:00
+mrzasa,33ba181,2013-03-01,No Component,,33ba181,1,1,maciejrzasa@gmail.com,2013-03-01T13:08:42+01:00
+Jon Yurek,62264c6,2013-02-22,No Component,,62264c6,1,1,jyurek@thoughtbot.com,2013-02-22T19:11:30+01:00
+Michael Dotterer,f820685,2013-02-20,No Component,,f820685,9,3,michael@groupsite.com,2013-02-20T16:02:18+01:00
+printercu,9a9c9ab,2013-02-16,No Component,,9a9c9ab,9,0,printercu@gmail.com,2013-02-16T08:18:35+01:00
+Les Hill,dcd2774,2013-02-06,No Component,,dcd2774,9,6,leshill@gmail.com,2013-02-06T01:15:21+01:00
+Les Hill,74b829f,2013-02-05,No Component,Fix,74b829f,38,1,leshill@gmail.com,2013-02-05T22:33:44+01:00
+Menno van der Sman,27fce03,2013-01-31,No Component,,27fce03,13,0,menno@wakoopa.com,2013-01-31T17:42:53+01:00
+Menno van der Sman,6b4d5cf,2013-01-31,No Component,,6b4d5cf,14,1,menno@wakoopa.com,2013-01-31T17:15:32+01:00
+Menno van der Sman,36b48d0,2013-01-31,No Component,,36b48d0,18,1,menno@wakoopa.com,2013-01-31T17:08:02+01:00
+Dan Collis-Puro,ca8ecfb,2013-01-18,No Component,Fix,ca8ecfb,100,7,djcp@thoughtbot.com,2013-01-18T19:24:40+01:00
+Jon Yurek,aa6338a,2013-01-19,No Component,,aa6338a,24,1,jyurek@thoughtbot.com,2013-01-19T22:28:30+01:00
+Jon Yurek,ec3ffdd,2013-01-18,No Component,,ec3ffdd,60,2,jyurek@thoughtbot.com,2013-01-18T17:22:53+01:00
+Prem Sichanugrist,adddf87,2012-12-21,No Component,,adddf87,1,1,s@sikac.hu,2012-12-21T21:27:01+01:00
+Jonathan Viney,fec71cf,2012-12-10,No Component,Fix,fec71cf,2,2,jonathan.viney@gmail.com,2012-12-10T09:50:38+01:00
+Benjamin Manns,26beeb1,2012-12-08,No Component,Fix,26beeb1,3,3,benmanns@gmail.com,2012-12-08T00:05:54+01:00
+Jon Yurek,ba76875,2012-12-07,No Component,,ba76875,2,2,jyurek@thoughtbot.com,2012-12-07T20:17:40+01:00
+Jon Berke,afc8f4b,2012-12-03,No Component,,afc8f4b,17,1,jon@theberkes.com,2012-12-03T19:40:42+01:00
+Jon Berke,adabe46,2012-11-17,No Component,Fix,adabe46,1,0,jon@theberkes.com,2012-11-17T03:15:17+01:00
+Jon Berke,8be77a9,2012-11-16,No Component,,8be77a9,12,26,jon@theberkes.com,2012-11-16T22:14:25+01:00
+Jon Berke,de11bd9,2012-11-15,No Component,,de11bd9,37,12,jon@theberkes.com,2012-11-15T23:56:54+01:00
+djcp,d71cc2d,2012-12-07,No Component,,d71cc2d,5,0,djcp@thoughtbot.com,2012-12-07T19:29:29+01:00
+Joost Elfering,7e6b5b6,2012-12-04,No Component,,7e6b5b6,1,1,yopefonic@gmail.com,2012-12-04T00:38:45+01:00
+Jon Yurek,5d8a132,2012-12-05,No Component,,5d8a132,6,1,jyurek@thoughtbot.com,2012-12-05T21:30:56+01:00
+Jon Yurek,c9ee8b9,2012-12-05,No Component,,c9ee8b9,8,4,jyurek@thoughtbot.com,2012-12-05T21:30:39+01:00
+knapo,46387cf,2012-12-02,No Component,,46387cf,4,0,knapo@knapo.net,2012-12-02T17:20:46+01:00
+Jon Yurek,1544a7b,2012-11-30,No Component,,1544a7b,38,3,jyurek@thoughtbot.com,2012-11-30T19:38:32+01:00
+Pavel Pravosud,3f4180e,2012-11-21,No Component,,3f4180e,2,0,pavel@pravosud.com,2012-11-21T16:19:40+01:00
+Pavel Pravosud,92e88fc,2012-11-21,No Component,,92e88fc,31,1,pavel@pravosud.com,2012-11-21T16:15:52+01:00
+Jon Yurek,446a4cd,2012-11-30,No Component,,446a4cd,9,5,jyurek@thoughtbot.com,2012-11-30T15:14:34+01:00
+Jon Yurek,a21869e,2012-11-30,No Component,Fix,a21869e,1,1,jyurek@thoughtbot.com,2012-11-30T15:14:24+01:00
+Geoffrey Hichborn,394ea1f,2012-06-16,No Component,Fix,394ea1f,1,1,geoff@socialcast.com,2012-06-16T02:47:20+02:00
+Geoffrey Hichborn,68aea16,2012-06-16,No Component,,68aea16,5,9,geoff@socialcast.com,2012-06-16T02:24:05+02:00
+Jon Yurek,d1920aa,2012-11-16,No Component,,d1920aa,24,59,jyurek@thoughtbot.com,2012-11-16T19:12:58+01:00
+Jon Yurek,f232097,2012-11-16,No Component,,f232097,0,1,jyurek@thoughtbot.com,2012-11-16T17:25:30+01:00
+Jon Yurek,9444387,2012-11-16,No Component,,9444387,2,2,jyurek@thoughtbot.com,2012-11-16T17:08:45+01:00
+Jon Yurek,233fcb9,2012-11-16,No Component,,233fcb9,17,17,jyurek@thoughtbot.com,2012-11-16T17:05:50+01:00
+Jon Yurek,8338024,2012-11-16,No Component,Fix,8338024,26,27,jyurek@thoughtbot.com,2012-11-16T16:50:49+01:00
+Jon Yurek,cbde60c,2012-11-16,No Component,,cbde60c,229,34,jyurek@thoughtbot.com,2012-11-16T16:19:06+01:00
+Jon Yurek,567086e,2012-11-03,No Component,,567086e,104,23,jyurek@thoughtbot.com,2012-11-03T18:58:27+01:00
+Simon Coffey,716f159,2012-09-19,No Component,,716f159,24,14,simon@tribesports.com,2012-09-19T16:42:13+02:00
+garethr,8d28a1e,2012-10-24,No Component,,8d28a1e,25,1,gareth.rees@boxuk.com,2012-10-24T18:47:03+02:00
+Jon Yurek,a255f26,2012-11-02,No Component,,a255f26,1,1,jyurek@thoughtbot.com,2012-11-02T20:21:18+01:00
+Geoff Harcourt,9ae8455,2012-10-11,No Component,,9ae8455,31,2,geoff.harcourt@gmail.com,2012-10-11T20:26:18+02:00
+Jon Yurek,e3556b9,2012-11-02,No Component,,e3556b9,6,0,jyurek@thoughtbot.com,2012-11-02T19:56:34+01:00
+simonjsmithuk,6f2ca93,2012-10-04,No Component,Fix,6f2ca93,1,1,simonjsmithuk@yahoo.co.uk,2012-10-04T18:53:50+02:00
+Jon Yurek,ad45c0f,2012-11-02,No Component,,ad45c0f,3,3,jyurek@thoughtbot.com,2012-11-02T18:58:10+01:00
+Janko Marohnić,ab9a0f7,2012-11-01,No Component,,ab9a0f7,27,0,janko.marohnic@gmail.com,2012-11-01T18:45:32+01:00
+djcp,eb466fa,2012-11-02,No Component,,eb466fa,7,1,djcp@thoughtbot.com,2012-11-02T15:53:32+01:00
+Mathieu Lemoine,331ae18,2012-10-11,No Component,,331ae18,33,1,mlemoine@mentel.com,2012-10-11T18:00:09+02:00
+Dave Donahue,4b8dce4,2012-09-13,No Component,,4b8dce4,130,9,dave@12spokes.com,2012-09-13T23:16:57+02:00
+Ehren Kret,4ea2de6,2012-09-18,No Component,,4ea2de6,33,0,ehren.kret@gmail.com,2012-09-18T07:50:34+02:00
+Jon Yurek,c65cbf3,2012-11-01,No Component,,c65cbf3,6,4,jyurek@thoughtbot.com,2012-11-01T22:23:02+01:00
+Alexander Ivanov,632ea47,2012-09-10,No Component,,632ea47,25,3,tei.krsk@gmail.com,2012-09-10T08:29:35+02:00
+Brian Morearty,75a8bd2,2012-10-31,No Component,fix,75a8bd2,20,7,brian@morearty.org,2012-10-31T21:52:02+01:00
+Jon Yurek,9bfcebc,2012-10-31,No Component,,9bfcebc,18,14,jyurek@thoughtbot.com,2012-10-31T22:16:32+01:00
+Pavel Pravosud,a9e09d1,2012-10-23,No Component,,a9e09d1,2,2,pavel@pravosud.com,2012-10-23T11:39:08+02:00
+Jon Yurek,c1c20f3,2012-10-31,No Component,,c1c20f3,1,1,jyurek@thoughtbot.com,2012-10-31T15:54:51+01:00
+Jon Yurek,91f673f,2012-10-31,No Component,,91f673f,20,1,jyurek@thoughtbot.com,2012-10-31T15:48:55+01:00
+JR Boyens,d01d58c,2012-08-15,No Component,Fix,d01d58c,1,1,jboyens@fooninja.org,2012-08-15T20:40:18+02:00
+Jon Yurek,83d8ec5,2012-10-19,No Component,,83d8ec5,19,3,jyurek@thoughtbot.com,2012-10-19T20:21:40+02:00
+Jon Yurek,deac3d4,2012-10-07,No Component,,deac3d4,1,1,jyurek@thoughtbot.com,2012-10-07T17:00:32+02:00
+darrenli,b35c9b8,2012-10-11,No Component,Fix,b35c9b8,3,3,darren@yourthanx.com,2012-10-11T07:18:09+02:00
+Jon Yurek,5f52d89,2012-10-05,No Component,,5f52d89,2,2,jyurek@thoughtbot.com,2012-10-05T16:48:16+02:00
+Jon Yurek,d15d8d8,2012-10-05,No Component,,d15d8d8,1,1,jyurek@thoughtbot.com,2012-10-05T16:29:22+02:00
+Jon Yurek,65f4941,2012-09-28,No Component,,65f4941,12,2,jyurek@thoughtbot.com,2012-09-28T17:31:31+02:00
+Jon Yurek,69bcf6e,2012-09-28,No Component,,69bcf6e,9,1,jyurek@thoughtbot.com,2012-09-28T17:14:45+02:00
+Jon Yurek,a16a50a,2012-09-14,No Component,,a16a50a,1,13,jyurek@thoughtbot.com,2012-09-14T20:51:53+02:00
+Jon Yurek,dc3cbbd,2012-09-14,No Component,,dc3cbbd,6,0,jyurek@thoughtbot.com,2012-09-14T19:18:57+02:00
+Matthew Schulkind,3b67a74,2012-06-12,No Component,Fix,3b67a74,2,1,mschulkind@gmail.com,2012-06-12T08:13:20+02:00
+Matthew Schulkind,526ced3,2012-06-12,No Component,Fix,526ced3,9,6,mschulkind@gmail.com,2012-06-12T07:58:36+02:00
+Matthew Schulkind,de6af66,2012-06-12,No Component,Fix,de6af66,2,0,mschulkind@gmail.com,2012-06-12T07:55:44+02:00
+Matthew Schulkind,fdb5b84,2012-06-12,No Component,Fix,fdb5b84,0,7,mschulkind@gmail.com,2012-06-12T07:48:52+02:00
+Matthew Schulkind,91a8b00,2012-06-12,No Component,Fix,91a8b00,1,0,mschulkind@gmail.com,2012-06-12T07:38:58+02:00
+Mike Burns,26f44c6,2012-09-07,No Component,Bug,26f44c6,1,1,mike@mike-burns.com,2012-09-07T17:47:21+02:00
+Alan Ho,eadd452,2012-07-10,No Component,,eadd452,7,0,alanho@gmail.com,2012-07-10T17:15:02+02:00
+Nathan Benes,eb92834,2012-08-28,No Component,Fix,eb92834,2,2,nbenes@westinconsulting.com,2012-08-28T23:24:07+02:00
+Johannes Barre,4bea897,2012-08-15,No Component,fix,4bea897,62,4,johannes.barre@e-7.com,2012-08-15T13:48:39+02:00
+Michael Reinsch,5161c5f,2012-08-06,No Component,,5161c5f,1,1,michael@mobalean.com,2012-08-06T07:00:00+02:00
+Michael Reinsch,dff05b3,2012-08-06,No Component,,dff05b3,2,1,michael@mobalean.com,2012-08-06T07:02:58+02:00
+Michael Reinsch,a955333,2012-08-06,No Component,,a955333,3,3,michael@mobalean.com,2012-08-06T06:59:15+02:00
+Val,cb7ad7b,2012-08-02,No Component,,cb7ad7b,41,4,val@qr8.co.uk,2012-08-02T16:54:52+02:00
+Jon Yurek,ee0fe89,2012-08-17,No Component,,ee0fe89,4,1,jyurek@thoughtbot.com,2012-08-17T19:56:02+02:00
+Martin Streicher,d0eda83,2012-07-27,No Component,,d0eda83,44,2,martin.streicher@gmail.com,2012-07-27T15:58:45+02:00
+Martin Streicher,1b6b467,2012-07-26,No Component,,1b6b467,3,6,martin.streicher@gmail.com,2012-07-26T19:35:28+02:00
+Prem Sichanugrist,70f0f1f,2012-07-21,No Component,,70f0f1f,1,1,s@sikachu.com,2012-07-21T19:20:15+02:00
+Prem Sichanugrist,a1281be,2012-07-21,No Component,,a1281be,11,37,s@sikachu.com,2012-07-21T18:48:32+02:00
+Aditya Sanghi,5d06ad8,2012-07-20,No Component,,5d06ad8,125,0,asanghi@me.com,2012-07-20T13:55:33+02:00
+Sergio Cambra,c57255a,2012-07-20,No Component,fix,c57255a,1,1,sergio@entrecables.com,2012-07-20T19:18:10+02:00
+Sergio Cambra,f7b76cd,2012-07-20,No Component,Fix,f7b76cd,1,1,sergio@entrecables.com,2012-07-20T19:04:17+02:00
+Matthew Schulkind,3103da5,2012-05-20,No Component,Fix,3103da5,21,3,mschulkind@gmail.com,2012-05-20T18:12:02+02:00
+Michiel Sikkes,8110922,2012-07-03,No Component,Fix,8110922,4,17,michiel@firmhouse.com,2012-07-03T14:32:23+02:00
+Prem Sichanugrist,1ebe840,2012-07-13,No Component,,1ebe840,1,1,s@sikachu.com,2012-07-13T23:24:58+02:00
+Prem Sichanugrist,a1690c5,2012-07-13,No Component,fix Fix,a1690c5,4,0,s@sikachu.com,2012-07-13T23:17:13+02:00
+Tom Counsell,073c06c,2012-07-10,No Component,,073c06c,20,3,tom@counsell.org,2012-07-10T18:29:39+02:00
+Tom Counsell,b256381,2012-07-04,No Component,Fix,b256381,1,1,tom@counsell.org,2012-07-04T23:55:52+02:00
+Tom Counsell,a394c73,2012-07-04,No Component,,a394c73,17,0,tom@counsell.org,2012-07-04T23:32:00+02:00
+Seth Bro,eb35f94,2012-07-11,No Component,,eb35f94,1,1,sethmbro@gmail.com,2012-07-11T17:12:21+02:00
+Michiel Sikkes,86cddc6,2012-07-06,No Component,Fix,86cddc6,24,1,michiel@firmhouse.com,2012-07-06T21:39:20+02:00
+Prem Sichanugrist,37999b6,2012-07-04,No Component,Fix,37999b6,26,11,s@sikachu.com,2012-07-04T04:23:54+02:00
+Prem Sichanugrist,9c92cd9,2012-07-04,No Component,,9c92cd9,0,5,s@sikachu.com,2012-07-04T03:55:50+02:00
+Joel Oliveira,b7b2b84,2012-06-29,No Component,,b7b2b84,37,11,joel@thoughtbot.com,2012-06-29T23:10:08+02:00
+Prem Sichanugrist,0958e6f,2012-07-04,No Component,fix,0958e6f,2,2,s@sikachu.com,2012-07-04T03:44:11+02:00
+Prem Sichanugrist,cf8f76d,2012-07-04,No Component,,cf8f76d,1,1,s@sikachu.com,2012-07-04T02:34:34+02:00
+Jérémy FRERE,7436b51,2012-06-23,No Component,,7436b51,56,0,frere.jeremy@gmail.com,2012-06-23T11:41:08+02:00
+Jon Yurek,b436930,2012-06-22,No Component,,b436930,3,10,jyurek@thoughtbot.com,2012-06-22T20:31:26+02:00
+Jon Yurek,1d22cdc,2012-06-22,No Component,,1d22cdc,12,1,jyurek@thoughtbot.com,2012-06-22T20:11:21+02:00
+Ylan Segal,16f707e,2012-06-19,No Component,,16f707e,11,0,ylan@alxglobal.com,2012-06-19T22:10:18+02:00
+Jon Yurek,9fc74e0,2012-06-22,No Component,,9fc74e0,30,5,jyurek@thoughtbot.com,2012-06-22T17:50:51+02:00
+Jon Yurek,f407412,2012-06-15,No Component,,f407412,79,30,jyurek@thoughtbot.com,2012-06-15T19:52:11+02:00
+Prem Sichanugrist,0eae7db,2012-06-18,No Component,,0eae7db,1,1,s@sikachu.com,2012-06-18T16:01:52+02:00
+Prem Sichanugrist,127e879,2012-06-18,No Component,,127e879,1,1,s@sikachu.com,2012-06-18T15:59:57+02:00
+Prem Sichanugrist,271008d,2012-06-16,No Component,,271008d,1,1,s@sikachu.com,2012-06-16T20:55:13+02:00
+Prem Sichanugrist,2860c70,2012-06-16,No Component,Fix,2860c70,1,7,s@sikachu.com,2012-06-16T20:46:25+02:00
+Prem Sichanugrist,ccfcc22,2012-06-16,No Component,,ccfcc22,1,1,s@sikachu.com,2012-06-16T01:28:58+02:00
+Prem Sichanugrist,77ee8a5,2012-04-23,No Component,,77ee8a5,22,0,s@sikachu.com,2012-04-23T22:17:56+02:00
+Prem Sichanugrist,76cbfb8,2012-04-23,No Component,,76cbfb8,33,1,s@sikachu.com,2012-04-23T22:17:17+02:00
+Prem Sichanugrist,90ea9da,2012-04-12,No Component,,90ea9da,193,70,s@sikachu.com,2012-04-12T19:31:53+02:00
+Prem Sichanugrist,ef646f3,2012-04-12,No Component,,ef646f3,4,8,s@sikachu.com,2012-04-12T16:49:31+02:00
+Prem Sichanugrist,b09bb31,2012-06-15,No Component,Fix,b09bb31,39,6,s@sikachu.com,2012-06-15T23:43:53+02:00
+Prem Sichanugrist,d9de7ba,2012-06-15,No Component,,d9de7ba,19,52,s@sikachu.com,2012-06-15T23:15:14+02:00
+Prem Sichanugrist,2059c5e,2012-06-15,No Component,,2059c5e,32,1,s@sikachu.com,2012-06-15T22:59:51+02:00
+Prem Sichanugrist,e5ed019,2012-06-15,No Component,,e5ed019,7,0,s@sikachu.com,2012-06-15T22:48:04+02:00
+Prem Sichanugrist,95d7c4a,2012-06-15,No Component,Fix,95d7c4a,18,2,s@sikachu.com,2012-06-15T21:27:54+02:00
+Prem Sichanugrist,d46a1af,2012-06-15,No Component,fix,d46a1af,16,0,s@sikachu.com,2012-06-15T20:49:44+02:00
+Prem Sichanugrist,cdf85a2,2012-06-15,No Component,,cdf85a2,51,43,s@sikachu.com,2012-06-15T19:53:06+02:00
+Michiel Sikkes,c1ad6f3,2012-06-14,No Component,fix,c1ad6f3,17,4,michiel@firmhouse.com,2012-06-14T18:37:14+02:00
+Michiel Sikkes,357d030,2012-04-22,No Component,bug fix,357d030,68,13,michiel.sikkes@gmail.com,2012-04-22T01:11:12+02:00
+Jon Yurek,49b833a,2012-06-15,No Component,,49b833a,79,162,jyurek@thoughtbot.com,2012-06-15T17:40:05+02:00
+Prem Sichanugrist,6728166,2012-06-09,No Component,,6728166,21,0,s@sikachu.com,2012-06-09T00:01:01+02:00
+mankyuhan,7332e51,2012-06-07,No Component,,7332e51,10,3,mankyuhan@gmail.com,2012-06-07T06:31:50+02:00
+mankyuhan,2337e0f,2012-06-01,No Component,,2337e0f,5,0,mankyuhan@gmail.com,2012-06-01T04:24:42+02:00
+Mankyu Han,d699680,2012-05-25,No Component,,d699680,4,1,mankyu.han@mankyu.han,2012-05-25T21:09:02+02:00
+Prem Sichanugrist,3f48043,2012-06-08,No Component,,3f48043,2,2,s@sikachu.com,2012-06-08T20:22:28+02:00
+Prem Sichanugrist,6003e54,2012-06-08,No Component,,6003e54,2,3,s@sikachu.com,2012-06-08T20:04:55+02:00
+Prem Sichanugrist,5840b75,2012-06-08,No Component,,5840b75,9,12,s@sikachu.com,2012-06-08T19:42:09+02:00
+Jon Yurek,073152e,2012-06-08,No Component,,073152e,23,11,jyurek@thoughtbot.com,2012-06-08T18:59:54+02:00
+Jon Yurek,b920ee4,2012-06-08,No Component,fix,b920ee4,56,60,jyurek@thoughtbot.com,2012-06-08T17:56:07+02:00
+Geoffrey Hichborn,e54c836,2012-06-05,No Component,,e54c836,34,2,geoff@socialcast.com,2012-06-05T23:27:29+02:00
+Mike Burns,c96365d,2012-05-31,No Component,,c96365d,1,1,mike@mike-burns.com,2012-05-31T14:25:39+02:00
+Geoffrey Hichborn,dd99e70,2012-05-31,No Component,,dd99e70,36,17,geoff@socialcast.com,2012-05-31T09:48:27+02:00
+Juanjo Bazán,c54708f,2012-05-18,No Component,,c54708f,55,1,jjbazan@gmail.com,2012-05-18T18:59:57+02:00
+Geoffrey Hichborn,24d1439,2012-05-31,No Component,,24d1439,72,6,geoff@socialcast.com,2012-05-31T09:43:52+02:00
+Mike Burns,e9f825a,2012-05-31,No Component,,e9f825a,4,1,mike@mike-burns.com,2012-05-31T15:31:23+02:00
+Mark Kremer,43f5d4f,2012-04-14,No Component,,43f5d4f,8,0,mark@without-brains.net,2012-04-14T09:41:34+02:00
+Mark Kremer,efead1a,2012-02-24,No Component,,efead1a,2,1,mark@without-brains.net,2012-02-24T22:08:51+01:00
+Ryan Sonnek,b567175,2012-04-25,No Component,,b567175,0,1,ryan@socialcast.com,2012-04-25T19:23:45+02:00
+Ryan Sonnek,d594746,2012-04-19,No Component,,d594746,53,0,ryan@socialcast.com,2012-04-19T22:13:00+02:00
+Andrew Pollok,ac628a1,2012-05-25,No Component,,ac628a1,1,1,andrew@networkwebcams.com,2012-05-25T17:42:25+02:00
+Andrew Pollok,c1b3577,2012-05-25,No Component,Fix,c1b3577,16,1,andrew@networkwebcams.com,2012-05-25T17:30:11+02:00
+Jon Yurek,a19f2a4,2012-05-18,No Component,,a19f2a4,1,1,jyurek@thoughtbot.com,2012-05-18T22:06:55+02:00
+Jon Yurek,45e4b07,2012-05-18,No Component,,45e4b07,8,8,jyurek@thoughtbot.com,2012-05-18T17:54:07+02:00
+Gonzalo Rodriguez,5ce04ed,2012-04-28,No Component,,5ce04ed,42,5,gonzalo@wyeworks.com,2012-04-28T05:55:53+02:00
+Juanjo Bazán,0590905,2012-05-18,No Component,,0590905,9,12,jjbazan@gmail.com,2012-05-18T14:56:49+02:00
+Juanjo Bazán,169dee4,2012-05-18,No Component,,169dee4,29,1,jjbazan@gmail.com,2012-05-18T14:56:17+02:00
+John Joseph Bachir,9ab9286,2012-05-11,No Component,,9ab9286,3,0,j@jjb.cc,2012-05-11T02:26:59+02:00
+John Joseph Bachir,71a2960,2012-05-11,No Component,,71a2960,7,3,j@jjb.cc,2012-05-11T02:26:27+02:00
+Prem Sichanugrist,01406e1,2012-05-05,No Component,,01406e1,1,1,s@sikachu.com,2012-05-05T02:16:01+02:00
+Prem Sichanugrist,df4fd98,2012-05-05,No Component,fix,df4fd98,39,53,s@sikachu.com,2012-05-05T01:59:44+02:00
+Prem Sichanugrist,8fb0331,2012-05-05,No Component,,8fb0331,4,4,s@sikachu.com,2012-05-05T01:45:30+02:00
+Prem Sichanugrist,b48ec84,2012-05-05,No Component,Fix,b48ec84,6,6,s@sikachu.com,2012-05-05T01:44:56+02:00
+Prem Sichanugrist,48736ce,2012-05-05,No Component,fix Fix,48736ce,19,9,s@sikachu.com,2012-05-05T01:25:07+02:00
+Prem Sichanugrist,784717b,2012-05-05,No Component,Fix fix,784717b,29,0,s@sikachu.com,2012-05-05T00:42:07+02:00
+Prem Sichanugrist,55c686d,2012-05-05,No Component,,55c686d,30,32,s@sikachu.com,2012-05-05T00:10:24+02:00
+Prem Sichanugrist,0a85dfd,2012-05-04,No Component,,0a85dfd,8,6,s@sikachu.com,2012-05-04T22:15:48+02:00
+Prem Sichanugrist,01d2fda,2012-05-04,No Component,,01d2fda,41,1,s@sikachu.com,2012-05-04T21:40:59+02:00
+Prem Sichanugrist,84a0117,2012-05-04,No Component,,84a0117,1,13,s@sikachu.com,2012-05-04T18:54:25+02:00
+Prem Sichanugrist,a6c8683,2012-05-04,No Component,Fix,a6c8683,25,4,s@sikachu.com,2012-05-04T17:40:00+02:00
+Prem Sichanugrist,3a3c227,2012-05-04,No Component,,3a3c227,0,0,s@sikachu.com,2012-05-04T17:15:00+02:00
+Prem Sichanugrist,cce55f6,2012-04-27,No Component,,cce55f6,1,0,s@sikachu.com,2012-04-27T17:29:38+02:00
+Prem Sichanugrist,47db66f,2012-04-25,No Component,Fix,47db66f,2,1,s@sikachu.com,2012-04-25T02:18:06+02:00
+Jon Yurek,fe06db4,2012-04-24,No Component,,fe06db4,1,1,jyurek@thoughtbot.com,2012-04-24T23:35:13+02:00
+Jon Yurek,e705b73,2012-04-24,No Component,,e705b73,34,4,jyurek@thoughtbot.com,2012-04-24T23:32:23+02:00
+Prem Sichanugrist,3d814fb,2012-04-24,No Component,,3d814fb,11,0,s@sikachu.com,2012-04-24T18:43:36+02:00
+Prem Sichanugrist,9ddfc6a,2012-04-24,No Component,,9ddfc6a,7,0,s@sikachu.com,2012-04-24T18:42:48+02:00
+Jon Yurek,8b778b3,2012-04-24,No Component,,8b778b3,17,2,jyurek@thoughtbot.com,2012-04-24T18:39:50+02:00
+Prem Sichanugrist,e59d0b5,2012-04-24,No Component,,e59d0b5,11,7,s@sikachu.com,2012-04-24T17:13:12+02:00
+Prem Sichanugrist,eaf8a00,2012-04-23,No Component,,eaf8a00,5,7,s@sikachu.com,2012-04-23T22:20:44+02:00
+Prem Sichanugrist,5eed1dc,2012-04-16,No Component,Fix,5eed1dc,60,1,s@sikachu.com,2012-04-16T16:09:47+02:00
+Prem Sichanugrist,f647d68,2012-04-17,No Component,,f647d68,14,2,s@sikachu.com,2012-04-17T21:44:35+02:00
+Prem Sichanugrist,3f1d30f,2012-04-17,No Component,Fix,3f1d30f,19,1,s@sikachu.com,2012-04-17T21:34:27+02:00
+Prem Sichanugrist,4f6d482,2012-04-17,No Component,,4f6d482,94,26,s@sikachu.com,2012-04-17T20:32:01+02:00
+Prem Sichanugrist,02eb725,2012-04-17,No Component,,02eb725,0,4,s@sikachu.com,2012-04-17T20:30:22+02:00
+Sebastien Guignot,9d1355b,2012-04-14,No Component,Fix,9d1355b,36,1,kxu@tsys.org,2012-04-14T20:59:43+02:00
+Kir Maximov,3e98fc2,2012-04-15,No Component,Fix,3e98fc2,8,1,kir@maxkir.com,2012-04-15T11:37:08+02:00
+Prem Sichanugrist,240147e,2012-04-12,No Component,,240147e,1,1,s@sikachu.com,2012-04-12T19:33:57+02:00
+Prem Sichanugrist,c63ff08,2012-04-12,No Component,,c63ff08,2,1,s@sikachu.com,2012-04-12T19:49:55+02:00
+mikong,28e2d1b,2012-04-08,No Component,,28e2d1b,1,1,michaelgalero@gmail.com,2012-04-08T07:47:46+02:00
+Philipp Brumm,74c88f1,2012-04-05,No Component,,74c88f1,16,0,philipp@funkensturm.de,2012-04-05T14:10:46+02:00
+Philipp Brumm,a9cda45,2012-04-05,No Component,fix,a9cda45,10,2,philipp@funkensturm.de,2012-04-05T14:10:34+02:00
+Philipp Brumm,cb8d87d,2012-04-05,No Component,,cb8d87d,3,0,philipp@funkensturm.de,2012-04-05T14:10:01+02:00
+Benjamin ter Kuile,05cda02,2012-03-31,No Component,Fix fix,05cda02,16,1,bterkuile@gmail.com,2012-03-31T18:01:19+02:00
+Prem Sichanugrist,f187552,2012-04-04,No Component,Fix,f187552,4,2,s@sikachu.com,2012-04-04T03:00:07+02:00
+Prem Sichanugrist,7d84569,2012-04-04,No Component,Fix,7d84569,46,2,s@sikachu.com,2012-04-04T02:17:01+02:00
+Prem Sichanugrist,7974bd2,2012-03-30,No Component,,7974bd2,1,1,s@sikachu.com,2012-03-30T22:57:55+02:00
+Prem Sichanugrist,b8f061c,2012-03-30,No Component,,b8f061c,2,43,s@sikachu.com,2012-03-30T22:56:55+02:00
+Prem Sichanugrist,d61ddd5,2012-03-30,No Component,,d61ddd5,14,7,s@sikachu.com,2012-03-30T22:19:41+02:00
+Prem Sichanugrist,51bb0f9,2012-03-30,No Component,Fix,51bb0f9,43,2,s@sikachu.com,2012-03-30T22:18:59+02:00
+Prem Sichanugrist,7088f5b,2012-03-30,No Component,,7088f5b,1,1,s@sikachu.com,2012-03-30T21:33:18+02:00
+Jon Yurek,e10edcd,2012-03-30,No Component,,e10edcd,0,4,jyurek@thoughtbot.com,2012-03-30T20:21:06+02:00
+Jon Yurek,f4b6d48,2012-03-30,No Component,,f4b6d48,0,4,jyurek@thoughtbot.com,2012-03-30T20:19:51+02:00
+Jon Yurek,78cfebd,2012-03-30,No Component,,78cfebd,45,40,jyurek@thoughtbot.com,2012-03-30T14:47:52+02:00
+Jon Yurek,89c8d11,2011-12-02,No Component,,89c8d11,664,252,jyurek@thoughtbot.com,2011-12-02T19:25:45+01:00
+Prem Sichanugrist,36d1289,2012-03-27,No Component,,36d1289,1,3,s@sikachu.com,2012-03-27T16:50:40+02:00
+tony-brewerio,c4c22f8,2012-03-27,No Component,,c4c22f8,14,4,tony.brewerio@gmail.com,2012-03-27T08:52:35+02:00
+Prem Sichanugrist,8390516,2012-03-26,No Component,,8390516,0,8,s@sikachu.com,2012-03-26T23:31:23+02:00
+Prem Sichanugrist,b3f9690,2012-03-26,No Component,,b3f9690,1,1,s@sikachu.com,2012-03-26T23:06:44+02:00
+Prem Sichanugrist,ee4107a,2012-03-23,No Component,,ee4107a,55,0,s@sikachu.com,2012-03-23T22:50:21+01:00
+Prem Sichanugrist,8a758c2,2012-03-16,No Component,,8a758c2,45,23,s@sikachu.com,2012-03-16T22:49:27+01:00
+Prem Sichanugrist,84d2d08,2012-03-16,No Component,,84d2d08,0,150,s@sikachu.com,2012-03-16T19:07:33+01:00
+Prem Sichanugrist,fe706c6,2012-03-16,No Component,,fe706c6,1,1,s@sikachu.com,2012-03-16T17:19:35+01:00
+Prem Sichanugrist,b54904e,2012-03-16,No Component,,b54904e,63,0,s@sikachu.com,2012-03-16T19:53:49+01:00
+Prem Sichanugrist,d3a7427,2012-03-16,No Component,Fix,d3a7427,6,9,s@sikachu.com,2012-03-16T18:57:36+01:00
+Prem Sichanugrist,da5d716,2012-03-16,No Component,,da5d716,152,49,s@sikachu.com,2012-03-16T17:03:45+01:00
+Prem Sichanugrist,ee42b19,2012-03-16,No Component,,ee42b19,112,17,s@sikachu.com,2012-03-16T16:15:01+01:00
+Prem Sichanugrist,e83f88f,2012-03-09,No Component,,e83f88f,294,43,s@sikachu.com,2012-03-09T20:50:45+01:00
+Prem Sichanugrist,03f777f,2012-03-16,No Component,,03f777f,190,200,s@sikachu.com,2012-03-16T20:28:46+01:00
+Prem Sichanugrist,5232b19,2012-03-07,No Component,,5232b19,77,108,s@sikachu.com,2012-03-07T03:23:31+01:00
+Mathieu Martin,32199e2,2012-03-09,No Component,,32199e2,2,2,webmat@gmail.com,2012-03-09T21:05:25+01:00
+Mathieu Martin,35052eb,2012-03-09,No Component,,35052eb,1,1,webmat@gmail.com,2012-03-09T20:50:11+01:00
+Luke Griffiths,0c1e812,2012-03-16,No Component,fix,0c1e812,7,0,wlgriffiths@gmail.com,2012-03-16T16:41:41+01:00
+Mathieu Martin,8edccdc,2012-03-12,No Component,,8edccdc,2,2,webmat@gmail.com,2012-03-12T15:33:50+01:00
+Matthias Viehweger,e927180,2012-03-12,No Component,,e927180,1,1,kronn@kronn.de,2012-03-12T14:53:31+01:00
+Mike Burns,26f4d40,2012-03-09,No Component,,26f4d40,18,8,mburns@thoughtbot.com,2012-03-09T18:00:48+01:00
+Mike Boone,06d69af,2012-03-05,No Component,,06d69af,10,1,mike@boonedocks.net,2012-03-05T23:12:42+01:00
+beachbc,b89044f,2012-02-06,No Component,Fix,b89044f,17,1,beachbc@gmail.com,2012-02-06T17:06:59+01:00
+Joshua Clayton,72ed6a8,2012-03-02,No Component,,72ed6a8,0,1,jclayton@thoughtbot.com,2012-03-02T21:44:25+01:00
+Joshua Clayton,e64021e,2012-03-02,No Component,,e64021e,7,4,jclayton@thoughtbot.com,2012-03-02T21:42:40+01:00
+Joshua Clayton,f7284b9,2012-03-02,No Component,,f7284b9,52,5,jclayton@thoughtbot.com,2012-03-02T21:04:17+01:00
+Prem Sichanugrist,defd425,2012-03-02,No Component,,defd425,2,71,s@sikachu.com,2012-03-02T21:33:02+01:00
+Prem Sichanugrist,0efa384,2012-03-02,No Component,Fix,0efa384,17,0,s@sikachu.com,2012-03-02T18:00:49+01:00
+Jesse Cantara,7cb7384,2012-03-01,No Component,,7cb7384,13,0,jcantara@fashionplaytes.com,2012-03-01T22:26:56+01:00
+Prem Sichanugrist,9e38958,2012-02-29,No Component,,9e38958,0,8,s@sikachu.com,2012-02-29T01:05:15+01:00
+Mike Burns,760a4e0,2012-02-24,No Component,,760a4e0,1,1,mburns@thoughtbot.com,2012-02-24T19:29:01+01:00
+Mike Burns,04c9514,2012-02-24,No Component,Fix,04c9514,0,14,mburns@thoughtbot.com,2012-02-24T15:12:05+01:00
+Pat George,45b7dac,2012-02-23,No Component,Fix,45b7dac,1,1,pat.george@gmail.com,2012-02-23T19:23:31+01:00
+Tom Hughes,189ee9c,2012-02-19,No Component,,189ee9c,7,0,tom@compton.nu,2012-02-19T18:39:52+01:00
+Prem Sichanugrist,4b79530,2012-02-17,No Component,,4b79530,4,0,s@sikachu.com,2012-02-17T21:06:48+01:00
+Prem Sichanugrist,56012bf,2012-02-17,No Component,Fix,56012bf,12,0,s@sikachu.com,2012-02-17T19:50:42+01:00
+Prem Sichanugrist,9ad074a,2012-02-17,No Component,Fix,9ad074a,6,3,s@sikachu.com,2012-02-17T17:16:56+01:00
+Prem Sichanugrist,7045e29,2012-02-17,No Component,,7045e29,8,0,s@sikachu.com,2012-02-17T17:16:50+01:00
+Chris Apolzon,58671eb,2012-02-15,No Component,Fix,58671eb,14,0,chrisa@manilla.com,2012-02-15T19:26:28+01:00
+Mike Burns,71d3f46,2012-02-10,No Component,,71d3f46,1,1,mburns@thoughtbot.com,2012-02-10T17:36:46+01:00
+Kelley Reynolds,f8c2444,2012-02-06,No Component,,f8c2444,0,7,kelley@insidesystems.net,2012-02-06T20:03:34+01:00
+Kelley Reynolds,3b2b9bc,2012-02-06,No Component,,3b2b9bc,29,2,kelley@insidesystems.net,2012-02-06T18:43:14+01:00
+Luke Griffiths,9eda1bb,2012-02-03,No Component,,9eda1bb,0,1,wlgriffiths@gmail.com,2012-02-03T23:08:06+01:00
+Luke Griffiths,1f989ae,2012-02-03,No Component,,1f989ae,0,7,wlgriffiths@gmail.com,2012-02-03T23:03:55+01:00
+Luke Griffiths,5f8140d,2012-02-03,No Component,,5f8140d,15,2,wlgriffiths@gmail.com,2012-02-03T20:33:33+01:00
+Justin Ko,b0cb54e,2012-02-03,No Component,,b0cb54e,2,2,justin@kospecinc.com,2012-02-03T19:25:30+01:00
+Jon Yurek,5d4ba62,2012-02-03,No Component,,5d4ba62,80,15,jyurek@thoughtbot.com,2012-02-03T17:00:28+01:00
+Justin Ko,67d5c0b,2012-02-01,No Component,,67d5c0b,2,2,justin@kospecinc.com,2012-02-01T13:28:06+01:00
+Prem Sichanugrist,1cb40e3,2012-01-28,No Component,,1cb40e3,1,1,s@sikachu.com,2012-01-28T00:09:03+01:00
+Prem Sichanugrist,8353518,2012-01-27,No Component,,8353518,34,8,s@sikachu.com,2012-01-27T23:08:33+01:00
+Prem Sichanugrist,604304e,2012-01-27,No Component,Fix,604304e,39,17,s@sikachu.com,2012-01-27T22:47:59+01:00
+Prem Sichanugrist,ed5cd9f,2012-01-27,No Component,,ed5cd9f,26,36,s@sikachu.com,2012-01-27T21:19:08+01:00
+Prem Sichanugrist,bdfeebd,2012-01-27,No Component,,bdfeebd,14,14,s@sikachu.com,2012-01-27T20:53:33+01:00
+Benjamin Hüttinger,1c88a72,2012-01-27,No Component,,1c88a72,5,3,benjamin.huettinger@gmail.com,2012-01-27T18:35:15+01:00
+Mike Burns,ec4793e,2012-01-27,No Component,,ec4793e,1,1,mburns@thoughtbot.com,2012-01-27T17:58:37+01:00
+Benjamin Hüttinger,8742615,2012-01-19,No Component,,8742615,22,1,huettinger@kupferwerk.com,2012-01-19T21:02:57+01:00
+Benjamin Hüttinger,2b562a9,2012-01-19,No Component,,2b562a9,20,1,huettinger@kupferwerk.com,2012-01-19T20:48:27+01:00
+Benjamin Hüttinger,e049ec5,2012-01-19,No Component,,e049ec5,22,1,huettinger@kupferwerk.com,2012-01-19T20:30:17+01:00
+Jon Yurek,bc6ed16,2012-01-20,No Component,,bc6ed16,7,3,jyurek@thoughtbot.com,2012-01-20T17:01:14+01:00
+Luke Griffiths,65e0338,2012-01-19,No Component,,65e0338,7,5,wlgriffiths@gmail.com,2012-01-19T01:51:18+01:00
+Luke Griffiths,af6d343,2012-01-18,No Component,,af6d343,78,0,wlgriffiths@gmail.com,2012-01-18T16:34:21+01:00
+ralph,201f02e,2012-01-16,No Component,,201f02e,7,0,ralph@rvdh.de,2012-01-16T13:58:50+01:00
+Jeremy McNevin,839b98c,2011-08-10,No Component,,839b98c,2,1,jeremy.mcnevin@thedolancompany.com,2011-08-10T16:55:26+02:00
+Mike Burns,071c938,2012-01-13,No Component,,071c938,1,1,mburns@thoughtbot.com,2012-01-13T22:50:57+01:00
+Jon Yurek,3fd4c96,2012-01-13,No Component,Fix,3fd4c96,6,6,jyurek@thoughtbot.com,2012-01-13T20:15:17+01:00
+Steve Madsen,dc53432,2011-12-14,No Component,,dc53432,1,1,steve@lightyearsoftware.com,2011-12-14T03:31:38+01:00
+iltempo,a83de65,2011-12-17,No Component,,a83de65,3,1,alexxx@iltempo.de,2011-12-17T17:59:35+01:00
+iltempo,7a8d1e6,2011-12-14,No Component,,7a8d1e6,52,1,alexxx@iltempo.de,2011-12-14T08:41:29+01:00
+Jim Ryan,f56e863,2012-01-06,No Component,,f56e863,6,2,jim@room118solutions.com,2012-01-06T19:15:25+01:00
+Jim Ryan,d3db7a1,2011-12-21,No Component,,d3db7a1,21,4,jim@room118solutions.com,2011-12-21T20:33:14+01:00
+Nathan Hyde,9fb9255,2012-01-05,No Component,,9fb9255,14,4,nathan@fullsteam.com,2012-01-05T22:59:02+01:00
+Nathan Hyde,4e07681,2012-01-04,No Component,,4e07681,10,2,nathan@fullsteam.com,2012-01-04T21:58:21+01:00
+Alexey Mahotkin,7b70fa4,2012-01-05,No Component,,7b70fa4,3,3,squadette@gmail.com,2012-01-05T20:19:03+01:00
+Alexey Mahotkin,16d59f9,2012-01-05,No Component,,16d59f9,9,9,squadette@gmail.com,2012-01-05T18:47:57+01:00
+John Joseph Bachir,308f1a0,2011-12-15,No Component,,308f1a0,3,0,j@jjb.cc,2011-12-15T04:37:47+01:00
+Prem Sichanugrist,1df1b03,2011-12-14,No Component,,1df1b03,2,2,s@sikachu.com,2011-12-14T17:58:18+01:00
+Dimitrij Denissenko,ac82244,2011-12-13,No Component,Fix,ac82244,19,2,dimitrij.denissenko@blacksquaremedia.com,2011-12-13T18:32:17+01:00
+Christoph Lupprich,989ec0e,2011-09-11,No Component,Fix,989ec0e,38,0,christoph@luppri.ch,2011-09-11T22:40:04+02:00
+Eike Bernhardt,345ec74,2011-12-13,No Component,,345ec74,39,1,eike@unorganized.net,2011-12-13T10:09:59+01:00
+Prem Sichanugrist,b4ff2c5,2011-12-13,No Component,fix,b4ff2c5,11,1,s@sikachu.com,2011-12-13T00:27:57+01:00
+Prem Sichanugrist,777ac90,2011-12-12,No Component,,777ac90,4,4,s@sikachu.com,2011-12-12T23:43:29+01:00
+Prem Sichanugrist,2cf7378,2011-12-12,No Component,,2cf7378,0,19,s@sikachu.com,2011-12-12T23:13:08+01:00
+Nick Padgett,34913f1,2011-12-08,No Component,,34913f1,1,1,nick.padgett@playonsports.com,2011-12-08T13:21:18+01:00
+Prem Sichanugrist,001fd99,2011-12-12,No Component,,001fd99,1,1,s@sikachu.com,2011-12-12T22:01:30+01:00
+Mike Burns,65a6ae8,2011-12-12,No Component,Fix,65a6ae8,2,2,mburns@thoughtbot.com,2011-12-12T19:44:49+01:00
+Prem Sichanugrist,81129ad,2011-12-12,No Component,,81129ad,8,7,s@sikachu.com,2011-12-12T06:58:20+01:00
+Prem Sichanugrist,128d664,2011-12-12,No Component,,128d664,4,4,s@sikachu.com,2011-12-12T06:57:55+01:00
+Prem Sichanugrist,bb22be3,2011-12-12,No Component,,bb22be3,19,5,s@sikachu.com,2011-12-12T06:55:37+01:00
+Prem Sichanugrist,88a8af9,2011-12-10,No Component,,88a8af9,5,5,s@sikachu.com,2011-12-10T08:46:22+01:00
+Prem Sichanugrist,75f413d,2011-12-09,No Component,,75f413d,424,112,s@sikachu.com,2011-12-09T23:47:21+01:00
+Daniel Schierbeck,693b528,2011-12-12,No Component,,693b528,30,0,daniel.schierbeck@gmail.com,2011-12-12T10:24:37+01:00
+Daniel Schierbeck,b922111,2010-09-15,No Component,,b922111,0,1,daniel.schierbeck@gmail.com,2010-09-15T21:25:05+02:00
+Daniel Schierbeck,f82c0d9,2010-09-15,No Component,,f82c0d9,10,5,daniel.schierbeck@gmail.com,2010-09-15T21:21:27+02:00
+Daniel Schierbeck,f3eacd2,2010-09-15,No Component,,f3eacd2,6,0,daniel.schierbeck@gmail.com,2010-09-15T18:52:13+02:00
+Daniel Schierbeck,e0a6732,2010-09-15,No Component,,e0a6732,21,10,daniel.schierbeck@gmail.com,2010-09-15T18:50:03+02:00
+Daniel Schierbeck,ffbfc24,2010-09-15,No Component,,ffbfc24,69,0,daniel.schierbeck@gmail.com,2010-09-15T18:43:56+02:00
+Alexey Mahotkin,b70ffbc,2010-09-15,No Component,,b70ffbc,8,0,sq@undev.ru,2010-09-15T17:20:54+02:00
+Daniel Schierbeck,500f1bb,2010-09-15,No Component,,500f1bb,14,0,daniel.schierbeck@gmail.com,2010-09-15T17:12:42+02:00
+Abel Martin,9d7b0dc,2011-12-07,No Component,,9d7b0dc,1,1,abel.martin@gmail.com,2011-12-07T09:18:39+01:00
+Abel Martin,e8d5331,2011-12-07,No Component,,e8d5331,33,2,abel.martin@gmail.com,2011-12-07T09:09:24+01:00
+Mike Burns,5a7769b,2011-12-02,No Component,,5a7769b,132,124,mburns@thoughtbot.com,2011-12-02T19:31:18+01:00
+Prem Sichanugrist,2c08152,2011-11-18,No Component,fix,2c08152,2,5,s@sikachu.com,2011-11-18T20:18:08+01:00
+Prem Sichanugrist,0e8b874,2011-11-18,No Component,,0e8b874,3,0,s@sikachu.com,2011-11-18T17:00:37+01:00
+Jon Yurek,75a5dbc,2011-11-04,No Component,,75a5dbc,18,2,jyurek@thoughtbot.com,2011-11-04T19:04:35+01:00
+Gabe Berke-Williams,49c8460,2011-11-12,No Component,,49c8460,0,1,gabe@thoughtbot.com,2011-11-12T15:00:29+01:00
+Shinya Kasatani,b66833e,2011-11-04,No Component,,b66833e,36,3,kasatani@gmail.com,2011-11-04T07:16:38+01:00
+Mike Burns,bc5c51d,2011-10-28,No Component,,bc5c51d,447,201,mburns@thoughtbot.com,2011-10-28T20:57:11+02:00
+Mike Burns,af689b4,2011-10-28,No Component,Fix,af689b4,25,21,mburns@thoughtbot.com,2011-10-28T15:44:52+02:00
+Prem Sichanugrist,41f685f,2011-10-21,No Component,,41f685f,0,0,s@sikachu.com,2011-10-21T23:09:11+02:00
+Prem Sichanugrist,9fb5b74,2011-10-21,No Component,,9fb5b74,1,1,s@sikachu.com,2011-10-21T22:20:12+02:00
+Prem Sichanugrist,2583a27,2011-10-21,No Component,Fix,2583a27,43,3,s@sikachu.com,2011-10-21T21:34:47+02:00
+Kelley Reynolds,774cee1,2011-10-19,No Component,,774cee1,27,11,kelley@insidesystems.net,2011-10-19T16:51:48+02:00
+Jon Yurek,75ba69d,2011-10-21,No Component,,75ba69d,1,1,jyurek@thoughtbot.com,2011-10-21T19:06:27+02:00
+Overbryd,7cc0921,2011-10-18,No Component,,7cc0921,6,1,l.rieder@gmail.com,2011-10-18T13:49:24+02:00
+Joern Barthel,24b0c5a,2011-04-01,No Component,,24b0c5a,7,0,joern.barthel@kreuzwerker.de,2011-04-01T15:42:10+02:00
+Jon Yurek,131a8b1,2011-10-21,No Component,,131a8b1,0,2,jyurek@thoughtbot.com,2011-10-21T17:06:41+02:00
+Jon Yurek,4917ab2,2011-10-21,No Component,,4917ab2,3,5,jyurek@thoughtbot.com,2011-10-21T17:00:29+02:00
+Jon Yurek,cd53485,2011-10-21,No Component,,cd53485,5,1,jyurek@thoughtbot.com,2011-10-21T01:15:20+02:00
+Jon Yurek,61a0536,2011-10-20,No Component,Fix,61a0536,5,3,jyurek@thoughtbot.com,2011-10-20T22:19:37+02:00
+Jon Yurek,93faccf,2011-10-20,No Component,,93faccf,77,9,jyurek@thoughtbot.com,2011-10-20T20:04:48+02:00
+Alexander Presber,f409693,2011-10-20,No Component,,f409693,7,3,post@momolog.info,2011-10-20T17:12:39+02:00
+Alexander Presber,3a6ca7d,2011-10-20,No Component,fix,3a6ca7d,19,13,post@momolog.info,2011-10-20T11:08:03+02:00
+Alexander Presber,1571290,2011-10-19,No Component,,1571290,3,3,post@momolog.info,2011-10-19T17:18:04+02:00
+Tim Assmann,2191934,2011-10-19,No Component,,2191934,56,4,tassmann@jovoto.com,2011-10-19T14:54:33+02:00
+Overbryd,58a17e6,2011-10-18,No Component,,58a17e6,6,1,l.rieder@gmail.com,2011-10-18T13:49:24+02:00
+Ken Collins,de9a94a,2011-10-17,No Component,,de9a94a,3,1,ken@metaskills.net,2011-10-17T22:00:51+02:00
+mpd,11a09fb,2011-10-15,No Component,,11a09fb,38,0,mpd@stippleit.com,2011-10-15T21:40:02+02:00
+mpd,c4a57ff,2011-10-15,No Component,,c4a57ff,2,0,mpd@stippleit.com,2011-10-15T21:14:30+02:00
+mpd,966edd2,2011-10-15,No Component,fix,966edd2,2,2,mpd@stippleit.com,2011-10-15T21:13:34+02:00
+Prem Sichanugrist,94d35f9,2011-10-14,No Component,,94d35f9,1,1,s@sikachu.com,2011-10-14T23:16:33+02:00
+Prem Sichanugrist,948ddfa,2011-10-14,No Component,,948ddfa,17,5,s@sikachu.com,2011-10-14T22:16:57+02:00
+Prem Sichanugrist,cd856aa,2011-10-14,No Component,fix,cd856aa,9,5,s@sikachu.com,2011-10-14T21:18:53+02:00
+Prem Sichanugrist,898baf2,2011-10-14,No Component,,898baf2,70,0,s@sikachu.com,2011-10-14T17:19:51+02:00
+Prem Sichanugrist,4ecd5b1,2011-10-08,No Component,,4ecd5b1,1,1,s@sikachu.com,2011-10-08T01:32:35+02:00
+Prem Sichanugrist,56e4135,2011-10-10,No Component,,56e4135,57,6,s@sikachu.com,2011-10-10T03:29:11+02:00
+Jon Yurek,f7fdc9f,2011-10-06,No Component,,f7fdc9f,25,16,jyurek@thoughtbot.com,2011-10-06T02:21:48+02:00
+Jon Yurek,eadf7e8,2011-10-05,No Component,,eadf7e8,1,1,jyurek@thoughtbot.com,2011-10-05T17:46:50+02:00
+Daniel Vartanov,ba18631,2011-10-04,No Component,,ba18631,4,0,dan@vartanov.net,2011-10-04T12:35:56+02:00
+Iain Beeston,cc89e4a,2011-10-03,No Component,,cc89e4a,8,1,iain@freeagent.com,2011-10-03T18:18:19+02:00
+Jon Yurek,7f523e3,2011-09-30,No Component,,7f523e3,1,1,jyurek@thoughtbot.com,2011-09-30T21:24:52+02:00
+Aldo Sarmiento,a068108,2011-09-27,No Component,,a068108,6,4,sarmiena@gmail.com,2011-09-27T02:34:11+02:00
+Joost Baaij,0df5a96,2011-09-28,No Component,,0df5a96,3,1,joost@spacebabies.nl,2011-09-28T00:13:01+02:00
+Pavel Forkert,7243015,2011-09-30,No Component,,7243015,1,1,fxposter@gmail.com,2011-09-30T09:51:18+02:00
+Pavel Forkert,7a2e2ed,2011-09-29,No Component,,7a2e2ed,3,2,fxposter@gmail.com,2011-09-29T17:12:08+02:00
+Jon Yurek,b948f96,2011-09-16,No Component,,b948f96,144,162,jyurek@thoughtbot.com,2011-09-16T15:07:35+02:00
+ramn,2c6b7cb,2011-09-25,No Component,Fix,2c6b7cb,2,0,github@rymdimperiet.org,2011-09-25T23:13:48+02:00
+Prem Sichanugrist,9edeb01,2011-09-23,No Component,,9edeb01,1,1,s@sikachu.com,2011-09-23T19:24:43+02:00
+Prem Sichanugrist,23cb822,2011-09-23,No Component,,23cb822,57,1,s@sikachu.com,2011-09-23T19:08:56+02:00
+Prem Sichanugrist,0ca98d1,2011-09-23,No Component,,0ca98d1,1,1,s@sikachu.com,2011-09-23T17:27:34+02:00
+Prem Sichanugrist,d204c7d,2011-09-23,No Component,,d204c7d,3,3,s@sikachu.com,2011-09-23T17:08:36+02:00
+Prem Sichanugrist,31d74d6,2011-09-23,No Component,,31d74d6,95,88,s@sikachu.com,2011-09-23T14:28:10+02:00
+Prem Sichanugrist,1738f3c,2011-09-23,No Component,,1738f3c,16,1,s@sikachu.com,2011-09-23T13:59:54+02:00
+Edison,996ca87,2011-09-04,No Component,,996ca87,9,0,edimach@gmail.com,2011-09-04T01:57:15+02:00
+Aditya Sanghi,8d43e19,2011-09-07,No Component,fix,8d43e19,33,0,asanghi@me.com,2011-09-07T11:51:55+02:00
+Prem Sichanugrist,0a77f64,2011-09-23,No Component,,0a77f64,10,1,s@sikachu.com,2011-09-23T13:03:44+02:00
+Denis Yagofarov,3a35ba9,2011-09-14,No Component,,3a35ba9,7,1,denyago@gmail.com,2011-09-14T11:35:35+02:00
+Cody Caughlan,4661cef,2011-09-14,No Component,,4661cef,39,0,toolbag@gmail.com,2011-09-14T20:22:59+02:00
+Prem Sichanugrist,522a53e,2011-09-23,No Component,Fix,522a53e,3,1,s@sikachu.com,2011-09-23T12:12:22+02:00
+Prem Sichanugrist,d18d814,2011-09-23,No Component,,d18d814,1,1,s@sikachu.com,2011-09-23T10:31:13+02:00
+Prem Sichanugrist,fd891e0,2011-09-23,No Component,bug,fd891e0,0,1,s@sikachu.com,2011-09-23T06:20:07+02:00
+Daniel Evans,748332e,2011-09-15,No Component,,748332e,17,0,evans.daniel.n@gmail.com,2011-09-15T20:42:16+02:00
+Prem Sichanugrist,e526c86,2011-09-23,No Component,Fix,e526c86,13,2,s@sikachu.com,2011-09-23T06:07:23+02:00
+Prem Sichanugrist,9c83611,2011-09-07,No Component,,9c83611,1,1,s@sikachu.com,2011-09-07T15:10:37+02:00
+Prem Sichanugrist,3131601,2011-08-05,No Component,,3131601,270,143,s@sikachu.com,2011-08-05T23:43:56+02:00
+Gabe Berke-Williams,ae781ac,2011-09-07,No Component,,ae781ac,1,1,gabe@thoughtbot.com,2011-09-07T07:22:50+02:00
+Prem Sichanugrist,d639d5e,2011-09-04,No Component,Fix,d639d5e,6,0,s@sikachu.com,2011-09-04T16:28:07+02:00
+Prem Sichanugrist,639b250,2011-09-03,No Component,,639b250,1,0,s@sikachu.com,2011-09-03T16:58:56+02:00
+Prem Sichanugrist,37385dd,2011-09-03,No Component,,37385dd,3,1,s@sikachu.com,2011-09-03T16:54:16+02:00
+Prem Sichanugrist,5c85095,2011-09-03,No Component,,5c85095,1,1,s@sikachu.com,2011-09-03T10:06:51+02:00
+Mike Burns,bafaa28,2011-08-31,No Component,,bafaa28,1,1,mburns@thoughtbot.com,2011-08-31T22:52:20+02:00
+Mike Burns,630c634,2011-08-30,No Component,,630c634,47,3,mburns@thoughtbot.com,2011-08-30T17:30:41+02:00
+Mike Burns,6ced9eb,2011-08-30,No Component,,6ced9eb,4,7,mburns@thoughtbot.com,2011-08-30T16:49:04+02:00
+Mario Peixoto,472a625,2011-08-26,No Component,Fix,472a625,38,2,mario.peixoto@gmail.com,2011-08-26T16:42:17+02:00
+Mike Burns,d591a64,2011-08-26,No Component,Fix,d591a64,2,2,mburns@thoughtbot.com,2011-08-26T15:53:41+02:00
+Daniel Evans,89ecde4,2011-08-26,No Component,,89ecde4,1,1,evans.daniel.n@gmail.com,2011-08-26T09:21:34+02:00
+Daniel Evans,7696b88,2011-08-26,No Component,,7696b88,42,0,evans.daniel.n@gmail.com,2011-08-26T09:01:34+02:00
+Bert Goethals,e645aaf,2011-08-26,No Component,,e645aaf,1,1,bert@bertg.be,2011-08-26T05:03:59+02:00
+Marcin Urbanski,3ae7a3e,2011-08-25,No Component,,3ae7a3e,105,1,marcin@urbanski.vdl.pl,2011-08-25T21:22:12+02:00
+Mike Burns,7478455,2011-08-24,No Component,,7478455,42,6,mburns@thoughtbot.com,2011-08-24T23:11:28+02:00
+Mike Burns,eebc7d9,2011-08-24,No Component,,eebc7d9,29,7,mburns@thoughtbot.com,2011-08-24T22:18:25+02:00
+Mike Burns,3f7aee3,2011-08-24,No Component,,3f7aee3,39,3,mburns@thoughtbot.com,2011-08-24T22:02:10+02:00
+H. Wade Minter,77ce88a,2011-08-24,No Component,,77ce88a,54,1,minter@teamsnap.com,2011-08-24T17:59:45+02:00
+Jon Yurek,d336c4a,2011-08-24,No Component,,d336c4a,3,3,jyurek@thoughtbot.com,2011-08-24T15:41:00+02:00
+Jon Yurek,6c912c4,2011-08-24,No Component,Fix,6c912c4,23,0,jyurek@thoughtbot.com,2011-08-24T15:21:34+02:00
+Prem Sichanugrist,7e1a923,2011-08-17,No Component,bug,7e1a923,13,2,s@sikachu.com,2011-08-17T16:44:28+02:00
+Jon Yurek,6b6ce9e,2011-08-23,No Component,,6b6ce9e,6,1,jyurek@thoughtbot.com,2011-08-23T15:23:58+02:00
+Marcin Urbanski,eab19f8,2011-08-16,No Component,,eab19f8,104,5,marcin@urbanski.vdl.pl,2011-08-16T14:32:06+02:00
+Harold Giménez,cde2256,2011-08-16,No Component,,cde2256,2,13,hgimenez@thoughtbot.com,2011-08-16T02:06:52+02:00
+Harold Giménez,fe01ae6,2010-07-09,No Component,,fe01ae6,13,2,hgimenez@thoughtbot.com,2010-07-09T14:35:37+02:00
+David Faber,7c78aa3,2011-08-09,No Component,Fix,7c78aa3,14,1,david@boundforanything.com,2011-08-09T01:50:29+02:00
+Prem Sichanugrist,9f38928,2011-08-12,No Component,Fix,9f38928,2,2,s@sikachu.com,2011-08-12T16:02:52+02:00
+Reinaldo de Souza Junior,6fd2cf7,2011-08-02,No Component,,6fd2cf7,1,1,juniorz@gmail.com,2011-08-02T02:51:59+02:00
+Prem Sichanugrist,891badb,2011-07-29,No Component,,891badb,1,1,s@sikachu.com,2011-07-29T17:16:42+02:00
+Prem Sichanugrist,e0b139d,2011-07-29,No Component,,e0b139d,2,4,s@sikachu.com,2011-07-29T17:13:12+02:00
+aya-soft,593acb1,2011-07-27,No Component,Fix,593acb1,2,0,anthony.ageev@gmail.com,2011-07-27T23:06:53+02:00
+Tim Cooper,62a9f64,2011-07-28,No Component,,62a9f64,1,3,coop@latrobest.com,2011-07-28T17:02:15+02:00
+Prem Sichanugrist,0f7485f,2011-07-22,No Component,fix,0f7485f,1,1,s@sikachu.com,2011-07-22T23:40:20+02:00
+Prem Sichanugrist,7859c4c,2011-07-22,No Component,Fix,7859c4c,0,40,s@sikachu.com,2011-07-22T23:32:17+02:00
+Chris Sepic,0206259,2011-07-20,No Component,,0206259,55,9,chris.sepic@gmail.com,2011-07-20T04:17:42+02:00
+Jeremy Walker,c8a271e,2011-07-21,No Component,,c8a271e,14,1,jez.walker@gmail.com,2011-07-21T11:52:19+02:00
+Jeremy Walker,cfe406b,2011-07-16,No Component,Fix,cfe406b,1,1,jez.walker@gmail.com,2011-07-16T13:59:07+02:00
+Prem Sichanugrist,f5851f1,2011-07-15,No Component,,f5851f1,24,4,s@sikachu.com,2011-07-15T22:43:57+02:00
+takuyan,8c92858,2011-07-15,No Component,,8c92858,15,15,fanciful.dream@gmail.com,2011-07-15T05:56:39+02:00
+takuyan,81b74f6,2011-07-15,No Component,,81b74f6,39,0,fanciful.dream@gmail.com,2011-07-15T04:36:25+02:00
+takuyan,0ecaab3,2011-07-14,No Component,,0ecaab3,0,1,fanciful.dream@gmail.com,2011-07-14T11:48:51+02:00
+takuyan,1c91f71,2011-07-14,No Component,,1c91f71,14,2,fanciful.dream@gmail.com,2011-07-14T07:44:34+02:00
+Matthew Schulkind,fdbd7bf,2011-07-12,No Component,,fdbd7bf,49,0,mschulkind@gmail.com,2011-07-12T18:29:55+02:00
+Prem Sichanugrist,dcad54d,2011-07-10,No Component,,dcad54d,1,1,s@sikachu.com,2011-07-10T22:14:47+02:00
+Tony Miller,67b3790,2011-07-09,No Component,,67b3790,9,0,mcfiredrill@gmail.com,2011-07-09T03:18:29+02:00
+Prem Sichanugrist,7db7ce8,2011-07-07,No Component,fix,7db7ce8,1,1,s@sikachu.com,2011-07-07T16:58:20+02:00
+Prem Sichanugrist,acf957c,2011-07-01,No Component,,acf957c,2,0,s@sikachu.com,2011-07-01T18:04:37+02:00
+Prem Sichanugrist,0362b9e,2011-07-06,No Component,,0362b9e,1,1,s@sikachu.com,2011-07-06T17:01:25+02:00
+Prem Sichanugrist,f5f74e2,2011-07-01,No Component,,f5f74e2,0,4,s@sikachu.com,2011-07-01T17:50:32+02:00
+Prem Sichanugrist,d199e58,2011-06-30,No Component,,d199e58,4,0,s@sikachu.com,2011-06-30T21:52:20+02:00
+Prem Sichanugrist,f7a5b91,2011-06-30,No Component,,f7a5b91,12,8,s@sikachu.com,2011-06-30T21:43:47+02:00
+Robert Stern,ff3929e,2011-02-01,No Component,Fix,ff3929e,40,0,robert@reenhanced.com,2011-02-01T20:01:23+01:00
+Jason Whittle,ff0910d,2011-01-11,No Component,,ff0910d,2,1,jason.whittle@fynanz.com,2011-01-11T00:14:09+01:00
+S. Brent Faulkner,791b70d,2010-06-04,No Component,,791b70d,1,1,brentf@unwwwired.net,2010-06-04T02:41:53+02:00
+Prem Sichanugrist,9050ecd,2011-06-30,No Component,,9050ecd,6,0,s@sikachu.com,2011-06-30T20:23:01+02:00
+Greg Lappen,65e8d4f,2010-02-12,No Component,,65e8d4f,29,2,greg@lapcominc.com,2010-02-12T20:46:33+01:00
+Prem Sichanugrist,054a807,2011-06-30,No Component,,054a807,10,0,s@sikachu.com,2011-06-30T18:30:35+02:00
+Prem Sichanugrist,86c0c59,2011-06-30,No Component,,86c0c59,3,1,s@sikachu.com,2011-06-30T07:24:03+02:00
+Prem Sichanugrist,ce9ee13,2011-06-30,No Component,,ce9ee13,2,2,s@sikachu.com,2011-06-30T07:16:30+02:00
+Prem Sichanugrist,dcdcb83,2011-06-29,No Component,,dcdcb83,19,1,s@sikachu.com,2011-06-29T22:41:36+02:00
+Prem Sichanugrist,41bc6b4,2011-06-29,No Component,,41bc6b4,1,1,s@sikachu.com,2011-06-29T22:12:00+02:00
+Larry Sprock,5e86a99,2011-01-25,No Component,,5e86a99,161,10,larry@lucidbleu.com,2011-01-25T23:30:39+01:00
+Prem Sichanugrist,036265c,2011-06-29,No Component,,036265c,13,0,s@sikachu.com,2011-06-29T20:58:38+02:00
+Alex Godin,5be6759,2011-06-29,No Component,,5be6759,1,0,alex@alexgodin.com,2011-06-29T19:02:21+02:00
+Ryan Schlesinger,1ff1cc7,2011-06-28,No Component,,1ff1cc7,5,0,ryan@instanceinc.com,2011-06-28T20:23:06+02:00
+Lance Ivy,290d914,2011-06-27,No Component,,290d914,4,0,lance@cainlevy.net,2011-06-27T19:27:54+02:00
+Jon Yurek,98066c4,2011-06-28,No Component,,98066c4,1,1,jyurek@thoughtbot.com,2011-06-28T20:44:31+02:00
+Jon Yurek,8d262e3,2011-06-27,No Component,,8d262e3,24,0,jyurek@thoughtbot.com,2011-06-27T03:53:11+02:00
+Alex Godin,9896679,2011-06-28,No Component,,9896679,1,1,alex@alexgodin.com,2011-06-28T15:42:46+02:00
+Sam L'Ecuyer,476084a,2011-06-22,No Component,,476084a,21,1,samlecuyer@gmail.com,2011-06-22T18:39:07+02:00
+Peter Vandenberk,7a1dbd4,2010-07-20,No Component,,7a1dbd4,24,1,pvandenberk@mac.com,2010-07-20T14:11:12+02:00
+Prem Sichanugrist,1d2e3be,2011-06-24,No Component,,1d2e3be,1,0,s@sikachu.com,2011-06-24T07:03:29+02:00
+Prem Sichanugrist,35988db,2011-06-24,No Component,,35988db,4,4,s@sikachu.com,2011-06-24T06:14:45+02:00
+Mikel Lindsaar,f033d95,2011-03-23,No Component,,f033d95,23,0,mikel@rubyx.com,2011-03-23T08:24:45+01:00
+Dmitry Polushkin,4e6fac4,2011-05-02,No Component,,4e6fac4,3,2,dmitry.polushkin@gmail.com,2011-05-02T23:02:14+02:00
+Dmitrii Samoilov,be74ceb,2011-06-01,No Component,,be74ceb,1,1,e2718281828@ya.ru,2011-06-01T22:13:48+02:00
+Prem Sichanugrist,76bac64,2011-06-20,No Component,,76bac64,2,2,s@sikachu.com,2011-06-20T07:22:02+02:00
+Prem Sichanugrist,b992ab2,2011-06-20,No Component,Fix,b992ab2,19,0,s@sikachu.com,2011-06-20T06:41:03+02:00
+Pavel Forkert,54093c6,2011-05-29,No Component,,54093c6,8,0,fxposter@gmail.com,2011-05-29T22:05:28+02:00
+Prem Sichanugrist,119a44b,2011-06-20,No Component,,119a44b,60,1,s@sikachu.com,2011-06-20T04:50:29+02:00
+Parker Selbert,c2d19bf,2010-08-25,No Component,,c2d19bf,28,2,parker@sorentwo.com,2010-08-25T13:15:11+02:00
+Zach Church,4e4f427,2011-05-20,No Component,Fix fix,4e4f427,7,5,zgchurch@gmail.com,2011-05-20T01:35:32+02:00
+Prem Sichanugrist,a44bbd5,2011-06-20,No Component,,a44bbd5,4,0,s@sikachu.com,2011-06-20T01:23:58+02:00
+ralph,6fcbd29,2011-06-10,No Component,,6fcbd29,30,0,ralph@rvdh.de,2011-06-10T10:16:41+02:00
+ralph,2dcb176,2011-06-09,No Component,,2dcb176,22,1,ralph@rvdh.de,2011-06-09T13:58:16+02:00
+Marshall Sontag,6f01876,2009-05-07,No Component,,6f01876,27,3,marshallsontag@gmail.com,2009-05-07T05:11:02+02:00
+Jon Yurek,cbba34c,2011-06-09,No Component,,cbba34c,1,0,jyurek@thoughtbot.com,2011-06-09T16:50:29+02:00
+Paul Mucur,b39a77e,2010-10-07,No Component,,b39a77e,16,0,mudge@mudge.name,2010-10-07T21:07:40+02:00
+Jon Yurek,244b7e4,2011-06-07,No Component,,244b7e4,1,1,jyurek@thoughtbot.com,2011-06-07T16:12:45+02:00
+Jonah Williams,0238e68,2010-09-17,No Component,,0238e68,8,1,jonah@carbonfive.com,2010-09-17T20:43:13+02:00
+Aditya Sanghi,e15648c,2011-05-31,No Component,,e15648c,9,6,asanghi@me.com,2011-05-31T21:48:54+02:00
+Prem Sichanugrist,e703662,2011-05-23,No Component,,e703662,4,2,s@sikachu.com,2011-05-23T20:34:34+02:00
+Prem Sichanugrist,fd6eba3,2011-05-23,No Component,Fix,fd6eba3,14,2,s@sikachu.com,2011-05-23T19:30:29+02:00
+Jon Yurek,0216d4d,2011-05-20,No Component,,0216d4d,42,1,jyurek@thoughtbot.com,2011-05-20T22:34:20+02:00
+Jon Yurek,a2d5e5a,2011-05-20,No Component,,a2d5e5a,1,1,jyurek@thoughtbot.com,2011-05-20T21:54:13+02:00
+Jon Yurek,dce6010,2011-05-19,No Component,,dce6010,3,3,jyurek@thoughtbot.com,2011-05-19T17:26:03+02:00
+Jon Yurek,f0d15d9,2011-05-19,No Component,,f0d15d9,21,58,jyurek@thoughtbot.com,2011-05-19T16:15:50+02:00
+knapo,9e2a863,2011-05-11,No Component,,9e2a863,1,1,knapo@knapo.net,2011-05-11T10:18:41+02:00
+Lance Ivy,be08b80,2011-05-04,No Component,,be08b80,18,11,lance@cainlevy.net,2011-05-04T01:15:28+02:00
+Lance Ivy,4829300,2011-05-04,No Component,,4829300,10,20,lance@cainlevy.net,2011-05-04T00:55:44+02:00
+Lewisou,93753d5,2011-01-26,No Component,,93753d5,1,1,lewisou@gmail.com,2011-01-26T08:32:46+01:00
+Lewisou,5b44407,2011-03-10,No Component,,5b44407,23,0,lewisou@gmail.com,2011-03-10T16:22:29+01:00
+Pavel Pravosud,5661429,2011-03-30,No Component,,5661429,2,0,rwz@duckroll.ru,2011-03-30T14:09:41+02:00
+Jon Yurek,ad034ba,2011-04-20,No Component,,ad034ba,8,3,jyurek@thoughtbot.com,2011-04-20T19:44:25+02:00
+Pavel Forkert,525b296,2011-04-08,No Component,fix,525b296,8,8,fxposter@gmail.com,2011-04-08T14:22:40+02:00
+Pavel Forkert,12bc18d,2011-04-08,No Component,,12bc18d,7,1,fxposter@gmail.com,2011-04-08T14:13:02+02:00
+Franco Catena,7ff4120,2011-04-12,No Component,,7ff4120,19,1,francocatena@gmail.com,2011-04-12T19:28:26+02:00
+Chad Pytel,484dddd,2011-04-08,No Component,,484dddd,7,5,cpytel@thoughtbot.com,2011-04-08T20:10:05+02:00
+Mike Breen,435ecba,2011-04-08,No Component,,435ecba,30,2,hardbap@gmail.com,2011-04-08T17:09:41+02:00
+Jon Yurek,7003961,2011-04-06,No Component,,7003961,1,1,jyurek@thoughtbot.com,2011-04-06T20:46:16+02:00
+Jon Yurek,7267f4d,2011-04-06,No Component,,7267f4d,1,1,jyurek@thoughtbot.com,2011-04-06T19:12:56+02:00
+John Hawthorn,37e5e5f,2011-03-23,No Component,,37e5e5f,2,2,john.hawthorn@gmail.com,2011-03-23T23:47:31+01:00
+geemus,4047d32,2010-11-29,No Component,,4047d32,206,0,geemus@gmail.com,2010-11-29T06:15:49+01:00
+Joern Barthel,4b746b3,2011-04-01,No Component,,4b746b3,7,0,joern.barthel@kreuzwerker.de,2011-04-01T15:42:10+02:00
+Andy Lindeman,36fc5b2,2011-01-27,No Component,,36fc5b2,1,1,alindeman@gmail.com,2011-01-27T22:34:29+01:00
+yar,91c2338,2011-03-07,No Component,,91c2338,3,1,yar@laptop,2011-03-07T17:47:37+01:00
+yar,338fc35,2011-03-07,No Component,,338fc35,79,5,yar@laptop,2011-03-07T18:33:44+01:00
+John Hawthorn,cf41b01,2011-02-25,No Component,,cf41b01,1,1,john.hawthorn@gmail.com,2011-02-25T04:14:37+01:00
+John Hawthorn,9ec35a6,2011-02-25,No Component,,9ec35a6,3,3,john.hawthorn@gmail.com,2011-02-25T04:29:52+01:00
+John Mileham,317c04b,2011-03-09,No Component,,317c04b,9,4,jmileham@gmail.com,2011-03-09T15:43:08+01:00
+John Mileham,13c86cf,2011-02-10,No Component,fix,13c86cf,130,4,jmileham@gmail.com,2011-02-10T11:08:27+01:00
+Franco Catena,0bca09a,2011-02-04,No Component,,0bca09a,32,0,francocatena@gmail.com,2011-02-04T19:20:30+01:00
+Robert Stern,0708cd4,2011-02-01,No Component,Fix,0708cd4,41,1,robert@reenhanced.com,2011-02-01T20:01:23+01:00
+Joost Baaij,88a65aa,2011-01-14,No Component,,88a65aa,23,0,joost@spacebabies.nl,2011-01-14T11:03:54+01:00
+Jon Yurek,5eaadd2,2010-12-15,No Component,,5eaadd2,1,1,jyurek@thoughtbot.com,2010-12-15T22:56:55+01:00
+Matthew Mongeau,a3bfeb1,2010-12-14,No Component,,a3bfeb1,9,7,halogenandtoast@gmail.com,2010-12-14T16:48:52+01:00
+Jon Yurek,e246cfb,2010-12-14,No Component,,e246cfb,1,1,jyurek@thoughtbot.com,2010-12-14T15:57:40+01:00
+Matthew Mongeau,2226c02,2010-12-14,No Component,,2226c02,38,24,halogenandtoast@gmail.com,2010-12-14T15:56:26+01:00
+Jon Yurek,6cbd3d5,2010-11-23,No Component,,6cbd3d5,1,1,jyurek@thoughtbot.com,2010-11-23T19:58:07+01:00
+Jon Yurek,edad85f,2010-11-23,No Component,,edad85f,14,8,jyurek@thoughtbot.com,2010-11-23T17:35:54+01:00
+Jon Yurek,ffe6609,2010-11-22,No Component,,ffe6609,0,12,jyurek@thoughtbot.com,2010-11-22T17:54:27+01:00
+Jon Yurek,35cdaa5,2010-11-12,No Component,,35cdaa5,3,2,jyurek@thoughtbot.com,2010-11-12T20:28:40+01:00
+Jon Yurek,fa7ee7c,2010-11-10,No Component,,fa7ee7c,1,1,jyurek@thoughtbot.com,2010-11-10T01:03:24+01:00
+Larry Sprock,553df79,2010-11-09,No Component,,553df79,13,13,larry@lucidbleu.com,2010-11-09T23:24:45+01:00
+Larry Sprock,b255f33,2010-11-09,No Component,Fix,b255f33,1,0,larry@lucidbleu.com,2010-11-09T23:23:04+01:00
+Jon Yurek,001f672,2010-10-26,No Component,,001f672,1,1,jyurek@thoughtbot.com,2010-10-26T18:07:18+02:00
+Jon Yurek,1d77573,2010-10-26,No Component,Fix,1d77573,7,2,jyurek@thoughtbot.com,2010-10-26T17:49:14+02:00
+Nick Sieger,ef7233d,2010-10-12,No Component,,ef7233d,2,1,nick@nicksieger.com,2010-10-12T19:01:38+02:00
+Jon Yurek,7a09892,2010-10-12,No Component,,7a09892,0,1,jyurek@thoughtbot.com,2010-10-12T20:00:17+02:00
+Jon Yurek,f9e592a,2010-10-07,No Component,,f9e592a,1,1,jyurek@thoughtbot.com,2010-10-07T16:15:55+02:00
+Jon Yurek,9135e47,2010-10-07,No Component,,9135e47,1,1,jyurek@thoughtbot.com,2010-10-07T16:15:31+02:00
+Jon Yurek,5e4dcb4,2010-10-07,No Component,,5e4dcb4,6,5,jyurek@thoughtbot.com,2010-10-07T04:50:06+02:00
+Jon Yurek,50a196b,2010-10-06,No Component,,50a196b,1,0,jyurek@thoughtbot.com,2010-10-06T03:02:32+02:00
+Jon Yurek,1fef4c3,2010-10-06,No Component,Fix,1fef4c3,19,6,jyurek@thoughtbot.com,2010-10-06T02:40:08+02:00
+Jon Yurek,05498d2,2010-10-01,No Component,,05498d2,22,0,jyurek@thoughtbot.com,2010-10-01T16:29:47+02:00
+Jon Yurek,9e6afe4,2010-08-19,No Component,,9e6afe4,22,14,jyurek@thoughtbot.com,2010-08-19T16:43:25+02:00
+Joost Baaij,52f87f3,2010-08-18,No Component,,52f87f3,19,0,joost@spacebabies.nl,2010-08-18T20:03:44+02:00
+Jon Yurek,6868ff9,2010-08-18,No Component,,6868ff9,5,4,jyurek@thoughtbot.com,2010-08-18T17:13:55+02:00
+Jon Yurek,4f85dd4,2010-08-18,No Component,,4f85dd4,22,2,jyurek@thoughtbot.com,2010-08-18T15:42:36+02:00
+Fiona Foo & Nate Clark,56d6b24,2010-08-13,No Component,fix,56d6b24,2,2,pair+fiona+nate@pivotallabs.com,2010-08-13T04:52:53+02:00
+Jon Yurek,bb2d3b0,2010-08-17,No Component,,bb2d3b0,265,254,jyurek@thoughtbot.com,2010-08-17T21:58:48+02:00
+Jon Yurek,15c6c9e,2010-08-16,No Component,,15c6c9e,6,7,jyurek@thoughtbot.com,2010-08-16T21:04:24+02:00
+Mike Bailey,2cdeb39,2010-06-10,No Component,,2cdeb39,45,1,mike@bailey.net.au,2010-06-10T15:59:02+02:00
+Jon Yurek,16a926e,2010-08-16,No Component,,16a926e,1,2,jyurek@thoughtbot.com,2010-08-16T20:42:18+02:00
+Jon Yurek,32b9a28,2010-08-10,No Component,,32b9a28,9,9,jyurek@thoughtbot.com,2010-08-10T05:48:47+02:00
+Jon Yurek,ba69750,2010-08-01,No Component,,ba69750,0,5,jyurek@thoughtbot.com,2010-08-01T20:50:04+02:00
+Jon Yurek,b5aea8b,2010-07-29,No Component,,b5aea8b,2,2,jyurek@thoughtbot.com,2010-07-29T05:15:08+02:00
+Jon Yurek,b8aee5f,2010-07-29,No Component,,b8aee5f,10,0,jyurek@thoughtbot.com,2010-07-29T03:00:27+02:00
+Jon Yurek,85c65d3,2010-07-28,No Component,,85c65d3,7,5,jyurek@thoughtbot.com,2010-07-28T05:11:16+02:00
+Jon Yurek,9223a91,2010-07-23,No Component,,9223a91,60,10,jyurek@thoughtbot.com,2010-07-23T04:56:24+02:00
+Jon Yurek,12745c4,2010-07-23,No Component,,12745c4,6,1,jyurek@thoughtbot.com,2010-07-23T02:04:28+02:00
+Jon Yurek,88b616e,2010-07-22,No Component,,88b616e,3,2,jyurek@thoughtbot.com,2010-07-22T01:46:21+02:00
+Jon Yurek,9d225cf,2010-07-09,No Component,,9d225cf,321,0,jyurek@thoughtbot.com,2010-07-09T02:07:41+02:00
+Jon Yurek,eb30f10,2010-07-11,No Component,,eb30f10,43,146,jyurek@thoughtbot.com,2010-07-11T20:09:24+02:00
+Jon Yurek,adf3e2a,2010-07-09,No Component,,adf3e2a,13,2,jyurek@thoughtbot.com,2010-07-09T05:59:25+02:00
+Jake Paul,ae9d7e9,2010-07-01,No Component,Fix,ae9d7e9,12,1,me@jakepaul.com,2010-07-01T16:57:51+02:00
+Jon Yurek,44b02fa,2010-07-01,No Component,,44b02fa,1,1,jyurek@thoughtbot.com,2010-07-01T15:57:20+02:00
+Jon Yurek,3b3f8ea,2010-06-18,No Component,Fix,3b3f8ea,9,6,jyurek@thoughtbot.com,2010-06-18T06:00:32+02:00
+Tom Ward,e7410db,2008-09-18,No Component,,e7410db,1,1,tom@popdog.net,2008-09-18T10:02:27+02:00
+Jon Yurek,3de4cd1,2010-06-10,No Component,,3de4cd1,1,1,jyurek@thoughtbot.com,2010-06-10T16:43:03+02:00
+joeljunstrom,17f1dbf,2010-06-09,No Component,,17f1dbf,2,0,joel@winstondesign.se,2010-06-09T15:53:50+02:00
+Jon Yurek,c4ca01d,2010-06-09,No Component,Fix,c4ca01d,1,1,jyurek@thoughtbot.com,2010-06-09T04:24:12+02:00
+Jon Yurek,1bcfc14,2010-06-08,No Component,,1bcfc14,1,1,jyurek@thoughtbot.com,2010-06-08T20:12:07+02:00
+Jon Yurek,a3f7b1b,2010-06-08,No Component,,a3f7b1b,1,1,jyurek@thoughtbot.com,2010-06-08T16:46:19+02:00
+Jon Yurek,bd45c4f,2010-06-08,No Component,,bd45c4f,1,3,jyurek@thoughtbot.com,2010-06-08T15:58:55+02:00
+Nick Ragaz,7bd613a,2010-06-08,No Component,,7bd613a,1,1,nick.ragaz@gmail.com,2010-06-08T14:53:06+02:00
+Nick Ragaz,bf33af3,2010-06-08,No Component,,bf33af3,6,2,nick.ragaz@gmail.com,2010-06-08T06:35:39+02:00
+Joshua Clayton,980c9b9,2010-06-07,No Component,Fix,980c9b9,1,1,jclayton@thoughtbot.com,2010-06-07T23:07:41+02:00
+Joshua Clayton,a1de414,2010-06-07,No Component,Fix,a1de414,1,1,jclayton@thoughtbot.com,2010-06-07T22:52:54+02:00
+Jon Yurek,20e9559,2010-06-07,No Component,,20e9559,14,4,jyurek@thoughtbot.com,2010-06-07T22:38:03+02:00
+Jon Yurek,ecd369d,2010-06-07,No Component,,ecd369d,22,1,jyurek@thoughtbot.com,2010-06-07T21:56:16+02:00
+Jon Yurek,44124a5,2010-06-07,No Component,,44124a5,1,1,jyurek@thoughtbot.com,2010-06-07T20:36:54+02:00
+Jon Yurek,c334c98,2010-06-07,No Component,,c334c98,12,18,jyurek@thoughtbot.com,2010-06-07T17:15:17+02:00
+Bruno Michel,f2ef8c4,2010-03-20,No Component,,f2ef8c4,3,0,bmichel@menfin.info,2010-03-20T20:02:47+01:00
+Bruno Michel,e766dd7,2010-02-24,No Component,,e766dd7,0,0,bmichel@menfin.info,2010-02-24T21:38:30+01:00
+Jon Yurek,b9d9fc4,2010-05-20,No Component,,b9d9fc4,22,3,jyurek@thoughtbot.com,2010-05-20T23:09:22+02:00
+Jon Yurek,aa93dae,2010-05-18,No Component,,aa93dae,0,2,jyurek@thoughtbot.com,2010-05-18T20:25:43+02:00
+Jon Yurek,43cbf82,2010-05-17,No Component,,43cbf82,56,0,jyurek@thoughtbot.com,2010-05-17T20:24:46+02:00
+Jon Yurek,08f837f,2010-05-14,No Component,,08f837f,6,6,jyurek@thoughtbot.com,2010-05-14T23:00:42+02:00
+Jon Yurek,cdfefd6,2010-05-01,No Component,,cdfefd6,7,7,jyurek@thoughtbot.com,2010-05-01T03:08:30+02:00
+Jon Yurek,a4d1b0e,2010-05-01,No Component,,a4d1b0e,7,7,jyurek@thoughtbot.com,2010-05-01T03:08:30+02:00
+Jon Yurek,724cc7e,2010-05-01,No Component,,724cc7e,73,38,jyurek@thoughtbot.com,2010-05-01T02:11:14+02:00
+Mike Breen,95fc7b6,2010-04-29,No Component,,95fc7b6,23,1,hardbap@gmail.com,2010-04-29T22:58:18+02:00
+Jon Yurek,9283b5e,2010-04-27,No Component,,9283b5e,2,2,jyurek@thoughtbot.com,2010-04-27T22:27:22+02:00
+Jon Yurek,21802b3,2010-04-27,No Component,,21802b3,13,21,jyurek@thoughtbot.com,2010-04-27T22:27:00+02:00
+Jon Yurek,35a37da,2010-04-26,No Component,,35a37da,0,1,jyurek@thoughtbot.com,2010-04-26T23:20:32+02:00
+Jon Yurek,488ffd2,2010-04-26,No Component,,488ffd2,46,29,jyurek@thoughtbot.com,2010-04-26T22:08:22+02:00
+Jon Yurek,d8f45ee,2010-04-23,No Component,,d8f45ee,20,21,jyurek@thoughtbot.com,2010-04-23T20:18:00+02:00
+Jon Yurek,9b9b944,2010-04-18,No Component,,9b9b944,2,6,jyurek@thoughtbot.com,2010-04-18T18:03:15+02:00
+Jon Yurek,9cd1f8e,2010-04-18,No Component,,9cd1f8e,24,19,jyurek@thoughtbot.com,2010-04-18T17:54:55+02:00
+Jon Yurek,3f2b0c0,2010-04-13,No Component,,3f2b0c0,2,2,jyurek@thoughtbot.com,2010-04-13T17:24:54+02:00
+Dan Croak,933dc7b,2010-01-16,No Component,,933dc7b,29,37,dcroak@thoughtbot.com,2010-01-16T21:51:43+01:00
+Joe Ferris,4c6cf39,2010-03-17,No Component,,4c6cf39,61,0,joe.r.ferris@gmail.com,2010-03-17T14:57:51+01:00
+Joe Ferris,280a85a,2010-03-17,No Component,,280a85a,60,27,joe.r.ferris@gmail.com,2010-03-17T14:45:11+01:00
+Jon Yurek,51637fe,2009-12-31,No Component,,51637fe,3,103,jyurek@thoughtbot.com,2009-12-31T20:45:52+01:00
+will,91b30cd,2009-12-18,No Component,bug,91b30cd,0,1,will@spanner.org,2009-12-18T15:03:34+01:00
+will,7a42e65,2009-12-18,No Component,,7a42e65,313,97,will@spanner.org,2009-12-18T14:27:50+01:00
+Matt Hawkins,808d295,2009-11-03,No Component,,808d295,31,0,matthew.b.hawkins@gmail.com,2009-11-03T03:02:03+01:00
+Jon Yurek,1926744,2009-11-30,No Component,,1926744,43,43,jyurek@thoughtbot.com,2009-11-30T16:12:13+01:00
+Jon Yurek,c64223c,2009-11-05,No Component,Fix,c64223c,2,2,jyurek@thoughtbot.com,2009-11-05T00:58:47+01:00
+Jason Morrison,68286d6,2009-10-09,No Component,,68286d6,1,1,jmorrison@thoughtbot.com,2009-10-09T18:11:13+02:00
+Tristan Dunn,d6ebd32,2009-09-08,No Component,,d6ebd32,26,2,tristanzdunn@gmail.com,2009-09-08T22:44:29+02:00
+Jon Yurek,836f44e,2009-09-03,No Component,Fix,836f44e,2,2,jyurek@thoughtbot.com,2009-09-03T19:21:53+02:00
+Jon Yurek,af7a99c,2009-09-03,No Component,Fix,af7a99c,7,6,jyurek@thoughtbot.com,2009-09-03T18:30:07+02:00
+Nick Quaranto,a05fb27,2009-08-25,No Component,,a05fb27,1,0,nick@quaran.to,2009-08-25T22:07:04+02:00
+Daniel Croak,98b90bc,2009-08-24,No Component,,98b90bc,54,0,dancroak@dan-lawlesss-macbook.local,2009-08-24T20:37:03+02:00
+Jon Yurek,4beeb7a,2009-08-21,No Component,,4beeb7a,1,1,jyurek@thoughtbot.com,2009-08-21T22:36:01+02:00
+Jon Yurek,7ccefc2,2009-08-21,No Component,Fix,7ccefc2,8,1,jyurek@thoughtbot.com,2009-08-21T22:35:18+02:00
+Damian Janowski,4f9ffb8,2009-08-09,No Component,,4f9ffb8,31,9,damian.janowski@gmail.com,2009-08-09T06:53:22+02:00
+Damian Janowski,a6095d0,2009-08-09,No Component,,a6095d0,2,2,damian.janowski@gmail.com,2009-08-09T07:10:04+02:00
+Barry Hess,b8c85cd,2009-07-28,No Component,Fix,b8c85cd,18,1,barry@bjhess.com,2009-07-28T15:38:18+02:00
+Jon Yurek,98eff60,2009-08-04,No Component,,98eff60,38,24,jyurek@thoughtbot.com,2009-08-04T14:44:23+02:00
+Jon Yurek,ac86bb9,2009-07-30,No Component,,ac86bb9,87,74,jyurek@thoughtbot.com,2009-07-30T20:58:30+02:00
+Nick Quaranto,e430afe,2009-07-15,No Component,,e430afe,1,1,nick@quaran.to,2009-07-15T19:37:52+02:00
+Mike Richards,80d699c,2009-05-28,No Component,,80d699c,14,1,mike22e@gmail.com,2009-05-28T18:21:23+02:00
+Jon Yurek,2826cdb,2009-07-09,No Component,,2826cdb,41,1,jyurek@thoughtbot.com,2009-07-09T17:42:16+02:00
+Nick Quaranto,d97f814,2009-06-30,No Component,,d97f814,0,1,nick@quaran.to,2009-06-30T22:50:17+02:00
+Nick Quaranto,800f383,2009-06-30,No Component,,800f383,1,1,nick@quaran.to,2009-06-30T19:49:35+02:00
+Nick Quaranto,8a40d68,2009-06-30,No Component,,8a40d68,3,5,nick@quaran.to,2009-06-30T19:30:21+02:00
+Nick Quaranto,4f68461,2009-06-30,No Component,,4f68461,1,1,nick@quaran.to,2009-06-30T17:37:36+02:00
+Nick Quaranto,076cd00,2009-06-30,No Component,,076cd00,1,1,nick@quaran.to,2009-06-30T17:24:34+02:00
+Nick Quaranto,318d0b2,2009-06-30,No Component,fix,318d0b2,3,1,nick@quaran.to,2009-06-30T17:22:02+02:00
+Jon Yurek,121609f,2009-06-18,No Component,,121609f,1,1,jyurek@thoughtbot.com,2009-06-18T16:10:25+02:00
+Jon Yurek,02ae1e4,2009-06-18,No Component,,02ae1e4,0,2,jyurek@thoughtbot.com,2009-06-18T16:03:44+02:00
+Jon Yurek,db147cf,2009-05-15,No Component,,db147cf,1,1,jyurek@thoughtbot.com,2009-05-15T02:28:09+02:00
+Jon Yurek,2649720,2009-05-15,No Component,,2649720,1,0,jyurek@thoughtbot.com,2009-05-15T02:25:09+02:00
+Jon Yurek,93b116e,2009-05-12,No Component,,93b116e,2,2,jyurek@thoughtbot.com,2009-05-12T05:47:13+02:00
+Jon Yurek,0358216,2009-05-11,No Component,,0358216,7,6,jyurek@thoughtbot.com,2009-05-11T06:32:16+02:00
+Jon Yurek,65fb926,2009-05-11,No Component,Fix,65fb926,17,3,jyurek@thoughtbot.com,2009-05-11T06:21:25+02:00
+Jon Yurek,93073d5,2009-05-11,No Component,,93073d5,13,10,jyurek@thoughtbot.com,2009-05-11T05:05:23+02:00
+Jon Yurek,6539e54,2009-05-11,No Component,,6539e54,68,18,jyurek@thoughtbot.com,2009-05-11T00:07:34+02:00
+Jon Yurek,f2e0e69,2009-05-11,No Component,,f2e0e69,3,3,jyurek@thoughtbot.com,2009-05-11T00:06:01+02:00
+Jon Yurek,5730418,2009-05-10,No Component,,5730418,1,1,jyurek@thoughtbot.com,2009-05-10T22:40:29+02:00
+Jon Yurek,1d75611,2009-05-10,No Component,,1d75611,19,1,jyurek@thoughtbot.com,2009-05-10T22:38:17+02:00
+Jon Yurek,634864d,2009-05-10,No Component,,634864d,10,0,jyurek@thoughtbot.com,2009-05-10T21:22:37+02:00
+Jon Yurek,af1ae00,2009-05-10,No Component,,af1ae00,10,1,jyurek@thoughtbot.com,2009-05-10T20:52:21+02:00
+Jon Yurek,81704d1,2009-05-08,No Component,Fix,81704d1,34,3,jyurek@thoughtbot.com,2009-05-08T21:08:24+02:00
+Jon Yurek,3eb7844,2009-05-08,No Component,,3eb7844,32,0,jyurek@thoughtbot.com,2009-05-08T20:33:59+02:00
+Jon Yurek,7661c31,2009-05-08,No Component,,7661c31,1,1,jyurek@thoughtbot.com,2009-05-08T20:04:13+02:00
+Jon Yurek,0f47993,2009-05-08,No Component,,0f47993,17,6,jyurek@thoughtbot.com,2009-05-08T20:03:39+02:00
+Jon Yurek,04140e5,2009-05-08,No Component,,04140e5,25,17,jyurek@thoughtbot.com,2009-05-08T18:57:20+02:00
+Jon Yurek,1ef75b0,2009-05-08,No Component,Fix,1ef75b0,2,2,jyurek@thoughtbot.com,2009-05-08T18:28:04+02:00
+Jon Yurek,2747087,2009-05-08,No Component,,2747087,6,4,jyurek@thoughtbot.com,2009-05-08T18:17:42+02:00
+Jon Yurek,c7b802c,2009-05-07,No Component,,c7b802c,12,5,jyurek@thoughtbot.com,2009-05-07T20:45:54+02:00
+Jon Yurek,acc8f75,2009-05-07,No Component,,acc8f75,12,12,jyurek@thoughtbot.com,2009-05-07T00:40:51+02:00
+Jon Yurek,4fc132f,2009-05-06,No Component,,4fc132f,99,25,jyurek@thoughtbot.com,2009-05-06T23:46:52+02:00
+Jon Yurek,f22d78f,2009-05-06,No Component,,f22d78f,138,24,jyurek@thoughtbot.com,2009-05-06T18:34:27+02:00
+Jon Yurek,a1b39cc,2009-03-17,No Component,fix,a1b39cc,13,36,jyurek@thoughtbot.com,2009-03-17T20:07:02+01:00
+Jon Yurek,d75a5db,2009-03-12,No Component,fix,d75a5db,1,1,jyurek@thoughtbot.com,2009-03-12T20:17:08+01:00
+Jon Yurek,2db00be,2009-03-12,No Component,,2db00be,51,26,jyurek@thoughtbot.com,2009-03-12T20:06:25+01:00
+Lawrence Pit,f44ede7,2009-02-27,No Component,fix,f44ede7,1,1,lawrence.pit@gmail.com,2009-02-27T00:23:18+01:00
+Jon Yurek,5318f7d,2009-02-23,No Component,Fix,5318f7d,4,1,jyurek@thoughtbot.com,2009-02-23T00:39:35+01:00
+Rob Anderton,ec09660,2009-02-22,No Component,fix,ec09660,26,4,rob.anderton@thewebfellas.com,2009-02-22T20:31:15+01:00
+Jon Yurek,723618a,2009-02-22,No Component,,723618a,69,5,jyurek@thoughtbot.com,2009-02-22T20:24:21+01:00
+Jon Yurek,53ff5f9,2009-02-17,No Component,,53ff5f9,1,1,jyurek@thoughtbot.com,2009-02-17T22:37:40+01:00
+Jon Yurek,09767ab,2009-02-17,No Component,,09767ab,0,38,jyurek@thoughtbot.com,2009-02-17T22:36:52+01:00
+Jon Yurek,28a8305,2009-02-13,No Component,Fix,28a8305,4,4,jyurek@thoughtbot.com,2009-02-13T16:11:24+01:00
+Jon Yurek,832298b,2009-02-13,No Component,Fix,832298b,1,1,jyurek@thoughtbot.com,2009-02-13T15:59:25+01:00
+Tim Pope,093f219,2009-02-12,No Component,fix,093f219,3,3,code@tpope.net,2009-02-12T05:11:09+01:00
+Jon Yurek,10c79b2,2009-02-12,No Component,,10c79b2,1,1,jyurek@thoughtbot.com,2009-02-12T05:01:38+01:00
+Jon Yurek,b51930e,2009-02-11,No Component,,b51930e,5,1,jyurek@thoughtbot.com,2009-02-11T23:03:48+01:00
+Jon Yurek,552e0b0,2009-02-10,No Component,,552e0b0,1,1,jyurek@thoughtbot.com,2009-02-10T04:32:56+01:00
+Thijs Cadier,4dccd53,2009-02-09,No Component,,4dccd53,13,0,thijs@80beans.com,2009-02-09T20:57:49+01:00
+Michał Szajbe,3f5516c,2009-02-06,No Component,Fix,3f5516c,2,2,michal.szajbe@gmail.com,2009-02-06T15:42:44+01:00
+Michał Szajbe,2fda5b1,2009-02-06,No Component,,2fda5b1,14,8,michal.szajbe@gmail.com,2009-02-06T14:53:50+01:00
+Michał Szajbe,35b912a,2009-02-03,No Component,,35b912a,44,0,michal.szajbe@gmail.com,2009-02-03T21:59:56+01:00
+Michał Szajbe,044f00e,2009-02-03,No Component,,044f00e,16,0,michal.szajbe@gmail.com,2009-02-03T19:19:12+01:00
+Jon Yurek,8778382,2009-02-09,No Component,,8778382,38,0,jyurek@thoughtbot.com,2009-02-09T00:05:53+01:00
+Jon Yurek,09657d1,2009-02-08,No Component,,09657d1,1,2,jyurek@thoughtbot.com,2009-02-08T20:26:20+01:00
+thedarkone,7de5e65,2009-01-18,No Component,Fix,7de5e65,18,1,nobody,2009-01-18T20:23:23+01:00
+Jon Yurek,a154479,2009-02-08,No Component,,a154479,1,1,jyurek@thoughtbot.com,2009-02-08T06:14:58+01:00
+Jon Yurek,20bf50d,2009-02-08,No Component,,20bf50d,0,36,jyurek@thoughtbot.com,2009-02-08T06:13:22+01:00
+Jon Yurek,54a1816,2009-02-08,No Component,,54a1816,2,2,jyurek@thoughtbot.com,2009-02-08T06:02:09+01:00
+Jon Yurek,86d0ecd,2009-02-08,No Component,,86d0ecd,0,13,jyurek@thoughtbot.com,2009-02-08T05:58:44+01:00
+Jon Yurek,1f6292a,2009-02-08,No Component,,1f6292a,1,1,jyurek@thoughtbot.com,2009-02-08T05:46:41+01:00
+Jon Yurek,f4834d6,2009-02-07,No Component,,f4834d6,1,3,jyurek@thoughtbot.com,2009-02-07T21:10:08+01:00
+Jon Yurek,f78528a,2009-02-08,No Component,,f78528a,136,48,jyurek@thoughtbot.com,2009-02-08T05:27:06+01:00
+Jon Yurek,9e73929,2009-02-08,No Component,,9e73929,3,29,jyurek@thoughtbot.com,2009-02-08T03:28:02+01:00
+Jon Yurek,2824259,2009-02-08,No Component,,2824259,96,0,jyurek@thoughtbot.com,2009-02-08T03:19:23+01:00
+Jon Yurek,4793daa,2009-02-08,No Component,,4793daa,16,2,jyurek@thoughtbot.com,2009-02-08T03:18:55+01:00
+Jon Yurek,b377053,2009-02-08,No Component,,b377053,150,28,jyurek@thoughtbot.com,2009-02-08T00:27:43+01:00
+Jon Yurek,ba91710,2009-02-07,No Component,,ba91710,5,1,jyurek@thoughtbot.com,2009-02-07T21:02:45+01:00
+Jon Yurek,bbd6d06,2009-02-07,No Component,,bbd6d06,4,8,jyurek@thoughtbot.com,2009-02-07T20:15:55+01:00
+Jon Yurek,a23c21e,2009-02-03,No Component,,a23c21e,7,0,jyurek@thoughtbot.com,2009-02-03T16:38:44+01:00
+Jon Yurek,4a05a8a,2009-02-02,No Component,,4a05a8a,2,1,jyurek@thoughtbot.com,2009-02-02T00:37:58+01:00
+Jon Yurek,9e71b21,2009-01-23,No Component,,9e71b21,17,0,jyurek@thoughtbot.com,2009-01-23T22:10:52+01:00
+Jon Yurek,f07487f,2009-01-23,No Component,Fix,f07487f,6,5,jyurek@thoughtbot.com,2009-01-23T15:29:57+01:00
+Jon Yurek,5647740,2009-01-19,No Component,,5647740,21,0,jyurek@thoughtbot.com,2009-01-19T16:31:39+01:00
+Jon Yurek,75d10b9,2009-01-13,No Component,,75d10b9,1,17,jyurek@thoughtbot.com,2009-01-13T15:22:35+01:00
+Jon Yurek,cced76c,2009-01-13,No Component,,cced76c,17,1,jyurek@thoughtbot.com,2009-01-13T05:26:32+01:00
+Jon Yurek,06f9b99,2009-01-08,No Component,fix,06f9b99,34,1,jyurek@thoughtbot.com,2009-01-08T20:50:16+01:00
+Jon Yurek,8a43c13,2009-01-08,No Component,,8a43c13,1,0,jyurek@thoughtbot.com,2009-01-08T16:00:40+01:00
+Jon Yurek,49221b6,2009-01-07,No Component,,49221b6,1,1,jyurek@thoughtbot.com,2009-01-07T21:04:48+01:00
+Jon Yurek,c770395,2009-01-07,No Component,,c770395,1,1,jyurek@thoughtbot.com,2009-01-07T15:23:56+01:00
+Jon Yurek,c9205f4,2009-01-04,No Component,,c9205f4,22,19,jyurek@thoughtbot.com,2009-01-04T06:27:23+01:00
+Jon Yurek,701abb0,2009-01-04,No Component,,701abb0,66,10,jyurek@thoughtbot.com,2009-01-04T02:47:16+01:00
+Jon Yurek,84f0d61,2008-12-30,No Component,,84f0d61,1,1,jyurek@thoughtbot.com,2008-12-30T20:10:37+01:00
+Jon Yurek,04a9a83,2008-12-30,No Component,Fix,04a9a83,16,3,jyurek@thoughtbot.com,2008-12-30T20:10:07+01:00
+Jon Yurek,c2c832d,2008-12-30,No Component,,c2c832d,16,1,jyurek@thoughtbot.com,2008-12-30T20:09:20+01:00
+Jon Yurek,5a43207,2008-12-30,No Component,,5a43207,1,1,jyurek@thoughtbot.com,2008-12-30T18:56:23+01:00
+Jon Yurek,826c4e6,2008-12-30,No Component,Fix,826c4e6,22,3,jyurek@thoughtbot.com,2008-12-30T18:54:33+01:00
+Jon Yurek,3cc7ab7,2008-12-30,No Component,fix,3cc7ab7,4,1,jyurek@thoughtbot.com,2008-12-30T18:01:16+01:00
+Jon Yurek,9908421,2008-12-30,No Component,,9908421,9,2,jyurek@thoughtbot.com,2008-12-30T17:22:33+01:00
+Jon Yurek,211e988,2008-12-30,No Component,,211e988,38,1,jyurek@thoughtbot.com,2008-12-30T16:11:03+01:00
+Jon Yurek,7480516,2008-12-30,No Component,,7480516,1,1,jyurek@thoughtbot.com,2008-12-30T04:39:57+01:00
+Jon Yurek,7212775,2008-12-30,No Component,,7212775,40,14,jyurek@thoughtbot.com,2008-12-30T04:38:09+01:00
+Jon Yurek,761decf,2008-12-30,No Component,Fix,761decf,22,0,jyurek@thoughtbot.com,2008-12-30T04:34:26+01:00
+Jon Yurek,e345764,2008-12-29,No Component,,e345764,105,56,jyurek@thoughtbot.com,2008-12-29T23:54:45+01:00
+Jon Yurek,9324ba8,2008-12-29,No Component,,9324ba8,48,0,jyurek@thoughtbot.com,2008-12-29T22:48:55+01:00
+Jon Yurek,b8506d3,2008-12-29,No Component,,b8506d3,1,0,jyurek@thoughtbot.com,2008-12-29T16:13:19+01:00
+Jon Yurek,1d02330,2008-12-24,No Component,,1d02330,46,0,jyurek@thoughtbot.com,2008-12-24T20:27:57+01:00
+Jon Yurek,f1118c6,2008-12-24,No Component,,f1118c6,45,11,jyurek@thoughtbot.com,2008-12-24T19:23:51+01:00
+Jon Yurek,5a73130,2008-12-24,No Component,,5a73130,35,8,jyurek@thoughtbot.com,2008-12-24T17:20:02+01:00
+Jon Yurek,06a5d77,2008-12-23,No Component,,06a5d77,4,1,jyurek@thoughtbot.com,2008-12-23T23:40:46+01:00
+Andrew Timberlake,dfb603d,2008-12-20,No Component,,dfb603d,39,0,andrew@andrewtimberlake.com,2008-12-20T10:03:00+01:00
+Andrew Timberlake,96c800e,2008-12-10,No Component,,96c800e,10,3,andrew@andrewtimberlake.com,2008-12-10T08:19:09+01:00
+Jon Yurek,f79a822,2008-12-23,No Component,,f79a822,35,29,jyurek@thoughtbot.com,2008-12-23T22:53:12+01:00
+Jon Yurek,ee70992,2008-12-23,No Component,,ee70992,23,19,jyurek@thoughtbot.com,2008-12-23T18:10:45+01:00
+Jon Yurek,9dc9f71,2008-12-18,No Component,,9dc9f71,80,16,jyurek@thoughtbot.com,2008-12-18T11:50:57+01:00
+Jon Yurek,18c0246,2008-12-15,No Component,,18c0246,2,0,jyurek@thoughtbot.com,2008-12-15T21:43:14+01:00
+Jon Yurek,ceab018,2008-12-12,No Component,,ceab018,4,2,jyurek@thoughtbot.com,2008-12-12T18:33:12+01:00
+Jon Yurek,17a03b2,2008-12-12,No Component,,17a03b2,63,1,jyurek@thoughtbot.com,2008-12-12T17:39:24+01:00
+Jon Yurek,e8518e0,2008-12-12,No Component,,e8518e0,50,10,jyurek@thoughtbot.com,2008-12-12T15:16:14+01:00
+Jon Yurek,e8f4590,2008-12-11,No Component,,e8f4590,21,2,jyurek@thoughtbot.com,2008-12-11T21:08:34+01:00
+Jon Yurek,0e1c085,2008-12-10,No Component,,0e1c085,1,1,jyurek@thoughtbot.com,2008-12-10T23:27:48+01:00
+Jon Yurek,0f4be8a,2008-12-10,No Component,Fix,0f4be8a,33,1,jyurek@thoughtbot.com,2008-12-10T23:09:48+01:00
+Jon Yurek,c72812f,2008-12-10,No Component,,c72812f,70,5,jyurek@thoughtbot.com,2008-12-10T22:11:21+01:00
+Jon Yurek,9c51087,2008-12-10,No Component,fix,9c51087,55,47,jyurek@thoughtbot.com,2008-12-10T21:31:37+01:00
+Jon Yurek,8fce815,2008-12-05,No Component,Fix,8fce815,1,0,jyurek@thoughtbot.com,2008-12-05T15:16:23+01:00
+Jon Yurek,5eff51c,2008-12-02,No Component,,5eff51c,1,2,jyurek@thoughtbot.com,2008-12-02T16:10:42+01:00
+Henrik N,06ee1b3,2008-09-29,No Component,,06ee1b3,7,1,henrik@nyh.se,2008-09-29T12:15:41+02:00
+Henrik N,7ee9dfc,2008-09-22,No Component,Fix,7ee9dfc,1,1,henrik@nyh.se,2008-09-22T12:09:09+02:00
+Jon Yurek,93f4f3c,2008-11-30,No Component,Fix,93f4f3c,3,2,jyurek@thoughtbot.com,2008-11-30T22:01:21+01:00
+Jon Yurek,c751827,2008-11-25,No Component,,c751827,0,1,jyurek@thoughtbot.com,2008-11-25T16:58:13+01:00
+Jon Yurek,d0581b3,2008-11-25,No Component,fix,d0581b3,1,0,jyurek@thoughtbot.com,2008-11-25T16:54:04+01:00
+Jon Yurek,6c8c8c1,2008-11-25,No Component,,6c8c8c1,1,1,jyurek@thoughtbot.com,2008-11-25T05:49:33+01:00
+Jon Yurek,cd02525,2008-11-25,No Component,,cd02525,60,61,jyurek@thoughtbot.com,2008-11-25T05:47:21+01:00
+Jon Yurek,b48cea7,2008-11-17,No Component,fix,b48cea7,1,0,jyurek@thoughtbot.com,2008-11-17T03:16:13+01:00
+Jon Yurek,0a1187e,2008-11-14,No Component,,0a1187e,7,5,jyurek@thoughtbot.com,2008-11-14T23:45:31+01:00
+Steve,9f3fec1,2008-11-14,No Component,,9f3fec1,7,5,Steve@Steves-iMac.local,2008-11-14T23:01:11+01:00
+Jon Yurek,5751624,2008-11-14,No Component,,5751624,14,0,jyurek@thoughtbot.com,2008-11-14T21:49:29+01:00
+Steve,db9cbbc,2008-11-13,No Component,,db9cbbc,2,1,Steve@Steves-iMac.local,2008-11-13T17:38:44+01:00
+Jon Yurek,aebbb7c,2008-11-12,No Component,,aebbb7c,2,2,jyurek@thoughtbot.com,2008-11-12T16:57:44+01:00
+Jon Yurek,f756dd1,2008-11-07,No Component,Fix,f756dd1,1,1,jyurek@thoughtbot.com,2008-11-07T16:21:12+01:00
+Jon Yurek,0059b8c,2008-11-07,No Component,Fix,0059b8c,1,1,jyurek@thoughtbot.com,2008-11-07T16:17:13+01:00
+Jon Yurek,081b888,2008-11-06,No Component,,081b888,3,2,jyurek@thoughtbot.com,2008-11-06T21:47:55+01:00
+Jon Yurek,7874cfd,2008-11-06,No Component,,7874cfd,5,21,jyurek@thoughtbot.com,2008-11-06T16:34:38+01:00
+Jon Yurek,94eb291,2008-11-05,No Component,,94eb291,1,1,jyurek@thoughtbot.com,2008-11-05T23:25:38+01:00
+Jon Yurek,7d29d06,2008-11-05,No Component,,7d29d06,1,1,jyurek@thoughtbot.com,2008-11-05T22:32:14+01:00
+Jon Yurek,ff6e848,2008-11-05,No Component,,ff6e848,32,24,jyurek@thoughtbot.com,2008-11-05T22:04:40+01:00
+Jon Yurek,567657c,2008-10-15,No Component,,567657c,1,1,jyurek@thoughtbot.com,2008-10-15T22:22:37+02:00
+Jon Yurek,339326d,2008-10-15,No Component,,339326d,1,1,jyurek@thoughtbot.com,2008-10-15T22:22:14+02:00
+Jon Yurek,0d88f76,2008-10-14,No Component,Fix,0d88f76,97,19,jyurek@thoughtbot.com,2008-10-14T18:00:47+02:00
+Jon Yurek,4bc50bd,2008-10-14,No Component,Fix,4bc50bd,5,5,jyurek@thoughtbot.com,2008-10-14T16:46:18+02:00
+Barry Hess,6696a2b,2008-10-10,No Component,Fix,6696a2b,4,4,barry@bjhess.com,2008-10-10T17:38:22+02:00
+Barry Hess,7dbdb4c,2008-10-10,No Component,Fix,7dbdb4c,1,1,barry@bjhess.com,2008-10-10T17:36:24+02:00
+Jon Yurek,7c598fb,2008-09-12,No Component,,7c598fb,4,1,jyurek@thoughtbot.com,2008-09-12T23:13:14+02:00
+Jon Yurek,ce2f389,2008-09-12,No Component,,ce2f389,23,4,jyurek@thoughtbot.com,2008-09-12T23:03:40+02:00
+Jon Yurek,457c0cd,2008-09-12,No Component,,457c0cd,11,1,jyurek@thoughtbot.com,2008-09-12T22:21:53+02:00
+Jon Yurek,2d729bc,2008-09-12,No Component,,2d729bc,3,0,jyurek@thoughtbot.com,2008-09-12T20:28:24+02:00
+Jon Yurek,08d9b74,2008-09-08,No Component,,08d9b74,3,3,jyurek@thoughtbot.com,2008-09-08T14:46:55+02:00
+Brian Tatnall,a1adaf3,2008-09-05,No Component,,a1adaf3,33,0,btatnall@tat.local,2008-09-05T07:14:31+02:00
+James Brooks,8164a6f,2008-08-26,No Component,Fix,8164a6f,1,1,james@gooddogdesign.com,2008-08-26T03:49:40+02:00
+Jon Yurek,7af82d2,2008-08-25,No Component,fix,7af82d2,1,1,jyurek@thoughtbot.com,2008-08-25T15:53:28+02:00
+Jon Yurek,3b8ed8d,2008-08-21,No Component,,3b8ed8d,9,5,jyurek@thoughtbot.com,2008-08-21T18:59:44+02:00
+Jon Yurek,715ff88,2008-08-21,No Component,,715ff88,57,50,jyurek@thoughtbot.com,2008-08-21T17:08:35+02:00
+Jon Yurek,978b1e9,2008-08-13,No Component,Fix,978b1e9,18,1,jyurek@thoughtbot.com,2008-08-13T23:58:27+02:00
+Barry Hess,4b98e8f,2008-08-07,No Component,,4b98e8f,12,0,barry@bjhess.com,2008-08-07T22:07:52+02:00
+Barry Hess,39bc32c,2008-08-07,No Component,Fix,39bc32c,1,1,barry@bjhess.com,2008-08-07T22:07:07+02:00
+Barry Hess,8b41b3f,2008-08-07,No Component,,8b41b3f,5,0,barry@bjhess.com,2008-08-07T21:52:48+02:00
+Barry Hess,6deeaf7,2008-08-07,No Component,,6deeaf7,58,0,barry@bjhess.com,2008-08-07T21:43:45+02:00
+Barry Hess,c0257f8,2008-08-07,No Component,,c0257f8,16,6,barry@bjhess.com,2008-08-07T21:34:43+02:00
+Jon Yurek,0c0867d,2008-08-04,No Component,,0c0867d,2,0,jyurek@thoughtbot.com,2008-08-04T22:19:55+02:00
+Jon Yurek,2e92d87,2008-08-04,No Component,,2e92d87,32,0,jyurek@thoughtbot.com,2008-08-04T22:19:35+02:00
+Jon Yurek,9421f2d,2008-08-01,No Component,,9421f2d,19,3,jyurek@thoughtbot.com,2008-08-01T23:18:48+02:00
+Henrik N,87d700d,2008-08-01,No Component,,87d700d,1,1,henrik@nyh.se,2008-08-01T15:10:30+02:00
+Henrik N,071dc59,2008-08-01,No Component,,071dc59,16,1,henrik@nyh.se,2008-08-01T14:34:41+02:00
+Henrik N,009aba0,2008-08-01,No Component,,009aba0,1,1,henrik@nyh.se,2008-08-01T14:30:21+02:00
+Henrik N,491e9f5,2008-08-01,No Component,,491e9f5,21,0,henrik@nyh.se,2008-08-01T14:30:14+02:00
+Henrik N,cae3a9f,2008-08-01,No Component,,cae3a9f,1,1,henrik@nyh.se,2008-08-01T14:11:57+02:00
+Henrik N,ffb0e01,2008-08-01,No Component,,ffb0e01,9,4,henrik@nyh.se,2008-08-01T14:00:53+02:00
+Henrik N,71adf38,2008-08-01,No Component,,71adf38,1,1,henrik@nyh.se,2008-08-01T13:06:31+02:00
+Henrik N,ce598d6,2008-08-01,No Component,,ce598d6,1,1,henrik@nyh.se,2008-08-01T12:52:28+02:00
+Jon Yurek,e483854,2008-07-29,No Component,Fix,e483854,1,4,jyurek@thoughtbot.com,2008-07-29T21:12:34+02:00
+Jon Yurek,5d6fa0d,2008-07-29,No Component,Fix,5d6fa0d,4,1,jyurek@thoughtbot.com,2008-07-29T21:10:49+02:00
+Jon Yurek,d2ad7f0,2008-07-29,No Component,,d2ad7f0,9,1,jyurek@thoughtbot.com,2008-07-29T20:35:08+02:00
+Jon Yurek,10968ea,2008-07-29,No Component,,10968ea,22,0,jyurek@thoughtbot.com,2008-07-29T16:12:32+02:00
+Jon Yurek,2ff75d1,2008-07-25,No Component,,2ff75d1,14,0,jyurek@thoughtbot.com,2008-07-25T17:36:03+02:00
+Jon Yurek,9b3c51d,2008-07-25,No Component,,9b3c51d,5,1,jyurek@thoughtbot.com,2008-07-25T17:27:09+02:00
+Bradly Feeley,38ab603,2008-07-16,No Component,,38ab603,1,1,bradlyf@gmail.com,2008-07-16T03:55:11+02:00
+Jon Yurek,2b00ad0,2008-07-10,No Component,,2b00ad0,1,1,jyurek@thoughtbot.com,2008-07-10T17:18:31+02:00
+Jon Yurek,19546a0,2008-07-10,No Component,,19546a0,1,1,jyurek@thoughtbot.com,2008-07-10T06:03:08+02:00
+Jon Yurek,fb08a53,2008-07-10,No Component,,fb08a53,3,2,jyurek@thoughtbot.com,2008-07-10T04:43:28+02:00
+Jon Yurek,aff3396,2008-07-09,No Component,,aff3396,1,1,jyurek@thoughtbot.com,2008-07-09T23:31:57+02:00
+Jon Yurek,1639f0a,2008-07-09,No Component,,1639f0a,3,2,jyurek@thoughtbot.com,2008-07-09T22:57:54+02:00
+Jon Yurek,201c84b,2008-07-09,No Component,,201c84b,21,4,jyurek@thoughtbot.com,2008-07-09T17:36:38+02:00
+Jon Yurek,77d8de0,2008-07-09,No Component,,77d8de0,35,16,jyurek@thoughtbot.com,2008-07-09T00:11:32+02:00
+Jon Yurek,0effaa6,2008-07-08,No Component,,0effaa6,0,0,jyurek@thoughtbot.com,2008-07-08T23:37:48+02:00
+Jon Yurek,4c2ea0c,2008-07-08,No Component,,4c2ea0c,1,1,jyurek@thoughtbot.com,2008-07-08T19:43:29+02:00
+Jon Yurek,0e1f061,2008-07-08,No Component,,0e1f061,1,0,jyurek@thoughtbot.com,2008-07-08T19:43:01+02:00
+Jon Yurek,c9834ef,2008-07-08,No Component,,c9834ef,24,6,jyurek@thoughtbot.com,2008-07-08T18:11:34+02:00
+Jon Yurek,1389566,2008-07-08,No Component,,1389566,2,1,jyurek@thoughtbot.com,2008-07-08T16:01:17+02:00
+Henrik N,2772735,2008-07-03,No Component,Fix,2772735,11,4,henrik@nyh.se,2008-07-03T02:04:31+02:00
+Henrik N,8697826,2008-07-03,No Component,,8697826,7,1,henrik@nyh.se,2008-07-03T00:59:35+02:00
+Henrik N,293afb0,2008-07-03,No Component,,293afb0,2,2,henrik@nyh.se,2008-07-03T00:40:18+02:00
+Henrik N,429c78c,2008-07-03,No Component,,429c78c,3,0,henrik@nyh.se,2008-07-03T00:35:48+02:00
+Jon Yurek,311732b,2008-06-09,No Component,,311732b,2,2,jyurek@thoughtbot.com,2008-06-09T20:21:01+02:00
+Rolf Bjaanes,14fb769,2008-06-09,No Component,,14fb769,28,1,rolf@powow.no,2008-06-09T11:50:32+02:00
+Jon Yurek,cf3a735,2008-06-04,No Component,,cf3a735,31,25,jyurek@thoughtbot.com,2008-06-04T01:06:06+02:00
+Jon Yurek,91272d8,2008-05-23,No Component,,91272d8,23,0,jyurek@thoughtbot.com,2008-05-23T16:24:09+02:00
+Jon Yurek,5fdf964,2008-05-15,No Component,,5fdf964,53,11,jyurek@thoughtbot.com,2008-05-15T21:09:14+02:00
+Jon Yurek,f1bf873,2008-05-13,No Component,,f1bf873,1,1,jyurek@thoughtbot.com,2008-05-13T22:15:22+02:00
+Jon Yurek,25628d1,2008-05-13,No Component,,25628d1,31,0,jyurek@thoughtbot.com,2008-05-13T19:50:35+02:00
+Jon Yurek,4e9acd6,2008-05-13,No Component,,4e9acd6,17,1,jyurek@thoughtbot.com,2008-05-13T19:23:48+02:00
+Jon Yurek,7832694,2008-05-13,No Component,Fix,7832694,4,3,jyurek@thoughtbot.com,2008-05-13T19:04:55+02:00
+Jon Yurek,d177c8f,2008-05-07,No Component,,d177c8f,53,1,jyurek@thoughtbot.com,2008-05-07T22:55:45+02:00
+Jon Yurek,7dd35f5,2008-05-07,No Component,Fix,7dd35f5,2,2,jyurek@thoughtbot.com,2008-05-07T19:40:53+02:00
+Jon Yurek,c40d947,2008-05-07,No Component,,c40d947,5,4,jyurek@thoughtbot.com,2008-05-07T19:36:31+02:00
+Jon Yurek,1b099cd,2008-05-05,No Component,,1b099cd,2,2,jyurek@thoughtbot.com,2008-05-05T22:58:59+02:00
+Jon Yurek,6952542,2008-05-05,No Component,,6952542,25,28,jyurek@thoughtbot.com,2008-05-05T04:38:28+02:00
+austin.bain,be890c9,2008-05-03,No Component,,be890c9,5,3,austin@austin-bains-macbook-pro.local,2008-05-03T02:51:39+02:00
+austin.bain,3d745db,2008-05-03,No Component,,3d745db,30,4,austin@austin-bains-macbook-pro.local,2008-05-03T00:57:25+02:00
+austin.bain,044acfc,2008-05-02,No Component,,044acfc,24,2,austin@austin-bains-macbook-pro.local,2008-05-02T22:34:39+02:00
+Jon Yurek,5bbafae,2008-05-01,No Component,,5bbafae,0,1,jyurek@thoughtbot.com,2008-05-01T16:36:35+02:00
+Jon Yurek,8dd016d,2008-04-30,No Component,Fix,8dd016d,12,11,jyurek@thoughtbot.com,2008-04-30T05:31:29+02:00
+Jon Yurek,066c106,2008-04-30,No Component,,066c106,12,1,jyurek@thoughtbot.com,2008-04-30T05:15:39+02:00
+Jon Yurek,dbd63a2,2008-04-30,No Component,,dbd63a2,37,30,jyurek@thoughtbot.com,2008-04-30T04:52:16+02:00
+Mark Van Holstyn,a1d0375,2008-04-29,No Component,,a1d0375,10,1,mvanholstyn@gmail.com,2008-04-29T18:08:58+02:00
+Jon Yurek,f0cd9ea,2008-04-23,No Component,,f0cd9ea,6,6,jyurek@thoughtbot.com,2008-04-23T14:21:07+02:00
+Jon Yurek,87bd86c,2008-04-22,No Component,fix,87bd86c,7,23,jyurek@thoughtbot.com,2008-04-22T18:00:30+02:00
+Mark Van Holstyn,1fcf1d7,2008-04-21,No Component,Fix,1fcf1d7,14,0,mvanholstyn@gmail.com,2008-04-21T16:32:11+02:00
+Mark Van Holstyn,465fba8,2008-04-19,No Component,,465fba8,80,83,mvanholstyn@gmail.com,2008-04-19T18:43:20+02:00
+Mark Van Holstyn,c75cb76,2008-04-18,No Component,Fix,c75cb76,1,1,mvanholstyn@gmail.com,2008-04-18T22:11:29+02:00
+jyurek,22b4c0c,2008-04-18,No Component,,22b4c0c,27,0,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-04-18T18:08:54+02:00
+jyurek,77e91c0,2008-04-18,No Component,,77e91c0,1,3,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-04-18T18:08:46+02:00
+Jon Yurek,c6ccb54,2008-04-18,No Component,,c6ccb54,27,0,jyurek@thoughtbot.com,2008-04-18T16:22:33+02:00
+Jon Yurek,c44048d,2008-04-18,No Component,,c44048d,1,3,jyurek@thoughtbot.com,2008-04-18T15:39:44+02:00
+jyurek,96dc32b,2008-04-17,No Component,,96dc32b,21,3,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-04-17T16:06:09+02:00
+jyurek,61d8253,2008-04-17,No Component,,61d8253,1,1,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-04-17T00:09:33+02:00
+jyurek,03e325b,2008-04-16,No Component,,03e325b,26,15,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-04-16T15:25:47+02:00
+jyurek,8cdc876,2008-04-16,No Component,,8cdc876,34,7,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-04-16T15:25:39+02:00
+jyurek,a1596bb,2008-04-16,No Component,,a1596bb,8,4,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-04-16T15:25:32+02:00
+jyurek,db786b9,2008-04-16,No Component,,db786b9,38,1,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-04-16T15:25:17+02:00
+jyurek,1e1e757,2008-04-07,No Component,,1e1e757,31,0,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-04-07T16:07:00+02:00
+jyurek,b4a5174,2008-04-07,No Component,,b4a5174,2,2,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-04-07T05:52:30+02:00
+jyurek,34755c6,2008-04-07,No Component,Fix,34755c6,422,54,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-04-07T04:55:49+02:00
+jyurek,31cc0d6,2008-04-03,No Component,,31cc0d6,33,19,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-04-03T17:28:22+02:00
+jyurek,8cceb0e,2008-04-02,No Component,,8cceb0e,61,60,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-04-02T23:25:59+02:00
+jyurek,cd7030a,2008-04-02,No Component,,cd7030a,69,1,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-04-02T22:31:39+02:00
+jyurek,afc3655,2008-04-01,No Component,Fix,afc3655,10,1,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-04-01T19:55:01+02:00
+jyurek,349a466,2008-04-01,No Component,,349a466,1,0,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-04-01T19:41:25+02:00
+jyurek,2c2a2e2,2008-04-01,No Component,,2c2a2e2,2,2,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-04-01T17:26:03+02:00
+jyurek,4340b17,2008-03-31,No Component,,4340b17,2,2,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-03-31T23:24:12+02:00
+jyurek,01e5071,2008-03-31,No Component,,01e5071,19,10,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-03-31T16:48:01+02:00
+jyurek,e559ce8,2008-03-31,No Component,,e559ce8,2,2,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-03-31T16:17:38+02:00
+jyurek,52fb528,2008-03-31,No Component,Fix,52fb528,19,2,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-03-31T16:16:53+02:00
+jyurek,0be5d25,2008-03-26,No Component,,0be5d25,31,0,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-03-26T04:39:42+01:00
+jyurek,0fabebf,2008-03-21,No Component,,0fabebf,16,15,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-03-21T19:38:22+01:00
+jyurek,632f5ff,2008-03-21,No Component,Fix,632f5ff,2,2,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-03-21T18:29:16+01:00
+jyurek,b675fea,2008-03-21,No Component,,b675fea,1,0,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-03-21T14:49:14+01:00
+jyurek,fafa7c6,2008-03-21,No Component,,fafa7c6,3,0,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-03-21T06:19:46+01:00
+jyurek,e35fa9e,2008-03-20,No Component,Fix,e35fa9e,15,3,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-03-20T16:58:47+01:00
+jyurek,30c2be5,2008-03-19,No Component,,30c2be5,1,9,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-03-19T15:05:56+01:00
+jyurek,17a150f,2008-03-19,No Component,Fix,17a150f,32,7,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-03-19T15:03:14+01:00
+jyurek,0544f0f,2008-03-18,No Component,,0544f0f,8,3,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-03-18T23:51:56+01:00
+jyurek,830c0aa,2008-03-18,No Component,,830c0aa,0,6,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-03-18T23:33:55+01:00
+jyurek,d3af7c6,2008-03-18,No Component,,d3af7c6,1,1,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-03-18T23:24:52+01:00
+jyurek,2784b38,2008-03-18,No Component,,2784b38,792,716,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-03-18T18:59:04+01:00
+jyurek,c77ba25,2008-03-12,No Component,Fix,c77ba25,16,12,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-03-12T23:14:50+01:00
+jyurek,fc59d3d,2008-02-29,No Component,Fix,fc59d3d,2,2,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-02-29T23:19:18+01:00
+jyurek,5f2b2cd,2008-02-07,No Component,,5f2b2cd,11,6,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-02-07T20:00:36+01:00
+jyurek,53f9558,2008-02-01,No Component,,53f9558,9,6,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2008-02-01T21:05:39+01:00
+jyurek,9412f71,2007-12-11,No Component,,9412f71,56,19,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-12-11T00:11:20+01:00
+jyurek,da74efd,2007-11-27,No Component,Fix,da74efd,75,35,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-11-27T00:10:45+01:00
+jyurek,dfe6629,2007-11-18,No Component,Fix,dfe6629,5,1,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-11-18T23:39:18+01:00
+jyurek,849b6b8,2007-11-18,No Component,,849b6b8,1,2,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-11-18T22:00:57+01:00
+jyurek,d76ef9b,2007-11-18,No Component,,d76ef9b,7,1,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-11-18T21:55:35+01:00
+jyurek,a6e2418,2007-11-18,No Component,,a6e2418,183,63,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-11-18T07:22:32+01:00
+jyurek,5494e3c,2007-11-17,No Component,,5494e3c,390,399,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-11-17T07:41:05+01:00
+jyurek,f99b0fd,2007-11-15,No Component,,f99b0fd,111,78,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-11-15T21:15:55+01:00
+jyurek,11086ba,2007-11-12,No Component,,11086ba,207,496,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-11-12T15:18:34+01:00
+jyurek,26444ce,2007-11-09,No Component,,26444ce,14,8,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-11-09T17:17:58+01:00
+jyurek,d68a942,2007-11-09,No Component,,d68a942,370,203,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-11-09T17:04:44+01:00
+jyurek,eba59da,2007-11-09,No Component,,eba59da,59,0,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-11-09T17:02:49+01:00
+jyurek,550129b,2007-11-09,No Component,,550129b,0,63,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-11-09T17:02:01+01:00
+jyurek,fdd71b3,2007-10-31,No Component,,fdd71b3,1,1,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-10-31T17:48:08+01:00
+jyurek,bb51ba0,2007-10-26,No Component,,bb51ba0,0,100,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-10-26T20:35:54+02:00
+jyurek,94925b2,2007-10-26,No Component,,94925b2,245,0,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-10-26T20:34:59+02:00
+jyurek,d46eea5,2007-10-26,No Component,,d46eea5,77,59,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-10-26T18:16:58+02:00
+jyurek,8911e40,2007-10-26,No Component,,8911e40,413,100,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-10-26T00:06:20+02:00
+jyurek,72c4e73,2007-09-25,No Component,,72c4e73,6,6,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-09-25T17:09:00+02:00
+jyurek,9290b0e,2007-09-25,No Component,,9290b0e,6,6,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-09-25T16:55:34+02:00
+jyurek,66b4733,2007-09-25,No Component,,66b4733,284,491,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-09-25T16:45:05+02:00
+jyurek,6c56552,2007-09-13,No Component,,6c56552,1,32,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-09-13T21:31:23+02:00
+jyurek,99bfd1f,2007-09-13,No Component,,99bfd1f,21,6,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-09-13T21:29:27+02:00
+jyurek,c8ad2e9,2007-09-12,No Component,,c8ad2e9,29,2,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-09-12T23:45:13+02:00
+jyurek,5e7f945,2007-09-11,No Component,,5e7f945,0,5,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-09-11T23:25:08+02:00
+jyurek,f5d800b,2007-09-11,No Component,,f5d800b,5,0,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-09-11T23:07:50+02:00
+jyurek,cfdaea6,2007-09-10,No Component,,cfdaea6,51,18,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-09-10T19:34:07+02:00
+jyurek,0c4f5d4,2007-09-10,No Component,,0c4f5d4,38,9,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-09-10T18:46:30+02:00
+jyurek,6043576,2007-09-10,No Component,,6043576,2,26,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-09-10T17:55:58+02:00
+jyurek,f028361,2007-09-06,No Component,,f028361,2,2,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-09-06T22:55:05+02:00
+jyurek,e56f4f8,2007-09-06,No Component,,e56f4f8,11,2,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-09-06T22:53:06+02:00
+jyurek,5fbb8ac,2007-09-06,No Component,,5fbb8ac,26,1,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-09-06T22:25:54+02:00
+jyurek,62a6682,2007-08-27,No Component,,62a6682,7,4,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-08-27T19:40:56+02:00
+jyurek,f455b29,2007-08-27,No Component,Fix,f455b29,2,0,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-08-27T17:06:30+02:00
+jyurek,0919884,2007-08-27,No Component,,0919884,12,9,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-08-27T16:52:24+02:00
+jyurek,439879e,2007-08-23,No Component,,439879e,86,34,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-08-23T21:35:01+02:00
+jyurek,5adeb84,2007-08-22,No Component,,5adeb84,3,3,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-08-22T21:32:45+02:00
+jyurek,d6bc306,2007-08-22,No Component,,d6bc306,3,2,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-08-22T21:28:14+02:00
+jyurek,ed9c642,2007-08-22,No Component,,ed9c642,3,1,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-08-22T21:21:36+02:00
+jyurek,c015fb8,2007-08-22,No Component,,c015fb8,1,1,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-08-22T21:08:07+02:00
+jyurek,eb83d16,2007-08-22,No Component,,eb83d16,5,0,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-08-22T21:05:31+02:00
+jyurek,93710de,2007-08-22,No Component,,93710de,38,12,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-08-22T20:36:57+02:00
+jyurek,47d501b,2007-08-21,No Component,Fix,47d501b,1,1,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-08-21T20:02:54+02:00
+jyurek,3581988,2007-08-21,No Component,,3581988,35,23,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-08-21T19:44:24+02:00
+jyurek,bcba151,2007-08-19,No Component,,bcba151,6,3,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-08-19T06:14:23+02:00
+jyurek,110df00,2007-08-19,No Component,,110df00,214,49,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-08-19T02:44:26+02:00
+jyurek,41d7fde,2007-08-18,No Component,Fix,41d7fde,12,4,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-08-18T03:40:18+02:00
+jyurek,1aa717f,2007-08-17,No Component,Fix,1aa717f,33,6,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-08-17T23:41:24+02:00
+jyurek,403e628,2007-08-05,No Component,,403e628,7,2,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-08-05T06:44:46+02:00
+jyurek,13318e6,2007-08-05,No Component,,13318e6,203,0,jyurek@7bbfaf0e-4d1d-0410-9690-a8bb5f8ef2aa,2007-08-05T06:32:41+02:00

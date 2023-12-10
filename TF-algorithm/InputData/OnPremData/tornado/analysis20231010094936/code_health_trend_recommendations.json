@@ -1,0 +1,1 @@
+{"code-health-degradations":{"monthly":[],"improvements":[{"name":"tornado/tornado/test/gen_test.py","strength":0.25}],"predictions":[],"yearly":[{"name":"tornado/tornado/gen.py","strength":1.77},{"name":"tornado/tornado/httputil.py","strength":1.32}]}}

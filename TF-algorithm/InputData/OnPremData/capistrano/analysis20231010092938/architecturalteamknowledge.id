@@ -1,0 +1,37 @@
+author,rev,date,entity,message,ticket-id,loc-added,loc-deleted,author-email,basic-date-time
+Carsten Seeger,d732fa43,2016-09-07,No Component,fix,d732fa43,18,2,cseeger@epages.com,2016-09-07T16:39:28+02:00
+Carsten Seeger,e81392ff,2016-08-31,No Component,,e81392ff,5,0,cseeger@epages.com,2016-08-31T13:57:37+02:00
+Carsten Seeger,2de4ac06,2016-08-31,No Component,fix,2de4ac06,1,1,cseeger@epages.com,2016-08-31T13:28:39+02:00
+cseeger-epages,908c385c,2016-08-31,No Component,,908c385c,1,1,cseeger@epages.com,2016-08-31T12:51:28+02:00
+Matt Brictson,7eb733f5,2016-08-31,No Component,,7eb733f5,0,4,matt@mattbrictson.com,2016-08-31T03:02:20+02:00
+Matt Brictson,9d62e3d7,2016-08-24,No Component,,9d62e3d7,0,0,matt@mattbrictson.com,2016-08-24T03:04:57+02:00
+Matt Brictson,6efd2c14,2016-08-24,No Component,,6efd2c14,1,1,matt@mattbrictson.com,2016-08-24T02:41:51+02:00
+Thomas Millward Wright,75d39184,2016-08-22,No Component,,75d39184,1,1,thomas.wright@mwrinfosecurity.com,2016-08-22T13:39:48+02:00
+Troels Knak-Nielsen,0514f383,2016-07-29,No Component,,0514f383,2,1,troelskn@gmail.com,2016-07-29T20:45:49+02:00
+SaiVardhan,bbed11e8,2016-08-03,No Component,,bbed11e8,0,23,saimca03@gmail.com,2016-08-03T11:37:38+02:00
+William Johnston,077ec8a9,2016-07-30,No Component,Fix,077ec8a9,1,1,will@johnstonclan.net,2016-07-30T14:42:29+02:00
+Matt Brictson,2a474297,2016-07-28,No Component,fix,2a474297,61,23,matt@mattbrictson.com,2016-07-28T02:40:51+02:00
+Alex Kitchens,7d4ff971,2016-07-28,No Component,,7d4ff971,16,16,alexcameron98@gmail.com,2016-07-28T16:39:11+02:00
+Keenan Thompson,581e4e16,2016-07-27,No Component,Fix,581e4e16,1,1,keenan@keenant.com,2016-07-27T23:45:36+02:00
+lanrion,c47431fb,2016-07-27,No Component,,c47431fb,9,3,huaitaodeng@foxmail.com,2016-07-27T02:06:21+02:00
+Matt Brictson,06251864,2016-07-27,No Component,,06251864,1,1,matt@mattbrictson.com,2016-07-27T01:47:57+02:00
+Matt Brictson,cc26c2d6,2016-07-27,No Component,,cc26c2d6,2,0,matt@mattbrictson.com,2016-07-27T01:18:34+02:00
+Matt Brictson,80e1fa4b,2016-07-27,No Component,,80e1fa4b,2,2,matt@mattbrictson.com,2016-07-27T01:17:09+02:00
+Matt Brictson,45572592,2016-07-27,No Component,Fix,45572592,2,2,matt@mattbrictson.com,2016-07-27T01:16:56+02:00
+lanrion,441b71a3,2016-07-20,No Component,,441b71a3,10,1,huaitao-deng@foxmail.com,2016-07-20T18:19:03+02:00
+Troels Knak-Nielsen,00a8b79d,2016-07-14,No Component,,00a8b79d,23,2,troelskn@gmail.com,2016-07-14T13:24:56+02:00
+Matt Brictson,6150c609,2016-07-16,No Component,,6150c609,0,1,mattbrictson@users.noreply.github.com,2016-07-16T03:08:56+02:00
+Troels Knak-Nielsen,a1aa9518,2016-07-14,No Component,,a1aa9518,1,0,troelskn@gmail.com,2016-07-14T13:24:56+02:00
+Troels Knak-Nielsen,1018a08a,2016-07-14,No Component,Fix,1018a08a,38,0,troelskn@gmail.com,2016-07-14T12:39:42+02:00
+Matt Brictson,f8609b94,2016-07-11,No Component,,f8609b94,10,0,matt@mattbrictson.com,2016-07-11T23:43:45+02:00
+Matt Brictson,27655101,2016-07-01,No Component,Fix,27655101,0,13,mattbrictson@users.noreply.github.com,2016-07-01T21:05:55+02:00
+Matt Brictson,8f3aa904,2016-06-28,No Component,Fix bug,8f3aa904,28,28,matt@mattbrictson.com,2016-06-28T20:31:17+02:00
+Matt Brictson,ee14da4d,2016-06-28,No Component,Fix,ee14da4d,1,1,matt@mattbrictson.com,2016-06-28T20:30:31+02:00
+Matt Brictson,fd08a918,2016-06-21,No Component,fix,fd08a918,109,26,mattbrictson@users.noreply.github.com,2016-06-21T18:36:56+02:00
+Paulo Leonardo Vieira Rodrigues,d7c2a11d,2016-06-20,No Component,,d7c2a11d,10,4,paulorodriguesxv@gmail.com,2016-06-20T22:24:09+02:00
+Yury Lebedev,a69617a9,2016-06-20,No Component,,a69617a9,2,0,lebedev.yurii@gmail.com,2016-06-20T17:23:54+02:00
+Yury Lebedev,15085fd9,2016-06-20,No Component,,15085fd9,3,0,lebedev.yurii@gmail.com,2016-06-20T17:23:27+02:00
+Yury Lebedev,3323eb80,2016-06-17,No Component,,3323eb80,7,1,lebedev.yurii@gmail.com,2016-06-17T22:58:56+02:00
+Yury Lebedev,991967fb,2016-06-17,No Component,,991967fb,1,1,lebedev.yurii@gmail.com,2016-06-17T20:24:17+02:00
+Yury Lebedev,9ea36b0c,2016-06-17,No Component,Fix,9ea36b0c,1,0,lebedev.yurii@gmail.com,2016-06-17T20:06:41+02:00
+Yury Lebedev,6fb50989,2016-06-17,No Component,Fix,6fb50989,4,1,lebedev.yurii@gmail.com,2016-06-17T11:03:17+02:00

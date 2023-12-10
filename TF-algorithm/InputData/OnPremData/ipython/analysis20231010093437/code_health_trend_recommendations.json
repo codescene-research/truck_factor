@@ -1,0 +1,1 @@
+{"code-health-degradations":{"monthly":[],"improvements":[],"predictions":[],"yearly":[{"name":"ipython/IPython/core/tests/test_interactiveshell.py","strength":0.65},{"name":"ipython/IPython/core/application.py","strength":0.27}]}}

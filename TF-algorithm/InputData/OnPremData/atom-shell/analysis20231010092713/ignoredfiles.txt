@@ -1,0 +1,15 @@
+a.asar
+atom.gyp
+chrome_version.h.in
+cibuild
+common.gypi
+empty.asar
+file
+filenames.gypi
+LICENSE
+LICENSE.chromium
+logo.asar
+script.asar
+toolchain.gypi
+unpack.asar
+web.asar

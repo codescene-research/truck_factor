@@ -1,0 +1,1778 @@
+author,rev,date,entity,message,ticket-id,loc-added,loc-deleted,author-email,basic-date-time
+Rowan Hogan,1003f6a0,2015-07-01,No Component,,1003f6a0,1,1,rowan.hogan@gmail.com,2015-07-01T15:01:25+02:00
+Vladimir Agafonkin,f41d06ea,2015-06-30,No Component,,f41d06ea,1,1,agafonkin@gmail.com,2015-06-30T23:26:34+02:00
+Rowan Hogan,5f5694f5,2015-06-30,No Component,,5f5694f5,52,0,rowan.hogan@gmail.com,2015-06-30T14:35:58+02:00
+Vladimir Agafonkin,2f874c1f,2014-01-17,No Component,,2f874c1f,11,22,agafonkin@gmail.com,2014-01-17T13:46:36+01:00
+Vladimir Agafonkin,327f07d0,2013-12-23,No Component,,327f07d0,1,1,agafonkin@gmail.com,2013-12-23T23:16:38+01:00
+Vladimir Agafonkin,950034e4,2013-12-24,No Component,fix,950034e4,5,16,agafonkin@gmail.com,2013-12-24T17:46:05+01:00
+Vladimir Agafonkin,87757d5f,2013-12-23,No Component,fix,87757d5f,1,1,agafonkin@gmail.com,2013-12-23T23:16:38+01:00
+Per Liedman,c480c5c8,2013-12-20,No Component,,c480c5c8,1,1,per@liedman.net,2013-12-20T11:47:41+01:00
+Vladimir Agafonkin,512063d0,2013-12-06,No Component,,512063d0,25,36,agafonkin@gmail.com,2013-12-06T16:50:21+01:00
+danzel,bda5ce1a,2013-12-06,No Component,Fix,bda5ce1a,2,2,danzel@localhost.geek.nz,2013-12-06T02:54:48+01:00
+Vladimir Agafonkin,440f2f89,2013-12-03,No Component,,440f2f89,1,1,agafonkin@gmail.com,2013-12-03T14:08:57+01:00
+Vladimir Agafonkin,78c934cb,2013-12-02,No Component,fix,78c934cb,0,3,agafonkin@gmail.com,2013-12-02T17:09:44+01:00
+danzel,58551506,2013-12-02,No Component,fix,58551506,1,1,danzel@localhost.geek.nz,2013-12-02T02:06:47+01:00
+Andrew Kirkegaard,5a796c98,2013-11-29,No Component,,5a796c98,2,2,andrew@farmlogs.com,2013-11-29T18:15:40+01:00
+Ilya Zverev,0859c48f,2013-11-29,No Component,,0859c48f,2,2,zverik@textual.ru,2013-11-29T11:46:05+01:00
+Vladimir Agafonkin,16d12f4a,2013-11-28,No Component,,16d12f4a,15,16,agafonkin@gmail.com,2013-11-28T14:20:25+01:00
+Vladimir Agafonkin,941b2067,2013-11-28,No Component,,941b2067,41,13,agafonkin@gmail.com,2013-11-28T13:56:32+01:00
+nexushoratio,2e6e81e3,2013-11-23,No Component,fix,2e6e81e3,1,1,dalgoda+github@gmail.com,2013-11-23T21:55:26+01:00
+Calvin Metcalf,4a0beebd,2013-11-20,No Component,,4a0beebd,11,49,cmetcalf@appgeo.com,2013-11-20T21:42:06+01:00
+danzel,66282f14,2013-11-20,No Component,bug,66282f14,2,9,danzel@localhost.geek.nz,2013-11-20T21:30:22+01:00
+Adam Bramley,5fec57d8,2013-11-20,No Component,,5fec57d8,2,0,adam@catalyst.net.nz,2013-11-20T21:16:10+01:00
+Bradley Gentry,9d2f90b5,2013-11-19,No Component,,9d2f90b5,1,0,bgentry@moffattnichol.com,2013-11-19T23:01:00+01:00
+Adam Bramley,0b9918fe,2013-11-20,No Component,,0b9918fe,1,0,adam@catalyst.net.nz,2013-11-20T04:09:14+01:00
+Vladimir Agafonkin,1c5c7f9a,2013-11-15,No Component,fix,1c5c7f9a,630,343,agafonkin@gmail.com,2013-11-15T17:41:40+01:00
+Vladimir Agafonkin,ff927cb4,2013-11-15,No Component,,ff927cb4,1,1,agafonkin@gmail.com,2013-11-15T15:41:34+01:00
+Vladimir Agafonkin,58b93f80,2013-11-15,No Component,,58b93f80,5,2,agafonkin@gmail.com,2013-11-15T15:35:25+01:00
+danzel,00e0dcf3,2013-11-14,No Component,Fix,00e0dcf3,1,1,danzel@localhost.geek.nz,2013-11-14T22:17:08+01:00
+danzel,b2959b44,2013-11-14,No Component,,b2959b44,2,2,danzel@localhost.geek.nz,2013-11-14T22:16:42+01:00
+Vladimir Agafonkin,81ae1794,2013-11-14,No Component,fix,81ae1794,1,1,agafonkin@gmail.com,2013-11-14T17:58:16+01:00
+Vladimir Agafonkin,88e60af9,2013-11-14,No Component,fix,88e60af9,11,8,agafonkin@gmail.com,2013-11-14T17:50:29+01:00
+Vladimir Agafonkin,fab5c3b6,2013-11-14,No Component,,fab5c3b6,3,0,agafonkin@gmail.com,2013-11-14T17:04:39+01:00
+Vladimir Agafonkin,507e6c7a,2013-11-14,No Component,,507e6c7a,3,1,agafonkin@gmail.com,2013-11-14T16:52:31+01:00
+Vladimir Agafonkin,80607c60,2013-11-14,No Component,,80607c60,56,58,agafonkin@gmail.com,2013-11-14T16:45:47+01:00
+Vladimir Agafonkin,07e8198e,2013-11-13,No Component,,07e8198e,1,1,agafonkin@gmail.com,2013-11-13T21:13:39+01:00
+Vladimir Agafonkin,977fb99b,2013-11-13,No Component,fix,977fb99b,3,3,agafonkin@gmail.com,2013-11-13T20:56:48+01:00
+John Firebaugh,33263e53,2013-11-13,No Component,,33263e53,56,3,john.firebaugh@gmail.com,2013-11-13T19:50:26+01:00
+Vladimir Agafonkin,840be7a2,2013-11-13,No Component,fix,840be7a2,1,1,agafonkin@gmail.com,2013-11-13T12:30:27+01:00
+Vladimir Agafonkin,9fc4e661,2013-11-13,No Component,,9fc4e661,9,0,agafonkin@gmail.com,2013-11-13T12:17:17+01:00
+Vladimir Agafonkin,db446f3e,2013-11-13,No Component,,db446f3e,3,7,agafonkin@gmail.com,2013-11-13T11:56:00+01:00
+Vladimir Agafonkin,c96384ef,2013-11-12,No Component,,c96384ef,9,1,agafonkin@gmail.com,2013-11-12T21:57:21+01:00
+danzel,f89829ff,2013-11-12,No Component,Fix,f89829ff,1,1,danzel@localhost.geek.nz,2013-11-12T21:53:07+01:00
+Vladimir Agafonkin,c500d5ac,2013-11-12,No Component,,c500d5ac,24,10,agafonkin@gmail.com,2013-11-12T17:52:13+01:00
+Vladimir Agafonkin,9babc039,2013-11-12,No Component,,9babc039,13,1,agafonkin@gmail.com,2013-11-12T16:50:45+01:00
+Vladimir Agafonkin,edfa2acb,2013-11-12,No Component,,edfa2acb,3,1,agafonkin@gmail.com,2013-11-12T12:07:16+01:00
+Vladimir Agafonkin,3797ac3c,2013-11-11,No Component,Fix,3797ac3c,3,0,agafonkin@gmail.com,2013-11-11T23:52:03+01:00
+John Firebaugh,248c5e7c,2013-11-11,No Component,,248c5e7c,1,5,john.firebaugh@gmail.com,2013-11-11T22:59:42+01:00
+Steve Kashishian,d5383d24,2013-11-10,No Component,,d5383d24,6,0,steve@snkashis.com,2013-11-10T18:50:05+01:00
+Vladimir Agafonkin,0d249e34,2013-11-10,No Component,,0d249e34,1,1,agafonkin@gmail.com,2013-11-10T12:08:43+01:00
+Vladimir Agafonkin,244f9f39,2013-11-08,No Component,,244f9f39,46,56,agafonkin@gmail.com,2013-11-08T16:55:58+01:00
+Vladimir Agafonkin,45181ce4,2013-11-08,No Component,,45181ce4,1,0,agafonkin@gmail.com,2013-11-08T15:42:52+01:00
+Vladimir Agafonkin,e45db4cd,2013-11-08,No Component,,e45db4cd,1,16,agafonkin@gmail.com,2013-11-08T15:00:55+01:00
+Vladimir Agafonkin,91c039b7,2013-11-07,No Component,,91c039b7,70,44,agafonkin@gmail.com,2013-11-07T22:54:33+01:00
+Vladimir Agafonkin,30e1e7eb,2013-11-07,No Component,fix,30e1e7eb,2,0,agafonkin@gmail.com,2013-11-07T20:46:50+01:00
+Vladimir Agafonkin,44d98afb,2013-11-07,No Component,fix,44d98afb,2,1,agafonkin@gmail.com,2013-11-07T18:55:22+01:00
+John Firebaugh,dd063b26,2013-11-07,No Component,Fix,dd063b26,15,3,john.firebaugh@gmail.com,2013-11-07T01:04:27+01:00
+Vladimir Agafonkin,04776b7a,2013-11-06,No Component,fix,04776b7a,2,2,agafonkin@gmail.com,2013-11-06T23:07:21+01:00
+Vladimir Agafonkin,2464d134,2013-11-06,No Component,fix,2464d134,4,5,agafonkin@gmail.com,2013-11-06T22:35:42+01:00
+Vladimir Agafonkin,b1c5aa2e,2013-11-06,No Component,fix,b1c5aa2e,2,2,agafonkin@gmail.com,2013-11-06T22:34:23+01:00
+perliedman,8ae0e270,2013-11-06,No Component,,8ae0e270,6,6,per.liedman@kartena.se,2013-11-06T21:46:17+01:00
+Vladimir Agafonkin,ddbb01c3,2013-11-06,No Component,,ddbb01c3,7,5,agafonkin@gmail.com,2013-11-06T20:17:35+01:00
+danzel,b7a6f2ae,2013-11-04,No Component,,b7a6f2ae,2,6,danzel@localhost.geek.nz,2013-11-04T22:34:35+01:00
+danzel,fa35aba1,2013-11-04,No Component,fix,fa35aba1,8,3,danzel@localhost.geek.nz,2013-11-04T22:29:52+01:00
+danzel,579c044c,2013-11-04,No Component,Fix,579c044c,22,0,danzel@localhost.geek.nz,2013-11-04T22:21:32+01:00
+danzel,65f3b241,2013-11-04,No Component,,65f3b241,2,2,danzel@localhost.geek.nz,2013-11-04T22:15:21+01:00
+Vladimir Agafonkin,6c85f43f,2013-11-04,No Component,fix,6c85f43f,4,0,agafonkin@gmail.com,2013-11-04T17:56:49+01:00
+Vladimir Agafonkin,bd3409f2,2013-11-04,No Component,,bd3409f2,6,2,agafonkin@gmail.com,2013-11-04T17:24:33+01:00
+Vladimir Agafonkin,5b40fade,2013-11-04,No Component,,5b40fade,0,1,agafonkin@gmail.com,2013-11-04T12:27:48+01:00
+Vladimir Agafonkin,399e304b,2013-11-04,No Component,,399e304b,2,4,agafonkin@gmail.com,2013-11-04T12:15:15+01:00
+jacobtoye,254e6fe6,2013-11-03,No Component,fix,254e6fe6,2,0,jacob.toye@gmail.com,2013-11-03T22:46:51+01:00
+jacobtoye,f133d9a1,2013-11-03,No Component,,f133d9a1,2,1,jacob.toye@gmail.com,2013-11-03T22:39:04+01:00
+jacobtoye,112f4d6e,2013-11-03,No Component,,112f4d6e,8,0,jacob.toye@gmail.com,2013-11-03T22:38:25+01:00
+danzel,9fce6979,2013-11-03,No Component,Fix,9fce6979,20,2,danzel@localhost.geek.nz,2013-11-03T21:47:55+01:00
+Tom MacWright,427c9f1e,2013-11-01,No Component,Fix,427c9f1e,1,1,tom@macwright.org,2013-11-01T00:10:30+01:00
+Tom MacWright,ef44fbe1,2013-10-31,No Component,,ef44fbe1,5,0,tom@macwright.org,2013-10-31T23:53:24+01:00
+danzel,80c48c5d,2013-10-30,No Component,,80c48c5d,16,2,danzel@localhost.geek.nz,2013-10-30T02:32:18+01:00
+danzel,0c7e7eb3,2013-10-29,No Component,,0c7e7eb3,2,45,danzel@localhost.geek.nz,2013-10-29T22:25:28+01:00
+danzel,7b101da0,2013-10-29,No Component,fix,7b101da0,8,0,danzel@localhost.geek.nz,2013-10-29T21:04:20+01:00
+Jan Pieter Waagmeester,99bd2485,2013-10-29,No Component,,99bd2485,5,6,jieter@jieter.nl,2013-10-29T11:38:21+01:00
+Trevor Powell,05743011,2013-10-24,No Component,Fix,05743011,2,1,trevor.w.powell@gmail.com,2013-10-24T20:34:17+02:00
+Trevor Powell,3b79dd81,2013-10-24,No Component,,3b79dd81,7,4,trevor.w.powell@gmail.com,2013-10-24T20:26:52+02:00
+Jan Pieter Waagmeester,a7f2d197,2013-10-23,No Component,fix,a7f2d197,7,0,jieter@jieter.nl,2013-10-23T15:14:59+02:00
+danzel,6855e7df,2013-10-23,No Component,Fix,6855e7df,4,1,danzel@localhost.geek.nz,2013-10-23T05:28:56+02:00
+danzel,91cc1850,2013-10-21,No Component,Fix,91cc1850,2,8,danzel@localhost.geek.nz,2013-10-21T00:38:19+02:00
+Vladimir Agafonkin,f73becca,2013-10-18,No Component,fix,f73becca,1,1,agafonkin@gmail.com,2013-10-18T19:15:14+02:00
+Vladimir Agafonkin,a8baeec3,2013-10-18,No Component,,a8baeec3,2,1,agafonkin@gmail.com,2013-10-18T17:47:04+02:00
+Vladimir Agafonkin,83fb3cc9,2013-10-18,No Component,,83fb3cc9,4,0,agafonkin@gmail.com,2013-10-18T13:02:42+02:00
+Vladimir Agafonkin,c9d0abb0,2013-10-18,No Component,,c9d0abb0,0,2,agafonkin@gmail.com,2013-10-18T13:01:43+02:00
+Vladimir Agafonkin,9d28dbb3,2013-10-18,No Component,fix,9d28dbb3,2,0,agafonkin@gmail.com,2013-10-18T11:55:50+02:00
+Vladimir Agafonkin,c3734e5a,2013-10-16,No Component,,c3734e5a,2,0,agafonkin@gmail.com,2013-10-16T23:17:31+02:00
+Jimmy Tidey,5af47ddd,2013-10-16,No Component,,5af47ddd,5,0,jimmytidey@gmail.com,2013-10-16T15:52:05+02:00
+AndreyGeonya,31114669,2013-10-14,No Component,,31114669,4,0,a.geonya@gmail.com,2013-10-14T16:09:04+02:00
+Jérémy Lal,d7bf010f,2013-08-10,No Component,,d7bf010f,40,0,kapouer@melix.org,2013-08-10T17:11:43+02:00
+Jérémy Lal,2974cacf,2013-10-14,No Component,Fix,2974cacf,31,31,kapouer@melix.org,2013-10-14T14:36:30+02:00
+Vladimir Agafonkin,1a3b150a,2013-10-14,No Component,fix,1a3b150a,17,7,agafonkin@gmail.com,2013-10-14T12:29:17+02:00
+Alexander Parshin,f5de36e2,2013-10-13,No Component,Fix,f5de36e2,44,2,parshin.alexander@gmail.com,2013-10-13T18:17:12+02:00
+Vladimir Agafonkin,2629c181,2013-10-11,No Component,fix,2629c181,1,1,agafonkin@gmail.com,2013-10-11T17:44:10+02:00
+Vladimir Agafonkin,64b0e340,2013-10-10,No Component,fix,64b0e340,6,1,agafonkin@gmail.com,2013-10-10T17:44:08+02:00
+danzel,a9627d63,2013-10-10,No Component,Fix,a9627d63,4,2,danzel@localhost.geek.nz,2013-10-10T04:27:23+02:00
+Vladimir Agafonkin,8a53afc3,2013-10-09,No Component,fix,8a53afc3,1,0,agafonkin@gmail.com,2013-10-09T21:21:04+02:00
+Vladimir Agafonkin,361c9cab,2013-10-08,No Component,fix,361c9cab,8,1,agafonkin@gmail.com,2013-10-08T15:59:38+02:00
+Jérémy Lal,0fdb00be,2013-10-07,No Component,,0fdb00be,7,7,kapouer@melix.org,2013-10-07T10:16:31+02:00
+Trevor Powell,7a907ba2,2013-10-06,No Component,Fix,7a907ba2,3,1,trevor.w.powell@gmail.com,2013-10-06T08:39:01+02:00
+Trevor Powell,7541d64a,2013-10-06,No Component,,7541d64a,1,1,trevor.w.powell@gmail.com,2013-10-06T08:20:45+02:00
+danzel,6e3e0d9b,2013-10-04,No Component,,6e3e0d9b,1,1,danzel@localhost.geek.nz,2013-10-04T04:07:30+02:00
+danzel,bf3b660b,2013-10-04,No Component,fix,bf3b660b,66,57,danzel@localhost.geek.nz,2013-10-04T04:06:53+02:00
+Vladimir Agafonkin,2250cee6,2013-09-30,No Component,,2250cee6,12,1,agafonkin@gmail.com,2013-09-30T14:00:46+02:00
+perliedman,3bcc1c9a,2013-09-23,No Component,,3bcc1c9a,3,2,per.liedman@kartena.se,2013-09-23T09:59:10+02:00
+perliedman,b7824986,2013-09-23,No Component,,b7824986,5,0,per.liedman@kartena.se,2013-09-23T09:58:42+02:00
+Tom MacWright,befc5eb9,2013-09-17,No Component,Fix,befc5eb9,12,0,tom@macwright.org,2013-09-17T23:36:05+02:00
+Vladimir Agafonkin,6c77fe64,2013-09-13,No Component,fix,6c77fe64,5,0,agafonkin@gmail.com,2013-09-13T17:14:05+02:00
+Vladimir Agafonkin,4b343624,2013-09-13,No Component,,4b343624,17,17,agafonkin@gmail.com,2013-09-13T17:00:54+02:00
+Seb Emonet,16f9c9a3,2013-09-13,No Component,Fix,16f9c9a3,15,2,seb@cygnus.(none),2013-09-13T00:22:19+02:00
+Vladimir Agafonkin,a086b336,2013-09-12,No Component,fix,a086b336,17,9,agafonkin@gmail.com,2013-09-12T12:14:00+02:00
+Vladimir Agafonkin,f04527b3,2013-09-12,No Component,,f04527b3,36,35,agafonkin@gmail.com,2013-09-12T12:13:49+02:00
+Alexander Parshin,df320c3b,2013-09-10,No Component,,df320c3b,63,8,parshin.alexander@gmail.com,2013-09-10T09:03:59+02:00
+Alexander Parshin,d10cff33,2013-09-10,No Component,Fix,d10cff33,2,2,parshin.alexander@gmail.com,2013-09-10T08:47:52+02:00
+Vladimir Agafonkin,f91d2d82,2013-09-09,No Component,fix,f91d2d82,1,1,agafonkin@gmail.com,2013-09-09T10:47:09+02:00
+Daniel,037048a6,2013-09-02,No Component,,037048a6,4,4,danielku15@coderline.net,2013-09-02T02:34:41+02:00
+Vladimir Agafonkin,3d5dbe7d,2013-08-28,No Component,fix,3d5dbe7d,1,1,agafonkin@gmail.com,2013-08-28T23:51:00+02:00
+danzel,dbced205,2013-08-28,No Component,Fix,dbced205,3,2,danzel@localhost.geek.nz,2013-08-28T23:22:27+02:00
+Vladimir Agafonkin,62b23b42,2013-08-28,No Component,fix,62b23b42,5,0,agafonkin@gmail.com,2013-08-28T16:56:43+02:00
+Vladimir Agafonkin,5e30c51f,2013-08-28,No Component,,5e30c51f,75,18,agafonkin@gmail.com,2013-08-28T11:43:04+02:00
+Vladimir Agafonkin,40ef71dc,2013-08-27,No Component,,40ef71dc,4,4,agafonkin@gmail.com,2013-08-27T21:06:13+02:00
+Vladimir Agafonkin,21d8bde0,2013-08-27,No Component,fix,21d8bde0,1,1,agafonkin@gmail.com,2013-08-27T21:06:01+02:00
+Vladimir Agafonkin,d0f768ba,2013-08-27,No Component,,d0f768ba,9,22,agafonkin@gmail.com,2013-08-27T20:45:13+02:00
+Calvin Metcalf,b2b25c89,2013-08-13,No Component,,b2b25c89,55,10,calvin.metcalf@state.ma.us,2013-08-13T14:05:41+02:00
+Dag Jomar Mersland,5180cce8,2013-08-21,No Component,,5180cce8,1,1,dagjomar@gmail.com,2013-08-21T13:30:10+02:00
+Fabian Strachanski,caece944,2013-08-09,No Component,,caece944,5,1,service@fastr.de,2013-08-09T23:40:36+02:00
+Dag Jomar Mersland,d78fb499,2013-08-19,No Component,Fix,d78fb499,2,2,dagjomar@gmail.com,2013-08-19T10:14:36+02:00
+fastrde,a8a8ebe3,2013-08-18,No Component,fix,a8a8ebe3,40,0,strachanski@googlemail.com,2013-08-18T03:18:21+02:00
+fastrde,b4ed2bf2,2013-08-17,No Component,,b4ed2bf2,1,1,strachanski@googlemail.com,2013-08-17T12:13:47+02:00
+fastrde,3370942b,2013-08-17,No Component,,3370942b,1,1,strachanski@googlemail.com,2013-08-17T02:08:24+02:00
+fastrde,5eacbbf1,2013-08-17,No Component,,5eacbbf1,1,1,strachanski@googlemail.com,2013-08-17T00:38:51+02:00
+Yohan Boniface,c7eac791,2013-08-15,No Component,,c7eac791,6,4,yb@enix.org,2013-08-15T00:16:58+02:00
+Alexander Burtsev,15750081,2013-08-14,No Component,Fix,15750081,12,8,albburtsev@gmail.com,2013-08-14T15:57:48+02:00
+Vladimir Agafonkin,4609d482,2013-08-09,No Component,,4609d482,14,11,agafonkin@gmail.com,2013-08-09T13:00:44+02:00
+Stefan Sydow,10c1af4f,2013-08-09,No Component,,10c1af4f,1,1,st@metafly.info,2013-08-09T09:16:04+02:00
+Stefan Sydow,e5a129a5,2013-06-28,No Component,,e5a129a5,9,0,st@metafly.info,2013-06-28T22:24:31+02:00
+Daniel,4f2f1edb,2013-08-08,No Component,,4f2f1edb,4,2,danielku15@coderline.net,2013-08-08T17:11:34+02:00
+Daniel,15da339b,2013-08-08,No Component,,15da339b,7,3,danielku15@coderline.net,2013-08-08T16:16:59+02:00
+fastrde,5de0be07,2013-08-08,No Component,fix,5de0be07,2,2,strachanski@googlemail.com,2013-08-08T15:32:48+02:00
+fastrde,c1e64c24,2013-08-08,No Component,Fix,c1e64c24,12,3,strachanski@googlemail.com,2013-08-08T15:15:39+02:00
+Anton Borodatov,b66dd9df,2013-08-06,No Component,,b66dd9df,1,0,anton.borodatov@gmail.com,2013-08-06T21:23:32+02:00
+John Firebaugh,65a311a8,2013-08-06,No Component,,65a311a8,2,2,john.firebaugh@gmail.com,2013-08-06T19:27:27+02:00
+John Firebaugh,a0c6363b,2013-08-05,No Component,fix,a0c6363b,15,1,john.firebaugh@gmail.com,2013-08-05T22:58:54+02:00
+John Firebaugh,4fdf76ee,2013-08-05,No Component,,4fdf76ee,14,3,john.firebaugh@gmail.com,2013-08-05T21:29:55+02:00
+Russell Davis,f5687681,2013-08-02,No Component,Fix,f5687681,58,1,russell.davis@gmail.com,2013-08-02T08:09:49+02:00
+Scooter Wadsworth,ea044c83,2013-08-01,No Component,,ea044c83,7,2,scooterwadsworth@gmail.com,2013-08-01T06:15:53+02:00
+Steve Kashishian,e5bf57c4,2013-07-31,No Component,,e5bf57c4,7,0,steve@snkashis.com,2013-07-31T20:40:13+02:00
+Steve Kashishian,b36a79d3,2013-07-29,No Component,,b36a79d3,3,0,steve@snkashis.com,2013-07-29T20:56:29+02:00
+Steve Kashishian,1d3980b5,2013-07-29,No Component,,1d3980b5,4,0,steve@snkashis.com,2013-07-29T17:39:54+02:00
+a.lubchuk,2780ed6c,2013-07-26,No Component,,2780ed6c,1,1,a.lubchuk@2gis.kiev.ua,2013-07-26T15:28:51+02:00
+Vladimir Agafonkin,6db592b5,2013-07-25,No Component,,6db592b5,1,1,agafonkin@gmail.com,2013-07-25T21:43:11+02:00
+Vladimir Agafonkin,985dd00c,2013-07-25,No Component,,985dd00c,6,6,agafonkin@gmail.com,2013-07-25T12:15:06+02:00
+Vladimir Agafonkin,3a8cff69,2013-07-25,No Component,,3a8cff69,1,1,agafonkin@gmail.com,2013-07-25T12:10:35+02:00
+Vladimir Agafonkin,8248c6b1,2013-07-25,No Component,fix,8248c6b1,1,1,agafonkin@gmail.com,2013-07-25T11:49:16+02:00
+Vladimir Agafonkin,b73ed6af,2013-07-25,No Component,fix,b73ed6af,2,2,agafonkin@gmail.com,2013-07-25T11:42:09+02:00
+Vladimir Agafonkin,8d925b6a,2013-07-25,No Component,fix,8d925b6a,1,1,agafonkin@gmail.com,2013-07-25T11:49:16+02:00
+Vladimir Agafonkin,7c744d06,2013-07-25,No Component,,7c744d06,7,0,agafonkin@gmail.com,2013-07-25T11:44:55+02:00
+Vladimir Agafonkin,42a78fd8,2013-07-25,No Component,fix,42a78fd8,2,2,agafonkin@gmail.com,2013-07-25T11:42:09+02:00
+Steve Kashishian,e4c801a5,2013-07-20,No Component,,e4c801a5,4,0,steve@snkashis.com,2013-07-20T03:30:05+02:00
+palewire,ede3aebf,2013-07-18,No Component,,ede3aebf,8,8,ben.welsh@gmail.com,2013-07-18T15:56:42+02:00
+Vladimir Agafonkin,e7ebb601,2013-07-18,No Component,,e7ebb601,2,2,agafonkin@gmail.com,2013-07-18T13:54:43+02:00
+Vladimir Agafonkin,2325001e,2013-07-17,No Component,,2325001e,8918,0,agafonkin@gmail.com,2013-07-17T18:50:04+02:00
+Vladimir Agafonkin,e9f35405,2013-07-17,No Component,,e9f35405,1,1,agafonkin@gmail.com,2013-07-17T18:42:46+02:00
+Vladimir Agafonkin,756e9b85,2013-07-17,No Component,,756e9b85,5,3,agafonkin@gmail.com,2013-07-17T18:28:17+02:00
+John Firebaugh,7623e0a5,2013-07-15,No Component,Fix,7623e0a5,1,0,john.firebaugh@gmail.com,2013-07-15T20:32:40+02:00
+palewire,a2c987fe,2013-07-13,No Component,,a2c987fe,7,0,ben.welsh@gmail.com,2013-07-13T07:49:26+02:00
+palewire,2ea93191,2013-07-13,No Component,,2ea93191,7,0,ben.welsh@gmail.com,2013-07-13T07:49:26+02:00
+palewire,665a956b,2013-07-13,No Component,,665a956b,7,0,ben.welsh@gmail.com,2013-07-13T07:37:30+02:00
+Vladimir Agafonkin,75c13308,2013-07-12,No Component,fix,75c13308,15,15,agafonkin@gmail.com,2013-07-12T14:05:59+02:00
+Vladimir Agafonkin,a4c6c035,2013-07-12,No Component,fix,a4c6c035,2,1,agafonkin@gmail.com,2013-07-12T11:46:10+02:00
+Vladimir Agafonkin,5c1a3497,2013-07-12,No Component,fix,5c1a3497,14,8,agafonkin@gmail.com,2013-07-12T11:41:04+02:00
+danzel,ec3b9e0f,2013-07-12,No Component,fix,ec3b9e0f,46,6,danzel@localhost.geek.nz,2013-07-12T00:13:25+02:00
+Aaron Rutkovsky,0e34b8ca,2013-07-11,No Component,,0e34b8ca,27,0,aaron.rutkovsky@gmail.com,2013-07-11T19:30:15+02:00
+Aaron Rutkovsky,24ebb66f,2013-07-11,No Component,,24ebb66f,6,4,aaron.rutkovsky@gmail.com,2013-07-11T18:27:57+02:00
+Vladimir Agafonkin,58299630,2013-07-11,No Component,,58299630,5,1,agafonkin@gmail.com,2013-07-11T14:59:13+02:00
+Vladimir Agafonkin,a24a7726,2013-07-11,No Component,,a24a7726,10,0,agafonkin@gmail.com,2013-07-11T14:11:28+02:00
+Vladimir Agafonkin,889136fe,2013-07-11,No Component,fix,889136fe,3,3,agafonkin@gmail.com,2013-07-11T11:57:00+02:00
+Poisbeau Mathieu,bde6b345,2013-07-10,No Component,,bde6b345,2,0,freepius44@gmail.com,2013-07-10T19:00:11+02:00
+Vladimir Agafonkin,001f975b,2013-07-10,No Component,fix,001f975b,1,1,agafonkin@gmail.com,2013-07-10T18:34:51+02:00
+Vladimir Agafonkin,1781cda0,2013-07-10,No Component,fix,1781cda0,3,2,agafonkin@gmail.com,2013-07-10T18:21:39+02:00
+Vladimir Agafonkin,64a4df20,2013-07-10,No Component,,64a4df20,1,1,agafonkin@gmail.com,2013-07-10T16:24:27+02:00
+Vladimir Agafonkin,d140dca5,2013-07-10,No Component,,d140dca5,0,8886,agafonkin@gmail.com,2013-07-10T16:18:59+02:00
+Vladimir Agafonkin,81c5b8d5,2013-07-10,No Component,,81c5b8d5,26,32,agafonkin@gmail.com,2013-07-10T11:58:41+02:00
+Vladimir Agafonkin,20099d4d,2013-07-09,No Component,,20099d4d,70,57,agafonkin@gmail.com,2013-07-09T15:10:03+02:00
+John Firebaugh,4839c445,2013-07-09,No Component,,4839c445,26,1,john.firebaugh@gmail.com,2013-07-09T01:52:47+02:00
+John Firebaugh,a1d7c126,2013-07-08,No Component,,a1d7c126,4,20,john.firebaugh@gmail.com,2013-07-08T19:25:14+02:00
+Josh Caldwell,0c381325,2013-07-05,No Component,Fix,0c381325,2,2,jcaldwell@phase2technology.com,2013-07-05T17:50:36+02:00
+David Beitey,c6633926,2013-07-05,No Component,,c6633926,2,2,david@davidjb.com,2013-07-05T05:48:35+02:00
+danzel,fef108cc,2013-07-05,No Component,Fix,fef108cc,2,0,danzel@localhost.geek.nz,2013-07-05T04:35:04+02:00
+Scooter Wadsworth,914807c6,2013-07-04,No Component,,914807c6,20,3,scooterwadsworth@gmail.com,2013-07-04T06:42:10+02:00
+Aaron Rutkovsky,f01e010f,2013-07-04,No Component,,f01e010f,4,0,aaron.rutkovsky@gmail.com,2013-07-04T01:06:45+02:00
+Hans Kristian Flaatten,8e98e52b,2013-07-03,No Component,,8e98e52b,8,8,hans@starefossen.com,2013-07-03T15:44:57+02:00
+Hans Kristian Flaatten,46885de0,2013-07-03,No Component,,46885de0,117,13,hans@starefossen.com,2013-07-03T10:13:00+02:00
+Christoffer Rosen,724f9aa3,2013-07-02,No Component,fix,724f9aa3,5,0,cbr4830@rit.edu,2013-07-02T06:53:13+02:00
+danzel,71e851fa,2013-07-01,No Component,fix,71e851fa,1,1,danzel@localhost.geek.nz,2013-07-01T05:56:04+02:00
+Vladimir Agafonkin,7a139479,2013-06-28,No Component,,7a139479,4,5,agafonkin@gmail.com,2013-06-28T22:46:11+02:00
+John Firebaugh,475e7363,2013-06-28,No Component,,475e7363,5,18,john.firebaugh@gmail.com,2013-06-28T22:22:20+02:00
+Vladimir Agafonkin,b3d56848,2013-06-28,No Component,,b3d56848,7,12,agafonkin@gmail.com,2013-06-28T21:42:46+02:00
+John Firebaugh,4015f496,2013-06-28,No Component,,4015f496,18,5,john.firebaugh@gmail.com,2013-06-28T20:29:01+02:00
+John Firebaugh,1b7977a2,2013-06-28,No Component,,1b7977a2,1,1,john.firebaugh@gmail.com,2013-06-28T20:42:21+02:00
+John Firebaugh,1954d3d6,2013-06-28,No Component,Fix,1954d3d6,1,6,john.firebaugh@gmail.com,2013-06-28T15:55:17+02:00
+Vladimir Agafonkin,9559f408,2013-06-28,No Component,,9559f408,1,1,agafonkin@gmail.com,2013-06-28T01:47:34+02:00
+Vladimir Agafonkin,2521e121,2013-06-28,No Component,fix,2521e121,2,1,agafonkin@gmail.com,2013-06-28T01:45:00+02:00
+Vladimir Agafonkin,b03f3221,2013-06-28,No Component,,b03f3221,31,26,agafonkin@gmail.com,2013-06-28T01:40:27+02:00
+Vladimir Agafonkin,69f51f22,2013-06-28,No Component,,69f51f22,9,21,agafonkin@gmail.com,2013-06-28T01:36:29+02:00
+Vladimir Agafonkin,859c62f0,2013-06-28,No Component,fix,859c62f0,5,17,agafonkin@gmail.com,2013-06-28T01:36:20+02:00
+John Firebaugh,4a8b5486,2013-06-28,No Component,fix,4a8b5486,2,2,john.firebaugh@gmail.com,2013-06-28T00:06:43+02:00
+Vladimir Agafonkin,ae5bc1cc,2013-06-27,No Component,,ae5bc1cc,3,3,agafonkin@gmail.com,2013-06-27T16:41:12+02:00
+Vladimir Agafonkin,f1b8b1bc,2013-06-27,No Component,,f1b8b1bc,25,29,agafonkin@gmail.com,2013-06-27T16:34:32+02:00
+John Firebaugh,72512493,2013-06-27,No Component,Fix,72512493,2,0,john.firebaugh@gmail.com,2013-06-27T16:27:34+02:00
+John Firebaugh,bc40266b,2013-06-27,No Component,,bc40266b,19,25,john.firebaugh@gmail.com,2013-06-27T16:24:04+02:00
+Vladimir Agafonkin,e4687047,2013-06-27,No Component,fix,e4687047,3,3,agafonkin@gmail.com,2013-06-27T15:27:25+02:00
+Vladimir Agafonkin,33741660,2013-06-26,No Component,,33741660,17,5,agafonkin@gmail.com,2013-06-26T01:42:38+02:00
+Vladimir Agafonkin,c56e3762,2013-06-26,No Component,,c56e3762,15,3,agafonkin@gmail.com,2013-06-26T01:42:03+02:00
+Vladimir Agafonkin,d2f99f9b,2013-06-25,No Component,,d2f99f9b,37,27,agafonkin@gmail.com,2013-06-25T19:46:14+02:00
+John Firebaugh,a784c560,2013-06-25,No Component,,a784c560,25,19,john.firebaugh@gmail.com,2013-06-25T19:24:19+02:00
+Vladimir Agafonkin,cdc65c6c,2013-06-25,No Component,,cdc65c6c,26,2,agafonkin@gmail.com,2013-06-25T18:43:22+02:00
+Vladimir Agafonkin,9db93e46,2013-06-25,No Component,,9db93e46,9,10,agafonkin@gmail.com,2013-06-25T17:31:29+02:00
+Vladimir Agafonkin,55a36e2f,2013-06-25,No Component,fix,55a36e2f,8,9,agafonkin@gmail.com,2013-06-25T17:25:10+02:00
+Vladimir Agafonkin,1eca103f,2013-06-25,No Component,,1eca103f,39,11,agafonkin@gmail.com,2013-06-25T16:29:16+02:00
+Vladimir Agafonkin,e74fc259,2013-06-25,No Component,,e74fc259,13,11,agafonkin@gmail.com,2013-06-25T16:25:16+02:00
+John Firebaugh,cb4b4ff3,2013-06-25,No Component,,cb4b4ff3,3,2,john.firebaugh@gmail.com,2013-06-25T16:09:54+02:00
+John Firebaugh,1b5a77f7,2013-06-25,No Component,,1b5a77f7,26,1,john.firebaugh@gmail.com,2013-06-25T16:09:35+02:00
+Vladimir Agafonkin,c05614bd,2013-06-25,No Component,,c05614bd,150,117,agafonkin@gmail.com,2013-06-25T15:45:54+02:00
+Vladimir Agafonkin,89d07302,2013-06-25,No Component,fix,89d07302,3,13,agafonkin@gmail.com,2013-06-25T15:45:35+02:00
+Vladimir Agafonkin,3076210f,2013-06-25,No Component,,3076210f,3,1,agafonkin@gmail.com,2013-06-25T05:55:08+02:00
+danzel,8b742a02,2013-06-25,No Component,Fix,8b742a02,2,1,danzel@localhost.geek.nz,2013-06-25T05:44:33+02:00
+Vladimir Agafonkin,f1e87ef6,2013-06-25,No Component,,f1e87ef6,1,6,agafonkin@gmail.com,2013-06-25T05:24:52+02:00
+Vladimir Agafonkin,9fb565aa,2013-06-25,No Component,fix,9fb565aa,7,9,agafonkin@gmail.com,2013-06-25T05:23:43+02:00
+Vladimir Agafonkin,28ba41ec,2013-06-25,No Component,,28ba41ec,2,4,agafonkin@gmail.com,2013-06-25T05:11:51+02:00
+Vladimir Agafonkin,e72e2476,2013-06-25,No Component,,e72e2476,0,4,agafonkin@gmail.com,2013-06-25T04:38:38+02:00
+Vladimir Agafonkin,1d3ab22c,2013-06-25,No Component,,1d3ab22c,82,32,agafonkin@gmail.com,2013-06-25T02:28:32+02:00
+Vladimir Agafonkin,8df10e8d,2013-06-25,No Component,,8df10e8d,2,3,agafonkin@gmail.com,2013-06-25T02:12:14+02:00
+Vladimir Agafonkin,f9ea4758,2013-06-25,No Component,,f9ea4758,122,76,agafonkin@gmail.com,2013-06-25T00:17:25+02:00
+Vladimir Agafonkin,a12bd947,2013-06-24,No Component,fix,a12bd947,2,3,agafonkin@gmail.com,2013-06-24T23:37:31+02:00
+John Firebaugh,60476da3,2013-06-24,No Component,,60476da3,26,43,john.firebaugh@gmail.com,2013-06-24T23:37:19+02:00
+John Firebaugh,ea8af5c2,2013-06-24,No Component,,ea8af5c2,26,0,john.firebaugh@gmail.com,2013-06-24T22:31:49+02:00
+John Firebaugh,05461bdd,2013-06-24,No Component,,05461bdd,4,0,john.firebaugh@gmail.com,2013-06-24T22:31:25+02:00
+John Firebaugh,37c4842a,2013-06-24,No Component,,37c4842a,0,7,john.firebaugh@gmail.com,2013-06-24T21:39:36+02:00
+Vladimir Agafonkin,7223a7e4,2013-06-24,No Component,,7223a7e4,2,0,agafonkin@gmail.com,2013-06-24T22:07:15+02:00
+Vladimir Agafonkin,5a7420dd,2013-06-24,No Component,,5a7420dd,11,3,agafonkin@gmail.com,2013-06-24T21:19:15+02:00
+John Firebaugh,18e3277f,2013-06-24,No Component,Fix,18e3277f,2,2,john.firebaugh@gmail.com,2013-06-24T20:56:22+02:00
+Tom MacWright,95abf5a3,2013-06-24,No Component,,95abf5a3,2,0,tom@macwright.org,2013-06-24T20:45:29+02:00
+John Firebaugh,2c22d13a,2013-06-24,No Component,Fix,2c22d13a,1,0,john.firebaugh@gmail.com,2013-06-24T20:39:11+02:00
+Tom MacWright,e614b60d,2013-06-24,No Component,bug,e614b60d,0,1,tom@macwright.org,2013-06-24T20:33:41+02:00
+Tom MacWright,baef8e1f,2013-06-24,No Component,fix,baef8e1f,5,0,tom@macwright.org,2013-06-24T20:33:01+02:00
+John Firebaugh,e7d0fb1b,2013-06-24,No Component,,e7d0fb1b,80,20,john.firebaugh@gmail.com,2013-06-24T19:52:05+02:00
+John Firebaugh,d57525ec,2013-06-24,No Component,,d57525ec,1,1,john.firebaugh@gmail.com,2013-06-24T20:14:12+02:00
+Vladimir Agafonkin,5841fd87,2013-04-19,No Component,,5841fd87,14,10,agafonkin@gmail.com,2013-04-19T19:16:43+02:00
+Tom MacWright,130d6d0f,2013-06-24,No Component,Fix,130d6d0f,3,0,tom@macwright.org,2013-06-24T19:50:24+02:00
+S. Andrew Sheppard,239faad5,2013-06-24,No Component,,239faad5,1,1,andrew@wq.io,2013-06-24T19:07:03+02:00
+Vladimir Agafonkin,a03d62cf,2013-06-24,No Component,,a03d62cf,6,5,agafonkin@gmail.com,2013-06-24T19:26:19+02:00
+Vladimir Agafonkin,40179ed1,2013-06-24,No Component,,40179ed1,15,0,agafonkin@gmail.com,2013-06-24T19:14:26+02:00
+Tom MacWright,9f50ab8d,2013-06-24,No Component,,9f50ab8d,3,3,tom@macwright.org,2013-06-24T18:00:08+02:00
+Tom MacWright,ed4b6265,2013-06-24,No Component,Fix,ed4b6265,3,10,tom@macwright.org,2013-06-24T17:49:10+02:00
+Vladimir Agafonkin,73ddddf3,2013-06-24,No Component,,73ddddf3,62,42,agafonkin@gmail.com,2013-06-24T17:32:48+02:00
+Vladimir Agafonkin,6c061b29,2013-06-24,No Component,fix,6c061b29,8,4,agafonkin@gmail.com,2013-06-24T17:32:28+02:00
+John Firebaugh,33d3c015,2013-06-24,No Component,bug,33d3c015,0,7,john.firebaugh@gmail.com,2013-06-24T16:47:00+02:00
+Vladimir Agafonkin,54befc92,2013-06-24,No Component,fix,54befc92,16,7,agafonkin@gmail.com,2013-06-24T16:42:15+02:00
+Vladimir Agafonkin,35a5fdb0,2013-06-24,No Component,,35a5fdb0,14,25,agafonkin@gmail.com,2013-06-24T16:18:01+02:00
+Vladimir Agafonkin,57a3112b,2013-06-24,No Component,fix,57a3112b,10,4,agafonkin@gmail.com,2013-06-24T15:50:47+02:00
+Vladimir Agafonkin,9bd725d6,2013-06-24,No Component,fix,9bd725d6,9,5,agafonkin@gmail.com,2013-06-24T15:39:49+02:00
+Vladimir Agafonkin,ca491897,2013-06-24,No Component,,ca491897,13,8,agafonkin@gmail.com,2013-06-24T15:26:23+02:00
+Vladimir Agafonkin,1ab1bda0,2013-06-24,No Component,,1ab1bda0,2,1,agafonkin@gmail.com,2013-06-24T15:11:57+02:00
+Vladimir Agafonkin,43c2c6a4,2013-06-24,No Component,fix,43c2c6a4,5,3,agafonkin@gmail.com,2013-06-24T01:44:02+02:00
+danzel,19d49e02,2013-06-23,No Component,,19d49e02,14,0,danzel@localhost.geek.nz,2013-06-23T22:54:40+02:00
+Vladimir Agafonkin,5311d16d,2013-06-23,No Component,,5311d16d,38,38,agafonkin@gmail.com,2013-06-23T15:50:17+02:00
+Vladimir Agafonkin,19637c08,2013-06-23,No Component,fix,19637c08,36,36,agafonkin@gmail.com,2013-06-23T15:49:18+02:00
+Steve,0ec7e035,2013-06-21,No Component,Fix,0ec7e035,1,1,snkashis@gmail.com,2013-06-21T18:04:18+02:00
+Vladimir Agafonkin,fe8ad15a,2013-06-21,No Component,,fe8ad15a,28,12,agafonkin@gmail.com,2013-06-21T05:58:23+02:00
+jacobtoye,f9920c87,2013-06-20,No Component,,f9920c87,1,1,jacob.toye@gmail.com,2013-06-20T23:38:44+02:00
+jacobtoye,b262fdd2,2013-06-20,No Component,,b262fdd2,4,2,jacob.toye@gmail.com,2013-06-20T06:59:14+02:00
+S. Andrew Sheppard,bea3e4c1,2013-06-18,No Component,,bea3e4c1,1,1,andrew@wq.io,2013-06-18T03:31:24+02:00
+Paul Bonaud,1af9769e,2013-06-16,No Component,,1af9769e,40,2,paul@bonaud.fr,2013-06-16T22:13:31+02:00
+Yohan Boniface,fef06063,2013-06-14,No Component,,fef06063,3,3,yb@enix.org,2013-06-14T23:21:33+02:00
+danzel,016f6356,2013-06-14,No Component,,016f6356,19,9,danzel@localhost.geek.nz,2013-06-14T00:55:59+02:00
+Vladimir Agafonkin,b32a9158,2013-06-12,No Component,fix,b32a9158,1,1,agafonkin@gmail.com,2013-06-12T13:18:24+02:00
+danzel,e36181dd,2013-06-12,No Component,fix,e36181dd,2,2,danzel@localhost.geek.nz,2013-06-12T06:21:28+02:00
+danzel,b5f3b2a4,2013-06-12,No Component,,b5f3b2a4,4,8,danzel@localhost.geek.nz,2013-06-12T06:18:42+02:00
+danzel,1a1cfb2e,2013-06-12,No Component,,1a1cfb2e,10,1,danzel@localhost.geek.nz,2013-06-12T06:18:20+02:00
+danzel,11e227bf,2013-06-12,No Component,,11e227bf,4,4,danzel@localhost.geek.nz,2013-06-12T06:06:27+02:00
+danzel,fa459135,2013-06-12,No Component,,fa459135,16,4,danzel@localhost.geek.nz,2013-06-12T06:05:42+02:00
+danzel,7f2eff36,2013-06-12,No Component,Fix,7f2eff36,67,2,danzel@localhost.geek.nz,2013-06-12T05:55:03+02:00
+Vladimir Agafonkin,9f71539b,2013-06-11,No Component,,9f71539b,17,18,agafonkin@gmail.com,2013-06-11T16:11:40+02:00
+Vladimir Agafonkin,e5965aaa,2013-06-11,No Component,,e5965aaa,3,3,agafonkin@gmail.com,2013-06-11T15:42:35+02:00
+Vladimir Agafonkin,c807d10a,2013-06-11,No Component,,c807d10a,1,1,agafonkin@gmail.com,2013-06-11T15:05:33+02:00
+Vladimir Agafonkin,66d6403d,2013-06-11,No Component,,66d6403d,4,9,agafonkin@gmail.com,2013-06-11T14:44:21+02:00
+Josh Caldwell,df5e43a0,2013-06-11,No Component,,df5e43a0,1,0,jcaldwell@phase2technology.com,2013-06-11T00:29:36+02:00
+Josh Caldwell,84c51143,2013-06-07,No Component,,84c51143,5,2,jcaldwell@phase2technology.com,2013-06-07T18:21:15+02:00
+Steve Kashishian,62f708a4,2013-06-04,No Component,,62f708a4,1,1,steve@snkashis.com,2013-06-04T17:27:42+02:00
+Vladimir Agafonkin,aaad3cbe,2013-06-03,No Component,fix,aaad3cbe,45,24,agafonkin@gmail.com,2013-06-03T11:39:28+02:00
+Vladimir Agafonkin,73adefe1,2013-06-03,No Component,,73adefe1,1,2,agafonkin@gmail.com,2013-06-03T11:08:34+02:00
+Robert Nordan,e58e1ec4,2013-06-03,No Component,fix,e58e1ec4,1,1,robert.nordan@norkart.no,2013-06-03T07:23:13+02:00
+Vladimir Agafonkin,b9fa955c,2013-06-02,No Component,,b9fa955c,14,2,agafonkin@gmail.com,2013-06-02T21:29:48+02:00
+John Firebaugh,4802561e,2013-06-02,No Component,,4802561e,59,1,john.firebaugh@gmail.com,2013-06-02T07:16:53+02:00
+John Firebaugh,51fccc80,2013-06-02,No Component,,51fccc80,17,4,john.firebaugh@gmail.com,2013-06-02T07:11:42+02:00
+John Firebaugh,055b3393,2013-06-02,No Component,,055b3393,39,0,john.firebaugh@gmail.com,2013-06-02T06:48:41+02:00
+Robert Nordan,d737c2e9,2013-05-31,No Component,fix,d737c2e9,28,15,robert.nordan@norkart.no,2013-05-31T12:53:02+02:00
+Steve Kashishian,4c5b700e,2013-05-30,No Component,,4c5b700e,1,0,steve@studiosanderson.com,2013-05-30T20:39:03+02:00
+Vladimir Agafonkin,47b1d51d,2013-05-29,No Component,,47b1d51d,46,28,agafonkin@gmail.com,2013-05-29T11:10:44+02:00
+Vladimir Agafonkin,6387f202,2013-05-29,No Component,,6387f202,6,5,agafonkin@gmail.com,2013-05-29T11:10:19+02:00
+Steve Kashishian,c684fb46,2013-05-29,No Component,,c684fb46,13,3,steve@studiosanderson.com,2013-05-29T01:30:53+02:00
+Andrii Korzh,d1aa0f3b,2013-05-18,No Component,,d1aa0f3b,4,0,walkmansurf@gmail.com,2013-05-18T12:27:45+02:00
+Andrii Korzh,ef17f997,2013-05-18,No Component,,ef17f997,2,0,walkmansurf@gmail.com,2013-05-18T12:20:37+02:00
+Scooter Wadsworth,e0a44add,2013-05-16,No Component,,e0a44add,13,0,scooterwadsworth@gmail.com,2013-05-16T09:14:04+02:00
+John Firebaugh,61745f4a,2013-05-15,No Component,Fix,61745f4a,4,0,john.firebaugh@gmail.com,2013-05-15T22:50:42+02:00
+mourner,d62ee9e5,2013-05-13,No Component,,d62ee9e5,3,2,agafonkin@gmail.com,2013-05-13T21:57:01+02:00
+John Firebaugh,ade9c943,2013-05-11,No Component,,ade9c943,39,3,john.firebaugh@gmail.com,2013-05-11T00:22:03+02:00
+Vladimir Agafonkin,6f752d17,2013-05-10,No Component,,6f752d17,12,14,agafonkin@gmail.com,2013-05-10T16:28:27+02:00
+Vladimir Agafonkin,47b29934,2013-05-10,No Component,fix,47b29934,2,2,agafonkin@gmail.com,2013-05-10T16:15:17+02:00
+Vladimir Agafonkin,c33a6048,2013-05-10,No Component,fix,c33a6048,1,1,agafonkin@gmail.com,2013-05-10T16:12:46+02:00
+Vladimir Agafonkin,aae54a34,2013-05-08,No Component,,aae54a34,158,73,agafonkin@gmail.com,2013-05-08T12:02:15+02:00
+Vladimir Agafonkin,0849d06c,2013-05-08,No Component,fix,0849d06c,10,10,agafonkin@gmail.com,2013-05-08T11:58:50+02:00
+R. Merkert,bbb7acb3,2013-05-08,No Component,fix,bbb7acb3,15,2,merkertr@gmail.com,2013-05-08T02:09:40+02:00
+Karl Nack,06842ef6,2013-05-07,No Component,Fix,06842ef6,1,1,karlnack@fastmail.us,2013-05-07T18:57:38+02:00
+Vladimir Agafonkin,38c11641,2013-05-07,No Component,fix,38c11641,5,0,agafonkin@gmail.com,2013-05-07T10:44:24+02:00
+Andrew Kirkegaard,44c1a594,2013-05-04,No Component,,44c1a594,4,0,r3volver@gmail.com,2013-05-04T23:24:02+02:00
+Andrew Kirkegaard,df2ef42f,2013-05-04,No Component,,df2ef42f,5,0,r3volver@gmail.com,2013-05-04T23:16:36+02:00
+Vladimir Agafonkin,f3584ff5,2013-05-03,No Component,,f3584ff5,7,4,agafonkin@gmail.com,2013-05-03T15:16:25+02:00
+Andrew Kirkegaard,6ea5984d,2013-05-03,No Component,,6ea5984d,3,3,r3volver@gmail.com,2013-05-03T05:13:37+02:00
+John Firebaugh,c9e2453e,2013-05-03,No Component,,c9e2453e,6,1,john.firebaugh@gmail.com,2013-05-03T01:17:04+02:00
+Xelio,02b93b44,2013-05-01,No Component,,02b93b44,11,3,xelio.cheong@gmail.com,2013-05-01T07:38:51+02:00
+Dave Leaver,e0320461,2013-04-30,No Component,,e0320461,1,0,danzel@localhost.geek.nz,2013-04-30T22:24:19+02:00
+Vladimir Agafonkin,df720274,2013-04-30,No Component,,df720274,1,1,agafonkin@gmail.com,2013-04-30T16:09:55+02:00
+Vladimir Agafonkin,5ab4d4a4,2013-04-30,No Component,,5ab4d4a4,2,2,agafonkin@gmail.com,2013-04-30T16:08:10+02:00
+Vladimir Agafonkin,260a869d,2013-04-30,No Component,,260a869d,5,0,agafonkin@gmail.com,2013-04-30T16:06:16+02:00
+Vladimir Agafonkin,8d759e6c,2013-04-30,No Component,,8d759e6c,32,3,agafonkin@gmail.com,2013-04-30T15:51:45+02:00
+danzel,87db54b6,2013-04-30,No Component,,87db54b6,1,1,danzel@localhost.geek.nz,2013-04-30T05:32:36+02:00
+danzel,d18f6249,2013-04-30,No Component,fix,d18f6249,2,0,danzel@localhost.geek.nz,2013-04-30T05:31:08+02:00
+Xelio,f7e18a10,2013-04-29,No Component,,f7e18a10,2,0,xelio.cheong@gmail.com,2013-04-29T19:06:57+02:00
+Michael Moore,c1919087,2013-04-29,No Component,,c1919087,3,2,stuporglue@gmail.com,2013-04-29T14:19:10+02:00
+Daan Mortier,c6620859,2013-04-29,No Component,,c6620859,3,0,tjoekbezoer@gmail.com,2013-04-29T13:03:05+02:00
+Daan Mortier,52498f1e,2013-04-29,No Component,Fix Bug,52498f1e,9,0,tjoekbezoer@gmail.com,2013-04-29T11:53:16+02:00
+Vladimir Agafonkin,b31c9d50,2013-04-24,No Component,,b31c9d50,4,2,agafonkin@gmail.com,2013-04-24T21:34:22+02:00
+Vladimir Agafonkin,f139eea4,2013-04-24,No Component,fix,f139eea4,1,1,agafonkin@gmail.com,2013-04-24T21:29:25+02:00
+Vladimir Agafonkin,ddabd1b4,2013-04-24,No Component,,ddabd1b4,15,9,agafonkin@gmail.com,2013-04-24T21:26:52+02:00
+Vladimir Agafonkin,05bbb68c,2013-04-24,No Component,,05bbb68c,5,5,agafonkin@gmail.com,2013-04-24T17:13:36+02:00
+Vladimir Agafonkin,9660f756,2013-04-24,No Component,,9660f756,45,26,agafonkin@gmail.com,2013-04-24T16:10:59+02:00
+Vladimir Agafonkin,55d95d13,2013-04-24,No Component,,55d95d13,57,42,agafonkin@gmail.com,2013-04-24T15:24:56+02:00
+Vladimir Agafonkin,c6e9702a,2013-04-24,No Component,fix,c6e9702a,9,1,agafonkin@gmail.com,2013-04-24T12:00:42+02:00
+Vladimir Agafonkin,323245ff,2013-04-23,No Component,,323245ff,16,15,agafonkin@gmail.com,2013-04-23T12:20:19+02:00
+Vladimir Agafonkin,b61b7b47,2013-04-23,No Component,,b61b7b47,9,2,agafonkin@gmail.com,2013-04-23T10:57:42+02:00
+Vladimir Agafonkin,4f15e19d,2013-04-22,No Component,fix,4f15e19d,1,1,agafonkin@gmail.com,2013-04-22T18:23:14+02:00
+Vladimir Agafonkin,94098134,2013-04-22,No Component,fix,94098134,1,1,agafonkin@gmail.com,2013-04-22T18:20:19+02:00
+Vladimir Agafonkin,113e55c6,2013-04-22,No Component,,113e55c6,5,5,agafonkin@gmail.com,2013-04-22T17:24:55+02:00
+Vladimir Agafonkin,6fa08d31,2013-04-22,No Component,,6fa08d31,3,0,agafonkin@gmail.com,2013-04-22T17:24:11+02:00
+Vladimir Agafonkin,110bfb3a,2013-04-22,No Component,,110bfb3a,45,60,agafonkin@gmail.com,2013-04-22T16:50:56+02:00
+Vladimir Agafonkin,557ebaad,2013-04-22,No Component,,557ebaad,34,49,agafonkin@gmail.com,2013-04-22T16:49:03+02:00
+Vladimir Agafonkin,29239891,2013-04-22,No Component,,29239891,3,7,agafonkin@gmail.com,2013-04-22T16:20:34+02:00
+Vladimir Agafonkin,83539136,2013-04-22,No Component,,83539136,4,0,agafonkin@gmail.com,2013-04-22T16:16:14+02:00
+Vladimir Agafonkin,2ec3dc57,2013-04-22,No Component,,2ec3dc57,151,187,agafonkin@gmail.com,2013-04-22T16:08:19+02:00
+Vladimir Agafonkin,eafa5463,2013-04-22,No Component,fix,eafa5463,11,25,agafonkin@gmail.com,2013-04-22T16:06:42+02:00
+Vladimir Agafonkin,de0cd66f,2013-04-22,No Component,fix,de0cd66f,24,15,agafonkin@gmail.com,2013-04-22T14:21:30+02:00
+Vladimir Agafonkin,d91f5600,2013-04-20,No Component,,d91f5600,4,0,agafonkin@gmail.com,2013-04-20T16:18:17+02:00
+Vladimir Agafonkin,3caa19d6,2013-04-20,No Component,,3caa19d6,10,1,agafonkin@gmail.com,2013-04-20T16:08:52+02:00
+Vladimir Agafonkin,9ac57e04,2013-04-20,No Component,,9ac57e04,33,4,agafonkin@gmail.com,2013-04-20T16:04:17+02:00
+Vladimir Agafonkin,5c539bde,2013-04-20,No Component,fix,5c539bde,1,1,agafonkin@gmail.com,2013-04-20T14:49:04+02:00
+Vladimir Agafonkin,96748cd5,2013-04-20,No Component,,96748cd5,20,25,agafonkin@gmail.com,2013-04-20T14:45:04+02:00
+Vladimir Agafonkin,77efbb87,2013-04-20,No Component,,77efbb87,29,22,agafonkin@gmail.com,2013-04-20T13:50:33+02:00
+Vladimir Agafonkin,ff214407,2013-04-20,No Component,,ff214407,6,0,agafonkin@gmail.com,2013-04-20T12:44:31+02:00
+Vladimir Agafonkin,bd0bc4f2,2013-04-20,No Component,,bd0bc4f2,4,4,agafonkin@gmail.com,2013-04-20T11:07:00+02:00
+Vladimir Agafonkin,340dacde,2013-04-20,No Component,,340dacde,16,55,agafonkin@gmail.com,2013-04-20T10:32:15+02:00
+Krister Kari,dc07a68e,2013-04-20,No Component,,dc07a68e,2,10,krister.kari@webtehdas.fi,2013-04-20T01:01:56+02:00
+Krister Kari,904bf581,2013-04-20,No Component,,904bf581,5,1,krister.kari@webtehdas.fi,2013-04-20T00:57:57+02:00
+Vladimir Agafonkin,e47ca117,2013-04-19,No Component,,e47ca117,99,3,agafonkin@gmail.com,2013-04-19T19:17:13+02:00
+Vladimir Agafonkin,cdd61ceb,2013-04-19,No Component,,cdd61ceb,194,134,agafonkin@gmail.com,2013-04-19T18:48:21+02:00
+Vladimir Agafonkin,ad4f0e61,2013-04-19,No Component,,ad4f0e61,1,1,agafonkin@gmail.com,2013-04-19T18:44:18+02:00
+Vladimir Agafonkin,ba4d3562,2013-04-19,No Component,fix,ba4d3562,1,0,agafonkin@gmail.com,2013-04-19T18:38:51+02:00
+Vladimir Agafonkin,b0d3e8bc,2013-04-19,No Component,fix,b0d3e8bc,1,1,agafonkin@gmail.com,2013-04-19T17:13:37+02:00
+Vladimir Agafonkin,5647f37a,2013-04-19,No Component,,5647f37a,84,26,agafonkin@gmail.com,2013-04-19T16:23:45+02:00
+Vladimir Agafonkin,e01fe91a,2013-04-19,No Component,fix,e01fe91a,8,2,agafonkin@gmail.com,2013-04-19T14:43:39+02:00
+Vladimir Agafonkin,5ded0ba1,2013-04-19,No Component,,5ded0ba1,8,7,agafonkin@gmail.com,2013-04-19T14:36:18+02:00
+Vladimir Agafonkin,81e2a33f,2013-04-19,No Component,,81e2a33f,27,26,agafonkin@gmail.com,2013-04-19T13:45:01+02:00
+Vladimir Agafonkin,d856e881,2013-04-19,No Component,,d856e881,5,1,agafonkin@gmail.com,2013-04-19T11:47:55+02:00
+Vladimir Agafonkin,2a0e284e,2013-04-19,No Component,,2a0e284e,3,1,agafonkin@gmail.com,2013-04-19T10:51:59+02:00
+Vladimir Agafonkin,30fe673c,2013-04-19,No Component,,30fe673c,3,3,agafonkin@gmail.com,2013-04-19T10:44:33+02:00
+Vladimir Agafonkin,db6d689a,2013-04-18,No Component,fix,db6d689a,18,17,agafonkin@gmail.com,2013-04-18T16:05:47+02:00
+Vladimir Agafonkin,0b1bc7a9,2013-04-18,No Component,,0b1bc7a9,6,1,agafonkin@gmail.com,2013-04-18T14:26:45+02:00
+Vladimir Agafonkin,b1a31fa5,2013-04-18,No Component,fix,b1a31fa5,1,1,agafonkin@gmail.com,2013-04-18T14:19:38+02:00
+Vladimir Agafonkin,9b761b0c,2013-04-18,No Component,,9b761b0c,36,29,agafonkin@gmail.com,2013-04-18T10:15:33+02:00
+Vladimir Agafonkin,4401e63b,2013-04-17,No Component,,4401e63b,50,40,agafonkin@gmail.com,2013-04-17T19:12:26+02:00
+iirvine,f342e7ef,2013-04-17,No Component,,f342e7ef,1,20,icirvine@gmail.com,2013-04-17T17:26:25+02:00
+iirvine,59b5e0c0,2013-04-15,No Component,fix,59b5e0c0,4,4,icirvine@gmail.com,2013-04-15T23:09:05+02:00
+iirvine,84ad7db0,2013-04-15,No Component,,84ad7db0,9,8,icirvine@gmail.com,2013-04-15T19:57:35+02:00
+iirvine,2d5bf783,2013-04-15,No Component,,2d5bf783,40,1,icirvine@gmail.com,2013-04-15T06:20:10+02:00
+danzel,989d9b97,2013-04-15,No Component,Fix,989d9b97,1,2,danzel@localhost.geek.nz,2013-04-15T22:25:22+02:00
+bpavot,fd080abf,2013-04-15,No Component,fix,fd080abf,3,2,benoit.pavot@gmail.com,2013-04-15T11:17:25+02:00
+iirvine,03108668,2013-04-15,No Component,fix,03108668,16,4,icirvine@gmail.com,2013-04-15T03:47:53+02:00
+iirvine,76140994,2013-04-15,No Component,fix,76140994,3,3,icirvine@gmail.com,2013-04-15T01:36:05+02:00
+danzel,b36d973d,2013-04-15,No Component,fix,b36d973d,7,2,danzel@localhost.geek.nz,2013-04-15T01:53:31+02:00
+iirvine,ffe1d796,2013-04-15,No Component,,ffe1d796,1,1,icirvine@gmail.com,2013-04-15T01:30:03+02:00
+danzel,633ae89b,2013-04-14,No Component,Fix,633ae89b,2,2,danzel@localhost.geek.nz,2013-04-14T23:57:47+02:00
+iirvine,a469a387,2013-04-14,No Component,fix,a469a387,16,96,iirvine@gmail.com,2013-04-14T07:11:01+02:00
+iirvine,e25f730b,2013-04-13,No Component,,e25f730b,81,15,icirvine@gmail.com,2013-04-13T02:03:14+02:00
+iirvine,e41e8a88,2013-04-13,No Component,,e41e8a88,85,0,icirvine@gmail.com,2013-04-13T00:21:48+02:00
+Vladimir Agafonkin,54b28876,2013-04-11,No Component,,54b28876,79,60,agafonkin@gmail.com,2013-04-11T12:29:41+02:00
+Vladimir Agafonkin,b0fe4e59,2013-04-11,No Component,,b0fe4e59,6,6,agafonkin@gmail.com,2013-04-11T12:29:19+02:00
+Vladimir Agafonkin,c4dc5954,2013-04-11,No Component,,c4dc5954,61,63,agafonkin@gmail.com,2013-04-11T11:45:52+02:00
+Vladimir Agafonkin,c6cdd66e,2013-04-11,No Component,,c6cdd66e,13,20,agafonkin@gmail.com,2013-04-11T11:07:07+02:00
+Ansis Brammanis,6c53aa68,2013-04-10,No Component,,6c53aa68,6,1,ansis.brammanis@gmail.com,2013-04-10T23:09:31+02:00
+John Firebaugh,786faddc,2013-04-10,No Component,,786faddc,8,4,john.firebaugh@gmail.com,2013-04-10T18:28:27+02:00
+Andrey Chizh,6fc5da68,2013-04-09,No Component,,6fc5da68,1,1,info.andreychizh@gmail.com,2013-04-09T12:51:44+02:00
+Christian Schwarz,48bec16f,2013-04-08,No Component,Fix fix,48bec16f,1,1,christian.schwarz@refactory.at,2013-04-08T22:33:53+02:00
+Tom MacWright,22810aac,2013-04-08,No Component,,22810aac,25,1,tom@macwright.org,2013-04-08T18:28:27+02:00
+John Firebaugh,e6998948,2013-04-08,No Component,,e6998948,1,1,john.firebaugh@gmail.com,2013-04-08T16:49:39+02:00
+Vladimir Agafonkin,6009d4ae,2013-04-05,No Component,,6009d4ae,4,2,agafonkin@gmail.com,2013-04-05T11:32:19+02:00
+John Firebaugh,0e9b7249,2013-04-04,No Component,,0e9b7249,8,8,john.firebaugh@gmail.com,2013-04-04T18:47:45+02:00
+John Firebaugh,55edd446,2013-02-26,No Component,,55edd446,182,0,john.firebaugh@gmail.com,2013-02-26T23:54:58+01:00
+Vladimir Agafonkin,6c7316df,2013-04-04,No Component,fix,6c7316df,1,1,agafonkin@gmail.com,2013-04-04T11:18:17+02:00
+John Firebaugh,81f21125,2013-04-04,No Component,,81f21125,7,7,john.firebaugh@gmail.com,2013-04-04T00:22:45+02:00
+John Firebaugh,a950e687,2013-04-04,No Component,,a950e687,1,1,john.firebaugh@gmail.com,2013-04-04T00:01:32+02:00
+Vladimir Agafonkin,80ba8d90,2013-03-02,No Component,,80ba8d90,0,2,agafonkin@gmail.com,2013-03-02T00:44:11+01:00
+Tom MacWright,8691889d,2013-03-02,No Component,,8691889d,1,1,tom@macwright.org,2013-03-02T00:27:16+01:00
+Tom MacWright,bf99fdb7,2013-03-02,No Component,,bf99fdb7,1,1,tom@macwright.org,2013-03-02T00:07:34+01:00
+Tom MacWright,a3ab4b10,2013-03-01,No Component,Fix,a3ab4b10,19,8,tom@macwright.org,2013-03-01T23:14:14+01:00
+Tom MacWright,a2f7d7e8,2013-03-01,No Component,,a2f7d7e8,5884,422,tom@macwright.org,2013-03-01T22:49:20+01:00
+John Firebaugh,28daa9e9,2013-04-03,No Component,,28daa9e9,5,5,john.firebaugh@gmail.com,2013-04-03T23:10:30+02:00
+Vladimir Agafonkin,c0d01cef,2013-03-02,No Component,,c0d01cef,8,5,agafonkin@gmail.com,2013-03-02T00:44:11+01:00
+Andrey Chizh,eafede40,2013-04-01,No Component,,eafede40,0,1,info.andreychizh@gmail.com,2013-04-01T11:01:16+02:00
+Vladimir Agafonkin,28d047da,2013-03-28,No Component,,28d047da,5,3,agafonkin@gmail.com,2013-03-28T10:11:46+01:00
+Vladimir Agafonkin,28b48543,2013-03-28,No Component,,28b48543,14,10,agafonkin@gmail.com,2013-03-28T10:10:58+01:00
+Vladimir Agafonkin,08a8c390,2013-03-28,No Component,fix,08a8c390,5,0,agafonkin@gmail.com,2013-03-28T10:10:44+01:00
+olegsmith,d125152c,2013-03-28,No Component,,d125152c,3,0,olegsmith@gmail.com,2013-03-28T08:03:57+01:00
+Alexander frenzel,d904859b,2013-03-27,No Component,fix,d904859b,4,2,alex@relatedworks.com,2013-03-27T21:03:05+01:00
+Vitaly Domnikov,b1742194,2013-03-20,No Component,bug,b1742194,1,0,dotcypress@gmail.com,2013-03-20T15:24:47+01:00
+malexeev,e110c7bb,2013-03-18,No Component,,e110c7bb,1,1,m.alexeev@gmail.com,2013-03-18T21:54:52+01:00
+danzel,a6a4fe52,2013-03-18,No Component,,a6a4fe52,1,1,danzel@localhost.geek.nz,2013-03-18T20:33:26+01:00
+danzel,9d4d8944,2013-03-15,No Component,fix,9d4d8944,22,1,danzel@localhost.geek.nz,2013-03-15T01:53:03+01:00
+danzel,8e65fe7a,2013-03-12,No Component,,8e65fe7a,4,5,danzel@localhost.geek.nz,2013-03-12T22:09:09+01:00
+danzel,44cbed0b,2013-03-12,No Component,,44cbed0b,20,21,danzel@localhost.geek.nz,2013-03-12T22:08:04+01:00
+danzel,5269f108,2013-03-12,No Component,Fix,5269f108,1,1,danzel@localhost.geek.nz,2013-03-12T05:36:17+01:00
+danzel,e2a85263,2013-03-12,No Component,,e2a85263,20,0,danzel@localhost.geek.nz,2013-03-12T05:24:46+01:00
+danzel,9300c582,2013-03-12,No Component,Fix,9300c582,1,1,danzel@localhost.geek.nz,2013-03-12T05:12:06+01:00
+Vladimir Agafonkin,81221ae4,2013-03-07,No Component,fix,81221ae4,45,11,agafonkin@gmail.com,2013-03-07T16:39:55+01:00
+Nikolai Prokoschenko,1c8e0c69,2013-03-06,No Component,,1c8e0c69,2,1,nikolai@prokoschenko.de,2013-03-06T13:09:35+01:00
+danzel,0b0cce92,2013-03-04,No Component,Fix,0b0cce92,6,1,danzel@localhost.geek.nz,2013-03-04T21:47:46+01:00
+danzel,9ae07469,2013-03-04,No Component,Fix,9ae07469,2,2,danzel@localhost.geek.nz,2013-03-04T21:29:41+01:00
+snkashis,1df4c4a9,2013-02-28,No Component,,1df4c4a9,5,4,steve@studiosanderson.com,2013-02-28T12:01:26+01:00
+snkashis,ed08a5b1,2013-02-28,No Component,,ed08a5b1,1,1,steve@studiosanderson.com,2013-02-28T11:46:54+01:00
+snkashis,95c73a3d,2013-02-28,No Component,,95c73a3d,8,0,steve@studiosanderson.com,2013-02-28T11:38:27+01:00
+Tom MacWright,71d17180,2013-02-27,No Component,Fix,71d17180,68,0,tom@macwright.org,2013-02-27T23:10:19+01:00
+Paul Spencer,2ba0422e,2013-02-27,No Component,,2ba0422e,1,1,pspencer@dmsolutions.ca,2013-02-27T19:55:04+01:00
+John Firebaugh,5e7857cd,2013-02-26,No Component,fix,5e7857cd,9,0,john.firebaugh@gmail.com,2013-02-26T23:40:08+01:00
+Vladimir Agafonkin,ac5d8fef,2013-02-27,No Component,,ac5d8fef,120,67,agafonkin@gmail.com,2013-02-27T16:21:23+01:00
+Vladimir Agafonkin,f4e87355,2013-02-27,No Component,,f4e87355,8,23,agafonkin@gmail.com,2013-02-27T16:17:37+01:00
+Vladimir Agafonkin,1d4e91f9,2013-02-27,No Component,fix,1d4e91f9,2,2,agafonkin@gmail.com,2013-02-27T15:34:40+01:00
+John Firebaugh,511fbb9f,2013-02-26,No Component,fix,511fbb9f,34,0,john.firebaugh@gmail.com,2013-02-26T20:39:00+01:00
+John Firebaugh,bee90ce0,2013-02-26,No Component,Fix,bee90ce0,14,21,john.firebaugh@gmail.com,2013-02-26T20:31:23+01:00
+Vladimir Agafonkin,bba4f2ae,2013-02-25,No Component,,bba4f2ae,1,0,agafonkin@gmail.com,2013-02-25T18:26:35+01:00
+Vladimir Agafonkin,a2890d6c,2013-02-22,No Component,,a2890d6c,50,45,agafonkin@gmail.com,2013-02-22T16:29:52+01:00
+Vladimir Agafonkin,9c2e7cfb,2013-02-22,No Component,,9c2e7cfb,18,0,agafonkin@gmail.com,2013-02-22T16:28:55+01:00
+John Firebaugh,46dddc89,2013-02-22,No Component,,46dddc89,19,0,john.firebaugh@gmail.com,2013-02-22T02:29:41+01:00
+Vladimir Agafonkin,55589872,2013-02-21,No Component,fix,55589872,9,8,agafonkin@gmail.com,2013-02-21T13:41:26+01:00
+Vladimir Agafonkin,e87e010e,2013-02-21,No Component,,e87e010e,46,14,agafonkin@gmail.com,2013-02-21T09:28:55+01:00
+danzel,16813650,2013-02-21,No Component,Fix,16813650,2,0,danzel@localhost.geek.nz,2013-02-21T03:15:24+01:00
+Yohan Boniface,7fd4ca20,2013-02-20,No Component,,7fd4ca20,15,2,yb@enix.org,2013-02-20T20:47:23+01:00
+Vladimir Agafonkin,501b179b,2013-02-20,No Component,fix,501b179b,12,10,agafonkin@gmail.com,2013-02-20T20:22:47+01:00
+Vladimir Agafonkin,5c18361a,2013-02-20,No Component,fix,5c18361a,2,1,agafonkin@gmail.com,2013-02-20T19:54:12+01:00
+Vladimir Agafonkin,cf00a011,2013-02-20,No Component,fix,cf00a011,18,3,agafonkin@gmail.com,2013-02-20T19:11:47+01:00
+Vladimir Agafonkin,97454596,2013-02-20,No Component,fix,97454596,196,139,agafonkin@gmail.com,2013-02-20T18:49:40+01:00
+Vladimir Agafonkin,36e59c2a,2013-02-20,No Component,,36e59c2a,4,3,agafonkin@gmail.com,2013-02-20T18:46:56+01:00
+John Firebaugh,fb9450f9,2013-02-20,No Component,,fb9450f9,2,1,john.firebaugh@gmail.com,2013-02-20T18:17:06+01:00
+Vladimir Agafonkin,40a824fc,2013-02-20,No Component,fix Fix,40a824fc,185,151,agafonkin@gmail.com,2013-02-20T17:40:00+01:00
+jacobtoye,51130a81,2013-02-20,No Component,,51130a81,318,225,jacob.toye@gmail.com,2013-02-20T03:11:54+01:00
+John Firebaugh,6ef25866,2013-02-20,No Component,,6ef25866,34,4,john.firebaugh@gmail.com,2013-02-20T02:35:19+01:00
+Tom MacWright,8735b879,2013-02-20,No Component,,8735b879,14,0,tom@macwright.org,2013-02-20T02:05:44+01:00
+danzel,58739140,2013-02-19,No Component,,58739140,110,0,danzel@localhost.geek.nz,2013-02-19T23:03:37+01:00
+danzel,3afee7eb,2013-02-19,No Component,,3afee7eb,3,3,danzel@localhost.geek.nz,2013-02-19T23:03:13+01:00
+snkashis,0fb7a132,2013-02-19,No Component,,0fb7a132,3,8,steve@studiosanderson.com,2013-02-19T22:24:27+01:00
+snkashis,57d42d16,2012-12-28,No Component,,57d42d16,10,4,steve@studiosanderson.com,2012-12-28T00:10:57+01:00
+John Firebaugh,01332ebe,2013-02-19,No Component,,01332ebe,140,140,john.firebaugh@gmail.com,2013-02-19T21:41:48+01:00
+Tom MacWright,a3247592,2013-02-19,No Component,,a3247592,6,6,tom@macwright.org,2013-02-19T20:21:06+01:00
+Vladimir Agafonkin,b84b83bf,2013-02-19,No Component,fix,b84b83bf,2,5,agafonkin@gmail.com,2013-02-19T18:25:49+01:00
+Tom MacWright,1b03d5d0,2013-02-19,No Component,fix,1b03d5d0,12,0,tom@macwright.org,2013-02-19T17:53:42+01:00
+Vladimir Agafonkin,aea0e3b0,2013-02-19,No Component,fix,aea0e3b0,2,0,agafonkin@gmail.com,2013-02-19T17:21:01+01:00
+Tom MacWright,0a200016,2013-02-19,No Component,Fix,0a200016,11,11,tom@macwright.org,2013-02-19T17:18:15+01:00
+Vladimir Agafonkin,a0dd4a60,2013-02-19,No Component,,a0dd4a60,11,0,agafonkin@gmail.com,2013-02-19T17:01:53+01:00
+Vladimir Agafonkin,5d41efe6,2013-02-19,No Component,fix,5d41efe6,70,0,agafonkin@gmail.com,2013-02-19T16:47:38+01:00
+Vladimir Agafonkin,c50410ea,2013-02-19,No Component,,c50410ea,4,0,agafonkin@gmail.com,2013-02-19T16:45:50+01:00
+Vladimir Agafonkin,d98b4ea0,2013-02-19,No Component,,d98b4ea0,14,7,agafonkin@gmail.com,2013-02-19T15:54:29+01:00
+Vladimir Agafonkin,879b9f98,2013-02-18,No Component,,879b9f98,2,2,agafonkin@gmail.com,2013-02-18T15:11:55+01:00
+fabriceds,2591f53a,2013-02-18,No Component,Fix,2591f53a,1,1,fabrice.simonin@gmail.com,2013-02-18T14:38:11+01:00
+jacobtoye,c3eea648,2013-02-18,No Component,,c3eea648,225,318,jacob.toye@gmail.com,2013-02-18T03:43:04+01:00
+snkashis,382a9965,2013-02-18,No Component,,382a9965,11,1,steve@studiosanderson.com,2013-02-18T03:25:11+01:00
+snkashis,d010d586,2013-02-17,No Component,,d010d586,2,0,steve@studiosanderson.com,2013-02-17T20:56:48+01:00
+Vladimir Agafonkin,0b671a9b,2013-02-17,No Component,,0b671a9b,2,2,agafonkin@gmail.com,2013-02-17T20:38:15+01:00
+snkashis,baeeddb0,2013-02-17,No Component,,baeeddb0,16,2,steve@studiosanderson.com,2013-02-17T20:17:44+01:00
+Vladimir Agafonkin,ee743095,2013-02-17,No Component,,ee743095,73,276,agafonkin@gmail.com,2013-02-17T20:14:23+01:00
+snkashis,11195f48,2013-02-17,No Component,,11195f48,4,1,steve@studiosanderson.com,2013-02-17T19:31:27+01:00
+John Firebaugh,4f906246,2013-02-16,No Component,,4f906246,4,5,john.firebaugh@gmail.com,2013-02-16T01:29:20+01:00
+Tom MacWright,eae5758f,2013-02-15,No Component,,eae5758f,8,2,tom@macwright.org,2013-02-15T23:38:11+01:00
+danzel,aed9506a,2013-02-15,No Component,fix,aed9506a,17,3,danzel@localhost.geek.nz,2013-02-15T22:57:25+01:00
+snkashis,1c38b896,2013-02-15,No Component,,1c38b896,1,1,steve@studiosanderson.com,2013-02-15T05:27:21+01:00
+snkashis,ae07e792,2013-02-15,No Component,,ae07e792,5,0,steve@studiosanderson.com,2013-02-15T05:04:53+01:00
+snkashis,74725500,2013-02-15,No Component,,74725500,3,0,steve@studiosanderson.com,2013-02-15T04:17:34+01:00
+Mattias Bengtsson,cbee6851,2013-02-14,No Component,,cbee6851,6,6,mattias.bengtsson@kartena.se,2013-02-14T12:00:08+01:00
+Mattias Bengtsson,3a834d35,2013-02-14,No Component,,3a834d35,93,9,mattias.jc.bengtsson@gmail.com,2013-02-14T03:07:32+01:00
+Mattias Bengtsson,efe0c6f6,2013-02-14,No Component,,efe0c6f6,10,1,mattias.jc.bengtsson@gmail.com,2013-02-14T03:04:10+01:00
+oslek,c3ccf01a,2013-02-13,No Component,,c3ccf01a,4,2,git.oslek@gmail.com,2013-02-13T22:35:40+01:00
+oslek,f7301fa2,2013-02-13,No Component,,f7301fa2,2,2,git.oslek@gmail.com,2013-02-13T22:25:02+01:00
+oslek,2c11fdfa,2013-02-13,No Component,,2c11fdfa,2,0,git.oslek@gmail.com,2013-02-13T21:38:33+01:00
+snkashis,633e21d0,2013-02-13,No Component,,633e21d0,2,0,steve@studiosanderson.com,2013-02-13T20:08:45+01:00
+snkashis,dbd57c0b,2013-02-13,No Component,,dbd57c0b,5,0,steve@studiosanderson.com,2013-02-13T20:06:48+01:00
+snkashis,a25cc9fb,2013-02-13,No Component,,a25cc9fb,1,1,steve@studiosanderson.com,2013-02-13T16:21:29+01:00
+snkashis,3c5161fe,2013-02-13,No Component,,3c5161fe,1,1,steve@studiosanderson.com,2013-02-13T16:19:37+01:00
+jacobtoye,8440f5ba,2013-02-11,No Component,,8440f5ba,0,7,jacob.toye@gmail.com,2013-02-11T01:17:39+01:00
+Joschka,06bb5710,2013-02-09,No Component,Fix,06bb5710,3,2,j@j6d9.de,2013-02-09T18:51:00+01:00
+danzel,513c6ca4,2013-02-08,No Component,Fix,513c6ca4,38,0,danzel@localhost.geek.nz,2013-02-08T02:44:28+01:00
+Vladimir Agafonkin,4492d8f9,2013-02-07,No Component,,4492d8f9,3,4,agafonkin@gmail.com,2013-02-07T18:00:15+01:00
+Vladimir Agafonkin,c1d410f2,2013-02-06,No Component,,c1d410f2,6,6,agafonkin@gmail.com,2013-02-06T14:25:26+01:00
+Vladimir Agafonkin,241cc7dc,2013-02-06,No Component,fix,241cc7dc,1,1,agafonkin@gmail.com,2013-02-06T14:21:29+01:00
+danzel,0dcbed84,2013-02-03,No Component,,0dcbed84,1,1,danzel@localhost.geek.nz,2013-02-03T21:51:27+01:00
+Vladimir Agafonkin,c327fa89,2013-02-05,No Component,,c327fa89,28,0,agafonkin@gmail.com,2013-02-05T16:01:01+01:00
+Vladimir Agafonkin,f01e32d7,2013-02-05,No Component,fix,f01e32d7,2,3,agafonkin@gmail.com,2013-02-05T16:00:38+01:00
+Vladimir Agafonkin,5e050684,2013-02-05,No Component,,5e050684,113,1,agafonkin@gmail.com,2013-02-05T14:21:40+01:00
+Vladimir Agafonkin,84d537b8,2013-02-05,No Component,fix,84d537b8,1,1,agafonkin@gmail.com,2013-02-05T13:26:32+01:00
+Vladimir Agafonkin,17cf297c,2013-02-05,No Component,,17cf297c,183,3,agafonkin@gmail.com,2013-02-05T12:51:27+01:00
+Vladimir Agafonkin,94a69bec,2013-02-05,No Component,fix,94a69bec,1,1,agafonkin@gmail.com,2013-02-05T11:38:13+01:00
+Vladimir Agafonkin,ed8dc9f4,2013-02-04,No Component,,ed8dc9f4,140,5,agafonkin@gmail.com,2013-02-04T17:31:14+01:00
+Vladimir Agafonkin,59ed1bd4,2013-02-04,No Component,,59ed1bd4,51,11,agafonkin@gmail.com,2013-02-04T14:12:00+01:00
+Calvin Metcalf,c3ee79b0,2013-02-04,No Component,,c3ee79b0,1,0,calvin.metcalf@state.ma.us,2013-02-04T14:00:02+01:00
+Vladimir Agafonkin,98a950ff,2013-02-04,No Component,,98a950ff,5,5,agafonkin@gmail.com,2013-02-04T13:40:28+01:00
+Vladimir Agafonkin,297d746a,2013-02-04,No Component,,297d746a,1,1,agafonkin@gmail.com,2013-02-04T13:30:49+01:00
+danzel,6b51780e,2013-02-03,No Component,,6b51780e,2,1,danzel@localhost.geek.nz,2013-02-03T21:51:27+01:00
+danzel,0390a86e,2013-02-03,No Component,,0390a86e,20,8,danzel@localhost.geek.nz,2013-02-03T21:49:37+01:00
+danzel,ded525fb,2013-02-03,No Component,Fix,ded525fb,0,1,danzel@localhost.geek.nz,2013-02-03T03:35:12+01:00
+danzel,b905708f,2013-02-03,No Component,,b905708f,42,0,danzel@localhost.geek.nz,2013-02-03T03:34:32+01:00
+Eldar Djafarov,e4492b6f,2013-02-02,No Component,Fix,e4492b6f,1,0,djkojb@gmail.com,2013-02-02T13:59:30+01:00
+Eldar Djafarov,071bb587,2013-02-02,No Component,,071bb587,3,2,djkojb@gmail.com,2013-02-02T08:48:14+01:00
+Eldar Djafarov,2da36a28,2013-02-02,No Component,,2da36a28,17,21,djkojb@gmail.com,2013-02-02T08:29:20+01:00
+Vladimir Agafonkin,08f0e90c,2013-02-01,No Component,fix,08f0e90c,3,2,agafonkin@gmail.com,2013-02-01T14:17:08+01:00
+Vladimir Agafonkin,b2c0de16,2013-01-31,No Component,,b2c0de16,85,36,agafonkin@gmail.com,2013-01-31T16:59:13+01:00
+Vladimir Agafonkin,2ebe67f1,2013-01-31,No Component,,2ebe67f1,9,4,agafonkin@gmail.com,2013-01-31T14:44:55+01:00
+Vladimir Agafonkin,79772208,2013-01-31,No Component,,79772208,4,5,agafonkin@gmail.com,2013-01-31T12:17:42+01:00
+Vladimir Agafonkin,0d3aa59f,2013-01-31,No Component,,0d3aa59f,6,7,agafonkin@gmail.com,2013-01-31T11:59:23+01:00
+Eldar Djafarov,82b327d9,2013-01-30,No Component,,82b327d9,19,94,djkojb@gmail.com,2013-01-30T21:01:32+01:00
+Eldar Djafarov,c8c19d3b,2013-01-30,No Component,,c8c19d3b,4,8,djkojb@gmail.com,2013-01-30T19:48:22+01:00
+Eldar Djafarov,7e537eb9,2013-01-30,No Component,,7e537eb9,27,17,djkojb@gmail.com,2013-01-30T15:06:19+01:00
+Yohan Boniface,4f591402,2013-01-28,No Component,,4f591402,17,2,yb@enix.org,2013-01-28T01:09:26+01:00
+Yohan Boniface,4b5746ff,2013-01-28,No Component,,4b5746ff,17,17,yb@enix.org,2013-01-28T01:04:09+01:00
+Yohan Boniface,69b925b0,2013-01-27,No Component,,69b925b0,52,4,yb@enix.org,2013-01-27T12:12:02+01:00
+Yohan Boniface,c432c4eb,2013-01-26,No Component,,c432c4eb,1,1,yb@enix.org,2013-01-26T17:47:28+01:00
+Vladimir Agafonkin,4551633b,2013-01-23,No Component,,4551633b,17,7,agafonkin@gmail.com,2013-01-23T14:45:45+01:00
+Vladimir Agafonkin,9bdab601,2013-01-23,No Component,,9bdab601,1,1,agafonkin@gmail.com,2013-01-23T14:34:44+01:00
+Vladimir Agafonkin,05540984,2013-01-23,No Component,,05540984,5,14,agafonkin@gmail.com,2013-01-23T14:16:42+01:00
+Roemer Vlasveld,109fd06a,2013-01-21,No Component,,109fd06a,2,0,roemer@inspire.nl,2013-01-21T23:22:01+01:00
+Roemer Vlasveld,75fa5b08,2013-01-21,No Component,Fix,75fa5b08,1,1,roemer@inspire.nl,2013-01-21T22:46:18+01:00
+Roemer Vlasveld,82d45351,2013-01-21,No Component,,82d45351,7,0,roemer@inspire.nl,2013-01-21T22:36:24+01:00
+snkashis,5524db28,2013-01-21,No Component,,5524db28,1,3,steve@studiosanderson.com,2013-01-21T16:14:42+01:00
+Vladimir Agafonkin,57c0ac40,2013-01-21,No Component,,57c0ac40,2,2,agafonkin@gmail.com,2013-01-21T16:04:58+01:00
+Steve,52b445a3,2013-01-21,No Component,,52b445a3,1,1,steve@studiosanderson.com,2013-01-21T01:35:18+01:00
+snkashis,c43e72da,2013-01-21,No Component,,c43e72da,3,1,steve@studiosanderson.com,2013-01-21T01:13:43+01:00
+Eldar Djafarov,e1a3e973,2013-01-20,No Component,,e1a3e973,101,0,djkojb@gmail.com,2013-01-20T08:04:06+01:00
+Calvin Metcalf,f26da9f9,2013-01-18,No Component,,f26da9f9,3,6,calvin.metcalf@state.ma.us,2013-01-18T19:35:07+01:00
+Calvin Metcalf,c3cb1324,2013-01-18,No Component,,c3cb1324,1,1,calvin.metcalf@state.ma.us,2013-01-18T18:46:16+01:00
+Calvin Metcalf,82869206,2013-01-18,No Component,fix,82869206,4,0,calvin.metcalf@state.ma.us,2013-01-18T18:41:11+01:00
+Vladimir Agafonkin,80413f40,2013-01-18,No Component,,80413f40,17,6,agafonkin@gmail.com,2013-01-18T16:44:11+01:00
+Vladimir Agafonkin,10bd63a6,2013-01-18,No Component,,10bd63a6,1,1,agafonkin@gmail.com,2013-01-18T16:30:53+01:00
+Yohan Boniface,44a7c6e0,2013-01-18,No Component,,44a7c6e0,1,1,yb@enix.org,2013-01-18T12:48:43+01:00
+Vladimir Agafonkin,eed2c8a1,2013-01-17,No Component,fix,eed2c8a1,3,3,agafonkin@gmail.com,2013-01-17T10:51:52+01:00
+Jan Pieter Waagmeester,12d04f5c,2013-01-17,No Component,,12d04f5c,1,0,jieter@jieter.nl,2013-01-17T09:39:06+01:00
+Calvin Metcalf,c0e4241f,2013-01-17,No Component,,c0e4241f,2,2,calvin.metcalf@state.ma.us,2013-01-17T04:00:55+01:00
+Calvin Metcalf,88f1e121,2013-01-17,No Component,,88f1e121,3,0,calvin.metcalf@state.ma.us,2013-01-17T00:20:20+01:00
+Vladimir Agafonkin,8facf338,2013-01-16,No Component,fix,8facf338,21,10,agafonkin@gmail.com,2013-01-16T16:08:57+01:00
+Vladimir Agafonkin,e3528c2d,2013-01-16,No Component,fix,e3528c2d,15,6,agafonkin@gmail.com,2013-01-16T16:08:06+01:00
+Vladimir Agafonkin,11e74cca,2013-01-15,No Component,,11e74cca,5,3,agafonkin@gmail.com,2013-01-15T15:19:04+01:00
+Vladimir Agafonkin,85dffbd9,2013-01-15,No Component,,85dffbd9,66,36,agafonkin@gmail.com,2013-01-15T11:16:15+01:00
+oslek,7dd7e4f6,2013-01-14,No Component,,7dd7e4f6,10,6,git.oslek@gmail.com,2013-01-14T23:04:50+01:00
+danzel,365a5b3b,2013-01-14,No Component,Fix,365a5b3b,1,1,danzel@localhost.geek.nz,2013-01-14T22:51:36+01:00
+Calvin Metcalf,0ebbd755,2013-01-14,No Component,fix,0ebbd755,5,5,calvin.metcalf@state.ma.us,2013-01-14T13:25:34+01:00
+mourner,333899ca,2013-01-13,No Component,fix,333899ca,11,8,agafonkin@gmail.com,2013-01-13T23:23:45+01:00
+mourner,5eb4f468,2013-01-13,No Component,fix,5eb4f468,4,3,agafonkin@gmail.com,2013-01-13T23:23:04+01:00
+snkashis,b3a7f2ff,2013-01-12,No Component,,b3a7f2ff,4,0,steve@studiosanderson.com,2013-01-12T22:55:13+01:00
+Vladimir Agafonkin,4ebfeb9d,2013-01-11,No Component,,4ebfeb9d,1,1,agafonkin@gmail.com,2013-01-11T17:50:21+01:00
+Vladimir Agafonkin,bc4104c7,2013-01-11,No Component,fix,bc4104c7,1,1,agafonkin@gmail.com,2013-01-11T17:33:17+01:00
+Vladimir Agafonkin,64ca0af1,2013-01-11,No Component,fix,64ca0af1,4,1,agafonkin@gmail.com,2013-01-11T17:20:40+01:00
+Vladimir Agafonkin,6dd0dea1,2013-01-11,No Component,,6dd0dea1,5,8,agafonkin@gmail.com,2013-01-11T17:19:50+01:00
+Vladimir Agafonkin,8c481d5a,2013-01-08,No Component,,8c481d5a,144,63,agafonkin@gmail.com,2013-01-08T11:18:16+01:00
+Vladimir Agafonkin,80d0da1b,2013-01-08,No Component,fix,80d0da1b,2,2,agafonkin@gmail.com,2013-01-08T11:18:10+01:00
+Aaron King,c2869cee,2012-12-31,No Component,Fix fix,c2869cee,1,1,floodle@floodle.org,2012-12-31T19:39:24+01:00
+Brian Herbert,971e55b9,2012-12-28,No Component,,971e55b9,1,4,brianherbert@gmail.com,2012-12-28T03:56:19+01:00
+danzel,f57e2ead,2012-12-27,No Component,bug,f57e2ead,1,0,danzel@localhost.geek.nz,2012-12-27T23:21:23+01:00
+snkashis,b2e3f16b,2012-12-27,No Component,,b2e3f16b,6,1,steve@studiosanderson.com,2012-12-27T21:37:57+01:00
+snkashis,6b4f5c4c,2012-12-27,No Component,,6b4f5c4c,8,1,steve@studiosanderson.com,2012-12-27T20:39:19+01:00
+jerel,c63e3721,2012-12-27,No Component,,c63e3721,5,3,mail@unruhdesigns.com,2012-12-27T07:40:41+01:00
+Brian Herbert,2a38a809,2012-12-27,No Component,,2a38a809,6,0,brianherbert@gmail.com,2012-12-27T04:15:08+01:00
+Felixls,156a4814,2012-12-26,No Component,,156a4814,1,1,sergiols@fibertel.com.ar,2012-12-26T18:21:10+01:00
+snkashis,8d442b16,2012-12-26,No Component,,8d442b16,2,8,steve@studiosanderson.com,2012-12-26T16:33:04+01:00
+Mehmet Alkanlar,f2b9a3a3,2012-12-25,No Component,Fix,f2b9a3a3,2,2,mralkanlar@gmail.com,2012-12-25T02:15:54+01:00
+Steve,3208db47,2012-12-23,No Component,,3208db47,2,2,steve@studiosanderson.com,2012-12-23T05:52:25+01:00
+snkashis,8c7c0643,2012-12-22,No Component,,8c7c0643,30,4,steve@studiosanderson.com,2012-12-22T23:47:38+01:00
+Yohan Boniface,952f9289,2012-12-21,No Component,,952f9289,1,1,yb@enix.org,2012-12-21T18:13:45+01:00
+jerel,0919b25c,2012-12-21,No Component,,0919b25c,1,1,mail@unruhdesigns.com,2012-12-21T15:37:13+01:00
+jerel,cf94612f,2012-12-21,No Component,Fix,cf94612f,22,0,mail@unruhdesigns.com,2012-12-21T08:54:15+01:00
+danzel,73dd7371,2012-12-21,No Component,Fix,73dd7371,1,1,danzel@localhost.geek.nz,2012-12-21T02:40:09+01:00
+Vladimir Agafonkin,2a0eec9c,2012-12-20,No Component,,2a0eec9c,13,5,agafonkin@gmail.com,2012-12-20T14:34:22+01:00
+Vladimir Agafonkin,b9727d91,2012-12-20,No Component,,b9727d91,108,47,agafonkin@gmail.com,2012-12-20T11:37:40+01:00
+Vladimir Agafonkin,84866536,2012-12-19,No Component,,84866536,115,51,agafonkin@gmail.com,2012-12-19T17:47:42+01:00
+Vladimir Agafonkin,b0e5c817,2012-12-19,No Component,,b0e5c817,85,28,agafonkin@gmail.com,2012-12-19T17:47:28+01:00
+Vladimir Agafonkin,d4432882,2012-12-19,No Component,,d4432882,10,11,agafonkin@gmail.com,2012-12-19T17:46:44+01:00
+Vladimir Agafonkin,51aa31fa,2012-12-19,No Component,,51aa31fa,8,13,agafonkin@gmail.com,2012-12-19T15:41:13+01:00
+jacobtoye,c4087836,2012-12-19,No Component,Fix,c4087836,15,5,jacob.toye@gmail.com,2012-12-19T03:36:42+01:00
+snkashis,38c4d9dd,2012-12-18,No Component,,38c4d9dd,11,1,steve@studiosanderson.com,2012-12-18T20:17:18+01:00
+jacobtoye,7b053073,2012-12-18,No Component,,7b053073,9,6,jacob.toye@gmail.com,2012-12-18T05:05:39+01:00
+mourner,d1254dde,2012-12-17,No Component,fix,d1254dde,3,3,agafonkin@gmail.com,2012-12-17T20:32:00+01:00
+Vladimir Agafonkin,079b0dee,2012-12-17,No Component,,079b0dee,15,21,agafonkin@gmail.com,2012-12-17T18:15:51+01:00
+Vladimir Agafonkin,c6caf93c,2012-12-17,No Component,,c6caf93c,126,93,agafonkin@gmail.com,2012-12-17T18:15:19+01:00
+Vladimir Agafonkin,4d472499,2012-12-12,No Component,,4d472499,72,75,agafonkin@gmail.com,2012-12-12T18:10:19+01:00
+Vladimir Agafonkin,6134a415,2012-12-12,No Component,fix,6134a415,15,27,agafonkin@gmail.com,2012-12-12T18:09:47+01:00
+Vladimir Agafonkin,9fac1659,2012-12-12,No Component,,9fac1659,12,8,agafonkin@gmail.com,2012-12-12T18:08:57+01:00
+Vladimir Agafonkin,5f467337,2012-12-12,No Component,,5f467337,0,26,agafonkin@gmail.com,2012-12-12T17:24:44+01:00
+Vladimir Agafonkin,dea6a349,2012-12-12,No Component,,dea6a349,2,0,agafonkin@gmail.com,2012-12-12T17:24:05+01:00
+Vladimir Agafonkin,406ff710,2012-12-12,No Component,,406ff710,1,1,agafonkin@gmail.com,2012-12-12T17:23:35+01:00
+Vladimir Agafonkin,40b59b2a,2012-12-12,No Component,,40b59b2a,19,13,agafonkin@gmail.com,2012-12-12T16:48:30+01:00
+Vladimir Agafonkin,1c14bf7b,2012-12-12,No Component,,1c14bf7b,7,7,agafonkin@gmail.com,2012-12-12T16:46:21+01:00
+Vladimir Agafonkin,a089cd43,2012-12-12,No Component,fix,a089cd43,2,1,agafonkin@gmail.com,2012-12-12T14:42:21+01:00
+Vladimir Agafonkin,9f50141e,2012-12-12,No Component,,9f50141e,97,55,agafonkin@gmail.com,2012-12-12T13:20:08+01:00
+Vladimir Agafonkin,58a82d09,2012-12-12,No Component,fix,58a82d09,2,0,agafonkin@gmail.com,2012-12-12T12:19:24+01:00
+Vladimir Agafonkin,782e8e7d,2012-12-12,No Component,,782e8e7d,54,11,agafonkin@gmail.com,2012-12-12T11:26:33+01:00
+Vladimir Agafonkin,8350bb1e,2012-12-12,No Component,,8350bb1e,26,40,agafonkin@gmail.com,2012-12-12T11:04:54+01:00
+Mattias Bengtsson,5fa8dfa5,2012-12-12,No Component,,5fa8dfa5,12,0,mattias.jc.bengtsson@gmail.com,2012-12-12T00:17:36+01:00
+Mattias Bengtsson,e475c04e,2012-12-12,No Component,,e475c04e,3,2,mattias.jc.bengtsson@gmail.com,2012-12-12T00:01:37+01:00
+Vladimir Agafonkin,30a3edb3,2012-12-11,No Component,,30a3edb3,6,8,agafonkin@gmail.com,2012-12-11T19:19:16+01:00
+Vladimir Agafonkin,b4770906,2012-12-11,No Component,bug,b4770906,6,1,agafonkin@gmail.com,2012-12-11T19:18:54+01:00
+Vladimir Agafonkin,3051b22a,2012-12-11,No Component,,3051b22a,4,0,agafonkin@gmail.com,2012-12-11T19:14:17+01:00
+Vladimir Agafonkin,edeea119,2012-12-11,No Component,fix,edeea119,8,0,agafonkin@gmail.com,2012-12-11T16:16:39+01:00
+Vladimir Agafonkin,df03016f,2012-12-11,No Component,fix,df03016f,1,1,agafonkin@gmail.com,2012-12-11T16:03:33+01:00
+Vladimir Agafonkin,f5cfab73,2012-12-11,No Component,,f5cfab73,29,20,agafonkin@gmail.com,2012-12-11T14:02:47+01:00
+Vladimir Agafonkin,b9d0d60a,2012-12-11,No Component,,b9d0d60a,7,7,agafonkin@gmail.com,2012-12-11T14:02:15+01:00
+Vladimir Agafonkin,f203c244,2012-12-11,No Component,fix,f203c244,2,2,agafonkin@gmail.com,2012-12-11T10:44:06+01:00
+danzel,946a9df5,2012-11-26,No Component,,946a9df5,9,0,danzel@localhost.geek.nz,2012-11-26T03:00:54+01:00
+Vladimir Agafonkin,c05e15f9,2012-12-10,No Component,fix,c05e15f9,9,3,agafonkin@gmail.com,2012-12-10T17:22:19+01:00
+Vladimir Agafonkin,18601ddf,2012-12-10,No Component,,18601ddf,10,11,agafonkin@gmail.com,2012-12-10T17:07:02+01:00
+Vladimir Agafonkin,96e4c80c,2012-12-10,No Component,fix,96e4c80c,0,1,agafonkin@gmail.com,2012-12-10T16:57:04+01:00
+Vladimir Agafonkin,7ae4459d,2012-12-10,No Component,Fix,7ae4459d,1,2,agafonkin@gmail.com,2012-12-10T16:42:43+01:00
+Manuel Ohlendorf,94a8b19f,2012-12-06,No Component,fix,94a8b19f,5,0,moh@icnh.de,2012-12-06T13:25:17+01:00
+Scott Harvey,e85a6a7a,2012-12-04,No Component,,e85a6a7a,6,0,scottandrewharvey@gmail.com,2012-12-04T13:21:33+01:00
+Jon Stevens,4ba1bbcd,2012-11-30,No Component,fix,4ba1bbcd,1,1,latchkey@gmail.com,2012-11-30T21:03:20+01:00
+danzel,3b2393bd,2012-11-29,No Component,Fix,3b2393bd,0,4,danzel@localhost.geek.nz,2012-11-29T23:31:22+01:00
+danzel,babbbe82,2012-11-29,No Component,Fix,babbbe82,2,2,danzel@localhost.geek.nz,2012-11-29T23:27:12+01:00
+mourner,1d14b0c5,2012-11-29,No Component,fix,1d14b0c5,107,23,agafonkin@gmail.com,2012-11-29T21:43:40+01:00
+Mattias Bengtsson,593fa82f,2012-11-29,No Component,,593fa82f,1,1,mattias.bengtsson@kartena.se,2012-11-29T08:10:04+01:00
+Mattias Bengtsson,2fd70b3b,2012-11-29,No Component,,2fd70b3b,3,2,mattias.bengtsson@kartena.se,2012-11-29T08:05:08+01:00
+Tom Hughes,0b2a31c1,2012-11-22,No Component,,0b2a31c1,56,0,tom@compton.nu,2012-11-22T13:12:31+01:00
+dreamfall,56f3f7ca,2012-11-23,No Component,fix,56f3f7ca,1,1,amarant.st@gmail.com,2012-11-23T16:23:59+01:00
+Yohan Boniface,944d1976,2012-11-21,No Component,,944d1976,2,0,yb@enix.org,2012-11-21T16:06:20+01:00
+OriginalSin,43794a3e,2012-11-21,No Component,,43794a3e,1,1,saleks@scanex.ru,2012-11-21T13:11:51+01:00
+jfgirard,d23af353,2012-11-20,No Component,fix,d23af353,2,3,jeanfelixg@gmail.com,2012-11-20T12:38:11+01:00
+danzel,63ad64cb,2012-11-19,No Component,,63ad64cb,2,7,danzel@localhost.geek.nz,2012-11-19T21:36:23+01:00
+Mattias Bengtsson,c0135a21,2012-11-19,No Component,fix,c0135a21,98,11,mattias.jc.bengtsson@gmail.com,2012-11-19T04:36:13+01:00
+Mattias Bengtsson,6f1532f4,2012-11-18,No Component,Fix bug,6f1532f4,20,4,mattias.jc.bengtsson@gmail.com,2012-11-18T22:07:27+01:00
+danzel,b28b6da9,2012-11-18,No Component,Fix,b28b6da9,9,0,danzel@localhost.geek.nz,2012-11-18T21:58:28+01:00
+Vladimir Agafonkin,07eb3b4c,2012-11-18,No Component,fix,07eb3b4c,4,1,agafonkin@gmail.com,2012-11-18T14:55:28+01:00
+snkashis,7a6f2c2e,2012-11-17,No Component,,7a6f2c2e,4,0,steve@basno.com,2012-11-17T01:29:50+01:00
+danzel,5e355533,2012-11-15,No Component,,5e355533,11,4,danzel@localhost.geek.nz,2012-11-15T23:28:01+01:00
+danzel,0efa6350,2012-11-12,No Component,Fix,0efa6350,7,2,danzel@localhost.geek.nz,2012-11-12T21:09:46+01:00
+danzel,41a85b01,2012-11-11,No Component,bug,41a85b01,8,7,danzel@localhost.geek.nz,2012-11-11T23:52:02+01:00
+danzel,04908cee,2012-11-11,No Component,fix,04908cee,1,1,danzel@localhost.geek.nz,2012-11-11T23:26:22+01:00
+danzel,46b7d972,2012-11-11,No Component,,46b7d972,5,3,danzel@localhost.geek.nz,2012-11-11T23:15:57+01:00
+danzel,cb9407ff,2012-11-11,No Component,,cb9407ff,14,8,danzel@localhost.geek.nz,2012-11-11T23:13:15+01:00
+Vladimir Agafonkin,c37e7558,2012-11-14,No Component,,c37e7558,1,0,agafonkin@gmail.com,2012-11-14T15:50:04+01:00
+Vladimir Agafonkin,b2d65754,2012-11-14,No Component,,b2d65754,30,6,agafonkin@gmail.com,2012-11-14T14:13:08+01:00
+Vladimir Agafonkin,c33a4013,2012-11-14,No Component,,c33a4013,25,2,agafonkin@gmail.com,2012-11-14T14:12:31+01:00
+Vladimir Agafonkin,469211d0,2012-11-14,No Component,fix,469211d0,2,1,agafonkin@gmail.com,2012-11-14T13:46:17+01:00
+Vladimir Agafonkin,10c0a63b,2012-11-14,No Component,fix,10c0a63b,1,1,agafonkin@gmail.com,2012-11-14T13:39:59+01:00
+Vladimir Agafonkin,93091704,2012-11-14,No Component,,93091704,21,7,agafonkin@gmail.com,2012-11-14T13:08:20+01:00
+Vladimir Agafonkin,91aecd37,2012-11-14,No Component,,91aecd37,11,4,agafonkin@gmail.com,2012-11-14T13:07:59+01:00
+Vladimir Agafonkin,eba4eb0a,2012-11-14,No Component,fix,eba4eb0a,4,2,agafonkin@gmail.com,2012-11-14T13:07:36+01:00
+Vladimir Agafonkin,b3826358,2012-11-14,No Component,,b3826358,5,0,agafonkin@gmail.com,2012-11-14T13:07:17+01:00
+Vladimir Agafonkin,44a785f8,2012-11-14,No Component,bug,44a785f8,4,0,agafonkin@gmail.com,2012-11-14T12:37:25+01:00
+Vladimir Agafonkin,97700542,2012-11-13,No Component,,97700542,14,13,agafonkin@gmail.com,2012-11-13T15:50:00+01:00
+Vladimir Agafonkin,2fadc94e,2012-11-13,No Component,fix,2fadc94e,4,3,agafonkin@gmail.com,2012-11-13T15:48:25+01:00
+jfgirard,47181612,2012-11-12,No Component,,47181612,3,7,jeanfelixg@gmail.com,2012-11-12T19:22:28+01:00
+jfgirard,ab851088,2012-11-12,No Component,,ab851088,3,1,jeanfelixg@gmail.com,2012-11-12T17:11:16+01:00
+jfgirard,db8056df,2012-11-12,No Component,,db8056df,57,13,jeanfelixg@gmail.com,2012-11-12T17:10:03+01:00
+Pascal Borreli,95465995,2012-11-10,No Component,Fix,95465995,10,10,pascal@borreli.com,2012-11-10T00:15:48+01:00
+Vladimir Agafonkin,9e37766c,2012-11-09,No Component,,9e37766c,1,1,agafonkin@gmail.com,2012-11-09T22:52:11+01:00
+Vladimir Agafonkin,e4ec9a89,2012-11-09,No Component,fix,e4ec9a89,3,3,agafonkin@gmail.com,2012-11-09T15:27:56+01:00
+danzel,6fbf2a21,2012-11-09,No Component,,6fbf2a21,1,1,danzel@localhost.geek.nz,2012-11-09T04:13:52+01:00
+Vladimir Agafonkin,d528a036,2012-11-08,No Component,,d528a036,17,17,agafonkin@gmail.com,2012-11-08T18:20:55+01:00
+Vladimir Agafonkin,d3768073,2012-11-08,No Component,,d3768073,15,16,agafonkin@gmail.com,2012-11-08T18:20:40+01:00
+danzel,128b615a,2012-11-08,No Component,Fix,128b615a,1,0,danzel@localhost.geek.nz,2012-11-08T03:49:39+01:00
+Vladimir Agafonkin,dbd4da62,2012-11-07,No Component,,dbd4da62,130,117,agafonkin@gmail.com,2012-11-07T19:30:56+01:00
+Vladimir Agafonkin,7517cbcd,2012-11-07,No Component,fix,7517cbcd,177,165,agafonkin@gmail.com,2012-11-07T18:21:21+01:00
+Vladimir Agafonkin,2b225cc3,2012-11-07,No Component,fix,2b225cc3,105,105,agafonkin@gmail.com,2012-11-07T17:46:59+01:00
+Vladimir Agafonkin,a293f52e,2012-11-07,No Component,fix,a293f52e,29,21,agafonkin@gmail.com,2012-11-07T13:13:06+01:00
+jacobtoye,6c4221fe,2012-11-06,No Component,,6c4221fe,4,0,jacob.toye@gmail.com,2012-11-06T03:37:36+01:00
+danzel,1a2764ae,2012-11-05,No Component,,1a2764ae,2,0,danzel@localhost.geek.nz,2012-11-05T22:28:34+01:00
+danzel,c03ff65b,2012-11-04,No Component,,c03ff65b,3,2,danzel@localhost.geek.nz,2012-11-04T22:27:40+01:00
+Vladimir Agafonkin,4080a64a,2012-11-02,No Component,,4080a64a,42,16,agafonkin@gmail.com,2012-11-02T14:16:17+01:00
+Vladimir Agafonkin,bfc94d31,2012-10-31,No Component,fix,bfc94d31,13,6,agafonkin@gmail.com,2012-10-31T14:34:19+01:00
+alexanderd,1c597e4c,2012-10-31,No Component,,1c597e4c,1,1,alex_or@abv.bg,2012-10-31T12:06:33+01:00
+danzel,edaa1bbc,2012-10-31,No Component,,edaa1bbc,1,1,danzel@localhost.geek.nz,2012-10-31T01:26:56+01:00
+danzel,081edc28,2012-10-31,No Component,,081edc28,3,3,danzel@localhost.geek.nz,2012-10-31T01:25:29+01:00
+Vladimir Agafonkin,cac035af,2012-10-31,No Component,,cac035af,9,1,agafonkin@gmail.com,2012-10-31T01:13:42+01:00
+danzel,5f960721,2012-10-31,No Component,,5f960721,6,7,danzel@localhost.geek.nz,2012-10-31T01:11:16+01:00
+danzel,3aeff55f,2012-10-31,No Component,,3aeff55f,5,5,danzel@localhost.geek.nz,2012-10-31T01:05:38+01:00
+Vladimir Agafonkin,7ed96d6e,2012-10-31,No Component,fix,7ed96d6e,9,11,agafonkin@gmail.com,2012-10-31T01:02:12+01:00
+danzel,9783d9ba,2012-10-08,No Component,,9783d9ba,1,0,danzel@localhost.geek.nz,2012-10-08T02:33:29+02:00
+danzel,514908f8,2012-09-03,No Component,,514908f8,1,0,danzel@localhost.geek.nz,2012-09-03T05:41:06+02:00
+danzel,1aff46cb,2012-09-03,No Component,,1aff46cb,22,9,danzel@localhost.geek.nz,2012-09-03T04:18:29+02:00
+danzel,d133c86b,2012-08-29,No Component,,d133c86b,5,0,danzel@localhost.geek.nz,2012-08-29T06:03:54+02:00
+Vladimir Agafonkin,3c7b66b5,2012-10-31,No Component,,3c7b66b5,32,3,agafonkin@gmail.com,2012-10-31T00:42:24+01:00
+Vladimir Agafonkin,8077faa2,2012-10-31,No Component,,8077faa2,11,16,agafonkin@gmail.com,2012-10-31T00:25:03+01:00
+Vladimir Agafonkin,756e828c,2012-10-30,No Component,,756e828c,57,32,agafonkin@gmail.com,2012-10-30T23:58:58+01:00
+Vladimir Agafonkin,3bd189ed,2012-10-30,No Component,,3bd189ed,1,1,agafonkin@gmail.com,2012-10-30T22:38:41+01:00
+danzel,d1a1f174,2012-10-28,No Component,,d1a1f174,2,2,danzel@localhost.geek.nz,2012-10-28T23:49:51+01:00
+danzel,eecd28e5,2012-10-28,No Component,,eecd28e5,11,4,danzel@localhost.geek.nz,2012-10-28T23:46:40+01:00
+danzel,6b181f69,2012-10-28,No Component,,6b181f69,3,0,danzel@localhost.geek.nz,2012-10-28T23:44:05+01:00
+danzel,9b5d25ae,2012-10-28,No Component,,9b5d25ae,5,6,danzel@localhost.geek.nz,2012-10-28T23:06:22+01:00
+danzel,126a3169,2012-10-28,No Component,,126a3169,9,1,danzel@localhost.geek.nz,2012-10-28T22:48:01+01:00
+danzel,c649a4fd,2012-10-28,No Component,Fix,c649a4fd,7,0,danzel@localhost.geek.nz,2012-10-28T22:18:38+01:00
+danzel,ef429736,2012-10-28,No Component,Fix,ef429736,2,0,danzel@localhost.geek.nz,2012-10-28T21:39:45+01:00
+Calvin Metcalf,0529a925,2012-10-28,No Component,,0529a925,5,1,calvin.metcalf@state.ma.us,2012-10-28T03:10:20+01:00
+alexanderd,d5c1e4d2,2012-10-27,No Component,,d5c1e4d2,4,0,alex_or@abv.bg,2012-10-27T22:10:13+02:00
+alexanderd,ceeb1f8a,2012-10-21,No Component,,ceeb1f8a,3,3,alex_or@abv.bg,2012-10-21T02:47:06+02:00
+Brian Hatchl,0a2697c4,2012-10-19,No Component,fix,0a2697c4,2,2,hatchl.brian@geoeye.com,2012-10-19T19:57:18+02:00
+Vladimir Agafonkin,430092c4,2012-10-19,No Component,fix,430092c4,1,1,agafonkin@gmail.com,2012-10-19T13:57:39+02:00
+Vladimir Agafonkin,335b7f46,2012-10-18,No Component,,335b7f46,23,24,agafonkin@gmail.com,2012-10-18T17:43:03+02:00
+Vladimir Agafonkin,5fa25c28,2012-10-18,No Component,,5fa25c28,4,4,agafonkin@gmail.com,2012-10-18T15:38:31+02:00
+danzel,36b9509a,2012-10-18,No Component,,36b9509a,223,13,danzel@localhost.geek.nz,2012-10-18T03:36:25+02:00
+danzel,c6be0393,2012-10-16,No Component,Fix,c6be0393,1,1,danzel@localhost.geek.nz,2012-10-16T22:22:49+02:00
+danzel,f373d6b0,2012-10-16,No Component,,f373d6b0,8,6,danzel@localhost.geek.nz,2012-10-16T22:19:44+02:00
+danzel,1bf755dc,2012-10-16,No Component,Fix,1bf755dc,25,8,danzel@localhost.geek.nz,2012-10-16T00:05:35+02:00
+danzel,31542bd9,2012-10-16,No Component,bug,31542bd9,0,5,danzel@localhost.geek.nz,2012-10-16T00:04:55+02:00
+danzel,84d5f614,2012-10-15,No Component,Fix,84d5f614,18,20,danzel@localhost.geek.nz,2012-10-15T23:32:28+02:00
+danzel,af2318af,2012-10-14,No Component,,af2318af,8,4,danzel@localhost.geek.nz,2012-10-14T23:19:30+02:00
+Marcel Sulek,ba22cc28,2012-10-13,No Component,fix,ba22cc28,3,1,marcel@fleveo.cz,2012-10-13T14:03:03+02:00
+danzel,fc3a36d3,2012-10-14,No Component,,fc3a36d3,1,1,danzel@localhost.geek.nz,2012-10-14T23:05:56+02:00
+Marcel Sulek,63f24a91,2012-10-13,No Component,fix,63f24a91,8,3,marcel@fleveo.cz,2012-10-13T14:01:54+02:00
+danzel,b2945b5c,2012-10-04,No Component,fix,b2945b5c,8,1,danzel@localhost.geek.nz,2012-10-04T22:37:12+02:00
+danzel,8c1b1c83,2012-10-04,No Component,fix,8c1b1c83,12,2,danzel@localhost.geek.nz,2012-10-04T00:52:34+02:00
+danzel,db6b0c60,2012-10-01,No Component,,db6b0c60,8,6,danzel@localhost.geek.nz,2012-10-01T00:11:53+02:00
+danzel,a23f6500,2012-10-01,No Component,,a23f6500,21,5,danzel@localhost.geek.nz,2012-10-01T00:00:19+02:00
+danzel,8bed7adb,2012-09-28,No Component,,8bed7adb,148,4,danzel@localhost.geek.nz,2012-09-28T05:37:18+02:00
+danzel,b93e04ab,2012-09-28,No Component,,b93e04ab,9,1,danzel@localhost.geek.nz,2012-09-28T05:25:42+02:00
+Vladimir Agafonkin,67d1f6e1,2012-10-17,No Component,,67d1f6e1,3,3,agafonkin@gmail.com,2012-10-17T15:54:52+02:00
+danzel,4565965c,2012-10-16,No Component,Fix,4565965c,2,2,danzel@localhost.geek.nz,2012-10-16T04:00:00+02:00
+Vladimir Agafonkin,d2f546fa,2012-10-15,No Component,,d2f546fa,44,30,agafonkin@gmail.com,2012-10-15T10:39:58+02:00
+Vladimir Agafonkin,fe73b355,2012-10-15,No Component,,fe73b355,3,3,agafonkin@gmail.com,2012-10-15T10:39:46+02:00
+Vladimir Agafonkin,cca3180f,2012-10-15,No Component,fix,cca3180f,29,11,agafonkin@gmail.com,2012-10-15T10:39:07+02:00
+Marc Jansen,ebc7e9a1,2012-10-15,No Component,,ebc7e9a1,1,1,jansen@terrestris.de,2012-10-15T09:10:11+02:00
+John Firebaugh,0b4d2b0c,2012-10-12,No Component,Fix,0b4d2b0c,45,9,john.firebaugh@gmail.com,2012-10-12T21:49:12+02:00
+John Firebaugh,5ee7113f,2012-10-12,No Component,,5ee7113f,44,4,john.firebaugh@gmail.com,2012-10-12T21:13:55+02:00
+Vladimir Agafonkin,0e606e26,2012-10-12,No Component,,0e606e26,4,10,agafonkin@gmail.com,2012-10-12T14:03:35+02:00
+John Firebaugh,2cca6586,2012-10-06,No Component,,2cca6586,4,4,john.firebaugh@gmail.com,2012-10-06T20:01:17+02:00
+danzel,b596383f,2012-10-11,No Component,Fix,b596383f,3,9,danzel@localhost.geek.nz,2012-10-11T01:48:20+02:00
+Alexander Parshin,20915a83,2012-10-10,No Component,,20915a83,4,2,parshin.alexander@gmail.com,2012-10-10T01:05:12+02:00
+Adam Stull,a22ce7ee,2012-10-09,No Component,,a22ce7ee,3,0,adam.stull@focusedsupport.com,2012-10-09T19:31:02+02:00
+Vladimir Agafonkin,aed34118,2012-10-09,No Component,,aed34118,55,29,agafonkin@gmail.com,2012-10-09T15:57:26+02:00
+jacobtoye,95fc1f0f,2012-10-09,No Component,,95fc1f0f,1,1,jacob.toye@gmail.com,2012-10-09T05:12:04+02:00
+jacobtoye,6279e992,2012-10-09,No Component,,6279e992,9,5,jacob.toye@gmail.com,2012-10-09T05:10:36+02:00
+jacobtoye,939adbcf,2012-10-09,No Component,Fix,939adbcf,2,2,jacob.toye@gmail.com,2012-10-09T04:18:02+02:00
+danzel,9b56d31b,2012-10-08,No Component,,9b56d31b,4,8,danzel@localhost.geek.nz,2012-10-08T22:23:15+02:00
+Adam Stull,f844237a,2012-10-08,No Component,,f844237a,1,0,adam.stull@focusedsupport.com,2012-10-08T17:54:36+02:00
+jacobtoye,d7daa5e8,2012-10-07,No Component,,d7daa5e8,4,4,jacob.toye@gmail.com,2012-10-07T21:46:30+02:00
+Vladimir Agafonkin,14d4f99b,2012-10-05,No Component,,14d4f99b,17,4,agafonkin@gmail.com,2012-10-05T17:27:40+02:00
+Vladimir Agafonkin,5ab91941,2012-10-05,No Component,,5ab91941,1,1,agafonkin@gmail.com,2012-10-05T15:37:15+02:00
+jacobtoye,fcf9b6ca,2012-10-05,No Component,,fcf9b6ca,10,0,jacob.toye@gmail.com,2012-10-05T05:43:36+02:00
+jacobtoye,720068bd,2012-10-05,No Component,,720068bd,11,3,jacob.toye@gmail.com,2012-10-05T05:35:08+02:00
+jacobtoye,eba37ae4,2012-10-05,No Component,,eba37ae4,4,1,jacob.toye@gmail.com,2012-10-05T05:29:22+02:00
+jacobtoye,4da0cb01,2012-10-05,No Component,,4da0cb01,10,8,jacob.toye@gmail.com,2012-10-05T03:19:37+02:00
+John Firebaugh,fbf91fef,2012-10-04,No Component,Fix,fbf91fef,18,3,john.firebaugh@gmail.com,2012-10-04T23:02:46+02:00
+danzel,f4352173,2012-10-03,No Component,,f4352173,2,0,danzel@localhost.geek.nz,2012-10-03T23:13:30+02:00
+danzel,53f57cb4,2012-10-03,No Component,,53f57cb4,4,0,danzel@localhost.geek.nz,2012-10-03T23:12:57+02:00
+danzel,28f067ce,2012-10-03,No Component,Fix,28f067ce,0,2,danzel@localhost.geek.nz,2012-10-03T22:59:37+02:00
+Fleur Kelpin,bd8d5ff7,2012-09-23,No Component,,bd8d5ff7,5,0,fleur@kelpin.nl,2012-09-23T15:50:51+02:00
+Waldir,81c2bf93,2012-09-23,No Component,Fix,81c2bf93,1,0,waldir@email.com,2012-09-23T15:06:44+02:00
+danzel,801734b0,2012-09-20,No Component,Fix,801734b0,1,1,danzel@localhost.geek.nz,2012-09-20T23:29:09+02:00
+Vladimir Agafonkin,7b0deafb,2012-09-11,No Component,,7b0deafb,9,2,agafonkin@gmail.com,2012-09-11T14:28:28+02:00
+Dominik Moritz,f8d6e705,2012-09-04,No Component,Fix,f8d6e705,46,3,domoritz@gmail.com,2012-09-04T00:22:24+02:00
+Vladimir Agafonkin,c9220186,2012-09-11,No Component,,c9220186,8,7,agafonkin@gmail.com,2012-09-11T11:42:00+02:00
+Vladimir Agafonkin,4ed3c97b,2012-09-11,No Component,fix,4ed3c97b,13,9,agafonkin@gmail.com,2012-09-11T11:33:54+02:00
+Alexander Dimitrov,03f48cc8,2012-09-11,No Component,,03f48cc8,14,0,alex_or@abv.bg,2012-09-11T10:59:33+02:00
+danzel,fcddcd06,2012-09-03,No Component,Fix,fcddcd06,2,5,danzel@localhost.geek.nz,2012-09-03T00:50:42+02:00
+danzel,7c59bef6,2012-09-02,No Component,Fix,7c59bef6,2,1,danzel@localhost.geek.nz,2012-09-02T23:07:31+02:00
+danzel,21be4607,2012-08-31,No Component,,21be4607,1,1,danzel@localhost.geek.nz,2012-08-31T00:50:15+02:00
+danzel,7059f27d,2012-08-29,No Component,,7059f27d,7,4,danzel@localhost.geek.nz,2012-08-29T00:15:40+02:00
+jacobtoye,2f4275fd,2012-08-17,No Component,,2f4275fd,0,1,jacob.toye@gmail.com,2012-08-17T06:27:10+02:00
+jacobtoye,74f0d5fe,2012-08-17,No Component,,74f0d5fe,14,8,jacob.toye@gmail.com,2012-08-17T06:24:24+02:00
+jacobtoye,e057e189,2012-08-17,No Component,,e057e189,29,1,jacob.toye@gmail.com,2012-08-17T05:25:03+02:00
+Vladimir Agafonkin,c18dd9b3,2012-08-14,No Component,fix,c18dd9b3,1,1,agafonkin@gmail.com,2012-08-14T09:50:49+02:00
+Vladimir Agafonkin,873f986f,2012-08-13,No Component,fix,873f986f,1,1,agafonkin@gmail.com,2012-08-13T15:07:54+02:00
+Vladimir Agafonkin,962fb03b,2012-08-13,No Component,,962fb03b,165,91,agafonkin@gmail.com,2012-08-13T14:42:50+02:00
+Vladimir Agafonkin,9625cdbb,2012-08-13,No Component,fix,9625cdbb,23,5,agafonkin@gmail.com,2012-08-13T14:41:20+02:00
+Vladimir Agafonkin,fd22f9f8,2012-08-13,No Component,,fd22f9f8,9,1,agafonkin@gmail.com,2012-08-13T14:38:26+02:00
+Jon Stevens,1e363f29,2012-08-10,No Component,,1e363f29,2,0,latchkey@gmail.com,2012-08-10T22:20:48+02:00
+mourner,0bdc48a8,2012-08-10,No Component,,0bdc48a8,19,9,agafonkin@gmail.com,2012-08-10T22:11:28+02:00
+mourner,8980f2d2,2012-08-10,No Component,,8980f2d2,77,55,agafonkin@gmail.com,2012-08-10T21:40:55+02:00
+mourner,7627d397,2012-08-10,No Component,,7627d397,31,17,agafonkin@gmail.com,2012-08-10T20:50:00+02:00
+mourner,578f18ec,2012-08-10,No Component,,578f18ec,2,2,agafonkin@gmail.com,2012-08-10T20:49:37+02:00
+Vladimir Agafonkin,cec1802d,2012-08-10,No Component,,cec1802d,142,262,agafonkin@gmail.com,2012-08-10T17:44:44+02:00
+Vladimir Agafonkin,11d44486,2012-08-10,No Component,,11d44486,9,1,agafonkin@gmail.com,2012-08-10T17:37:46+02:00
+Vladimir Agafonkin,2d2fc741,2012-08-10,No Component,,2d2fc741,166,45,agafonkin@gmail.com,2012-08-10T17:37:21+02:00
+Vladimir Agafonkin,fe951657,2012-08-08,No Component,,fe951657,11,5,agafonkin@gmail.com,2012-08-08T11:17:10+02:00
+Vladimir Agafonkin,2aa30376,2012-08-07,No Component,fix,2aa30376,8,4,agafonkin@gmail.com,2012-08-07T17:43:52+02:00
+Vladimir Agafonkin,6b4d64a3,2012-08-07,No Component,,6b4d64a3,54,0,agafonkin@gmail.com,2012-08-07T16:45:47+02:00
+Vladimir Agafonkin,968aece1,2012-08-07,No Component,,968aece1,2,3,agafonkin@gmail.com,2012-08-07T11:28:33+02:00
+Vladimir Agafonkin,21097135,2012-08-07,No Component,fix,21097135,1,2,agafonkin@gmail.com,2012-08-07T11:24:32+02:00
+Vladimir Agafonkin,9bc31e0f,2012-08-07,No Component,,9bc31e0f,5,5,agafonkin@gmail.com,2012-08-07T10:56:11+02:00
+Vladimir Agafonkin,9e89753c,2012-08-06,No Component,fix,9e89753c,2,2,agafonkin@gmail.com,2012-08-06T18:00:48+02:00
+Vladimir Agafonkin,a4276d00,2012-08-06,No Component,,a4276d00,65,51,agafonkin@gmail.com,2012-08-06T13:43:14+02:00
+Vladimir Agafonkin,0cca115e,2012-08-06,No Component,Fix,0cca115e,2,1,agafonkin@gmail.com,2012-08-06T12:36:52+02:00
+mourner,8d6301cf,2012-08-04,No Component,,8d6301cf,25,10,agafonkin@gmail.com,2012-08-04T09:56:14+02:00
+mourner,fc1e6669,2012-08-03,No Component,,fc1e6669,1,1,agafonkin@gmail.com,2012-08-03T22:50:14+02:00
+Vladimir Agafonkin,fc819e6f,2012-08-03,No Component,,fc819e6f,2,0,agafonkin@gmail.com,2012-08-03T14:57:48+02:00
+Vladimir Agafonkin,2697462b,2012-08-03,No Component,,2697462b,8,0,agafonkin@gmail.com,2012-08-03T14:09:02+02:00
+Vladimir Agafonkin,62a84ded,2012-08-03,No Component,,62a84ded,54,0,agafonkin@gmail.com,2012-08-03T13:49:45+02:00
+Vladimir Agafonkin,6f964350,2012-08-03,No Component,,6f964350,7,7,agafonkin@gmail.com,2012-08-03T13:48:59+02:00
+danzel,8a3d5085,2012-08-02,No Component,,8a3d5085,1,1,danzel@localhost.geek.nz,2012-08-02T23:29:47+02:00
+danzel,d9bafda0,2012-08-02,No Component,Fix,d9bafda0,4,2,danzel@localhost.geek.nz,2012-08-02T23:25:42+02:00
+Vladimir Agafonkin,e7f8a858,2012-08-02,No Component,,e7f8a858,13,16,agafonkin@gmail.com,2012-08-02T17:24:22+02:00
+Vladimir Agafonkin,96b759cb,2012-08-02,No Component,,96b759cb,2,14,agafonkin@gmail.com,2012-08-02T14:46:51+02:00
+danzel,8d4d347e,2012-08-02,No Component,Fix,8d4d347e,1,1,danzel@localhost.geek.nz,2012-08-02T01:31:20+02:00
+Vladimir Agafonkin,1b88497f,2012-08-02,No Component,fix,1b88497f,5,5,agafonkin@gmail.com,2012-08-02T11:46:58+02:00
+danzel,f52251a5,2012-08-02,No Component,Fix,f52251a5,1,1,danzel@localhost.geek.nz,2012-08-02T01:31:20+02:00
+Vladimir Agafonkin,00ed2286,2012-08-01,No Component,,00ed2286,3,3,agafonkin@gmail.com,2012-08-01T17:35:42+02:00
+Vladimir Agafonkin,63a62213,2012-08-01,No Component,,63a62213,3,3,agafonkin@gmail.com,2012-08-01T13:23:43+02:00
+Vladimir Agafonkin,2020827a,2012-08-01,No Component,,2020827a,31,8,agafonkin@gmail.com,2012-08-01T13:14:23+02:00
+Vladimir Agafonkin,690c969b,2012-08-01,No Component,fix,690c969b,8,7,agafonkin@gmail.com,2012-08-01T13:03:42+02:00
+danzel,9e61d26d,2012-08-01,No Component,,9e61d26d,24,6,danzel@localhost.geek.nz,2012-08-01T05:57:17+02:00
+Vladimir Agafonkin,b3d6427a,2012-08-01,No Component,fix,b3d6427a,8,7,agafonkin@gmail.com,2012-08-01T13:03:42+02:00
+danzel,a0ee757e,2012-08-01,No Component,,a0ee757e,4,0,danzel@localhost.geek.nz,2012-08-01T03:40:43+02:00
+danzel,8c84b8a0,2012-08-01,No Component,,8c84b8a0,24,6,danzel@localhost.geek.nz,2012-08-01T05:57:17+02:00
+danzel,7c945593,2012-08-01,No Component,,7c945593,4,0,danzel@localhost.geek.nz,2012-08-01T03:40:43+02:00
+Vladimir Agafonkin,5f7f5b24,2012-07-31,No Component,,5f7f5b24,6,3,agafonkin@gmail.com,2012-07-31T10:17:04+02:00
+Vladimir Agafonkin,a393cdec,2012-07-31,No Component,,a393cdec,11,7,agafonkin@gmail.com,2012-07-31T09:59:14+02:00
+mattcurrie,f3ef4078,2012-07-31,No Component,Fix,f3ef4078,1,1,me@mattcurrie.com,2012-07-31T02:05:30+02:00
+Andrew Beaven,2b27065c,2012-07-31,No Component,,2b27065c,5,2,ajbeaven@gmail.com,2012-07-31T01:59:06+02:00
+Olexandr Skrypnyk,031ee253,2012-07-30,No Component,,031ee253,7,8,ukraine.sax@gmail.com,2012-07-30T16:27:15+02:00
+Olexandr Skrypnyk,7b167a41,2012-07-30,No Component,,7b167a41,7,2,ukraine.sax@gmail.com,2012-07-30T16:03:52+02:00
+Vladimir Agafonkin,e3b2b785,2012-07-30,No Component,fix,e3b2b785,3,3,agafonkin@gmail.com,2012-07-30T15:45:58+02:00
+Vladimir Agafonkin,529cdb09,2012-07-30,No Component,fix,529cdb09,5,5,agafonkin@gmail.com,2012-07-30T11:54:44+02:00
+Vladimir Agafonkin,2aeebe64,2012-07-30,No Component,fix,2aeebe64,5,5,agafonkin@gmail.com,2012-07-30T11:53:08+02:00
+Vladimir Agafonkin,b1db46a3,2012-07-30,No Component,fix,b1db46a3,7,2,agafonkin@gmail.com,2012-07-30T11:31:09+02:00
+Vladimir Agafonkin,b2adb29c,2012-07-30,No Component,fix,b2adb29c,6,1,agafonkin@gmail.com,2012-07-30T11:28:44+02:00
+mourner,e55e9489,2012-07-30,No Component,,e55e9489,15,7,agafonkin@gmail.com,2012-07-30T00:39:13+02:00
+Juergen Treml,1a1205ea,2012-07-29,No Component,,1a1205ea,15,6,mail@juergentreml.de,2012-07-29T14:10:03+02:00
+mourner,6437e653,2012-07-29,No Component,fix,6437e653,27,7,agafonkin@gmail.com,2012-07-29T01:22:18+02:00
+mourner,244926f9,2012-07-28,No Component,fix,244926f9,5,2,agafonkin@gmail.com,2012-07-28T13:03:00+02:00
+Tom Nightingale,6d36dba2,2012-07-27,No Component,fix,6d36dba2,4,1,tom@affinitybridge.com,2012-07-27T20:40:17+02:00
+Vladimir Agafonkin,41743905,2012-07-27,No Component,,41743905,215,91,agafonkin@gmail.com,2012-07-27T14:10:17+02:00
+Vladimir Agafonkin,a51c8413,2012-07-27,No Component,,a51c8413,4,3,agafonkin@gmail.com,2012-07-27T11:49:03+02:00
+Vladimir Agafonkin,5e7c279a,2012-07-27,No Component,,5e7c279a,2,2,agafonkin@gmail.com,2012-07-27T11:33:06+02:00
+Vladimir Agafonkin,cdfaad99,2012-07-27,No Component,,cdfaad99,127,41,agafonkin@gmail.com,2012-07-27T11:32:24+02:00
+Matt Currie,6142a8b7,2012-07-27,No Component,,6142a8b7,16,0,me@mattcurrie.com,2012-07-27T04:12:40+02:00
+danzel,606fe257,2012-07-26,No Component,Fix fix,606fe257,3,2,danzel@localhost.geek.nz,2012-07-26T23:12:58+02:00
+mourner,b2d6ea5b,2012-07-26,No Component,fix,b2d6ea5b,5,5,agafonkin@gmail.com,2012-07-26T22:20:39+02:00
+Vladimir Agafonkin,65aafc3a,2012-07-26,No Component,fix,65aafc3a,25,7,agafonkin@gmail.com,2012-07-26T16:33:14+02:00
+Vladimir Agafonkin,a7f73069,2012-07-26,No Component,,a7f73069,8,8,agafonkin@gmail.com,2012-07-26T14:02:28+02:00
+Vladimir Agafonkin,54855494,2012-07-26,No Component,,54855494,6,6,agafonkin@gmail.com,2012-07-26T13:56:21+02:00
+Vladimir Agafonkin,2df0a4c2,2012-07-26,No Component,fix,2df0a4c2,10,7,agafonkin@gmail.com,2012-07-26T10:49:26+02:00
+Jason Sanford,0907b1b8,2012-07-26,No Component,,0907b1b8,3,3,jason.sanford@mapmyfitness.com,2012-07-26T09:33:37+02:00
+Jason Sanford,f70c08ca,2012-07-26,No Component,,f70c08ca,2,20,jason.sanford@mapmyfitness.com,2012-07-26T08:58:26+02:00
+Jason Sanford,95712864,2012-07-26,No Component,,95712864,50,176,jason.sanford@mapmyfitness.com,2012-07-26T08:45:55+02:00
+danzel,871e8f8e,2012-07-26,No Component,Fix,871e8f8e,3,1,danzel@localhost.geek.nz,2012-07-26T04:32:23+02:00
+danzel,8667f357,2012-07-26,No Component,,8667f357,11,1,danzel@localhost.geek.nz,2012-07-26T03:58:44+02:00
+Vladimir Agafonkin,19ed1859,2012-07-25,No Component,fix,19ed1859,3,2,agafonkin@gmail.com,2012-07-25T18:51:51+02:00
+Vladimir Agafonkin,b5513f4d,2012-07-25,No Component,,b5513f4d,33,1,agafonkin@gmail.com,2012-07-25T16:36:14+02:00
+Vladimir Agafonkin,4ece3501,2012-07-25,No Component,fix,4ece3501,1,0,agafonkin@gmail.com,2012-07-25T16:25:53+02:00
+Vladimir Agafonkin,3342e7c2,2012-07-25,No Component,fix,3342e7c2,117,58,agafonkin@gmail.com,2012-07-25T16:14:31+02:00
+Vladimir Agafonkin,3c70e3cb,2012-07-25,No Component,,3c70e3cb,6,6,agafonkin@gmail.com,2012-07-25T16:12:56+02:00
+Vladimir Agafonkin,c50aaabd,2012-07-25,No Component,,c50aaabd,71,41,agafonkin@gmail.com,2012-07-25T16:10:11+02:00
+Vladimir Agafonkin,55c35828,2012-07-25,No Component,Fix,55c35828,2,2,agafonkin@gmail.com,2012-07-25T10:14:21+02:00
+Vladimir Agafonkin,183f36c1,2012-07-25,No Component,,183f36c1,9,3,agafonkin@gmail.com,2012-07-25T10:13:36+02:00
+Vladimir Agafonkin,3201dd06,2012-07-25,No Component,,3201dd06,8,12,agafonkin@gmail.com,2012-07-25T10:08:51+02:00
+Andrew Beaven,c19ee489,2012-07-25,No Component,Fix,c19ee489,21,1,ajbeaven@gmail.com,2012-07-25T06:30:21+02:00
+Vladimir Agafonkin,de835e3c,2012-07-24,No Component,,de835e3c,1,1,agafonkin@gmail.com,2012-07-24T17:11:49+02:00
+Vladimir Agafonkin,5a1e2a92,2012-07-24,No Component,,5a1e2a92,5,2,agafonkin@gmail.com,2012-07-24T16:55:48+02:00
+Vladimir Agafonkin,cfdbdffc,2012-07-24,No Component,,cfdbdffc,24,1,agafonkin@gmail.com,2012-07-24T13:07:49+02:00
+jacobtoye,ef03f4ae,2012-07-24,No Component,,ef03f4ae,11,0,jacob.toye@gmail.com,2012-07-24T01:48:44+02:00
+mourner,1da10416,2012-07-24,No Component,,1da10416,12,0,agafonkin@gmail.com,2012-07-24T00:42:57+02:00
+mourner,71032411,2012-07-20,No Component,,71032411,15,7,agafonkin@gmail.com,2012-07-20T20:34:31+02:00
+mourner,d6082220,2012-07-20,No Component,,d6082220,14,6,agafonkin@gmail.com,2012-07-20T20:34:21+02:00
+mourner,72064e02,2012-07-20,No Component,,72064e02,50,50,agafonkin@gmail.com,2012-07-20T20:16:56+02:00
+mourner,f1c4a1f5,2012-07-20,No Component,,f1c4a1f5,36,40,agafonkin@gmail.com,2012-07-20T20:15:07+02:00
+mourner,0cadad7a,2012-07-20,No Component,,0cadad7a,8,6,agafonkin@gmail.com,2012-07-20T20:14:24+02:00
+jacobtoye,f6979ff9,2012-07-20,No Component,,f6979ff9,2,2,jacob.toye@gmail.com,2012-07-20T04:09:05+02:00
+danzel,0b913df1,2012-07-18,No Component,Fix,0b913df1,2,0,danzel@localhost.geek.nz,2012-07-18T23:48:35+02:00
+Vladimir Agafonkin,85b9baa4,2012-07-18,No Component,,85b9baa4,1,1,agafonkin@gmail.com,2012-07-18T13:04:13+02:00
+Vladimir Agafonkin,58299c81,2012-07-18,No Component,,58299c81,30,11,agafonkin@gmail.com,2012-07-18T12:56:36+02:00
+Vladimir Agafonkin,33d9bc0c,2012-07-18,No Component,fix,33d9bc0c,47,46,agafonkin@gmail.com,2012-07-18T12:55:49+02:00
+Vladimir Agafonkin,f4466593,2012-07-18,No Component,fix,f4466593,4,3,agafonkin@gmail.com,2012-07-18T12:52:24+02:00
+danzel,7019a200,2012-07-17,No Component,,7019a200,1,1,danzel@localhost.geek.nz,2012-07-17T04:46:14+02:00
+danzel,dc067d3d,2012-07-17,No Component,,dc067d3d,11,2,danzel@localhost.geek.nz,2012-07-17T04:45:49+02:00
+danzel,b663c7f4,2012-07-17,No Component,fix,b663c7f4,7,5,danzel@localhost.geek.nz,2012-07-17T01:58:04+02:00
+danzel,95afdee7,2012-07-16,No Component,fix,95afdee7,3,2,danzel@localhost.geek.nz,2012-07-16T23:30:14+02:00
+Vladimir Agafonkin,c32319e3,2012-07-16,No Component,Fix,c32319e3,5,1,agafonkin@gmail.com,2012-07-16T13:53:07+02:00
+Vladimir Agafonkin,cfd07891,2012-07-16,No Component,,cfd07891,15,3,agafonkin@gmail.com,2012-07-16T13:36:14+02:00
+Vladimir Agafonkin,0e03e868,2012-07-16,No Component,,0e03e868,1,1,agafonkin@gmail.com,2012-07-16T13:36:00+02:00
+Vladimir Agafonkin,0e4e02a1,2012-07-16,No Component,fix,0e4e02a1,13,1,agafonkin@gmail.com,2012-07-16T13:13:29+02:00
+Vladimir Agafonkin,dd1a134c,2012-07-16,No Component,,dd1a134c,59,10,agafonkin@gmail.com,2012-07-16T13:03:02+02:00
+Vladimir Agafonkin,f99a4173,2012-07-16,No Component,,f99a4173,39,7,agafonkin@gmail.com,2012-07-16T12:57:00+02:00
+jacobtoye,770d2c89,2012-07-16,No Component,,770d2c89,1,1,jacob.toye@gmail.com,2012-07-16T05:34:55+02:00
+jacobtoye,661c6c6d,2012-07-16,No Component,,661c6c6d,1,1,jacob.toye@gmail.com,2012-07-16T05:28:13+02:00
+jacobtoye,3b6f57e2,2012-07-16,No Component,,3b6f57e2,1,1,jacob.toye@gmail.com,2012-07-16T05:10:53+02:00
+danzel,4b001e6d,2012-07-15,No Component,,4b001e6d,5,1,danzel@localhost.geek.nz,2012-07-15T23:44:43+02:00
+Mithgol the Webmaster,f9ea2728,2012-07-14,No Component,fix,f9ea2728,5,0,getgit@mithgol.ru,2012-07-14T05:07:47+02:00
+Vladimir Agafonkin,649d439a,2012-07-13,No Component,,649d439a,8,0,agafonkin@gmail.com,2012-07-13T16:06:16+02:00
+Vladimir Agafonkin,f27279a3,2012-07-13,No Component,,f27279a3,12,7,agafonkin@gmail.com,2012-07-13T15:29:50+02:00
+Lars Knickrehm,39ba367a,2012-07-13,No Component,,39ba367a,3,7,mail@larsh.de,2012-07-13T14:08:01+02:00
+Vladimir Agafonkin,ad4b8a24,2012-07-13,No Component,fix,ad4b8a24,5,4,agafonkin@gmail.com,2012-07-13T13:48:35+02:00
+Vladimir Agafonkin,c28036f2,2012-07-13,No Component,,c28036f2,7,6,agafonkin@gmail.com,2012-07-13T11:16:26+02:00
+Vladimir Agafonkin,444e0dba,2012-07-13,No Component,fix,444e0dba,4,5,agafonkin@gmail.com,2012-07-13T11:11:20+02:00
+Vladimir Agafonkin,7abe4c7d,2012-07-13,No Component,fix,7abe4c7d,2,0,agafonkin@gmail.com,2012-07-13T10:36:11+02:00
+Lars Knickrehm,2248fb2d,2012-07-13,No Component,Fix,2248fb2d,13,5,mail@larsh.de,2012-07-13T01:47:19+02:00
+Vladimir Agafonkin,bd1510ce,2012-07-12,No Component,fix,bd1510ce,12,32,agafonkin@gmail.com,2012-07-12T16:46:17+02:00
+Vladimir Agafonkin,f4ecfe61,2012-07-12,No Component,,f4ecfe61,1,0,agafonkin@gmail.com,2012-07-12T15:22:14+02:00
+Vladimir Agafonkin,aa68310c,2012-07-12,No Component,,aa68310c,39,11,agafonkin@gmail.com,2012-07-12T14:55:30+02:00
+Vladimir Agafonkin,27576035,2012-07-12,No Component,,27576035,0,2,agafonkin@gmail.com,2012-07-12T14:54:44+02:00
+Vladimir Agafonkin,532ff723,2012-07-12,No Component,,532ff723,4,2,agafonkin@gmail.com,2012-07-12T14:53:58+02:00
+Vladimir Agafonkin,01e26a4c,2012-07-12,No Component,,01e26a4c,2,3,agafonkin@gmail.com,2012-07-12T14:48:44+02:00
+Vladimir Agafonkin,4f8dc060,2012-07-12,No Component,,4f8dc060,5,0,agafonkin@gmail.com,2012-07-12T14:46:52+02:00
+Vladimir Agafonkin,e9b47e98,2012-07-12,No Component,,e9b47e98,27,0,agafonkin@gmail.com,2012-07-12T14:40:47+02:00
+Vladimir Agafonkin,c6bae3ee,2012-07-12,No Component,,c6bae3ee,1,1,agafonkin@gmail.com,2012-07-12T14:37:43+02:00
+Vladimir Agafonkin,0814e18a,2012-07-12,No Component,fix,0814e18a,1,1,agafonkin@gmail.com,2012-07-12T14:35:22+02:00
+Vladimir Agafonkin,9aa723d9,2012-07-12,No Component,,9aa723d9,9,8,agafonkin@gmail.com,2012-07-12T09:39:22+02:00
+Vladimir Agafonkin,4edfaee0,2012-07-12,No Component,,4edfaee0,12,15,agafonkin@gmail.com,2012-07-12T09:31:21+02:00
+danzel,863bed67,2012-07-12,No Component,,863bed67,4,0,danzel@localhost.geek.nz,2012-07-12T07:01:19+02:00
+danzel,3b7d1761,2012-07-12,No Component,,3b7d1761,3,2,danzel@localhost.geek.nz,2012-07-12T06:09:48+02:00
+danzel,e8a90453,2012-07-11,No Component,Fix,e8a90453,9,1,danzel@localhost.geek.nz,2012-07-11T23:54:53+02:00
+Vladimir Agafonkin,97f5bcc9,2012-07-11,No Component,,97f5bcc9,1,1,agafonkin@gmail.com,2012-07-11T13:33:56+02:00
+Vladimir Agafonkin,06787b84,2012-07-11,No Component,,06787b84,67,29,agafonkin@gmail.com,2012-07-11T10:25:57+02:00
+danzel,ff86f5a2,2012-07-11,No Component,,ff86f5a2,6,10,danzel@localhost.geek.nz,2012-07-11T05:55:41+02:00
+danzel,12957201,2012-07-11,No Component,,12957201,14,10,danzel@localhost.geek.nz,2012-07-11T05:51:12+02:00
+Jan Pieter Waagmeester,13816715,2012-07-10,No Component,,13816715,3,3,jieter@jieter.nl,2012-07-10T12:29:23+02:00
+Vladimir Agafonkin,cc60eb81,2012-07-10,No Component,,cc60eb81,11,11,agafonkin@gmail.com,2012-07-10T11:00:13+02:00
+Vladimir Agafonkin,d0c341b0,2012-07-10,No Component,,d0c341b0,28,0,agafonkin@gmail.com,2012-07-10T10:43:18+02:00
+Vladimir Agafonkin,dfdc0114,2012-07-09,No Component,,dfdc0114,13,4,agafonkin@gmail.com,2012-07-09T16:08:01+02:00
+Vladimir Agafonkin,8b3e9715,2012-07-09,No Component,fix,8b3e9715,13,1,agafonkin@gmail.com,2012-07-09T14:07:22+02:00
+Vladimir Agafonkin,bcc2c6f6,2012-07-09,No Component,,bcc2c6f6,43,24,agafonkin@gmail.com,2012-07-09T13:42:58+02:00
+Vladimir Agafonkin,92c704f3,2012-07-09,No Component,,92c704f3,30,23,agafonkin@gmail.com,2012-07-09T13:42:44+02:00
+Vladimir Agafonkin,410291cc,2012-07-06,No Component,,410291cc,24,22,agafonkin@gmail.com,2012-07-06T11:58:10+02:00
+Jan Pieter Waagmeester,97e3d08d,2012-07-05,No Component,,97e3d08d,21,19,jieter@jieter.nl,2012-07-05T16:59:00+02:00
+Vladimir Agafonkin,2746cc84,2012-07-05,No Component,,2746cc84,31,1,agafonkin@gmail.com,2012-07-05T15:53:32+02:00
+Jan Pieter Waagmeester,0a98e75a,2012-07-05,No Component,Fix,0a98e75a,1,1,jieter@jieter.nl,2012-07-05T15:51:40+02:00
+Jan Pieter Waagmeester,6096795c,2012-07-05,No Component,Fix,6096795c,2,2,jieter@jieter.nl,2012-07-05T15:41:55+02:00
+Vladimir Agafonkin,3e24ed54,2012-07-05,No Component,,3e24ed54,339,124,agafonkin@gmail.com,2012-07-05T13:45:06+02:00
+Vladimir Agafonkin,382ef5c0,2012-07-05,No Component,,382ef5c0,17,47,agafonkin@gmail.com,2012-07-05T11:54:40+02:00
+danzel,15718ec5,2012-07-04,No Component,,15718ec5,2,2,danzel@localhost.geek.nz,2012-07-04T22:46:18+02:00
+Vladimir Agafonkin,b2140e8d,2012-07-04,No Component,,b2140e8d,18,1,agafonkin@gmail.com,2012-07-04T13:10:26+02:00
+fr1n63,d17bfc6e,2012-07-04,No Component,bug,d17bfc6e,2,24,martin@fr1n63.com,2012-07-04T11:14:06+02:00
+danzel,46a18ad3,2012-07-04,No Component,,46a18ad3,4,0,danzel@localhost.geek.nz,2012-07-04T05:45:27+02:00
+fr1n63,7b6a2b80,2012-07-03,No Component,fix,7b6a2b80,5,50,martin@fr1n63.com,2012-07-03T17:30:53+02:00
+Vladimir Agafonkin,0d6749a3,2012-07-03,No Component,,0d6749a3,128,25,agafonkin@gmail.com,2012-07-03T16:06:44+02:00
+fr1n63,9365e761,2012-07-03,No Component,bug,9365e761,70,2,martin@fr1n63.com,2012-07-03T16:01:56+02:00
+Vladimir Agafonkin,df6ea684,2012-07-03,No Component,,df6ea684,22,8,agafonkin@gmail.com,2012-07-03T10:12:22+02:00
+danzel,4629a10f,2012-07-03,No Component,Fix,4629a10f,1,1,danzel@localhost.geek.nz,2012-07-03T01:47:39+02:00
+danzel,3674c11a,2012-07-03,No Component,,3674c11a,1,6,danzel@localhost.geek.nz,2012-07-03T01:46:50+02:00
+danzel,f6f060f2,2012-07-03,No Component,,f6f060f2,17,0,danzel@localhost.geek.nz,2012-07-03T01:49:09+02:00
+danzel,62061396,2012-07-03,No Component,,62061396,8,6,danzel@localhost.geek.nz,2012-07-03T00:23:22+02:00
+danzel,914204f3,2012-07-02,No Component,,914204f3,6,0,danzel@localhost.geek.nz,2012-07-02T23:44:30+02:00
+danzel,16674656,2012-07-02,No Component,,16674656,15,8,danzel@localhost.geek.nz,2012-07-02T23:12:14+02:00
+danzel,dc46ae2a,2012-06-26,No Component,,dc46ae2a,1,1,danzel@localhost.geek.nz,2012-06-26T01:30:54+02:00
+mourner,50c6c480,2012-07-01,No Component,,50c6c480,23,23,agafonkin@gmail.com,2012-07-01T15:18:00+02:00
+mourner,28a21fd4,2012-07-01,No Component,fix,28a21fd4,97,81,agafonkin@gmail.com,2012-07-01T14:46:31+02:00
+mourner,0f40da1c,2012-06-30,No Component,,0f40da1c,426,333,agafonkin@gmail.com,2012-06-30T13:51:09+02:00
+Aaron King,95ed9cdd,2012-06-30,No Component,,95ed9cdd,126,16,floodle@floodle.org,2012-06-30T01:14:41+02:00
+mourner,8d619899,2012-06-29,No Component,fix,8d619899,108,86,agafonkin@gmail.com,2012-06-29T01:59:49+02:00
+mourner,9387db04,2012-06-29,No Component,,9387db04,214,196,agafonkin@gmail.com,2012-06-29T00:47:30+02:00
+Charlie Moad,4a9b87bd,2012-06-28,No Component,,4a9b87bd,1,1,cwmoad@gmail.com,2012-06-28T03:18:02+02:00
+Vladimir Agafonkin,0830bb38,2012-06-26,No Component,fix,0830bb38,43,32,agafonkin@gmail.com,2012-06-26T11:21:15+02:00
+danzel,9a979dd6,2012-06-26,No Component,,9a979dd6,4,5,danzel@localhost.geek.nz,2012-06-26T01:16:06+02:00
+danzel,b901708d,2012-06-26,No Component,,b901708d,13,1,danzel@localhost.geek.nz,2012-06-26T00:13:39+02:00
+mourner,18557d89,2012-06-26,No Component,,18557d89,21,21,agafonkin@gmail.com,2012-06-26T00:51:04+02:00
+Stefan Sydow,8aaac25b,2012-05-28,No Component,fix,8aaac25b,9,4,stsydow@googlemail.com,2012-05-28T17:08:33+02:00
+Stefan Sydow,011bbb09,2012-05-28,No Component,fix,011bbb09,5,2,stsydow@googlemail.com,2012-05-28T13:45:45+02:00
+mourner,a9b42fad,2012-06-26,No Component,,a9b42fad,38,22,agafonkin@gmail.com,2012-06-26T00:05:55+02:00
+mourner,500848ef,2012-06-25,No Component,,500848ef,13,0,agafonkin@gmail.com,2012-06-25T23:32:17+02:00
+mourner,ce066615,2012-06-25,No Component,,ce066615,13,13,agafonkin@gmail.com,2012-06-25T23:21:58+02:00
+mourner,ed3176f1,2012-06-25,No Component,,ed3176f1,29,3,agafonkin@gmail.com,2012-06-25T23:16:46+02:00
+danzel,76897575,2012-06-25,No Component,,76897575,1,0,danzel@localhost.geek.nz,2012-06-25T23:06:23+02:00
+danzel,3536e9e3,2012-06-25,No Component,,3536e9e3,1,0,danzel@localhost.geek.nz,2012-06-25T23:04:23+02:00
+danzel,e5239d16,2012-06-25,No Component,,e5239d16,4,1,danzel@localhost.geek.nz,2012-06-25T22:59:32+02:00
+mourner,bbd3c932,2012-06-25,No Component,,bbd3c932,49,15,agafonkin@gmail.com,2012-06-25T22:45:37+02:00
+Vladimir Agafonkin,dd80fc29,2012-06-25,No Component,fix,dd80fc29,7,3,agafonkin@gmail.com,2012-06-25T18:27:42+02:00
+Vladimir Agafonkin,2ac4a6d3,2012-06-25,No Component,,2ac4a6d3,104,93,agafonkin@gmail.com,2012-06-25T17:58:37+02:00
+Vladimir Agafonkin,99dd46b5,2012-06-25,No Component,,99dd46b5,3,0,agafonkin@gmail.com,2012-06-25T17:08:00+02:00
+Vladimir Agafonkin,4ce8d5f4,2012-06-25,No Component,,4ce8d5f4,39,30,agafonkin@gmail.com,2012-06-25T16:10:01+02:00
+mourner,468cc5c5,2012-06-25,No Component,,468cc5c5,1,2,agafonkin@gmail.com,2012-06-25T10:56:38+02:00
+mourner,ca9b96ed,2012-06-25,No Component,Fix,ca9b96ed,25,16,agafonkin@gmail.com,2012-06-25T10:42:51+02:00
+danzel,d8289081,2012-06-25,No Component,fix,d8289081,3,2,danzel@localhost.geek.nz,2012-06-25T05:30:27+02:00
+danzel,61ce4651,2012-06-25,No Component,Fix,61ce4651,11,11,danzel@localhost.geek.nz,2012-06-25T02:16:46+02:00
+mourner,0479e240,2012-06-23,No Component,,0479e240,3,1,agafonkin@gmail.com,2012-06-23T01:20:32+02:00
+mourner,76b0a1de,2012-06-22,No Component,,76b0a1de,27,29,agafonkin@gmail.com,2012-06-22T17:24:08+02:00
+mourner,d208f38a,2012-06-22,No Component,,d208f38a,18,13,agafonkin@gmail.com,2012-06-22T16:32:53+02:00
+danzel,7ec0563d,2012-06-22,No Component,,7ec0563d,5,3,danzel@localhost.geek.nz,2012-06-22T06:20:06+02:00
+danzel,c9205932,2012-06-22,No Component,,c9205932,3,3,danzel@localhost.geek.nz,2012-06-22T06:15:08+02:00
+danzel,640e447c,2012-06-22,No Component,,640e447c,4,1,danzel@localhost.geek.nz,2012-06-22T05:19:44+02:00
+danzel,a1afe374,2012-06-21,No Component,,a1afe374,3,3,danzel@localhost.geek.nz,2012-06-21T23:36:01+02:00
+mourner,c345f199,2012-06-21,No Component,,c345f199,134,32,agafonkin@gmail.com,2012-06-21T13:54:09+02:00
+mourner,02f167e2,2012-06-21,No Component,fix,02f167e2,2,1,agafonkin@gmail.com,2012-06-21T13:52:13+02:00
+shintonik,6428baaa,2012-06-21,No Component,bug,6428baaa,3,0,shintonik@googlemail.com,2012-06-21T11:10:12+02:00
+danzel,4bc34558,2012-06-21,No Component,Fix,4bc34558,1,1,danzel@localhost.geek.nz,2012-06-21T02:05:45+02:00
+danzel,9cec6643,2012-06-21,No Component,,9cec6643,10,7,danzel@localhost.geek.nz,2012-06-21T02:05:31+02:00
+danzel,6d725f02,2012-06-21,No Component,,6d725f02,2,8,danzel@localhost.geek.nz,2012-06-21T01:22:22+02:00
+danzel,10622864,2012-06-21,No Component,,10622864,3,3,danzel@localhost.geek.nz,2012-06-21T01:15:02+02:00
+danzel,df07bf0a,2012-06-21,No Component,,df07bf0a,1,1,danzel@localhost.geek.nz,2012-06-21T00:37:28+02:00
+danzel,f56682ef,2012-06-20,No Component,,f56682ef,14,2,danzel@localhost.geek.nz,2012-06-20T06:49:29+02:00
+danzel,be9f96c6,2012-06-20,No Component,,be9f96c6,1,0,danzel@localhost.geek.nz,2012-06-20T06:48:35+02:00
+danzel,92f9541f,2012-06-20,No Component,FIX,92f9541f,1,1,danzel@localhost.geek.nz,2012-06-20T06:26:00+02:00
+mourner,ff471325,2012-06-19,No Component,,ff471325,8,8,agafonkin@gmail.com,2012-06-19T16:25:07+02:00
+mourner,45d94214,2012-06-19,No Component,fix,45d94214,46,32,agafonkin@gmail.com,2012-06-19T15:38:40+02:00
+danzel,8d605a0f,2012-06-19,No Component,,8d605a0f,6,6,danzel@localhost.geek.nz,2012-06-19T05:11:41+02:00
+Rob Brackett,a3d91156,2012-06-19,No Component,fix,a3d91156,1,1,rob@robbrackett.com,2012-06-19T03:11:27+02:00
+danzel,289071fa,2012-06-19,No Component,Fix,289071fa,1,1,danzel@localhost.geek.nz,2012-06-19T01:59:58+02:00
+danzel,bda2a8a2,2012-06-19,No Component,,bda2a8a2,10,2,danzel@localhost.geek.nz,2012-06-19T01:12:29+02:00
+danzel,0556e73c,2012-06-19,No Component,,0556e73c,13,0,danzel@localhost.geek.nz,2012-06-19T00:37:02+02:00
+danzel,60f4a707,2012-06-19,No Component,,60f4a707,2,1,danzel@localhost.geek.nz,2012-06-19T00:21:57+02:00
+danzel,063341c3,2012-06-18,No Component,,063341c3,7,4,danzel@localhost.geek.nz,2012-06-18T23:49:44+02:00
+danzel,4b638bde,2012-06-15,No Component,Fix,4b638bde,7,8,danzel@localhost.geek.nz,2012-06-15T06:50:57+02:00
+danzel,9bb49ac4,2012-06-15,No Component,Fix,9bb49ac4,0,6,danzel@localhost.geek.nz,2012-06-15T06:34:03+02:00
+danzel,da475a9d,2012-06-15,No Component,,da475a9d,13,13,danzel@localhost.geek.nz,2012-06-15T04:19:11+02:00
+danzel,b33d1f32,2012-06-15,No Component,,b33d1f32,13,1,danzel@localhost.geek.nz,2012-06-15T03:59:25+02:00
+danzel,c04020aa,2012-06-14,No Component,,c04020aa,29,33,danzel@localhost.geek.nz,2012-06-14T23:43:29+02:00
+danzel,1ac3a1ba,2012-06-14,No Component,Fix,1ac3a1ba,1,1,danzel@localhost.geek.nz,2012-06-14T06:41:38+02:00
+danzel,0b30a9b8,2012-06-14,No Component,,0b30a9b8,0,8,danzel@localhost.geek.nz,2012-06-14T06:37:30+02:00
+danzel,86596daa,2012-06-14,No Component,,86596daa,2,0,danzel@localhost.geek.nz,2012-06-14T06:37:04+02:00
+danzel,c42ce599,2012-06-14,No Component,,c42ce599,8,12,danzel@localhost.geek.nz,2012-06-14T06:25:18+02:00
+danzel,d30d0579,2012-06-14,No Component,,d30d0579,18,4,danzel@localhost.geek.nz,2012-06-14T05:55:25+02:00
+danzel,1fc674b5,2012-06-14,No Component,Fix,1fc674b5,2,3,danzel@localhost.geek.nz,2012-06-14T04:55:54+02:00
+danzel,6e1802a7,2012-06-14,No Component,,6e1802a7,9,0,danzel@localhost.geek.nz,2012-06-14T04:07:58+02:00
+danzel,ccbd43f1,2012-06-14,No Component,,ccbd43f1,5,2,danzel@localhost.geek.nz,2012-06-14T04:07:43+02:00
+danzel,6de02571,2012-06-14,No Component,,6de02571,2,2,danzel@localhost.geek.nz,2012-06-14T04:06:20+02:00
+danzel,65fe7a8e,2012-06-14,No Component,,65fe7a8e,4,3,danzel@localhost.geek.nz,2012-06-14T01:26:48+02:00
+danzel,04bb46a0,2012-06-14,No Component,,04bb46a0,9,9,danzel@localhost.geek.nz,2012-06-14T01:08:44+02:00
+danzel,cc304bf2,2012-06-15,No Component,,cc304bf2,5,3,danzel@localhost.geek.nz,2012-06-15T06:29:09+02:00
+danzel,51fb9eea,2012-06-15,No Component,,51fb9eea,32,0,danzel@localhost.geek.nz,2012-06-15T06:28:46+02:00
+Konstantin.Myakshin,b65e95f9,2012-06-18,No Component,,b65e95f9,68,0,koc-dp@yandex.ru,2012-06-18T21:35:54+02:00
+mourner,44773a99,2012-06-18,No Component,,44773a99,10,2,agafonkin@gmail.com,2012-06-18T11:30:39+02:00
+mourner,48956cd3,2012-06-18,No Component,,48956cd3,32,5,agafonkin@gmail.com,2012-06-18T10:50:16+02:00
+danzel,21c7c0d7,2012-06-17,No Component,,21c7c0d7,2,1,danzel@localhost.geek.nz,2012-06-17T23:57:48+02:00
+danzel,dc9aa649,2012-06-15,No Component,,dc9aa649,6,2,danzel@localhost.geek.nz,2012-06-15T06:18:38+02:00
+danzel,4f07a167,2012-06-13,No Component,,4f07a167,2,5,danzel@localhost.geek.nz,2012-06-13T04:34:37+02:00
+danzel,64ae71a4,2012-06-13,No Component,Fix,64ae71a4,1,2,danzel@localhost.geek.nz,2012-06-13T04:33:28+02:00
+danzel,e54bc27a,2012-06-13,No Component,bug,e54bc27a,28,2,danzel@localhost.geek.nz,2012-06-13T04:19:30+02:00
+Paolo e Stefano Mainardi,4aed9ed5,2012-06-04,No Component,,4aed9ed5,1,1,info@twinbit.it,2012-06-04T02:15:59+02:00
+Paolo e Stefano Mainardi,0ca0f227,2012-06-04,No Component,,0ca0f227,2,1,info@twinbit.it,2012-06-04T02:04:38+02:00
+Vladimir Agafonkin,53afad90,2012-06-02,No Component,,53afad90,5,4,agafonkin@gmail.com,2012-06-02T09:55:59+02:00
+mourner,3c8495b6,2012-05-16,No Component,Fix,3c8495b6,4,4,agafonkin@gmail.com,2012-05-16T15:39:03+02:00
+mourner,796105a9,2012-05-16,No Component,fix,796105a9,1,1,agafonkin@gmail.com,2012-05-16T14:34:36+02:00
+mourner,64a2dd53,2012-05-16,No Component,,64a2dd53,14,6,agafonkin@gmail.com,2012-05-16T11:42:01+02:00
+Vladimir Agafonkin,7d46fdd2,2012-05-16,No Component,Fix,7d46fdd2,1,1,agafonkin@gmail.com,2012-05-16T01:13:15+02:00
+Charlie Savage,a04e4372,2012-05-13,No Component,bug,a04e4372,2,0,cfis@zerista.com,2012-05-13T01:32:04+02:00
+Charlie Savage,da29f47e,2012-05-13,No Component,,da29f47e,10,4,cfis@zerista.com,2012-05-13T01:22:09+02:00
+mourner,0a6e8d87,2012-05-10,No Component,,0a6e8d87,128,59,agafonkin@gmail.com,2012-05-10T16:17:04+02:00
+mourner,dbf507c8,2012-05-10,No Component,,dbf507c8,1,0,agafonkin@gmail.com,2012-05-10T16:04:48+02:00
+mourner,6f40aeeb,2012-05-10,No Component,,6f40aeeb,55,35,agafonkin@gmail.com,2012-05-10T16:03:50+02:00
+mourner,be647f1b,2012-05-10,No Component,,be647f1b,1,1,agafonkin@gmail.com,2012-05-10T10:12:59+02:00
+mourner,70f9d300,2012-05-10,No Component,,70f9d300,3,4,agafonkin@gmail.com,2012-05-10T10:11:52+02:00
+mourner,7956c8c8,2012-05-10,No Component,fix,7956c8c8,17,12,agafonkin@gmail.com,2012-05-10T10:09:30+02:00
+Peter Gassner,b0486f2e,2012-05-07,No Component,Fix,b0486f2e,1,1,peter@naehrstoff.ch,2012-05-07T15:56:30+02:00
+Charlie Savage,d6af5e8e,2012-05-07,No Component,,d6af5e8e,1,1,cfis@zerista.com,2012-05-07T08:05:47+02:00
+Geremia Taglialatela,434e09f0,2012-05-05,No Component,fix,434e09f0,1,1,tagliala.dev@gmail.com,2012-05-05T13:13:07+02:00
+Eric Martinez,3d78a8fe,2012-05-05,No Component,,3d78a8fe,2,11,eric.m.martinez@gmail.com,2012-05-05T08:36:07+02:00
+Eric Martinez,b937d993,2012-05-05,No Component,,b937d993,2,7,eric.m.martinez@gmail.com,2012-05-05T08:30:45+02:00
+Eric Martinez,a69477ab,2012-05-05,No Component,,a69477ab,13,27,eric.m.martinez@gmail.com,2012-05-05T07:46:15+02:00
+Eric Martinez,20bec613,2012-05-05,No Component,,20bec613,25,14,eric.m.martinez@gmail.com,2012-05-05T06:31:59+02:00
+Eric Martinez,aaa07210,2012-05-05,No Component,,aaa07210,2,2,eric.m.martinez@gmail.com,2012-05-05T06:19:48+02:00
+emartinez,4fa59189,2012-05-03,No Component,,4fa59189,84,25,emartinez@usgs.gov,2012-05-03T21:01:26+02:00
+emartinez,909fac4b,2012-05-03,No Component,,909fac4b,11,4,emartinez@usgs.gov,2012-05-03T20:18:33+02:00
+emartinez,765e07d6,2012-05-03,No Component,,765e07d6,100,0,emartinez@usgs.gov,2012-05-03T19:00:30+02:00
+emartinez,cfbf3172,2012-05-02,No Component,,cfbf3172,8,3,emartinez@usgs.gov,2012-05-02T02:04:27+02:00
+Aaron King,69aa3500,2012-05-01,No Component,,69aa3500,8,0,floodle@floodle.org,2012-05-01T00:52:23+02:00
+Aaron King,1ffedae5,2012-04-27,No Component,,1ffedae5,4,0,floodle@floodle.org,2012-04-27T21:49:57+02:00
+unknown,91e01dc6,2012-04-27,No Component,,91e01dc6,4,0,aking@CIS-AARON.CIS.LOCAL,2012-04-27T21:46:41+02:00
+jacobtoye,4e2fe355,2012-04-17,No Component,,4e2fe355,9,1,jacob.toye@gmail.com,2012-04-17T03:11:41+02:00
+Mithgol the Webmaster,a8fa869a,2012-04-08,No Component,fix,a8fa869a,7,8,getgit@mithgol.ru,2012-04-08T03:10:32+02:00
+djomp,ecec3325,2012-04-03,No Component,Fix,ecec3325,3,1,rick@selby-family.co.uk,2012-04-03T10:42:29+02:00
+Reed,a73b812f,2012-04-01,No Component,fix,a73b812f,1,0,reed@fm2279.com,2012-04-01T21:39:00+02:00
+Mithgol the Webmaster,cc0fc0e5,2012-03-30,No Component,,cc0fc0e5,8,2,getgit@mithgol.ru,2012-03-30T07:46:31+02:00
+Mithgol the Webmaster,443181af,2012-03-26,No Component,,443181af,2,1,getgit@mithgol.ru,2012-03-26T17:57:12+02:00
+chx007,280649bf,2012-03-26,No Component,,280649bf,6,0,chx007@gmail.com,2012-03-26T16:04:57+02:00
+Damon Oehlman,ab936cba,2012-03-26,No Component,,ab936cba,1,1,damon.oehlman@sidelab.com,2012-03-26T06:53:05+02:00
+Johannes,7a9b504e,2012-03-17,No Component,Fix,7a9b504e,1,1,johtso@gmail.com,2012-03-17T17:57:47+01:00
+Mithgol the Webmaster,97cd41e9,2012-03-16,No Component,,97cd41e9,0,2,getgit@mithgol.ru,2012-03-16T07:53:54+01:00
+Mithgol the Webmaster,c7e29b5a,2012-03-16,No Component,,c7e29b5a,7,0,getgit@mithgol.ru,2012-03-16T06:44:07+01:00
+mourner,b333f86e,2012-03-09,No Component,fix,b333f86e,184,130,agafonkin@gmail.com,2012-03-09T10:28:14+01:00
+Jason Sanford,713a3a70,2012-03-04,No Component,,713a3a70,8,0,jason.sanford@mapmyfitness.com,2012-03-04T06:54:50+01:00
+mourner,e5f934e9,2012-03-03,No Component,,e5f934e9,148,106,agafonkin@gmail.com,2012-03-03T23:42:50+01:00
+CKeen,a4197a82,2012-03-03,No Component,,a4197a82,6,0,christopher.keen@gmail.com,2012-03-03T17:39:14+01:00
+Jason Sanford,d8627857,2012-03-03,No Component,,d8627857,13,8,jason.sanford@mapmyfitness.com,2012-03-03T16:39:18+01:00
+mourner,04740236,2012-03-03,No Component,,04740236,198,130,agafonkin@gmail.com,2012-03-03T16:02:20+01:00
+Mehmet Alkanlar,85ae6d91,2012-03-01,No Component,,85ae6d91,1,1,mralkanlar@gmail.com,2012-03-01T01:11:24+01:00
+Mehmet Alkanlar,cbe7e979,2012-02-29,No Component,,cbe7e979,1,0,mralkanlar@gmail.com,2012-02-29T23:24:21+01:00
+mourner,401a6e22,2012-02-26,No Component,,401a6e22,17,10,agafonkin@gmail.com,2012-02-26T00:14:42+01:00
+mourner,14e3eff4,2012-02-26,No Component,Fix,14e3eff4,1,0,agafonkin@gmail.com,2012-02-26T00:11:43+01:00
+mourner,fc0b4776,2012-02-25,No Component,,fc0b4776,3,5,agafonkin@gmail.com,2012-02-25T16:13:30+01:00
+mourner,90198ec5,2012-02-25,No Component,,90198ec5,203,2,agafonkin@gmail.com,2012-02-25T16:04:27+01:00
+mourner,79eb5bcb,2012-02-25,No Component,,79eb5bcb,1,1,agafonkin@gmail.com,2012-02-25T15:59:08+01:00
+mourner,5d263e96,2012-02-25,No Component,fix,5d263e96,22,14,agafonkin@gmail.com,2012-02-25T10:40:39+01:00
+Dino Ravnić,dd5e4744,2012-02-25,No Component,,dd5e4744,1,1,dino@giscloud.com,2012-02-25T01:44:31+01:00
+Dino Ravnić,c2b0037f,2012-02-25,No Component,fix,c2b0037f,3,5,dino@giscloud.com,2012-02-25T01:27:54+01:00
+mourner,e5d315a6,2012-02-24,No Component,fix,e5d315a6,9,9,agafonkin@gmail.com,2012-02-24T23:07:28+01:00
+mourner,48f99ab2,2012-02-24,No Component,,48f99ab2,5,5,agafonkin@gmail.com,2012-02-24T23:05:17+01:00
+mourner,291f3515,2012-02-24,No Component,fix,291f3515,4,4,agafonkin@gmail.com,2012-02-24T23:05:06+01:00
+mourner,4583eb13,2012-02-24,No Component,fix,4583eb13,3,3,agafonkin@gmail.com,2012-02-24T22:20:50+01:00
+mourner,0f914b64,2012-02-24,No Component,fix,0f914b64,3,3,agafonkin@gmail.com,2012-02-24T21:48:22+01:00
+mourner,bca3c8eb,2012-02-24,No Component,fix,bca3c8eb,3,3,agafonkin@gmail.com,2012-02-24T17:18:50+01:00
+mourner,6ea3360b,2012-02-24,No Component,,6ea3360b,26,1,agafonkin@gmail.com,2012-02-24T16:21:09+01:00
+mourner,57aee3c5,2012-02-24,No Component,,57aee3c5,162,90,agafonkin@gmail.com,2012-02-24T16:19:53+01:00
+mourner,0299c02d,2012-02-24,No Component,Fix,0299c02d,8,3,agafonkin@gmail.com,2012-02-24T16:17:00+01:00
+mourner,194425d2,2012-02-24,No Component,Fix,194425d2,4,2,agafonkin@gmail.com,2012-02-24T15:53:22+01:00
+mourner,8ad4f12c,2012-02-24,No Component,,8ad4f12c,4,4,agafonkin@gmail.com,2012-02-24T15:52:30+01:00
+mourner,8ba23eb3,2012-02-24,No Component,,8ba23eb3,7,8,agafonkin@gmail.com,2012-02-24T15:51:10+01:00
+Jason Sanford,a7081e69,2012-02-23,No Component,Fix,a7081e69,7,1,jasonsanford@gmail.com,2012-02-23T22:02:10+01:00
+mourner,cc058fcd,2012-02-23,No Component,,cc058fcd,12,6,agafonkin@gmail.com,2012-02-23T16:24:32+01:00
+mourner,477c1109,2012-02-23,No Component,fix,477c1109,16,18,agafonkin@gmail.com,2012-02-23T10:01:03+01:00
+mourner,d728779b,2012-02-23,No Component,fix,d728779b,11,7,agafonkin@gmail.com,2012-02-23T09:47:19+01:00
+mourner,2c54d551,2012-02-23,No Component,fix,2c54d551,1,1,agafonkin@gmail.com,2012-02-23T09:33:49+01:00
+mourner,b61ac59b,2012-02-23,No Component,,b61ac59b,34,17,agafonkin@gmail.com,2012-02-23T09:33:35+01:00
+mourner,287a58ec,2012-02-23,No Component,Fix,287a58ec,31,5,agafonkin@gmail.com,2012-02-23T09:32:39+01:00
+mourner,0a7bafd1,2012-02-23,No Component,,0a7bafd1,51,6,agafonkin@gmail.com,2012-02-23T00:10:28+01:00
+Dino Ravnić,e690cced,2012-02-22,No Component,,e690cced,1,1,dino@giscloud.com,2012-02-22T23:56:32+01:00
+k4,92437ae1,2012-02-22,No Component,,92437ae1,1,1,kirill.telegin@gmail.com,2012-02-22T19:23:12+01:00
+k4,9da8dcf8,2012-02-22,No Component,,9da8dcf8,1,1,kirill.telegin@gmail.com,2012-02-22T19:20:03+01:00
+Vladimir Agafonkin,1abcc66f,2012-02-22,No Component,,1abcc66f,5,7,agafonkin@gmail.com,2012-02-22T14:28:38+01:00
+k4,4be061a5,2012-02-22,No Component,,4be061a5,2,1,kirill.telegin@gmail.com,2012-02-22T14:27:20+01:00
+Vladimir Agafonkin,76420576,2012-02-22,No Component,,76420576,5,5,agafonkin@gmail.com,2012-02-22T14:26:30+01:00
+k4,0336d1c8,2012-02-22,No Component,,0336d1c8,2,1,kirill.telegin@gmail.com,2012-02-22T14:25:51+01:00
+mourner,2f0fbc3c,2012-02-22,No Component,,2f0fbc3c,2,1,agafonkin@gmail.com,2012-02-22T08:00:54+01:00
+mourner,dfdd363d,2012-02-22,No Component,,dfdd363d,17,1,agafonkin@gmail.com,2012-02-22T07:59:17+01:00
+Jason Sanford,a9c16298,2012-02-21,No Component,,a9c16298,7,10,jasonsanford@gmail.com,2012-02-21T15:47:34+01:00
+mourner,e6af79d0,2012-02-21,No Component,Fix,e6af79d0,26,4,agafonkin@gmail.com,2012-02-21T14:28:11+01:00
+mourner,7889b692,2012-02-21,No Component,,7889b692,3,5,agafonkin@gmail.com,2012-02-21T14:07:54+01:00
+mourner,60f96281,2012-02-21,No Component,Fix,60f96281,38,26,agafonkin@gmail.com,2012-02-21T13:58:01+01:00
+mourner,96e29ee3,2012-02-21,No Component,Fix,96e29ee3,3,3,agafonkin@gmail.com,2012-02-21T13:53:59+01:00
+mourner,10bb71fb,2012-02-21,No Component,,10bb71fb,11,9,agafonkin@gmail.com,2012-02-21T11:32:11+01:00
+mourner,495f4d36,2012-02-21,No Component,,495f4d36,91,41,agafonkin@gmail.com,2012-02-21T11:02:54+01:00
+mourner,e64743f7,2012-02-21,No Component,,e64743f7,4,0,agafonkin@gmail.com,2012-02-21T09:46:04+01:00
+Jason Sanford,6778c4c2,2012-02-21,No Component,,6778c4c2,10,0,jasonsanford@gmail.com,2012-02-21T06:08:28+01:00
+mourner,1e72e40c,2012-02-17,No Component,,1e72e40c,55,25,agafonkin@gmail.com,2012-02-17T14:32:40+01:00
+mourner,c6ec6861,2012-02-17,No Component,,c6ec6861,18,18,agafonkin@gmail.com,2012-02-17T14:30:25+01:00
+mourner,1063ad88,2012-02-17,No Component,,1063ad88,1,1,agafonkin@gmail.com,2012-02-17T10:53:31+01:00
+mourner,fe77297c,2012-02-17,No Component,,fe77297c,1,1,agafonkin@gmail.com,2012-02-17T10:53:11+01:00
+mourner,fcf899f9,2012-02-17,No Component,,fcf899f9,2,1,agafonkin@gmail.com,2012-02-17T10:40:33+01:00
+Jason Sanford,b18491c2,2012-02-17,No Component,bug,b18491c2,17,0,jasonsanford@gmail.com,2012-02-17T07:36:46+01:00
+mourner,d907c6df,2012-02-16,No Component,Fix,d907c6df,23,17,agafonkin@gmail.com,2012-02-16T17:56:39+01:00
+mourner,c3b33d8c,2012-02-16,No Component,fix,c3b33d8c,29,10,agafonkin@gmail.com,2012-02-16T17:11:17+01:00
+mourner,9ae29263,2012-02-16,No Component,,9ae29263,4,2,agafonkin@gmail.com,2012-02-16T16:46:24+01:00
+mourner,ebbad27c,2012-02-16,No Component,,ebbad27c,142,37,agafonkin@gmail.com,2012-02-16T16:28:42+01:00
+Finn Herpich,395eeca7,2012-02-16,No Component,,395eeca7,5,0,finn@nnifPad.(none),2012-02-16T16:26:49+01:00
+Finn Herpich,b863b0ba,2012-02-16,No Component,,b863b0ba,1,1,finn@nnifPad.(none),2012-02-16T15:19:29+01:00
+mourner,43305b9f,2012-02-16,No Component,,43305b9f,118,9,agafonkin@gmail.com,2012-02-16T13:15:47+01:00
+mourner,b90c2f55,2012-02-16,No Component,,b90c2f55,23,8,agafonkin@gmail.com,2012-02-16T12:09:48+01:00
+mourner,1a8a0ce6,2012-02-16,No Component,,1a8a0ce6,83,37,agafonkin@gmail.com,2012-02-16T12:00:45+01:00
+mourner,e42f1409,2012-02-16,No Component,,e42f1409,26,23,agafonkin@gmail.com,2012-02-16T12:00:09+01:00
+mourner,bf558551,2012-02-16,No Component,Fix,bf558551,2,1,agafonkin@gmail.com,2012-02-16T11:58:56+01:00
+mourner,e5feddf8,2012-02-16,No Component,,e5feddf8,8,12,agafonkin@gmail.com,2012-02-16T10:40:50+01:00
+jacobtoye,b817093d,2012-02-15,No Component,,b817093d,11,0,jacob.toye@gmail.com,2012-02-15T22:37:45+01:00
+mourner,df0800e6,2012-02-15,No Component,Fix,df0800e6,1,0,agafonkin@gmail.com,2012-02-15T18:26:17+01:00
+mourner,6040d8bf,2012-02-15,No Component,,6040d8bf,47,11,agafonkin@gmail.com,2012-02-15T17:54:11+01:00
+mourner,ae993548,2012-02-15,No Component,,ae993548,5,11,agafonkin@gmail.com,2012-02-15T17:23:34+01:00
+mourner,a2a666d9,2012-02-15,No Component,,a2a666d9,30,33,agafonkin@gmail.com,2012-02-15T16:50:59+01:00
+mourner,808d0120,2012-02-15,No Component,,808d0120,195,188,agafonkin@gmail.com,2012-02-15T16:50:22+01:00
+mourner,8e131c5f,2012-02-15,No Component,,8e131c5f,462,390,agafonkin@gmail.com,2012-02-15T16:05:55+01:00
+mourner,e3d0e24a,2012-02-15,No Component,,e3d0e24a,443,325,agafonkin@gmail.com,2012-02-15T12:17:25+01:00
+mourner,ba5b40cc,2012-02-15,No Component,Fix,ba5b40cc,3,3,agafonkin@gmail.com,2012-02-15T09:54:17+01:00
+mourner,81e6fe4b,2012-02-15,No Component,,81e6fe4b,1,1,agafonkin@gmail.com,2012-02-15T09:49:42+01:00
+Jason Sanford,22e2fba8,2012-02-14,No Component,,22e2fba8,8,0,jasonsanford@gmail.com,2012-02-14T17:29:29+01:00
+mourner,bc39d703,2012-02-14,No Component,fix,bc39d703,3,3,agafonkin@gmail.com,2012-02-14T16:25:47+01:00
+mourner,2828235b,2012-02-14,No Component,fix,2828235b,7,7,agafonkin@gmail.com,2012-02-14T16:20:57+01:00
+mourner,bf7fbdb7,2012-02-14,No Component,Fix,bf7fbdb7,3,3,agafonkin@gmail.com,2012-02-14T11:41:46+01:00
+mourner,7435d2ac,2012-02-14,No Component,,7435d2ac,1,13,agafonkin@gmail.com,2012-02-14T10:42:01+01:00
+mourner,2d8029e4,2012-02-14,No Component,,2d8029e4,125,103,agafonkin@gmail.com,2012-02-14T10:40:47+01:00
+Kyle Johnson,4ca4622a,2012-02-14,No Component,,4ca4622a,9,1,foodtruckfiesta@gmail.com,2012-02-14T05:25:35+01:00
+Bryan McBride,d5660ef6,2012-02-13,No Component,,d5660ef6,2,2,mcbride.bryan@gmail.com,2012-02-13T16:04:23+01:00
+mourner,9707a489,2012-02-13,No Component,,9707a489,3,3,agafonkin@gmail.com,2012-02-13T15:25:57+01:00
+mourner,f36c2785,2012-02-13,No Component,,f36c2785,10,8,agafonkin@gmail.com,2012-02-13T15:12:32+01:00
+mourner,fdde989f,2012-02-13,No Component,Fix,fdde989f,9,7,agafonkin@gmail.com,2012-02-13T15:01:00+01:00
+mourner,0756ef15,2012-02-13,No Component,Fix,0756ef15,7,4,agafonkin@gmail.com,2012-02-13T13:32:58+01:00
+mourner,2ebbfdf4,2012-02-13,No Component,Fix,2ebbfdf4,5,2,agafonkin@gmail.com,2012-02-13T12:12:36+01:00
+mourner,0ef30585,2012-02-13,No Component,,0ef30585,16,2,agafonkin@gmail.com,2012-02-13T11:50:18+01:00
+mourner,c84726ef,2012-02-13,No Component,,c84726ef,6,1,agafonkin@gmail.com,2012-02-13T11:15:47+01:00
+mourner,8a1eb107,2012-02-13,No Component,Fix,8a1eb107,159,154,agafonkin@gmail.com,2012-02-13T11:14:48+01:00
+mourner,15f0466e,2012-02-13,No Component,Fix,15f0466e,159,154,agafonkin@gmail.com,2012-02-13T11:13:33+01:00
+mourner,c4d6a4f3,2012-02-12,No Component,Fix,c4d6a4f3,23,5,agafonkin@gmail.com,2012-02-12T15:51:30+01:00
+mourner,dd9ffb54,2012-02-12,No Component,,dd9ffb54,12,5,agafonkin@gmail.com,2012-02-12T14:16:20+01:00
+mourner,24ff9ce5,2012-02-12,No Component,,24ff9ce5,6,1,agafonkin@gmail.com,2012-02-12T14:15:33+01:00
+mourner,839396ca,2012-02-12,No Component,,839396ca,381,166,agafonkin@gmail.com,2012-02-12T14:15:03+01:00
+Norbert Renner,c3c98109,2012-02-07,No Component,,c3c98109,4,2,norbert.renner@gmx.de,2012-02-07T23:21:38+01:00
+Norbert Renner,a9bca5ce,2012-02-07,No Component,Fix,a9bca5ce,3,1,norbert.renner@gmx.de,2012-02-07T23:16:05+01:00
+appelflap,388b6aea,2012-02-03,No Component,,388b6aea,5,0,albertdrenth@gmail.com,2012-02-03T23:38:50+01:00
+mourner,fd2426ea,2012-02-03,No Component,,fd2426ea,5,3,agafonkin@gmail.com,2012-02-03T19:17:20+01:00
+mourner,f46c0263,2012-02-03,No Component,Fix,f46c0263,3,3,agafonkin@gmail.com,2012-02-03T11:59:05+01:00
+mourner,de78de0f,2012-02-03,No Component,,de78de0f,151,61,agafonkin@gmail.com,2012-02-03T11:51:29+01:00
+mourner,3c2df2ee,2012-02-03,No Component,,3c2df2ee,13,11,agafonkin@gmail.com,2012-02-03T11:17:11+01:00
+mourner,1cc88505,2012-02-03,No Component,,1cc88505,63,52,agafonkin@gmail.com,2012-02-03T11:07:06+01:00
+Morten Ditlevsen,86badfce,2012-02-02,No Component,,86badfce,14,0,bek@termestrup.dk,2012-02-02T09:39:20+01:00
+Morten Ditlevsen,f54450f8,2012-02-02,No Component,,f54450f8,13,0,bek@termestrup.dk,2012-02-02T09:40:23+01:00
+Morten Ditlevsen,b7a2eeac,2012-02-02,No Component,,b7a2eeac,13,3,bek@termestrup.dk,2012-02-02T09:41:46+01:00
+Morten Ditlevsen,a42491e2,2012-02-02,No Component,,a42491e2,13,0,bek@termestrup.dk,2012-02-02T09:47:35+01:00
+Morten Ditlevsen,de740148,2012-02-02,No Component,,de740148,25,3,bek@termestrup.dk,2012-02-02T09:34:55+01:00
+mourner,5d9c4f08,2012-02-01,No Component,,5d9c4f08,20,10,agafonkin@gmail.com,2012-02-01T10:53:45+01:00
+Morten Ditlevsen,6f57de7a,2012-02-01,No Component,fix,6f57de7a,1,4,bek@termestrup.dk,2012-02-01T10:46:36+01:00
+Morten Ditlevsen,debaf3e0,2012-02-01,No Component,Fix,debaf3e0,4,1,bek@termestrup.dk,2012-02-01T09:33:56+01:00
+Andy Chosak,2049bafb,2012-01-26,No Component,,2049bafb,1,1,andy@localstandout.com,2012-01-26T21:45:12+01:00
+Vladimir Agafonkin,a485d668,2012-01-25,No Component,Fix,a485d668,1,1,agafonkin@gmail.com,2012-01-25T09:58:08+01:00
+Andy Chosak,cec18094,2012-01-24,No Component,Bug,cec18094,1,1,andy@localstandout.com,2012-01-24T19:20:06+01:00
+Jonathan DERROUGH,f684eca4,2012-01-14,No Component,,f684eca4,2,0,jonathan.derrough@gmail.com,2012-01-14T17:47:28+01:00
+Borin Ouch,a3202fca,2012-01-13,No Component,Fix,a3202fca,5,2,borin.ouch@gmail.com,2012-01-13T21:55:12+01:00
+Jonathan DERROUGH,09279cdc,2012-01-11,No Component,,09279cdc,1,1,jonathan.derrough@gmail.com,2012-01-11T20:18:06+01:00
+Mikolaj Grajek,d2994b38,2012-01-11,No Component,,d2994b38,5,1,mikolaj.grajek@gmail.com,2012-01-11T10:19:37+01:00
+ErshKUS,69885956,2012-01-06,No Component,,69885956,2,2,ershkus@gmail.com,2012-01-06T13:40:50+01:00
+ErshKUS,15fe83b1,2012-01-06,No Component,,15fe83b1,3,2,ershkus@gmail.com,2012-01-06T11:16:24+01:00
+Majiir Paktu,1f45ef73,2011-12-23,No Component,,1f45ef73,11,2,henry@zephyrhosting.net,2011-12-23T18:56:56+01:00
+Alex Graul,57f44bc4,2011-12-21,No Component,fix,57f44bc4,7,1,alex.graul@guardian.co.uk,2011-12-21T14:22:07+01:00
+mourner,50a57900,2011-12-16,No Component,Fix,50a57900,1,1,agafonkin@gmail.com,2011-12-16T13:16:18+01:00
+mourner,cf8e0ca5,2011-12-16,No Component,Fix,cf8e0ca5,13,13,agafonkin@gmail.com,2011-12-16T13:04:45+01:00
+mourner,435b3eea,2011-12-15,No Component,Fix,435b3eea,3,3,agafonkin@gmail.com,2011-12-15T14:05:51+01:00
+mourner,2fabb233,2011-12-15,No Component,,2fabb233,7,7,agafonkin@gmail.com,2011-12-15T13:46:36+01:00
+mourner,80048bdd,2011-12-15,No Component,Fix,80048bdd,5,1,agafonkin@gmail.com,2011-12-15T12:56:29+01:00
+mourner,e50c9886,2011-12-15,No Component,,e50c9886,46,27,agafonkin@gmail.com,2011-12-15T12:25:25+01:00
+mourner,f02de114,2011-12-15,No Component,bug,f02de114,1,1,agafonkin@gmail.com,2011-12-15T11:21:42+01:00
+mourner,dd42662a,2011-12-15,No Component,,dd42662a,1,1,agafonkin@gmail.com,2011-12-15T11:20:09+01:00
+mourner,83af28ea,2011-12-15,No Component,Fix,83af28ea,3,3,agafonkin@gmail.com,2011-12-15T11:07:35+01:00
+mourner,3595c50b,2011-12-14,No Component,fix,3595c50b,39,13,agafonkin@gmail.com,2011-12-14T15:09:32+01:00
+mourner,36eb9d3c,2011-12-14,No Component,fix,36eb9d3c,5,3,agafonkin@gmail.com,2011-12-14T14:09:59+01:00
+mourner,10520b7c,2011-12-14,No Component,,10520b7c,94,113,agafonkin@gmail.com,2011-12-14T12:44:45+01:00
+mourner,873bf104,2011-12-14,No Component,,873bf104,4,0,agafonkin@gmail.com,2011-12-14T12:42:50+01:00
+mourner,5db85f2a,2011-12-14,No Component,,5db85f2a,3,3,agafonkin@gmail.com,2011-12-14T12:38:42+01:00
+mourner,85041478,2011-12-14,No Component,,85041478,39,36,agafonkin@gmail.com,2011-12-14T12:12:54+01:00
+mourner,39ffba33,2011-12-14,No Component,,39ffba33,71,95,agafonkin@gmail.com,2011-12-14T11:34:11+01:00
+mourner,e5242cec,2011-12-13,No Component,Fix,e5242cec,17,13,agafonkin@gmail.com,2011-12-13T16:12:33+01:00
+mourner,6f8698b9,2011-12-13,No Component,,6f8698b9,21,1,agafonkin@gmail.com,2011-12-13T15:01:04+01:00
+mourner,43a40521,2011-12-12,No Component,,43a40521,46,12,agafonkin@gmail.com,2011-12-12T23:41:56+01:00
+mourner,b523a23b,2011-12-12,No Component,fix,b523a23b,4,3,agafonkin@gmail.com,2011-12-12T21:21:20+01:00
+mourner,709f9ae8,2011-12-12,No Component,fix,709f9ae8,1,1,agafonkin@gmail.com,2011-12-12T21:15:35+01:00
+mourner,1d945e98,2011-12-12,No Component,fix,1d945e98,3,3,agafonkin@gmail.com,2011-12-12T21:15:06+01:00
+mourner,b3e5b426,2011-12-12,No Component,,b3e5b426,2,2,agafonkin@gmail.com,2011-12-12T21:10:29+01:00
+mourner,55f65333,2011-12-12,No Component,,55f65333,3,1,agafonkin@gmail.com,2011-12-12T20:48:20+01:00
+mourner,eb8c57a9,2011-12-12,No Component,,eb8c57a9,3,1,agafonkin@gmail.com,2011-12-12T20:48:20+01:00
+mourner,f68a2276,2011-12-12,No Component,,f68a2276,5541,17,agafonkin@gmail.com,2011-12-12T18:54:03+01:00
+mourner,0e329c7b,2011-12-12,No Component,,0e329c7b,8,8,agafonkin@gmail.com,2011-12-12T13:04:26+01:00
+mourner,313f3d9e,2011-12-12,No Component,,313f3d9e,68,64,agafonkin@gmail.com,2011-12-12T11:44:16+01:00
+mourner,a278c982,2011-12-12,No Component,,a278c982,15,15,agafonkin@gmail.com,2011-12-12T11:10:22+01:00
+mourner,f2a2868e,2011-12-12,No Component,,f2a2868e,27,9,agafonkin@gmail.com,2011-12-12T10:42:42+01:00
+mourner,12b46ae1,2011-12-12,No Component,,12b46ae1,33,51,agafonkin@gmail.com,2011-12-12T01:32:53+01:00
+mourner,3776e73c,2011-12-11,No Component,,3776e73c,102,136,agafonkin@gmail.com,2011-12-11T21:45:49+01:00
+mourner,c509c55f,2011-12-10,No Component,fix,c509c55f,159,53,agafonkin@gmail.com,2011-12-10T12:48:45+01:00
+mourner,8c6b5b3d,2011-12-09,No Component,Fix,8c6b5b3d,31,31,agafonkin@gmail.com,2011-12-09T17:19:58+01:00
+mourner,a9720fcb,2011-12-09,No Component,,a9720fcb,15,8,agafonkin@gmail.com,2011-12-09T15:51:31+01:00
+mourner,b03f6eff,2011-12-09,No Component,fix,b03f6eff,154,104,agafonkin@gmail.com,2011-12-09T15:35:15+01:00
+mourner,f4e9280e,2011-12-09,No Component,,f4e9280e,67,67,agafonkin@gmail.com,2011-12-09T11:27:57+01:00
+mourner,dc79b106,2011-12-09,No Component,fix,dc79b106,18,9,agafonkin@gmail.com,2011-12-09T11:20:59+01:00
+mourner,fccecb41,2011-12-08,No Component,fix,fccecb41,21,11,agafonkin@gmail.com,2011-12-08T16:53:17+01:00
+mourner,0f234541,2011-12-07,No Component,Fix,0f234541,41,21,agafonkin@gmail.com,2011-12-07T14:58:06+01:00
+mourner,dd3788f4,2011-12-05,No Component,Fix,dd3788f4,20,10,agafonkin@gmail.com,2011-12-05T18:47:07+01:00
+mourner,43d87dac,2011-12-02,No Component,,43d87dac,90,26,agafonkin@gmail.com,2011-12-02T18:04:19+01:00
+mourner,0e81d291,2011-12-02,No Component,Fix,0e81d291,8,6,agafonkin@gmail.com,2011-12-02T15:27:26+01:00
+Andy Chosak,eb9be64b,2011-11-22,No Component,,eb9be64b,8,6,andy@localstandout.com,2011-11-22T16:45:43+01:00
+mourner,bd511151,2011-11-18,No Component,,bd511151,2,2,agafonkin@gmail.com,2011-11-18T12:04:05+01:00
+mourner,315ebb1e,2011-11-18,No Component,fix,315ebb1e,1,1,agafonkin@gmail.com,2011-11-18T12:02:46+01:00
+Savva,f54a5585,2011-11-02,No Component,Fix,f54a5585,2,2,savvkin@gmail.com,2011-11-02T18:38:12+01:00
+mourner,9686b73d,2011-10-28,No Component,,9686b73d,22,22,agafonkin@gmail.com,2011-10-28T15:16:29+02:00
+mourner,2c540485,2011-10-28,No Component,,2c540485,5,0,agafonkin@gmail.com,2011-10-28T11:23:42+02:00
+mourner,98be07c8,2011-10-28,No Component,,98be07c8,1,1,agafonkin@gmail.com,2011-10-28T11:19:00+02:00
+mourner,70339807,2011-10-27,No Component,,70339807,21,9,agafonkin@gmail.com,2011-10-27T16:20:12+02:00
+mourner,6c4dd07c,2011-10-26,No Component,,6c4dd07c,8,4,agafonkin@gmail.com,2011-10-26T16:37:18+02:00
+mourner,e2081bde,2011-10-26,No Component,,e2081bde,2,2,agafonkin@gmail.com,2011-10-26T15:03:47+02:00
+mourner,a6551fa1,2011-10-26,No Component,Fix,a6551fa1,1,1,agafonkin@gmail.com,2011-10-26T15:03:32+02:00
+mourner,9e4286db,2011-10-26,No Component,,9e4286db,9,0,agafonkin@gmail.com,2011-10-26T15:02:20+02:00
+mourner,ee3e78ce,2011-10-26,No Component,,ee3e78ce,4,1,agafonkin@gmail.com,2011-10-26T15:00:43+02:00
+Vladimir Agafonkin,fb30bfa2,2011-10-23,No Component,,fb30bfa2,1,1,agafonkin@gmail.com,2011-10-23T08:17:32+02:00
+mourner,5bf0f0e8,2011-10-21,No Component,fix,5bf0f0e8,4,4,agafonkin@gmail.com,2011-10-21T18:39:35+02:00
+mourner,5d339f9a,2011-10-21,No Component,fix,5d339f9a,2,2,agafonkin@gmail.com,2011-10-21T18:35:55+02:00
+mourner,a38f9dd6,2011-10-21,No Component,fix,a38f9dd6,168,166,agafonkin@gmail.com,2011-10-21T16:50:59+02:00
+mourner,11de00ec,2011-10-21,No Component,,11de00ec,57,41,agafonkin@gmail.com,2011-10-21T14:53:21+02:00
+mourner,0645330e,2011-10-21,No Component,,0645330e,1,1,agafonkin@gmail.com,2011-10-21T14:03:28+02:00
+Vladimir Agafonkin,13d07ebd,2011-10-20,No Component,,13d07ebd,1,1,agafonkin@gmail.com,2011-10-20T13:29:40+02:00
+Samat K Jain,c59e8b32,2011-10-15,No Component,bug,c59e8b32,1,1,samat@samat.org,2011-10-15T01:16:13+02:00
+Samat K Jain,ac78c7e1,2011-10-15,No Component,,ac78c7e1,26,1,samat@samat.org,2011-10-15T01:11:00+02:00
+mourner,6da0f1eb,2011-10-14,No Component,,6da0f1eb,0,1,agafonkin@gmail.com,2011-10-14T16:41:17+02:00
+mourner,ae17553f,2011-10-14,No Component,Fix,ae17553f,10,5,agafonkin@gmail.com,2011-10-14T16:40:14+02:00
+mourner,db571f11,2011-10-05,No Component,,db571f11,6,6,agafonkin@gmail.com,2011-10-05T15:02:51+02:00
+mourner,a154f084,2011-10-05,No Component,,a154f084,37,20,agafonkin@gmail.com,2011-10-05T15:02:10+02:00
+mourner,b078e023,2011-10-05,No Component,,b078e023,3,1,agafonkin@gmail.com,2011-10-05T14:41:16+02:00
+Vladimir Agafonkin,3e1f7726,2011-09-30,No Component,Fix,3e1f7726,2,2,agafonkin@gmail.com,2011-09-30T20:43:07+02:00
+Jason Sanford,e71e42fd,2011-09-29,No Component,,e71e42fd,16,16,jasonsanford@gmail.com,2011-09-29T16:30:48+02:00
+mourner,d15d20bb,2011-09-29,No Component,Fix,d15d20bb,11,5,agafonkin@gmail.com,2011-09-29T13:42:13+02:00
+mourner,9c2f8122,2011-09-29,No Component,,9c2f8122,3,3,agafonkin@gmail.com,2011-09-29T11:00:50+02:00
+Jason Sanford,fc96f08d,2011-09-28,No Component,,fc96f08d,25,0,jasonsanford@gmail.com,2011-09-28T17:24:36+02:00
+Jason Sanford,f813568a,2011-09-28,No Component,,f813568a,11,0,jasonsanford@gmail.com,2011-09-28T03:20:16+02:00
+Charlie Savage,7fb61dad,2011-09-23,No Component,Fix,7fb61dad,2,2,cfis@zerista.com,2011-09-23T22:00:35+02:00
+Vladimir Agafonkin,14ba939f,2011-09-23,No Component,Fix,14ba939f,5,0,agafonkin@gmail.com,2011-09-23T21:44:55+02:00
+mourner,28080c65,2011-09-23,No Component,,28080c65,29,26,agafonkin@gmail.com,2011-09-23T17:21:24+02:00
+mourner,04afa9b8,2011-09-23,No Component,Fix,04afa9b8,2,0,agafonkin@gmail.com,2011-09-23T17:15:24+02:00
+mourner,fe443d3d,2011-09-23,No Component,Fix,fe443d3d,4,2,agafonkin@gmail.com,2011-09-23T16:03:36+02:00
+mourner,10605414,2011-09-23,No Component,fix,10605414,28,7,agafonkin@gmail.com,2011-09-23T15:55:47+02:00
+Jason Sanford,6bfe2a6a,2011-09-22,No Component,,6bfe2a6a,13,1,jasonsanford@gmail.com,2011-09-22T07:05:00+02:00
+Jason Sanford,a86ea1a8,2011-09-22,No Component,,a86ea1a8,52,1,jasonsanford@gmail.com,2011-09-22T06:50:23+02:00
+Jason Sanford,f0957521,2011-09-21,No Component,,f0957521,293,0,jasonsanford@gmail.com,2011-09-21T08:08:12+02:00
+Jason Sanford,ddd0fd16,2011-09-21,No Component,bug,ddd0fd16,3,0,jasonsanford@gmail.com,2011-09-21T06:50:47+02:00
+mourner,8212981d,2011-09-20,No Component,,8212981d,1,1,agafonkin@gmail.com,2011-09-20T16:25:27+02:00
+mourner,833fee53,2011-09-20,No Component,,833fee53,2,2,agafonkin@gmail.com,2011-09-20T16:20:00+02:00
+mourner,c0df6be3,2011-09-20,No Component,,c0df6be3,29,30,agafonkin@gmail.com,2011-09-20T16:04:29+02:00
+mourner,9fad3d0b,2011-09-20,No Component,fix,9fad3d0b,1,4,agafonkin@gmail.com,2011-09-20T16:03:35+02:00
+mourner,a7d2b165,2011-09-20,No Component,Fix,a7d2b165,2,1,agafonkin@gmail.com,2011-09-20T15:22:30+02:00
+mourner,9fe47c91,2011-09-19,No Component,,9fe47c91,5,5,agafonkin@gmail.com,2011-09-19T15:46:24+02:00
+Dino Ravnić,5a5493ee,2011-09-20,No Component,,5a5493ee,2,0,dino@giscloud.com,2011-09-20T00:56:18+02:00
+Dino Ravnić,1c5f4716,2011-09-16,No Component,,1c5f4716,3,1,dino@giscloud.com,2011-09-16T19:04:22+02:00
+Vladimir Agafonkin,73d6fb6c,2011-09-14,No Component,Fix,73d6fb6c,1,1,agafonkin@gmail.com,2011-09-14T19:19:50+02:00
+Dino Ravnić,e86b632a,2011-09-12,No Component,,e86b632a,7,0,dino@giscloud.com,2011-09-12T15:16:32+02:00
+Mourner,e4c08caf,2011-09-09,No Component,Fix,e4c08caf,11,3,agafonkin@gmail.com,2011-09-09T15:32:43+02:00
+Mourner,d9f9cbfd,2011-09-09,No Component,,d9f9cbfd,12,11,agafonkin@gmail.com,2011-09-09T13:30:56+02:00
+Mourner,1d86c969,2011-09-09,No Component,Fix,1d86c969,22,15,agafonkin@gmail.com,2011-09-09T11:52:28+02:00
+Mourner,b0205094,2011-09-08,No Component,Fix,b0205094,5,3,agafonkin@gmail.com,2011-09-08T11:23:22+02:00
+Mourner,40c974ee,2011-09-08,No Component,,40c974ee,16,16,agafonkin@gmail.com,2011-09-08T11:13:54+02:00
+Mourner,3797bb74,2011-09-08,No Component,Fix,3797bb74,1,0,agafonkin@gmail.com,2011-09-08T11:11:49+02:00
+Mourner,7ce750a3,2011-09-08,No Component,,7ce750a3,1,1,agafonkin@gmail.com,2011-09-08T11:11:14+02:00
+Mourner,fde7c796,2011-09-08,No Component,,fde7c796,7,2,agafonkin@gmail.com,2011-09-08T11:01:21+02:00
+Mourner,57a6013d,2011-09-08,No Component,,57a6013d,13,10,agafonkin@gmail.com,2011-09-08T11:00:40+02:00
+Dino Ravnić,5c1fa83b,2011-09-04,No Component,,5c1fa83b,6,6,dino@giscloud.com,2011-09-04T23:05:26+02:00
+Mourner,41738372,2011-08-31,No Component,,41738372,10,10,agafonkin@gmail.com,2011-08-31T14:11:07+02:00
+Mourner,f5ceabf1,2011-08-31,No Component,,f5ceabf1,2,3,agafonkin@gmail.com,2011-08-31T14:10:40+02:00
+Mourner,c450dfdb,2011-08-31,No Component,,c450dfdb,3,1,agafonkin@gmail.com,2011-08-31T14:02:27+02:00
+CodeJosch,3a6efaa3,2011-08-30,No Component,,3a6efaa3,5,3,mail@jochen-renner.de,2011-08-30T17:32:47+02:00
+CodeJosch,2b54c288,2011-08-30,No Component,,2b54c288,1,1,mail@jochen-renner.de,2011-08-30T17:28:45+02:00
+Kevin Mahoney,a0d8d304,2011-08-30,No Component,,a0d8d304,1,3,git@kevinmahoney.co.uk,2011-08-30T16:50:12+02:00
+Christian Bäuerlein,da02d2aa,2011-08-23,No Component,,da02d2aa,2,2,fabrik42@gmail.com,2011-08-23T09:46:50+02:00
+Jason Sanford,2fad6c1b,2011-08-22,No Component,,2fad6c1b,4,0,jasonsanford@gmail.com,2011-08-22T17:29:54+02:00
+Jochen,900711b5,2011-08-16,No Component,,900711b5,2,0,mail@jochen-renner.de,2011-08-16T16:58:21+02:00
+Mourner,6a39725d,2011-08-15,No Component,fix,6a39725d,10,10,agafonkin@gmail.com,2011-08-15T17:34:58+02:00
+Jason Sanford,da379754,2011-08-15,No Component,,da379754,9,9,jasonsanford@gmail.com,2011-08-15T15:25:54+02:00
+Jason Sanford,9e6d9764,2011-08-15,No Component,bug,9e6d9764,9,0,jasonsanford@gmail.com,2011-08-15T06:31:13+02:00
+Mourner,229b905b,2011-08-11,No Component,,229b905b,23,7,agafonkin@gmail.com,2011-08-11T15:40:33+02:00
+Mourner,28be37ca,2011-08-11,No Component,,28be37ca,21,15,agafonkin@gmail.com,2011-08-11T15:12:58+02:00
+Mourner,83372eb0,2011-08-11,No Component,fix,83372eb0,3,1,agafonkin@gmail.com,2011-08-11T14:43:40+02:00
+Mourner,e89f431d,2011-08-11,No Component,bug,e89f431d,12,0,agafonkin@gmail.com,2011-08-11T13:30:46+02:00
+Mourner,13807db1,2011-08-11,No Component,fix,13807db1,9,10,agafonkin@gmail.com,2011-08-11T13:01:15+02:00
+ErshKUS,1fb8e4bb,2011-08-10,No Component,,1fb8e4bb,0,2,ershkus@gmail.com,2011-08-10T23:07:13+02:00
+ErshKUS,94d1288d,2011-08-10,No Component,fix,94d1288d,1,1,ershkus@gmail.com,2011-08-10T22:50:32+02:00
+Dino Ravnić,56382fce,2011-08-10,No Component,fix,56382fce,1,1,dino@giscloud.com,2011-08-10T21:18:28+02:00
+Mourner,6dd915a1,2011-08-10,No Component,Fix,6dd915a1,15,15,agafonkin@gmail.com,2011-08-10T14:21:02+02:00
+Mourner,9aee9dc6,2011-08-10,No Component,,9aee9dc6,12,8,agafonkin@gmail.com,2011-08-10T14:06:16+02:00
+Dino Ravnić,061f3d68,2011-08-10,No Component,fix,061f3d68,9,3,dino@giscloud.com,2011-08-10T13:22:35+02:00
+Dino Ravnić,3e615942,2011-08-10,No Component,,3e615942,4,0,dino@giscloud.com,2011-08-10T00:47:57+02:00
+Dino Ravnić,9532db6d,2011-08-09,No Component,fix,9532db6d,4,1,dino@giscloud.com,2011-08-09T22:55:43+02:00
+Mourner,9334d78c,2011-08-04,No Component,,9334d78c,1,0,agafonkin@gmail.com,2011-08-04T11:29:33+02:00
+Mourner,c0205382,2011-08-04,No Component,,c0205382,1,1,agafonkin@gmail.com,2011-08-04T11:28:47+02:00
+Mourner,8a004bc5,2011-08-02,No Component,,8a004bc5,13,13,agafonkin@gmail.com,2011-08-02T10:09:12+02:00
+Mourner,366fce6e,2011-08-01,No Component,,366fce6e,2,2,agafonkin@gmail.com,2011-08-01T16:19:34+02:00
+Neno,8ac92f23,2011-07-31,No Component,bug,8ac92f23,1,1,neno@giscloud.com,2011-07-31T20:20:53+02:00
+Neno,6d509e43,2011-07-31,No Component,Fix,6d509e43,1,1,neno@giscloud.com,2011-07-31T15:04:04+02:00
+Neno,5b8c242f,2011-07-30,No Component,Fix,5b8c242f,1,1,neno@giscloud.com,2011-07-30T19:01:51+02:00
+Marcin Sikon,a29e22c3,2011-07-29,No Component,,a29e22c3,1,0,ms@lab2.pl,2011-07-29T11:18:19+02:00
+Marcin Sikon,4e3667d7,2011-07-28,No Component,fix,4e3667d7,3,3,marcin.sikon@gmail.com,2011-07-28T23:09:58+02:00
+Mourner,aa5849a2,2011-07-28,No Component,fix,aa5849a2,29,21,agafonkin@gmail.com,2011-07-28T11:49:32+02:00
+chrillo,d4c73d2b,2011-07-28,No Component,Bug,d4c73d2b,10,1,chrillo.at@gmail.com,2011-07-28T10:36:21+02:00
+Marcin Sikon,a9dc7e0d,2011-07-27,No Component,fix,a9dc7e0d,4,3,ms@lab2.pl,2011-07-27T08:57:44+02:00
+florianf,6c37eda5,2011-07-24,No Component,Fix,6c37eda5,6,0,florian.falkner@general-solutions.at,2011-07-24T14:55:49+02:00
+Mourner,7d41f80b,2011-07-21,No Component,Fix,7d41f80b,15,14,agafonkin@gmail.com,2011-07-21T11:05:59+02:00
+Andrey Rublev,78c51b06,2011-07-21,No Component,,78c51b06,18,3,version.ru@gmail.com,2011-07-21T06:29:28+02:00
+Andrey Rublev,94d97d84,2011-07-20,No Component,Fix,94d97d84,4,5,version.ru@gmail.com,2011-07-20T16:42:48+02:00
+Mourner,189e532d,2011-07-20,No Component,fix,189e532d,12,11,agafonkin@gmail.com,2011-07-20T15:28:11+02:00
+Mourner,62db9893,2011-07-20,No Component,fix,62db9893,2,1,agafonkin@gmail.com,2011-07-20T15:09:18+02:00
+Mourner,67172990,2011-07-20,No Component,Fix,67172990,3,3,agafonkin@gmail.com,2011-07-20T15:05:53+02:00
+Mourner,6ddb7424,2011-07-20,No Component,,6ddb7424,14,12,agafonkin@gmail.com,2011-07-20T14:54:27+02:00
+Mourner,1ff1edb7,2011-07-20,No Component,,1ff1edb7,3,1,agafonkin@gmail.com,2011-07-20T14:54:22+02:00
+Mourner,e1c5051f,2011-07-20,No Component,,e1c5051f,29,23,agafonkin@gmail.com,2011-07-20T13:12:12+02:00
+Mourner,2d41ad1e,2011-07-20,No Component,,2d41ad1e,29,23,agafonkin@gmail.com,2011-07-20T13:11:23+02:00
+Andrey Rublev,479eaa65,2011-07-20,No Component,,479eaa65,1,2,version.ru@gmail.com,2011-07-20T09:18:59+02:00
+Andrey Rublev,263a5b9b,2011-07-20,No Component,fix,263a5b9b,100,7,version.ru@gmail.com,2011-07-20T08:23:04+02:00
+Andrey Rublev,b27922ea,2011-07-15,No Component,,b27922ea,37,0,version.ru@gmail.com,2011-07-15T14:03:35+02:00
+Rick Harris,d1997386,2011-07-13,No Component,,d1997386,33,40,rick.c.harris@gmail.com,2011-07-13T19:46:57+02:00
+Mourner,95e0e634,2011-07-13,No Component,,95e0e634,16,1,agafonkin@gmail.com,2011-07-13T13:49:36+02:00
+Mourner,50e36cc2,2011-07-13,No Component,,50e36cc2,6,2,agafonkin@gmail.com,2011-07-13T13:38:46+02:00
+Andrey Rublev,9479911e,2011-07-13,No Component,Fix,9479911e,11,1,version.ru@gmail.com,2011-07-13T13:13:35+02:00
+Mourner,03075f09,2011-07-12,No Component,,03075f09,147,0,agafonkin@gmail.com,2011-07-12T19:19:29+02:00
+Mourner,0936b5e1,2011-07-12,No Component,,0936b5e1,20,7,agafonkin@gmail.com,2011-07-12T19:18:22+02:00
+Mourner,9b8db34f,2011-07-12,No Component,,9b8db34f,2,2,agafonkin@gmail.com,2011-07-12T14:33:06+02:00
+Mourner,e9b83531,2011-07-12,No Component,,e9b83531,31,4,agafonkin@gmail.com,2011-07-12T14:32:40+02:00
+Mourner,76d517e3,2011-07-12,No Component,,76d517e3,1,1,agafonkin@gmail.com,2011-07-12T14:32:22+02:00
+Andrey Rublev,e1e1504a,2011-07-12,No Component,fix,e1e1504a,6,6,a_rublev@ac-sw.com,2011-07-12T14:00:31+02:00
+Mourner,61d636cc,2011-07-12,No Component,,61d636cc,1,1,agafonkin@gmail.com,2011-07-12T13:59:43+02:00
+Mourner,3989c6af,2011-07-11,No Component,,3989c6af,2,2,agafonkin@gmail.com,2011-07-11T13:14:46+02:00
+anru,40cbee84,2011-07-11,No Component,Fix,40cbee84,1,1,version.ru@gmail.com,2011-07-11T13:04:20+02:00
+Jason Sanford,209471c0,2011-07-06,No Component,,209471c0,1,0,jasonsanford@gmail.com,2011-07-06T05:32:15+02:00
+Mourner,5f07e8bf,2011-07-04,No Component,fix,5f07e8bf,7,4,agafonkin@gmail.com,2011-07-04T14:01:38+02:00
+florianf,ac98d909,2011-06-25,No Component,,ac98d909,3,2,florian@florian.site,2011-06-25T20:06:49+02:00
+florianf,c42193cf,2011-06-25,No Component,fix,c42193cf,14,23,florian@florian.site,2011-06-25T19:40:01+02:00
+Mourner,9c19796f,2011-06-23,No Component,,9c19796f,46,43,agafonkin@gmail.com,2011-06-23T13:41:47+02:00
+Mourner,fd62d391,2011-06-23,No Component,fix,fd62d391,10,6,agafonkin@gmail.com,2011-06-23T13:28:31+02:00
+Mourner,6dbb8dce,2011-06-23,No Component,,6dbb8dce,15,11,agafonkin@gmail.com,2011-06-23T13:27:43+02:00
+Mourner,c739bbff,2011-06-23,No Component,fix,c739bbff,3,3,agafonkin@gmail.com,2011-06-23T12:58:43+02:00
+mourner,baa90b5d,2011-06-23,No Component,fix,baa90b5d,5,4,agafonkin@gmail.com,2011-06-23T08:25:27+02:00
+Mourner,fd94ffd6,2011-06-22,No Component,,fd94ffd6,3,6,agafonkin@gmail.com,2011-06-22T18:05:44+02:00
+Mourner,77e14593,2011-06-22,No Component,,77e14593,25,5,agafonkin@gmail.com,2011-06-22T18:03:11+02:00
+Mourner,d999ab1d,2011-06-22,No Component,fix,d999ab1d,25,11,agafonkin@gmail.com,2011-06-22T17:34:26+02:00
+Mourner,8cdb7069,2011-06-22,No Component,fix,8cdb7069,2,2,agafonkin@gmail.com,2011-06-22T16:17:22+02:00
+Mourner,6163fd75,2011-06-22,No Component,,6163fd75,8,3,agafonkin@gmail.com,2011-06-22T12:27:03+02:00
+Mourner,4273df1f,2011-06-22,No Component,fix,4273df1f,2,1,agafonkin@gmail.com,2011-06-22T11:26:03+02:00
+Mourner,d63d39ca,2011-06-21,No Component,,d63d39ca,19,15,agafonkin@gmail.com,2011-06-21T17:13:43+02:00
+Mourner,a0a2064a,2011-06-21,No Component,,a0a2064a,16,44,agafonkin@gmail.com,2011-06-21T17:09:04+02:00
+Mourner,a21f1ebc,2011-06-21,No Component,,a21f1ebc,0,2,agafonkin@gmail.com,2011-06-21T17:04:49+02:00
+Mourner,7e22f342,2011-06-21,No Component,,7e22f342,26,37,agafonkin@gmail.com,2011-06-21T16:58:26+02:00
+Mourner,f8f44401,2011-06-21,No Component,,f8f44401,133,122,agafonkin@gmail.com,2011-06-21T15:19:55+02:00
+Mourner,032ee933,2011-06-21,No Component,fix,032ee933,7,5,agafonkin@gmail.com,2011-06-21T13:46:16+02:00
+Mourner,43691561,2011-06-21,No Component,,43691561,53,8,agafonkin@gmail.com,2011-06-21T13:37:34+02:00
+Mourner,b257c022,2011-06-21,No Component,,b257c022,4,4,agafonkin@gmail.com,2011-06-21T13:05:51+02:00
+Mourner,a46c9040,2011-06-21,No Component,,a46c9040,24,1,agafonkin@gmail.com,2011-06-21T13:04:35+02:00
+Mourner,f80674a9,2011-06-21,No Component,,f80674a9,27,16,agafonkin@gmail.com,2011-06-21T12:02:45+02:00
+Mourner,ea4fd78b,2011-06-21,No Component,fix,ea4fd78b,15,9,agafonkin@gmail.com,2011-06-21T11:09:49+02:00
+Mourner,0009ceb9,2011-06-21,No Component,fix,0009ceb9,80,60,agafonkin@gmail.com,2011-06-21T10:43:31+02:00
+Mourner,10ffc32e,2011-06-21,No Component,,10ffc32e,3,4,agafonkin@gmail.com,2011-06-21T09:06:47+02:00
+Jonny Gerig Meyer,593a3c03,2011-06-21,No Component,Fix,593a3c03,2,2,jonny@oddbird.net,2011-06-21T00:07:39+02:00
+Jonny Gerig Meyer,aa036b93,2011-06-21,No Component,,aa036b93,2,0,jonny@oddbird.net,2011-06-21T00:02:14+02:00
+florian,f3205aab,2011-06-20,No Component,,f3205aab,23,41,florian@florian.site,2011-06-20T20:27:09+02:00
+florian,7d5be23a,2011-06-20,No Component,,7d5be23a,12,0,florian@florian.site,2011-06-20T20:16:16+02:00
+Mourner,6eb9e8fe,2011-06-20,No Component,,6eb9e8fe,10,2,agafonkin@gmail.com,2011-06-20T12:50:40+02:00
+florian,a3163513,2011-06-20,No Component,bug,a3163513,1,1,florian@florian.site,2011-06-20T10:17:40+02:00
+florian,c8a105fb,2011-06-20,No Component,,c8a105fb,2,1,florian@florian.site,2011-06-20T10:16:55+02:00
+florian,86414aee,2011-06-20,No Component,,86414aee,1,0,florian@florian.site,2011-06-20T10:15:53+02:00
+florian,c1c79df3,2011-06-20,No Component,,c1c79df3,137,0,florian@florian.site,2011-06-20T10:09:43+02:00
+mourner,3af05ece,2011-06-18,No Component,fix,3af05ece,2,2,agafonkin@gmail.com,2011-06-18T12:22:39+02:00
+Mourner,0800c241,2011-06-17,No Component,fix,0800c241,36,29,agafonkin@gmail.com,2011-06-17T18:40:27+02:00
+Mourner,c63b955d,2011-06-17,No Component,fix,c63b955d,5,4,agafonkin@gmail.com,2011-06-17T16:19:35+02:00
+Mourner,457a4355,2011-06-17,No Component,,457a4355,4,3,agafonkin@gmail.com,2011-06-17T15:46:03+02:00
+Mourner,d61849cf,2011-06-17,No Component,,d61849cf,4,3,agafonkin@gmail.com,2011-06-17T15:42:57+02:00
+Mourner,05c4b3f1,2011-06-17,No Component,,05c4b3f1,14,13,agafonkin@gmail.com,2011-06-17T14:52:39+02:00
+Mourner,d3f0ba54,2011-06-17,No Component,,d3f0ba54,9,5,agafonkin@gmail.com,2011-06-17T13:10:30+02:00
+Mourner,d2487e89,2011-06-17,No Component,fix,d2487e89,70,67,agafonkin@gmail.com,2011-06-17T12:50:50+02:00
+mourner,d388078e,2011-06-16,No Component,,d388078e,6,5,agafonkin@gmail.com,2011-06-16T23:31:19+02:00
+mourner,c93d91bf,2011-06-16,No Component,,c93d91bf,20,23,agafonkin@gmail.com,2011-06-16T23:24:13+02:00
+Jason Davies,eb68a708,2011-06-16,No Component,,eb68a708,11,8,jason@jasondavies.com,2011-06-16T23:06:19+02:00
+Mourner,b781376e,2011-06-16,No Component,fix,b781376e,75,50,agafonkin@gmail.com,2011-06-16T17:52:37+02:00
+Mourner,e09765a3,2011-06-16,No Component,,e09765a3,8,18,agafonkin@gmail.com,2011-06-16T14:54:51+02:00
+Mourner,233e63af,2011-06-16,No Component,,233e63af,15,13,agafonkin@gmail.com,2011-06-16T12:56:39+02:00
+Mourner,40a1ebf5,2011-06-16,No Component,,40a1ebf5,9,13,agafonkin@gmail.com,2011-06-16T11:15:17+02:00
+Jason Sanford,f761fa03,2011-06-16,No Component,fix,f761fa03,5,0,jasonsanford@gmail.com,2011-06-16T07:17:52+02:00
+Mourner,667fdd97,2011-06-14,No Component,Fix,667fdd97,7,3,agafonkin@gmail.com,2011-06-14T14:14:47+02:00
+Mourner,13e534d1,2011-06-14,No Component,,13e534d1,6,4,agafonkin@gmail.com,2011-06-14T11:13:00+02:00
+Mourner,a2a6ff37,2011-06-14,No Component,fix,a2a6ff37,7,5,agafonkin@gmail.com,2011-06-14T11:10:19+02:00
+mourner,815a301e,2011-06-13,No Component,,815a301e,3,3,agafonkin@gmail.com,2011-06-13T23:38:03+02:00
+Jason Sanford,d13fe36e,2011-06-13,No Component,,d13fe36e,4,2,jasonsanford@gmail.com,2011-06-13T23:28:06+02:00
+Jason Sanford,78a46557,2011-06-13,No Component,,78a46557,4,2,jasonsanford@gmail.com,2011-06-13T23:15:43+02:00
+mourner,a1efe42a,2011-06-13,No Component,fix,a1efe42a,5,5,agafonkin@gmail.com,2011-06-13T21:17:04+02:00
+mourner,b6e222f8,2011-06-13,No Component,Fix,b6e222f8,3,3,agafonkin@gmail.com,2011-06-13T21:15:43+02:00
+mourner,ac10b95a,2011-06-12,No Component,fix,ac10b95a,2,2,agafonkin@gmail.com,2011-06-12T08:43:38+02:00
+Carl Meyer,367db80c,2011-06-12,No Component,,367db80c,8,0,carl@oddbird.net,2011-06-12T02:51:37+02:00
+Carl Meyer,a4620e4c,2011-06-12,No Component,Fix,a4620e4c,1,1,carl@oddbird.net,2011-06-12T01:22:28+02:00
+Carl Meyer,2dc06b52,2011-06-12,No Component,Fix,2dc06b52,9,1,carl@oddbird.net,2011-06-12T01:11:08+02:00
+Mourner,77726511,2011-06-10,No Component,,77726511,9,4,agafonkin@gmail.com,2011-06-10T16:15:45+02:00
+Mourner,5c2e3a51,2011-06-10,No Component,fix,5c2e3a51,52,22,agafonkin@gmail.com,2011-06-10T15:24:49+02:00
+Mourner,3558ed8e,2011-06-10,No Component,,3558ed8e,36,9,agafonkin@gmail.com,2011-06-10T13:47:28+02:00
+Mourner,3b58a8bb,2011-06-10,No Component,,3b58a8bb,155,0,agafonkin@gmail.com,2011-06-10T13:26:16+02:00
+Mourner,00a107f1,2011-06-10,No Component,,00a107f1,20,0,agafonkin@gmail.com,2011-06-10T11:45:34+02:00
+Mourner,43b3bdc1,2011-06-10,No Component,,43b3bdc1,95,0,agafonkin@gmail.com,2011-06-10T11:38:24+02:00
+Mourner,9514712b,2011-06-09,No Component,fix,9514712b,5,4,agafonkin@gmail.com,2011-06-09T13:43:23+02:00
+Mourner,50c7e92e,2011-06-08,No Component,fix,50c7e92e,4,3,agafonkin@gmail.com,2011-06-08T18:32:14+02:00
+Mourner,5d2c204c,2011-06-08,No Component,,5d2c204c,2,2,agafonkin@gmail.com,2011-06-08T14:48:34+02:00
+Mourner,e447bbb1,2011-06-07,No Component,fix,e447bbb1,2,2,agafonkin@gmail.com,2011-06-07T15:27:12+02:00
+Mourner,88c384f9,2011-06-07,No Component,fix,88c384f9,2,2,agafonkin@gmail.com,2011-06-07T10:41:59+02:00
+Mourner,48972414,2011-06-07,No Component,fix,48972414,29,12,agafonkin@gmail.com,2011-06-07T10:38:56+02:00
+Mourner,49c0b0dc,2011-06-03,No Component,fix,49c0b0dc,4,4,agafonkin@gmail.com,2011-06-03T16:42:54+02:00
+Mourner,dc84cb1f,2011-06-03,No Component,fix,dc84cb1f,5,3,agafonkin@gmail.com,2011-06-03T15:59:14+02:00
+Mourner,0b1a2bca,2011-06-03,No Component,fix,0b1a2bca,10,5,agafonkin@gmail.com,2011-06-03T13:40:11+02:00
+Mourner,522fd7a7,2011-06-03,No Component,fix,522fd7a7,10,5,agafonkin@gmail.com,2011-06-03T13:32:17+02:00
+Mourner,c67bc5a0,2011-06-03,No Component,,c67bc5a0,20,2,agafonkin@gmail.com,2011-06-03T12:54:07+02:00
+Mourner,a2729351,2011-06-03,No Component,fix,a2729351,4,3,agafonkin@gmail.com,2011-06-03T11:55:06+02:00
+antonj,a1db696f,2011-06-03,No Component,Fix,a1db696f,1,1,anton.johansson@gmail.com,2011-06-03T10:45:07+02:00
+Mourner,c8f1e952,2011-06-03,No Component,fix,c8f1e952,7,5,agafonkin@gmail.com,2011-06-03T11:36:38+02:00
+Mourner,2bbdc028,2011-06-03,No Component,fix,2bbdc028,10,8,agafonkin@gmail.com,2011-06-03T10:52:51+02:00
+Mourner,3488f88c,2011-06-02,No Component,bug,3488f88c,23,7,agafonkin@gmail.com,2011-06-02T16:07:56+02:00
+Mourner,cc1aabbd,2011-06-02,No Component,fix,cc1aabbd,5,2,agafonkin@gmail.com,2011-06-02T15:47:50+02:00
+Mourner,bc63a2ee,2011-06-02,No Component,,bc63a2ee,15,2,agafonkin@gmail.com,2011-06-02T15:29:47+02:00
+Mourner,a13c265d,2011-06-01,No Component,,a13c265d,10,2,agafonkin@gmail.com,2011-06-01T17:28:21+02:00
+antonj,e7e79ccb,2011-06-01,No Component,,e7e79ccb,4,1,anton.johansson@gmail.com,2011-06-01T15:07:40+02:00
+Mourner,94a15ede,2011-06-01,No Component,,94a15ede,6,6,agafonkin@gmail.com,2011-06-01T14:07:48+02:00
+Mourner,cef1e2a9,2011-06-01,No Component,fix,cef1e2a9,2,2,agafonkin@gmail.com,2011-06-01T13:54:38+02:00
+H. Westphal,911b46c6,2011-06-01,No Component,,911b46c6,5,3,westphal@secure-net-concepts.de,2011-06-01T10:55:05+02:00
+Mourner,eadb94f2,2011-05-31,No Component,fix,eadb94f2,4,3,agafonkin@gmail.com,2011-05-31T19:02:23+02:00
+Mourner,95d58b5e,2011-05-31,No Component,fix,95d58b5e,3,3,agafonkin@gmail.com,2011-05-31T15:11:21+02:00
+Mourner,5b05a40e,2011-05-31,No Component,,5b05a40e,3,4,agafonkin@gmail.com,2011-05-31T12:11:05+02:00
+Mourner,be5b4a62,2011-05-31,No Component,fix,be5b4a62,1,1,agafonkin@gmail.com,2011-05-31T12:07:01+02:00
+Mourner,cfdaebb2,2011-05-31,No Component,,cfdaebb2,82,0,agafonkin@gmail.com,2011-05-31T11:37:07+02:00
+Mourner,e7410e6e,2011-05-31,No Component,,e7410e6e,88,11,agafonkin@gmail.com,2011-05-31T11:36:05+02:00
+Mourner,ed168a30,2011-05-31,No Component,fix,ed168a30,5,3,agafonkin@gmail.com,2011-05-31T10:59:15+02:00
+mourner,8d4b454f,2011-05-31,No Component,,8d4b454f,0,1,agafonkin@gmail.com,2011-05-31T00:36:40+02:00
+mourner,c0662f62,2011-05-30,No Component,fix,c0662f62,2,2,agafonkin@gmail.com,2011-05-30T23:43:57+02:00
+mourner,876bb4f6,2011-05-30,No Component,,876bb4f6,39,35,agafonkin@gmail.com,2011-05-30T23:37:48+02:00
+Miroff,c44ec4e1,2011-05-30,No Component,Fix,c44ec4e1,0,2,mr.miroff@gmail.com,2011-05-30T20:30:18+02:00
+Mourner,791ed9f2,2011-05-30,No Component,fix,791ed9f2,10,3,agafonkin@gmail.com,2011-05-30T16:08:53+02:00
+Mourner,96e216ba,2011-05-30,No Component,fix,96e216ba,3,3,agafonkin@gmail.com,2011-05-30T15:24:59+02:00
+Mourner,f36a2f91,2011-05-30,No Component,fix,f36a2f91,6,5,agafonkin@gmail.com,2011-05-30T14:20:08+02:00
+Tom MacWright,d5e5f33d,2011-05-27,No Component,,d5e5f33d,7,7,macwright@gmail.com,2011-05-27T19:39:25+02:00
+Mourner,0a43384d,2011-05-27,No Component,,0a43384d,14,9,agafonkin@gmail.com,2011-05-27T19:20:54+02:00
+Mourner,194edd32,2011-05-27,No Component,,194edd32,46,18,agafonkin@gmail.com,2011-05-27T18:13:28+02:00
+Mourner,9863c0c6,2011-05-27,No Component,,9863c0c6,72,42,agafonkin@gmail.com,2011-05-27T17:36:11+02:00
+Mourner,87eee7fb,2011-05-26,No Component,fix,87eee7fb,28,12,agafonkin@gmail.com,2011-05-26T10:56:52+02:00
+Mourner,b6b7612b,2011-05-25,No Component,,b6b7612b,6,3,agafonkin@gmail.com,2011-05-25T18:12:52+02:00
+Mourner,ec3c899b,2011-05-25,No Component,fix,ec3c899b,28,4,agafonkin@gmail.com,2011-05-25T17:57:58+02:00
+Mourner,f120f7d6,2011-05-25,No Component,fix,f120f7d6,1,1,agafonkin@gmail.com,2011-05-25T14:30:39+02:00
+Mourner,21184e2f,2011-05-23,No Component,,21184e2f,25,25,agafonkin@gmail.com,2011-05-23T14:28:32+02:00
+Mourner,80c7c9d3,2011-05-23,No Component,bug,80c7c9d3,12,7,agafonkin@gmail.com,2011-05-23T13:19:44+02:00
+Mourner,089052e4,2011-05-23,No Component,,089052e4,24,9,agafonkin@gmail.com,2011-05-23T13:09:15+02:00
+Mourner,1b090074,2011-05-23,No Component,fix,1b090074,9,8,agafonkin@gmail.com,2011-05-23T11:32:31+02:00
+Mourner,1c2696ee,2011-05-23,No Component,fix,1c2696ee,9,8,agafonkin@gmail.com,2011-05-23T11:26:27+02:00
+Mourner,7809accb,2011-05-20,No Component,fix,7809accb,7,7,agafonkin@gmail.com,2011-05-20T15:34:45+02:00
+Mourner,00af4e25,2011-05-20,No Component,,00af4e25,0,1,agafonkin@gmail.com,2011-05-20T13:21:17+02:00
+Mourner,cbd54537,2011-05-20,No Component,fix,cbd54537,5,4,agafonkin@gmail.com,2011-05-20T13:19:01+02:00
+Mourner,b1e8ee42,2011-05-20,No Component,fix,b1e8ee42,2,2,agafonkin@gmail.com,2011-05-20T10:32:59+02:00
+Mourner,81f6d7f6,2011-05-20,No Component,fix,81f6d7f6,18,7,agafonkin@gmail.com,2011-05-20T10:26:40+02:00
+Mourner,ed4d73cc,2011-05-20,No Component,fix,ed4d73cc,7,5,agafonkin@gmail.com,2011-05-20T10:19:51+02:00
+Mourner,5b9804b6,2011-05-19,No Component,fix,5b9804b6,18,8,agafonkin@gmail.com,2011-05-19T18:30:22+02:00
+Mourner,5e927b03,2011-05-19,No Component,,5e927b03,52,20,agafonkin@gmail.com,2011-05-19T17:57:35+02:00
+Mourner,88091d57,2011-05-19,No Component,fix,88091d57,5,0,agafonkin@gmail.com,2011-05-19T16:59:22+02:00
+Mourner,daf6c22a,2011-05-19,No Component,,daf6c22a,8,2,agafonkin@gmail.com,2011-05-19T16:23:38+02:00
+Mourner,27c6aba9,2011-05-19,No Component,fix,27c6aba9,32,3,agafonkin@gmail.com,2011-05-19T15:36:25+02:00
+Mourner,0499ab73,2011-05-19,No Component,Fix,0499ab73,7,4,agafonkin@gmail.com,2011-05-19T14:51:44+02:00
+Mourner,72a1070e,2011-05-19,No Component,fix,72a1070e,19,6,agafonkin@gmail.com,2011-05-19T14:27:59+02:00
+Mourner,e243d84e,2011-05-17,No Component,,e243d84e,31,44,agafonkin@gmail.com,2011-05-17T13:19:37+02:00
+Mourner,5a45784d,2011-05-16,No Component,fix,5a45784d,82,8,agafonkin@gmail.com,2011-05-16T18:40:49+02:00
+Mourner,ff6968f0,2011-05-16,No Component,,ff6968f0,0,1,agafonkin@gmail.com,2011-05-16T16:45:49+02:00
+Mourner,2f4e81ab,2011-05-16,No Component,fix,2f4e81ab,2,0,agafonkin@gmail.com,2011-05-16T16:45:35+02:00
+Mourner,c6ddf37e,2011-05-16,No Component,,c6ddf37e,1,1,agafonkin@gmail.com,2011-05-16T16:45:06+02:00
+Mourner,ca151369,2011-05-14,No Component,,ca151369,3,3,Mourner@Mourner-PC,2011-05-14T18:40:26+02:00
+Mourner,7fb6de19,2011-05-14,No Component,bug,7fb6de19,18,8,Mourner@Mourner-PC,2011-05-14T18:19:17+02:00
+Mourner,aeffc6d0,2011-05-12,No Component,fix,aeffc6d0,1,1,agafonkin@gmail.com,2011-05-12T15:18:28+02:00
+mourner,66f00bf8,2011-04-27,No Component,,66f00bf8,7,5,agafonkin@gmail.com,2011-04-27T17:02:58+02:00
+mourner,d1b28c5d,2011-04-27,No Component,,d1b28c5d,10,3,agafonkin@gmail.com,2011-04-27T16:38:50+02:00
+mourner,46132ba8,2011-04-27,No Component,,46132ba8,10,10,agafonkin@gmail.com,2011-04-27T13:14:36+02:00
+mourner,e56b9400,2011-04-27,No Component,fix,e56b9400,2,2,agafonkin@gmail.com,2011-04-27T13:10:12+02:00
+mourner,6ce60cad,2011-04-27,No Component,fix,6ce60cad,2,1,agafonkin@gmail.com,2011-04-27T13:06:47+02:00
+mourner,c2102d54,2011-04-27,No Component,fix,c2102d54,5,0,agafonkin@gmail.com,2011-04-27T12:57:36+02:00
+mourner,13259845,2011-04-27,No Component,fix,13259845,1,1,agafonkin@gmail.com,2011-04-27T12:52:23+02:00
+mourner,0d32c913,2011-04-27,No Component,fix,0d32c913,1,1,agafonkin@gmail.com,2011-04-27T12:51:41+02:00
+Mourner,9911ad21,2011-04-15,No Component,,9911ad21,6,3,agafonkin@gmail.com,2011-04-15T14:15:38+02:00
+Mourner,71b31417,2011-04-15,No Component,fix,71b31417,0,1,agafonkin@gmail.com,2011-04-15T13:31:22+02:00
+Mourner,0e4cae7f,2011-04-15,No Component,fix,0e4cae7f,0,1,agafonkin@gmail.com,2011-04-15T10:58:16+02:00
+Mourner,ba28ce77,2011-04-15,No Component,fix,ba28ce77,35,26,agafonkin@gmail.com,2011-04-15T10:56:48+02:00
+Mourner,21d4ddb1,2011-04-15,No Component,fix,21d4ddb1,3,2,agafonkin@gmail.com,2011-04-15T10:39:00+02:00
+Matt Spence,7ff63ae2,2011-04-14,No Component,,7ff63ae2,1,0,msaspence@gmail.com,2011-04-14T23:38:38+02:00
+Mourner,d8bcfef1,2011-04-14,No Component,,d8bcfef1,64,2,agafonkin@gmail.com,2011-04-14T17:48:14+02:00
+Mourner,8089ff04,2011-04-14,No Component,fix,8089ff04,2,1,agafonkin@gmail.com,2011-04-14T17:07:16+02:00
+Mourner,4003a9d9,2011-04-14,No Component,,4003a9d9,7,7,agafonkin@gmail.com,2011-04-14T17:04:33+02:00
+Mourner,1bcaa12f,2011-04-14,No Component,fix,1bcaa12f,0,1,agafonkin@gmail.com,2011-04-14T16:54:46+02:00
+Mourner,df697f19,2011-04-14,No Component,fix,df697f19,0,1,agafonkin@gmail.com,2011-04-14T16:54:03+02:00
+Mourner,9fc8f1ff,2011-04-14,No Component,fix,9fc8f1ff,49,23,agafonkin@gmail.com,2011-04-14T16:49:34+02:00
+Mourner,b1d9ca77,2011-04-14,No Component,,b1d9ca77,3,3,agafonkin@gmail.com,2011-04-14T15:32:36+02:00
+Mourner,30768b40,2011-04-14,No Component,bug,30768b40,0,2,agafonkin@gmail.com,2011-04-14T15:30:55+02:00
+Mourner,131f909e,2011-04-14,No Component,,131f909e,35,36,agafonkin@gmail.com,2011-04-14T15:12:05+02:00
+Mourner,895d1716,2011-04-14,No Component,fix,895d1716,54,27,agafonkin@gmail.com,2011-04-14T14:42:48+02:00
+Mourner,8f4a0dee,2011-04-13,No Component,,8f4a0dee,4,1,agafonkin@gmail.com,2011-04-13T13:52:57+02:00
+Mourner,8c970cc1,2011-04-13,No Component,,8c970cc1,2,5,agafonkin@gmail.com,2011-04-13T13:52:09+02:00
+Mourner,47ada8f7,2011-04-13,No Component,fix,47ada8f7,3,1,agafonkin@gmail.com,2011-04-13T13:51:31+02:00
+Mourner,520d6a28,2011-04-13,No Component,fix,520d6a28,2,5,agafonkin@gmail.com,2011-04-13T11:01:28+02:00
+Mourner,e940a6b9,2011-04-13,No Component,fix,e940a6b9,2,0,agafonkin@gmail.com,2011-04-13T11:00:56+02:00
+Mourner,fbb31dbe,2011-04-12,No Component,fix,fbb31dbe,22,12,agafonkin@gmail.com,2011-04-12T17:26:35+02:00
+Mourner,5b8b0bdd,2011-04-12,No Component,fix,5b8b0bdd,2,3,agafonkin@gmail.com,2011-04-12T17:18:56+02:00
+Mourner,5a089486,2011-04-12,No Component,,5a089486,3,3,agafonkin@gmail.com,2011-04-12T17:14:07+02:00
+Mourner,8cb51d1c,2011-04-12,No Component,,8cb51d1c,71,18,agafonkin@gmail.com,2011-04-12T15:53:07+02:00
+Mourner,e7144bf0,2011-04-12,No Component,fix,e7144bf0,1,1,agafonkin@gmail.com,2011-04-12T15:51:51+02:00
+Mourner,c988eeaf,2011-04-12,No Component,fix,c988eeaf,2,1,agafonkin@gmail.com,2011-04-12T15:51:42+02:00
+Mourner,b475bb8d,2011-04-12,No Component,bug,b475bb8d,4,2,agafonkin@gmail.com,2011-04-12T11:01:46+02:00
+mourner,ef8b0c9a,2011-04-11,No Component,,ef8b0c9a,0,1,agafonkin@gmail.com,2011-04-11T22:51:56+02:00
+mourner,7162bd49,2011-04-11,No Component,,7162bd49,72,67,agafonkin@gmail.com,2011-04-11T22:43:23+02:00
+Matt Spence,ee93d73b,2011-04-11,No Component,,ee93d73b,70,26,msaspence@gmail.com,2011-04-11T20:15:35+02:00
+Matt Spence,805f3b39,2011-04-11,No Component,,805f3b39,50,2,msaspence@gmail.com,2011-04-11T17:26:41+02:00
+Mourner,79049045,2011-04-11,No Component,,79049045,1,1,agafonkin@gmail.com,2011-04-11T15:33:34+02:00
+Mourner,a204511f,2011-04-11,No Component,,a204511f,64,4,agafonkin@gmail.com,2011-04-11T14:49:15+02:00
+Mourner,dde1c032,2011-04-08,No Component,bug,dde1c032,2,2,agafonkin@gmail.com,2011-04-08T13:53:34+02:00
+Mourner,1eac8cd9,2011-04-08,No Component,,1eac8cd9,56,9,agafonkin@gmail.com,2011-04-08T13:47:27+02:00
+Mourner,90a66c96,2011-04-07,No Component,,90a66c96,73,41,agafonkin@gmail.com,2011-04-07T18:00:55+02:00
+Mourner,9a248a73,2011-04-07,No Component,,9a248a73,2,2,agafonkin@gmail.com,2011-04-07T17:59:59+02:00
+Mourner,90bd2c12,2011-04-07,No Component,,90bd2c12,1,1,agafonkin@gmail.com,2011-04-07T17:59:29+02:00
+Mourner,bd226392,2011-04-07,No Component,,bd226392,15,5,agafonkin@gmail.com,2011-04-07T17:59:10+02:00
+Mourner,916ac1a1,2011-04-04,No Component,,916ac1a1,5,4,agafonkin@gmail.com,2011-04-04T13:59:16+02:00
+Mourner,45200e70,2011-04-01,No Component,,45200e70,1,0,agafonkin@gmail.com,2011-04-01T16:58:43+02:00
+Mourner,8c541b10,2011-04-01,No Component,,8c541b10,6,4,agafonkin@gmail.com,2011-04-01T15:09:19+02:00
+Mourner,647da488,2011-04-01,No Component,fix,647da488,6,6,agafonkin@gmail.com,2011-04-01T13:26:28+02:00
+Mourner,602950b8,2011-04-01,No Component,,602950b8,3,1,agafonkin@gmail.com,2011-04-01T11:47:52+02:00
+mourner,44337137,2011-03-31,No Component,,44337137,3,3,agafonkin@gmail.com,2011-03-31T21:59:59+02:00
+mourner,8f2bc2c1,2011-03-31,No Component,fix,8f2bc2c1,1,1,agafonkin@gmail.com,2011-03-31T21:59:46+02:00
+Mourner,9d93998b,2011-03-31,No Component,fix,9d93998b,67,56,agafonkin@gmail.com,2011-03-31T17:34:37+02:00
+Mourner,02a02680,2011-03-31,No Component,fix,02a02680,67,56,agafonkin@gmail.com,2011-03-31T17:31:38+02:00
+Mourner,a0082457,2011-03-31,No Component,,a0082457,22,21,agafonkin@gmail.com,2011-03-31T11:05:35+02:00
+Mourner,29b89d18,2011-03-31,No Component,,29b89d18,6,0,agafonkin@gmail.com,2011-03-31T11:05:14+02:00
+mourner,162aad20,2011-03-29,No Component,fix,162aad20,1,1,agafonkin@gmail.com,2011-03-29T23:13:19+02:00
+Mourner,4958beb0,2011-03-28,No Component,,4958beb0,2,2,agafonkin@gmail.com,2011-03-28T14:43:45+02:00
+Mourner,7c27f2a3,2011-03-28,No Component,,7c27f2a3,1,1,agafonkin@gmail.com,2011-03-28T14:40:09+02:00
+Mourner,a69cb4df,2011-03-28,No Component,,a69cb4df,5,6,agafonkin@gmail.com,2011-03-28T14:39:02+02:00
+Mourner,94ab90ae,2011-03-24,No Component,,94ab90ae,66,68,agafonkin@gmail.com,2011-03-24T15:53:57+01:00
+Mourner,90f49fd2,2011-03-24,No Component,fix,90f49fd2,1,1,agafonkin@gmail.com,2011-03-24T15:53:27+01:00
+Mourner,6f2e8c79,2011-03-24,No Component,fix,6f2e8c79,1,1,agafonkin@gmail.com,2011-03-24T15:51:27+01:00
+Mourner,b0f5ae28,2011-03-23,No Component,,b0f5ae28,1,0,agafonkin@gmail.com,2011-03-23T17:35:06+01:00
+Mourner,18310515,2011-03-23,No Component,,18310515,4,4,agafonkin@gmail.com,2011-03-23T17:31:19+01:00
+Mourner,90f3c1c8,2011-03-23,No Component,,90f3c1c8,19,19,agafonkin@gmail.com,2011-03-23T17:28:15+01:00
+Mourner,7e9d530f,2011-03-23,No Component,,7e9d530f,12,0,agafonkin@gmail.com,2011-03-23T17:28:03+01:00
+Mourner,306e42a2,2011-03-22,No Component,,306e42a2,55,28,agafonkin@gmail.com,2011-03-22T16:58:35+01:00
+Mourner,60fbf680,2011-03-22,No Component,,60fbf680,6,6,agafonkin@gmail.com,2011-03-22T11:43:03+01:00
+Mourner,701c0d3f,2011-03-22,No Component,fix,701c0d3f,7,3,agafonkin@gmail.com,2011-03-22T11:36:03+01:00
+Mourner,ed34988c,2011-03-22,No Component,fix,ed34988c,1,1,agafonkin@gmail.com,2011-03-22T10:39:52+01:00
+Mourner,d65e289b,2011-03-21,No Component,,d65e289b,0,1,agafonkin@gmail.com,2011-03-21T18:46:25+01:00
+Mourner,6c8ef083,2011-03-21,No Component,,6c8ef083,125,38,agafonkin@gmail.com,2011-03-21T18:09:43+01:00
+Mourner,23a0f45b,2011-03-21,No Component,fix,23a0f45b,1,1,agafonkin@gmail.com,2011-03-21T15:02:03+01:00
+Mourner,33236d5e,2011-03-02,No Component,fix,33236d5e,13,2,agafonkin@gmail.com,2011-03-02T18:48:34+01:00
+Mourner,a5829b5a,2011-03-01,No Component,,a5829b5a,101,80,agafonkin@gmail.com,2011-03-01T16:41:33+01:00
+Mourner,780e458f,2011-03-01,No Component,,780e458f,9,22,agafonkin@gmail.com,2011-03-01T16:32:30+01:00
+Mourner,e601df30,2011-03-01,No Component,fix,e601df30,2,0,agafonkin@gmail.com,2011-03-01T15:41:19+01:00
+Mourner,f2eefe65,2011-03-01,No Component,fix,f2eefe65,11,6,agafonkin@gmail.com,2011-03-01T15:27:09+01:00
+Mourner,ed411360,2011-03-01,No Component,,ed411360,81,32,agafonkin@gmail.com,2011-03-01T15:24:02+01:00
+Mourner,a3fa83d7,2011-03-01,No Component,fix,a3fa83d7,2,2,agafonkin@gmail.com,2011-03-01T14:32:47+01:00
+Mourner,7c01c987,2011-03-01,No Component,,7c01c987,35,6,agafonkin@gmail.com,2011-03-01T13:48:12+01:00
+Mourner,5de66e7e,2011-03-01,No Component,,5de66e7e,104,69,agafonkin@gmail.com,2011-03-01T11:40:19+01:00
+Mourner,3e85b7b0,2011-03-01,No Component,fix,3e85b7b0,3,3,agafonkin@gmail.com,2011-03-01T11:06:00+01:00
+mourner,cacf6ca8,2011-03-01,No Component,,cacf6ca8,49,20,agafonkin@gmail.com,2011-03-01T09:26:42+01:00
+Mourner,e4e22f91,2011-02-28,No Component,,e4e22f91,52,23,agafonkin@gmail.com,2011-02-28T18:39:09+01:00
+Mourner,0add3613,2011-02-28,No Component,fix,0add3613,19,16,agafonkin@gmail.com,2011-02-28T15:39:51+01:00
+Mourner,773a13e6,2011-02-28,No Component,,773a13e6,150,31,agafonkin@gmail.com,2011-02-28T15:14:32+01:00
+mourner,b1df5491,2011-02-27,No Component,,b1df5491,16,15,agafonkin@gmail.com,2011-02-27T23:12:38+01:00
+mourner,38f25834,2011-02-27,No Component,,38f25834,12,14,agafonkin@gmail.com,2011-02-27T22:56:06+01:00
+mourner,047b5c6d,2011-02-27,No Component,,047b5c6d,28,19,agafonkin@gmail.com,2011-02-27T21:31:46+01:00
+mourner,7b205c4d,2011-02-27,No Component,,7b205c4d,44,32,agafonkin@gmail.com,2011-02-27T20:25:37+01:00
+mourner,66af760a,2011-02-26,No Component,,66af760a,3,2,agafonkin@gmail.com,2011-02-26T16:41:25+01:00
+mourner,b46e3174,2011-02-26,No Component,,b46e3174,29,19,agafonkin@gmail.com,2011-02-26T15:36:01+01:00
+mourner,2d04b4a0,2011-02-26,No Component,,2d04b4a0,36,31,agafonkin@gmail.com,2011-02-26T15:34:51+01:00
+Mourner,d011038b,2011-02-25,No Component,,d011038b,367,7,agafonkin@gmail.com,2011-02-25T18:01:29+01:00
+Mourner,34886028,2011-01-21,No Component,,34886028,12,12,agafonkin@gmail.com,2011-01-21T10:55:08+01:00
+Mourner,62e947f4,2011-01-18,No Component,fix,62e947f4,1,1,agafonkin@gmail.com,2011-01-18T11:03:38+01:00
+Mourner,20882232,2011-01-18,No Component,fix,20882232,11,4,agafonkin@gmail.com,2011-01-18T11:02:56+01:00
+mourner,8137a926,2011-01-16,No Component,,8137a926,8,7,agafonkin@gmail.com,2011-01-16T01:53:59+01:00
+mourner,2e28fc5f,2011-01-16,No Component,,2e28fc5f,5,0,agafonkin@gmail.com,2011-01-16T00:42:26+01:00
+mourner,9e3efaf5,2011-01-15,No Component,,9e3efaf5,159,8,agafonkin@gmail.com,2011-01-15T23:01:16+01:00
+Mourner,be09f97c,2011-01-14,No Component,,be09f97c,74,38,agafonkin@gmail.com,2011-01-14T17:43:40+01:00
+Mourner,5b6a98ac,2011-01-13,No Component,,5b6a98ac,46,62,agafonkin@gmail.com,2011-01-13T11:17:50+01:00
+Mourner,d33529b1,2011-01-12,No Component,,d33529b1,78,45,agafonkin@gmail.com,2011-01-12T17:05:12+01:00
+Mourner,3ebfa1e2,2011-01-12,No Component,fix,3ebfa1e2,7,2,agafonkin@gmail.com,2011-01-12T16:15:18+01:00
+Mourner,882f1ea5,2011-01-12,No Component,,882f1ea5,7,0,agafonkin@gmail.com,2011-01-12T15:52:21+01:00
+Mourner,48558ffa,2011-01-12,No Component,,48558ffa,5,7,agafonkin@gmail.com,2011-01-12T15:52:12+01:00
+Mourner,8bbe9940,2011-01-12,No Component,,8bbe9940,8,3,agafonkin@gmail.com,2011-01-12T15:51:54+01:00
+Mourner,8fd05ee1,2011-01-12,No Component,,8fd05ee1,18,16,agafonkin@gmail.com,2011-01-12T10:45:11+01:00
+Mourner,9762be03,2011-01-12,No Component,,9762be03,1,0,agafonkin@gmail.com,2011-01-12T10:44:48+01:00
+Mourner,663620ef,2011-01-11,No Component,,663620ef,5,2,agafonkin@gmail.com,2011-01-11T16:51:02+01:00
+Mourner,0cd810bb,2011-01-11,No Component,,0cd810bb,3,3,agafonkin@gmail.com,2011-01-11T16:01:49+01:00
+Mourner,8e6f2780,2011-01-11,No Component,,8e6f2780,2,0,agafonkin@gmail.com,2011-01-11T14:45:28+01:00
+Mourner,0f97a750,2011-01-11,No Component,,0f97a750,38,3,agafonkin@gmail.com,2011-01-11T14:45:06+01:00
+Mourner,ad5b8851,2011-01-11,No Component,,ad5b8851,4,0,agafonkin@gmail.com,2011-01-11T14:44:09+01:00
+Mourner,17a896ce,2011-01-10,No Component,,17a896ce,8,2,agafonkin@gmail.com,2011-01-10T15:22:35+01:00
+Mourner,2e2e502d,2011-01-10,No Component,,2e2e502d,3,0,agafonkin@gmail.com,2011-01-10T15:22:07+01:00
+Mourner,e15aa29f,2011-01-10,No Component,,e15aa29f,38,24,agafonkin@gmail.com,2011-01-10T15:21:27+01:00
+Mourner,89defc45,2011-01-10,No Component,fix,89defc45,1,1,agafonkin@gmail.com,2011-01-10T14:07:13+01:00
+Mourner,d6dc8acd,2011-01-10,No Component,,d6dc8acd,3,8,agafonkin@gmail.com,2011-01-10T12:06:22+01:00
+Mourner,ba8c6907,2011-01-10,No Component,,ba8c6907,1,1,agafonkin@gmail.com,2011-01-10T12:05:37+01:00
+Mourner,0356c92c,2010-12-15,No Component,,0356c92c,10,0,agafonkin@gmail.com,2010-12-15T19:58:07+01:00
+Mourner,e6eaec9f,2010-12-15,No Component,fix,e6eaec9f,18,6,agafonkin@gmail.com,2010-12-15T19:21:38+01:00
+Mourner,739c8e28,2010-12-15,No Component,,739c8e28,108,3,agafonkin@gmail.com,2010-12-15T18:55:57+01:00
+Mourner,28a063dc,2010-12-15,No Component,fix,28a063dc,4,4,agafonkin@gmail.com,2010-12-15T17:41:35+01:00
+Mourner,427e9654,2010-12-15,No Component,,427e9654,2,2,agafonkin@gmail.com,2010-12-15T16:21:14+01:00
+Mourner,03e49eea,2010-12-15,No Component,bug,03e49eea,45,0,agafonkin@gmail.com,2010-12-15T16:14:59+01:00
+Mourner,d30ebc0d,2010-12-15,No Component,,d30ebc0d,5,0,agafonkin@gmail.com,2010-12-15T16:14:35+01:00
+Mourner,2348947c,2010-12-15,No Component,,2348947c,111,0,agafonkin@gmail.com,2010-12-15T16:14:15+01:00
+Mourner,2b8c1d77,2010-12-14,No Component,fix,2b8c1d77,7,3,agafonkin@gmail.com,2010-12-14T17:10:24+01:00
+Mourner,bdfc348c,2010-11-16,No Component,,bdfc348c,8,8,agafonkin@gmail.com,2010-11-16T15:05:08+01:00
+Mourner,7e0b87fb,2010-11-11,No Component,,7e0b87fb,2,1,agafonkin@gmail.com,2010-11-11T11:37:12+01:00
+mourner,32ac1f28,2010-09-29,No Component,,32ac1f28,27,35,agafonkin@gmail.com,2010-09-29T23:02:54+02:00
+mourner,9919bd0d,2010-09-29,No Component,,9919bd0d,20,18,agafonkin@gmail.com,2010-09-29T15:09:54+02:00
+mourner,c266c90c,2010-09-29,No Component,,c266c90c,86,0,agafonkin@gmail.com,2010-09-29T14:22:49+02:00
+mourner,fb066788,2010-09-29,No Component,,fb066788,1,37,agafonkin@gmail.com,2010-09-29T11:12:13+02:00
+mourner,ad7ab3a7,2010-09-29,No Component,,ad7ab3a7,1,1,agafonkin@gmail.com,2010-09-29T11:02:03+02:00
+mourner,ec8a9410,2010-09-29,No Component,fix,ec8a9410,2,2,agafonkin@gmail.com,2010-09-29T10:51:59+02:00
+mourner,98e642e2,2010-09-29,No Component,fix,98e642e2,4,2,agafonkin@gmail.com,2010-09-29T10:51:45+02:00
+mourner,ab00da17,2010-09-29,No Component,,ab00da17,4,0,agafonkin@gmail.com,2010-09-29T09:38:46+02:00
+mourner,4dd11ef0,2010-09-28,No Component,,4dd11ef0,4,4,agafonkin@gmail.com,2010-09-28T20:12:27+02:00
+mourner,284595f3,2010-09-28,No Component,,284595f3,3,1,agafonkin@gmail.com,2010-09-28T20:09:53+02:00
+mourner,5d809aa2,2010-09-28,No Component,,5d809aa2,17,12,agafonkin@gmail.com,2010-09-28T19:53:45+02:00
+mourner,4abe0d96,2010-09-28,No Component,,4abe0d96,9,4,agafonkin@gmail.com,2010-09-28T19:51:38+02:00
+Mourner,a7d362e1,2010-09-28,No Component,,a7d362e1,2,0,Mourner@MournerHome,2010-09-28T14:46:12+02:00
+mourner,d1f1744c,2010-09-27,No Component,,d1f1744c,14,15,agafonkin@gmail.com,2010-09-27T17:34:56+02:00
+mourner,de55693c,2010-09-27,No Component,fix,de55693c,2,3,agafonkin@gmail.com,2010-09-27T17:27:34+02:00
+mourner,3062c431,2010-09-27,No Component,,3062c431,38,21,agafonkin@gmail.com,2010-09-27T17:26:26+02:00
+mourner,d1b8ba0a,2010-09-27,No Component,,d1b8ba0a,6,2,agafonkin@gmail.com,2010-09-27T17:04:19+02:00
+mourner,d7127170,2010-09-27,No Component,fix,d7127170,11,11,agafonkin@gmail.com,2010-09-27T17:01:37+02:00
+mourner,c2399def,2010-09-27,No Component,,c2399def,56,35,agafonkin@gmail.com,2010-09-27T16:45:26+02:00
+mourner,9998e6c6,2010-09-27,No Component,,9998e6c6,3,1,agafonkin@gmail.com,2010-09-27T16:26:54+02:00
+mourner,d06c7115,2010-09-27,No Component,,d06c7115,24,22,agafonkin@gmail.com,2010-09-27T16:09:59+02:00
+mourner,488046bd,2010-09-27,No Component,,488046bd,47,0,agafonkin@gmail.com,2010-09-27T16:02:00+02:00
+mourner,49f9597d,2010-09-27,No Component,,49f9597d,1,0,agafonkin@gmail.com,2010-09-27T16:01:40+02:00
+mourner,dc906377,2010-09-27,No Component,,dc906377,15,7,agafonkin@gmail.com,2010-09-27T14:00:16+02:00
+mourner,0991c7fc,2010-09-27,No Component,,0991c7fc,64,6,agafonkin@gmail.com,2010-09-27T12:09:41+02:00
+mourner,679953cf,2010-09-25,No Component,,679953cf,26,27,agafonkin@gmail.com,2010-09-25T16:29:38+02:00
+mourner,2fce845e,2010-09-24,No Component,,2fce845e,17,15,agafonkin@gmail.com,2010-09-24T16:40:24+02:00
+mourner,efbb541f,2010-09-24,No Component,,efbb541f,2,2,agafonkin@gmail.com,2010-09-24T14:49:27+02:00
+mourner,e9c1c0f6,2010-09-24,No Component,,e9c1c0f6,34,15,agafonkin@gmail.com,2010-09-24T14:47:22+02:00
+mourner,f0be995d,2010-09-23,No Component,,f0be995d,1,1,agafonkin@gmail.com,2010-09-23T17:44:30+02:00
+mourner,ff36820c,2010-09-23,No Component,fix,ff36820c,2,2,agafonkin@gmail.com,2010-09-23T16:25:55+02:00
+mourner,7e7379ae,2010-09-23,No Component,fix,7e7379ae,2,2,agafonkin@gmail.com,2010-09-23T16:25:35+02:00
+mourner,3ed4a393,2010-09-23,No Component,,3ed4a393,1,1,agafonkin@gmail.com,2010-09-23T16:18:51+02:00
+mourner,5bb04e75,2010-09-23,No Component,,5bb04e75,9,2,agafonkin@gmail.com,2010-09-23T14:56:29+02:00
+mourner,7752bd79,2010-09-23,No Component,,7752bd79,37,0,agafonkin@gmail.com,2010-09-23T13:22:20+02:00
+mourner,ac7e3d7b,2010-09-21,No Component,,ac7e3d7b,1,1,agafonkin@gmail.com,2010-09-21T17:37:59+02:00
+mourner,c19725a8,2010-09-21,No Component,,c19725a8,2,4,agafonkin@gmail.com,2010-09-21T17:37:00+02:00
+mourner,db14ecaa,2010-09-21,No Component,,db14ecaa,9,2,agafonkin@gmail.com,2010-09-21T17:36:52+02:00
+mourner,1844c115,2010-09-21,No Component,,1844c115,2,1,agafonkin@gmail.com,2010-09-21T17:36:33+02:00
+mourner,9dce5468,2010-09-21,No Component,,9dce5468,22,11,agafonkin@gmail.com,2010-09-21T17:36:21+02:00
+mourner,1ec29711,2010-09-21,No Component,,1ec29711,10,4,agafonkin@gmail.com,2010-09-21T17:36:00+02:00
+mourner,480120e3,2010-09-21,No Component,fix,480120e3,7,1,agafonkin@gmail.com,2010-09-21T15:10:31+02:00
+mourner,40f2b081,2010-09-21,No Component,,40f2b081,1,1,agafonkin@gmail.com,2010-09-21T14:59:19+02:00
+mourner,f9f8b811,2010-09-21,No Component,,f9f8b811,11,1,agafonkin@gmail.com,2010-09-21T14:57:37+02:00
+mourner,4984035a,2010-09-21,No Component,fix,4984035a,36,31,agafonkin@gmail.com,2010-09-21T14:48:31+02:00
+mourner,56c6a8c2,2010-09-21,No Component,,56c6a8c2,40,0,agafonkin@gmail.com,2010-09-21T14:28:55+02:00
+mourner,e734e20d,2010-09-21,No Component,,e734e20d,39,14,agafonkin@gmail.com,2010-09-21T14:28:13+02:00
+mourner,9437cfda,2010-09-21,No Component,fix,9437cfda,1,3,agafonkin@gmail.com,2010-09-21T14:27:47+02:00
+mourner,0178d1c2,2010-09-21,No Component,,0178d1c2,4,0,agafonkin@gmail.com,2010-09-21T11:25:30+02:00
+mourner,a523cc7c,2010-09-21,No Component,,a523cc7c,13,5,agafonkin@gmail.com,2010-09-21T11:25:23+02:00
+mourner,0d9dd1c5,2010-09-21,No Component,,0d9dd1c5,0,0,agafonkin@gmail.com,2010-09-21T11:17:05+02:00
+mourner,4a7b244a,2010-09-21,No Component,fix,4a7b244a,1,1,agafonkin@gmail.com,2010-09-21T11:15:56+02:00
+mourner,c134357f,2010-09-21,No Component,,c134357f,1,1,agafonkin@gmail.com,2010-09-21T11:15:43+02:00
+mourner,7437c430,2010-09-21,No Component,,7437c430,6,2,agafonkin@gmail.com,2010-09-21T10:55:56+02:00
+mourner,70a7b7c4,2010-09-21,No Component,fix,70a7b7c4,3,3,agafonkin@gmail.com,2010-09-21T10:50:02+02:00
+mourner,2b8d9eed,2010-09-21,No Component,,2b8d9eed,43,0,agafonkin@gmail.com,2010-09-21T10:46:31+02:00
+mourner,8a23efb5,2010-09-21,No Component,,8a23efb5,32,0,agafonkin@gmail.com,2010-09-21T10:44:04+02:00
+mourner,bc319be3,2010-09-21,No Component,fix,bc319be3,36,5,agafonkin@gmail.com,2010-09-21T10:43:50+02:00
+mourner,5fc29465,2010-09-20,No Component,,5fc29465,32,18,agafonkin@gmail.com,2010-09-20T14:08:25+02:00
+mourner,4716b84e,2010-09-17,No Component,,4716b84e,4,4,agafonkin@gmail.com,2010-09-17T18:05:33+02:00
+mourner,3027c656,2010-09-17,No Component,,3027c656,77,0,agafonkin@gmail.com,2010-09-17T18:05:25+02:00
+mourner,8d46a8a7,2010-09-17,No Component,fix,8d46a8a7,1,1,agafonkin@gmail.com,2010-09-17T18:05:18+02:00
+mourner,a2d2fed2,2010-09-17,No Component,,a2d2fed2,16,0,agafonkin@gmail.com,2010-09-17T18:04:41+02:00
+mourner,64a40b38,2010-09-17,No Component,,64a40b38,1,1,agafonkin@gmail.com,2010-09-17T10:01:49+02:00
+mourner,a61f8986,2010-09-16,No Component,,a61f8986,13,3,agafonkin@gmail.com,2010-09-16T18:38:58+02:00
+mourner,d6044296,2010-09-16,No Component,,d6044296,1,1,agafonkin@gmail.com,2010-09-16T17:36:36+02:00
+mourner,69a9637e,2010-09-16,No Component,,69a9637e,4,0,agafonkin@gmail.com,2010-09-16T17:36:25+02:00
+mourner,5a6f41dd,2010-09-16,No Component,,5a6f41dd,4,0,agafonkin@gmail.com,2010-09-16T17:34:51+02:00
+mourner,63287f8a,2010-09-16,No Component,,63287f8a,53,20,agafonkin@gmail.com,2010-09-16T17:33:33+02:00
+mourner,8313ea54,2010-09-16,No Component,,8313ea54,29,31,agafonkin@gmail.com,2010-09-16T17:32:55+02:00
+mourner,f46abd15,2010-09-16,No Component,,f46abd15,65,11,agafonkin@gmail.com,2010-09-16T15:08:34+02:00
+mourner,779aec84,2010-09-16,No Component,,779aec84,24,7,agafonkin@gmail.com,2010-09-16T15:07:59+02:00
+mourner,c407e5c7,2010-09-16,No Component,,c407e5c7,91,0,agafonkin@gmail.com,2010-09-16T15:05:55+02:00
+mourner,c267a232,2010-09-16,No Component,,c267a232,6,2,agafonkin@gmail.com,2010-09-16T15:05:42+02:00
+mourner,535ec2ce,2010-09-16,No Component,,535ec2ce,9,4,agafonkin@gmail.com,2010-09-16T15:05:08+02:00
+mourner,e4b4704e,2010-09-16,No Component,,e4b4704e,25,0,agafonkin@gmail.com,2010-09-16T15:04:33+02:00
+mourner,361d79c5,2010-09-15,No Component,,361d79c5,9,9,agafonkin@gmail.com,2010-09-15T16:04:02+02:00
+mourner,87c37405,2010-09-15,No Component,,87c37405,5,3,agafonkin@gmail.com,2010-09-15T16:03:53+02:00
+mourner,d7a16047,2010-09-15,No Component,,d7a16047,1,0,agafonkin@gmail.com,2010-09-15T15:46:27+02:00
+mourner,53bd768a,2010-09-15,No Component,,53bd768a,121,0,agafonkin@gmail.com,2010-09-15T15:45:42+02:00
+mourner,b6ead1db,2010-09-15,No Component,fix,b6ead1db,6,6,agafonkin@gmail.com,2010-09-15T15:45:16+02:00
+mourner,06d04385,2010-09-15,No Component,,06d04385,10,0,agafonkin@gmail.com,2010-09-15T15:45:02+02:00
+mourner,e5589f3c,2010-09-15,No Component,,e5589f3c,2,0,agafonkin@gmail.com,2010-09-15T15:44:07+02:00
+mourner,71f5d5c4,2010-09-15,No Component,,71f5d5c4,90,59,agafonkin@gmail.com,2010-09-15T15:43:58+02:00
+mourner,ad464742,2010-09-14,No Component,fix,ad464742,16,2,agafonkin@gmail.com,2010-09-14T13:57:45+02:00
+mourner,391e57c1,2010-09-13,No Component,,391e57c1,2,0,agafonkin@gmail.com,2010-09-13T18:02:49+02:00
+mourner,09d2ee91,2010-09-13,No Component,,09d2ee91,36,35,agafonkin@gmail.com,2010-09-13T17:57:08+02:00
+mourner,00717ab0,2010-09-13,No Component,,00717ab0,13,0,agafonkin@gmail.com,2010-09-13T17:18:12+02:00
+mourner,a64b832e,2010-09-13,No Component,,a64b832e,9,0,agafonkin@gmail.com,2010-09-13T17:17:17+02:00
+mourner,a9884f23,2010-09-13,No Component,,a9884f23,10,9,agafonkin@gmail.com,2010-09-13T15:16:12+02:00
+mourner,c958de97,2010-09-13,No Component,,c958de97,81,0,agafonkin@gmail.com,2010-09-13T13:58:28+02:00
+mourner,59a1736b,2010-09-13,No Component,fix,59a1736b,20,6,agafonkin@gmail.com,2010-09-13T13:58:03+02:00
+mourner,fafe7638,2010-09-10,No Component,,fafe7638,196,0,agafonkin@gmail.com,2010-09-10T17:12:07+02:00
+mourner,7cef8d38,2010-09-10,No Component,,7cef8d38,10,4,agafonkin@gmail.com,2010-09-10T15:54:20+02:00
+mourner,a8d55d0d,2010-09-10,No Component,,a8d55d0d,20,0,agafonkin@gmail.com,2010-09-10T15:54:03+02:00
+mourner,6a158218,2010-09-07,No Component,,6a158218,29,1,agafonkin@gmail.com,2010-09-07T16:02:45+02:00
+mourner,88ef7d16,2010-09-07,No Component,fix,88ef7d16,100,5,agafonkin@gmail.com,2010-09-07T14:04:00+02:00
+mourner,42bcb9b3,2010-09-07,No Component,,42bcb9b3,127,6,agafonkin@gmail.com,2010-09-07T13:27:44+02:00
+mourner,f65df497,2010-09-07,No Component,fix,f65df497,3,3,agafonkin@gmail.com,2010-09-07T13:01:11+02:00
+mourner,16097461,2010-09-07,No Component,fix,16097461,39,2,agafonkin@gmail.com,2010-09-07T10:59:58+02:00
+mourner,f7346791,2010-09-06,No Component,,f7346791,5,0,agafonkin@gmail.com,2010-09-06T18:17:27+02:00
+mourner,4854e0f9,2010-09-06,No Component,,4854e0f9,2,2,agafonkin@gmail.com,2010-09-06T18:14:04+02:00
+mourner,0b5cc9c4,2010-09-06,No Component,,0b5cc9c4,98,0,agafonkin@gmail.com,2010-09-06T18:06:38+02:00
+mourner,afded577,2010-09-06,No Component,fix,afded577,1,3,agafonkin@gmail.com,2010-09-06T17:55:54+02:00
+mourner,b50d878e,2010-09-06,No Component,fix,b50d878e,1,0,agafonkin@gmail.com,2010-09-06T17:38:14+02:00
+mourner,5b21def4,2010-09-06,No Component,,5b21def4,31,6,agafonkin@gmail.com,2010-09-06T17:26:20+02:00
+mourner,36f7ada6,2010-09-06,No Component,fix,36f7ada6,8,3,agafonkin@gmail.com,2010-09-06T15:17:27+02:00
+mourner,0eb9cd8c,2010-09-06,No Component,,0eb9cd8c,29,3,agafonkin@gmail.com,2010-09-06T15:17:06+02:00
+mourner,66f44ac7,2010-09-03,No Component,,66f44ac7,4,4,agafonkin@gmail.com,2010-09-03T18:56:57+02:00
+mourner,ada607fa,2010-09-03,No Component,,ada607fa,15,0,agafonkin@gmail.com,2010-09-03T18:49:32+02:00
+mourner,9d4e335f,2010-09-03,No Component,,9d4e335f,11,1,agafonkin@gmail.com,2010-09-03T18:27:26+02:00
+mourner,db5809b4,2010-09-03,No Component,fix,db5809b4,128,9,agafonkin@gmail.com,2010-09-03T18:16:29+02:00
+mourner,70263511,2010-09-03,No Component,,70263511,33,0,agafonkin@gmail.com,2010-09-03T17:26:35+02:00
+mourner,341f6e72,2010-09-03,No Component,,341f6e72,0,0,agafonkin@gmail.com,2010-09-03T16:38:41+02:00
+mourner,e1efc0c9,2010-09-03,No Component,,e1efc0c9,0,0,agafonkin@gmail.com,2010-09-03T14:38:14+02:00
+mourner,7a1dcd99,2010-09-02,No Component,,7a1dcd99,76,6,agafonkin@gmail.com,2010-09-02T17:23:53+02:00
+mourner,763b01ef,2010-09-02,No Component,,763b01ef,20,23,agafonkin@gmail.com,2010-09-02T16:49:15+02:00
+mourner,34305dab,2010-09-02,No Component,fix,34305dab,70,7,agafonkin@gmail.com,2010-09-02T16:26:54+02:00
+mourner,95de45ed,2010-09-02,No Component,,95de45ed,101,0,agafonkin@gmail.com,2010-09-02T15:14:25+02:00
+mourner,3f2a02c0,2010-09-02,No Component,,3f2a02c0,61,0,agafonkin@gmail.com,2010-09-02T12:40:34+02:00

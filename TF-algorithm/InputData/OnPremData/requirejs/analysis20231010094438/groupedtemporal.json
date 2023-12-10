@@ -1,0 +1,1 @@
+{"version":2,"couples":[{"imports":[{"name":"requirejs.tests.all.js","degree":"50"}],"name":"requirejs.require.js","displayname":"requirejs\/require.js","size":1},{"imports":[{"name":"requirejs.require.js","degree":"50"}],"name":"requirejs.tests.all.js","displayname":"requirejs\/tests\/all.js","size":1}]}

@@ -1,0 +1,2 @@
+author,rev,date,entity,message,ticket-id,loc-added,loc-deleted,author-email,basic-date-time
+Nicolas Gramlich,e63dd247,2013-11-15,AndEngine/src/org/anddev/andengine/util/path/astar/ManhattanHeuristic.java,Fix,e63dd247,1,1,ngramlich@zynga.com,2013-11-15T09:36:11+01:00

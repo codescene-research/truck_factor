@@ -1,0 +1,1313 @@
+author,rev,date,entity,message,ticket-id,loc-added,loc-deleted,author-email,basic-date-time
+Kay-Uwe Janssen,9c134b07,2016-09-09,No Component,,9c134b07,1,1,git@kujanssen.de,2016-09-09T14:17:23+02:00
+Kay-Uwe Janssen,120eef0f,2016-09-09,No Component,,120eef0f,10,0,git@kujanssen.de,2016-09-09T14:16:48+02:00
+Péter Simon,f892b640,2016-07-21,No Component,,f892b640,250,0,simonpeterferenc@gmail.com,2016-07-21T20:41:45+02:00
+Péter Simon,031f2299,2016-08-03,No Component,,031f2299,100,0,simonpeterferenc@gmail.com,2016-08-03T20:44:11+02:00
+Péter Simon,faa9e8cf,2016-07-21,No Component,,faa9e8cf,2,0,simonpeterferenc@gmail.com,2016-07-21T22:05:16+02:00
+Péter Simon,f2788ea1,2016-07-30,No Component,,f2788ea1,37,0,simonpeterferenc@gmail.com,2016-07-30T14:46:46+02:00
+Csaba Kozak,9c43036c,2016-07-26,No Component,Fix,9c43036c,3,3,kozakcsabi@gmail.com,2016-07-26T23:04:00+02:00
+Luke Sleeman,064a10a5,2016-07-25,No Component,,064a10a5,1,1,luke.sleeman@gmail.com,2016-07-25T12:16:16+02:00
+Luke Sleeman,b35a6d26,2016-07-25,No Component,,b35a6d26,2,2,luke.sleeman@gmail.com,2016-07-25T12:14:29+02:00
+Péter Simon,3a0c597b,2016-07-21,No Component,Fix,3a0c597b,4,0,simonpeterferenc@gmail.com,2016-07-21T22:45:56+02:00
+Péter Simon,d83422b8,2016-07-20,No Component,,d83422b8,105,4,simonpeterferenc@gmail.com,2016-07-20T22:31:56+02:00
+Péter Simon,5dee44d7,2016-07-21,No Component,Fix,5dee44d7,5,1,simonpeterferenc@gmail.com,2016-07-21T21:47:27+02:00
+Csaba Kozak,134565df,2016-07-17,No Component,,134565df,12,0,kozakcsabi@gmail.com,2016-07-17T11:42:55+02:00
+Kay-Uwe Janssen,210ad0bb,2016-06-17,No Component,,210ad0bb,4,0,git@kujanssen.de,2016-06-17T18:09:06+02:00
+Kay-Uwe Janssen,6632bfac,2016-06-14,No Component,,6632bfac,51,0,git@kujanssen.de,2016-06-14T20:15:57+02:00
+Romain Vimont,99852635,2016-06-15,No Component,Fix,99852635,30,11,rom@rom1v.com,2016-06-15T15:07:52+02:00
+Romain Vimont,a003c491,2016-06-15,No Component,fix Fix,a003c491,1,1,rom@rom1v.com,2016-06-15T15:07:39+02:00
+Csaba Kozak,503da933,2016-06-13,No Component,,503da933,30,6,kozakcsabi@gmail.com,2016-06-13T18:27:25+02:00
+Kay-Uwe Janssen,d9db0d89,2016-06-01,No Component,fix,d9db0d89,1,1,git@kujanssen.de,2016-06-01T20:48:50+02:00
+Kay-Uwe Janssen,492820b6,2016-06-01,No Component,,492820b6,188,0,git@kujanssen.de,2016-06-01T20:06:22+02:00
+Kay-Uwe Janssen,d989b7d1,2016-06-01,No Component,,d989b7d1,3,2,git@kujanssen.de,2016-06-01T20:06:12+02:00
+Kay-Uwe Janssen,f5d5eb14,2016-06-01,No Component,,f5d5eb14,1,1,git@kujanssen.de,2016-06-01T18:57:30+02:00
+Kay-Uwe Janssen,4be09a98,2016-06-01,No Component,,4be09a98,9,7,git@kujanssen.de,2016-06-01T18:57:07+02:00
+Kay-Uwe Janssen,dedd9108,2016-06-01,No Component,,dedd9108,54,0,git@kujanssen.de,2016-06-01T18:56:24+02:00
+Kay-Uwe Janssen,99e1be16,2016-06-01,No Component,fix,99e1be16,2,2,git@kujanssen.de,2016-06-01T18:23:13+02:00
+Kay-Uwe Janssen,775d5dd8,2016-05-30,No Component,,775d5dd8,18,8,git@kujanssen.de,2016-05-30T18:07:39+02:00
+Kay-Uwe Janssen,4e0fe832,2016-05-30,No Component,,4e0fe832,9,0,git@kujanssen.de,2016-05-30T18:07:05+02:00
+Kay-Uwe Janssen,f26c1cf9,2016-05-30,No Component,,f26c1cf9,4,0,git@kujanssen.de,2016-05-30T18:06:13+02:00
+Kay-Uwe Janssen,70395092,2016-05-30,No Component,,70395092,2,0,git@kujanssen.de,2016-05-30T18:05:47+02:00
+Csaba Kozak,cabbfef3,2016-05-22,No Component,,cabbfef3,55,0,kozakcsabi@gmail.com,2016-05-22T19:06:06+02:00
+Csaba Kozak,6b27f32f,2016-05-22,No Component,,6b27f32f,0,2,kozakcsabi@gmail.com,2016-05-22T18:46:25+02:00
+Csaba Kozak,3c89f0f8,2016-04-12,No Component,,3c89f0f8,36,8,kozakcsabi@gmail.com,2016-04-12T21:35:07+02:00
+Péter Simon,1a10f311,2016-03-27,No Component,Fix,1a10f311,12,2,simonpeterferenc@gmail.com,2016-03-27T12:41:59+02:00
+Csaba Kozak,8ae6d54f,2016-03-17,No Component,,8ae6d54f,3,3,kozakcsabi@gmail.com,2016-03-17T12:58:05+01:00
+Csaba Kozak,c64d295e,2016-03-16,No Component,,c64d295e,5,5,kozakcsabi@gmail.com,2016-03-16T23:36:14+01:00
+Csaba Kozak,61c9a5e9,2016-03-15,No Component,,61c9a5e9,130,0,kozakcsabi@gmail.com,2016-03-15T23:07:50+01:00
+Csaba Kozak,d1246cd8,2016-03-16,No Component,Fix,d1246cd8,22,4,kozakcsabi@gmail.com,2016-03-16T10:45:31+01:00
+Csaba Kozak,f0a500f1,2016-03-15,No Component,,f0a500f1,0,8,kozakcsabi@gmail.com,2016-03-15T17:18:36+01:00
+Csaba Kozak,2385362f,2016-03-15,No Component,,2385362f,0,8,kozakcsabi@gmail.com,2016-03-15T11:54:31+01:00
+Csaba Kozak,5d6baebc,2016-03-04,No Component,,5d6baebc,5,0,kozakcsabi@gmail.com,2016-03-04T15:31:19+01:00
+Csaba Kozak,50a27c50,2016-03-04,No Component,,50a27c50,14,10,kozakcsabi@gmail.com,2016-03-04T14:39:33+01:00
+Csaba Kozak,8c176d42,2016-03-04,No Component,,8c176d42,9,10,kozakcsabi@gmail.com,2016-03-04T11:40:45+01:00
+Csaba Kozak,8833bce1,2016-03-04,No Component,,8833bce1,71,0,kozakcsabi@gmail.com,2016-03-04T11:37:57+01:00
+Csaba Kozak,92051dd9,2016-03-04,No Component,,92051dd9,2,2,kozakcsabi@gmail.com,2016-03-04T11:36:34+01:00
+Csaba Kozak,7b7a55eb,2016-03-01,No Component,fix,7b7a55eb,0,11,kozakcsabi@gmail.com,2016-03-01T21:54:26+01:00
+Kay-Uwe Janssen,869df80c,2016-02-29,No Component,,869df80c,30,0,git@kujanssen.de,2016-02-29T19:43:07+01:00
+Kay-Uwe Janssen,9286175b,2016-02-29,No Component,fix,9286175b,1,1,git@kujanssen.de,2016-02-29T19:16:15+01:00
+Csaba Kozak,91048519,2016-02-26,No Component,fix,91048519,1,1,kozakcsabi@gmail.com,2016-02-26T00:03:44+01:00
+Csaba Kozak,d5a1874b,2016-02-26,No Component,fix,d5a1874b,4,0,kozakcsabi@gmail.com,2016-02-26T00:01:49+01:00
+Csaba Kozak,46f93b4c,2016-02-25,No Component,Fix fix,46f93b4c,78,5,kozakcsabi@gmail.com,2016-02-25T23:15:18+01:00
+Csaba Kozak,43819425,2016-02-21,No Component,,43819425,823,823,kozakcsabi@gmail.com,2016-02-21T14:06:04+01:00
+Csaba Kozak,cc628cdd,2016-02-21,No Component,,cc628cdd,11,0,kozakcsabi@gmail.com,2016-02-21T13:55:32+01:00
+Federico Iosue,39ded582,2016-02-17,No Component,,39ded582,11,0,fiosue@omniagroup.it,2016-02-17T20:55:07+01:00
+Federico Iosue,9b67a866,2016-02-09,No Component,,9b67a866,5,0,federico.iosue@gmail.com,2016-02-09T23:10:12+01:00
+guitcastro,99a5170c,2016-02-04,No Component,fix,99a5170c,1,1,guilherme.torres.castro@gmail.com,2016-02-04T20:04:50+01:00
+Csaba Kozak,e901cda9,2016-01-27,No Component,,e901cda9,6,6,kozakcsabi@gmail.com,2016-01-27T13:21:57+01:00
+Csaba Kozak,192c3161,2016-01-27,No Component,Fix,192c3161,3,3,kozakcsabi@gmail.com,2016-01-27T13:21:57+01:00
+Csaba Kozak,9b089319,2015-12-23,No Component,Fix,9b089319,2,2,kozakcsabi@gmail.com,2015-12-23T15:43:04+01:00
+Csaba Kozak,3eb00e97,2015-12-20,No Component,,3eb00e97,2,2,kozakcsabi@gmail.com,2015-12-20T13:56:20+01:00
+Csaba Kozak,ccac75a5,2015-12-20,No Component,,ccac75a5,21,7,kozakcsabi@gmail.com,2015-12-20T13:55:47+01:00
+Kay-Uwe Janssen,03bf6bbd,2015-12-20,No Component,,03bf6bbd,39,5,git@kujanssen.de,2015-12-20T13:01:35+01:00
+Kay-Uwe Janssen,1c2575cf,2015-12-20,No Component,,1c2575cf,24,4,git@kujanssen.de,2015-12-20T12:53:16+01:00
+Kay-Uwe Janssen,a2f3bfd5,2015-12-20,No Component,,a2f3bfd5,230,91,git@kujanssen.de,2015-12-20T03:30:35+01:00
+dodgex,c7d182db,2015-12-14,No Component,,c7d182db,215,63,dodgex@users.noreply.github.com,2015-12-14T15:07:12+01:00
+Kay-Uwe Janssen,4396b441,2015-12-18,No Component,,4396b441,6,0,git@kujanssen.de,2015-12-18T18:59:34+01:00
+Kay-Uwe Janssen,40b6f7d6,2015-10-11,No Component,,40b6f7d6,26,11,git@kujanssen.de,2015-10-11T16:57:19+02:00
+Kay-Uwe Janssen,a3256f4e,2015-12-18,No Component,,a3256f4e,21,0,git@kujanssen.de,2015-12-18T19:06:44+01:00
+Kay-Uwe Janssen,7d0c59ec,2015-10-11,No Component,,7d0c59ec,33,15,git@kujanssen.de,2015-10-11T16:46:30+02:00
+Kay-Uwe Janssen,9121bfcf,2015-10-11,No Component,,9121bfcf,22,0,git@kujanssen.de,2015-10-11T12:42:29+02:00
+Kay-Uwe Janssen,27ea8531,2015-10-11,No Component,,27ea8531,35,46,git@kujanssen.de,2015-10-11T12:42:18+02:00
+Kay-Uwe Janssen,4e1ba9d7,2015-10-11,No Component,,4e1ba9d7,23,0,git@kujanssen.de,2015-10-11T17:47:31+02:00
+Kay-Uwe Janssen,161f1284,2015-10-11,No Component,,161f1284,47,18,git@kujanssen.de,2015-10-11T12:09:10+02:00
+Kay-Uwe Janssen,bbda8a11,2015-10-11,No Component,,bbda8a11,21,0,git@kujanssen.de,2015-10-11T10:51:19+02:00
+Kay-Uwe Janssen,cade8710,2015-10-11,No Component,,cade8710,40,46,git@kujanssen.de,2015-10-11T10:50:55+02:00
+Kay-Uwe Janssen,9d796cdd,2015-09-27,No Component,,9d796cdd,42,1,git@kujanssen.de,2015-09-27T00:37:46+02:00
+Kay-Uwe Janssen,63343c75,2015-09-27,No Component,,63343c75,38,11,git@kujanssen.de,2015-09-27T00:37:37+02:00
+Kay-Uwe Janssen,8813c6bb,2015-09-27,No Component,,8813c6bb,31,0,git@kujanssen.de,2015-09-27T00:03:13+02:00
+Kay-Uwe Janssen,85197fda,2015-09-27,No Component,,85197fda,28,11,git@kujanssen.de,2015-09-27T00:03:03+02:00
+Kay-Uwe Janssen,a7affe77,2015-09-26,No Component,,a7affe77,26,0,git@kujanssen.de,2015-09-26T23:28:56+02:00
+Kay-Uwe Janssen,6c2765de,2015-09-26,No Component,,6c2765de,27,11,git@kujanssen.de,2015-09-26T23:08:30+02:00
+Kay-Uwe Janssen,dfec37ea,2015-09-26,No Component,,dfec37ea,24,0,git@kujanssen.de,2015-09-26T23:00:53+02:00
+Kay-Uwe Janssen,dc0c5f77,2015-09-26,No Component,,dc0c5f77,33,17,git@kujanssen.de,2015-09-26T23:00:42+02:00
+Kay-Uwe Janssen,bd8f4c18,2015-09-26,No Component,,bd8f4c18,28,0,git@kujanssen.de,2015-09-26T22:25:59+02:00
+Kay-Uwe Janssen,804bff7e,2015-09-26,No Component,,804bff7e,51,25,git@kujanssen.de,2015-09-26T22:25:49+02:00
+Kay-Uwe Janssen,4d9d2fca,2015-09-26,No Component,,4d9d2fca,23,0,git@kujanssen.de,2015-09-26T21:48:59+02:00
+Kay-Uwe Janssen,4801b0df,2015-09-26,No Component,,4801b0df,55,29,git@kujanssen.de,2015-09-26T21:43:18+02:00
+Kay-Uwe Janssen,73b994d7,2015-09-25,No Component,,73b994d7,26,0,git@kujanssen.de,2015-09-25T23:30:53+02:00
+Kay-Uwe Janssen,a97b8ad2,2015-09-25,No Component,,a97b8ad2,25,8,git@kujanssen.de,2015-09-25T23:30:38+02:00
+Kay-Uwe Janssen,81e5da44,2015-09-25,No Component,,81e5da44,16,0,git@kujanssen.de,2015-09-25T23:04:33+02:00
+Kay-Uwe Janssen,21370998,2015-09-25,No Component,,21370998,30,9,git@kujanssen.de,2015-09-25T23:04:14+02:00
+Kay-Uwe Janssen,d91e71de,2015-09-25,No Component,,d91e71de,24,0,git@kujanssen.de,2015-09-25T00:23:41+02:00
+Kay-Uwe Janssen,0dd6534d,2015-09-25,No Component,,0dd6534d,29,9,git@kujanssen.de,2015-09-25T00:23:22+02:00
+Kay-Uwe Janssen,fca69f62,2015-09-24,No Component,,fca69f62,114,14,git@kujanssen.de,2015-09-24T23:38:43+02:00
+Kay-Uwe Janssen,dc0a2ca8,2015-09-24,No Component,,dc0a2ca8,91,56,git@kujanssen.de,2015-09-24T23:04:49+02:00
+Kay-Uwe Janssen,d22b612b,2015-09-20,No Component,,d22b612b,53,2,git@kujanssen.de,2015-09-20T20:53:52+02:00
+Kay-Uwe Janssen,5169a334,2015-12-16,No Component,,5169a334,45,29,git@kujanssen.de,2015-12-16T19:18:19+01:00
+Kay-Uwe Janssen,3068d539,2015-09-20,No Component,,3068d539,110,0,git@kujanssen.de,2015-09-20T19:49:08+02:00
+Kay-Uwe Janssen,9772debe,2015-09-20,No Component,,9772debe,63,18,git@kujanssen.de,2015-09-20T19:48:56+02:00
+Kay-Uwe Janssen,077e8d5e,2015-10-11,No Component,,077e8d5e,105,0,git@kujanssen.de,2015-10-11T20:24:45+02:00
+Kay-Uwe Janssen,dce66fbc,2015-09-20,No Component,,dce66fbc,247,0,git@kujanssen.de,2015-09-20T19:47:32+02:00
+shiraji,f22dfbd2,2015-12-19,No Component,,f22dfbd2,40,0,isogai.shiraji@gmail.com,2015-12-19T01:43:17+01:00
+shiraji,090fc288,2015-12-19,No Component,,090fc288,30,1,isogai.shiraji@gmail.com,2015-12-19T01:33:14+01:00
+shiraji,2ea4a38d,2015-12-19,No Component,,2ea4a38d,36,6,isogai.shiraji@gmail.com,2015-12-19T01:32:44+01:00
+shiraji,1b7183ce,2015-12-18,No Component,,1b7183ce,14,14,isogai.shiraji@gmail.com,2015-12-18T17:27:12+01:00
+Kay-Uwe Janssen,4ba3e2f5,2015-12-18,No Component,,4ba3e2f5,27,0,git@kujanssen.de,2015-12-18T03:13:44+01:00
+Kay-Uwe Janssen,da062fdd,2015-12-18,No Component,,da062fdd,1,1,git@kujanssen.de,2015-12-18T03:18:54+01:00
+Kay-Uwe Janssen,9c01ba87,2015-12-18,No Component,,9c01ba87,6,0,git@kujanssen.de,2015-12-18T03:13:09+01:00
+Kay-Uwe Janssen,4ece8103,2015-12-17,No Component,,4ece8103,149,0,git@kujanssen.de,2015-12-17T15:12:51+01:00
+Kay-Uwe Janssen,f38d288b,2015-12-17,No Component,,f38d288b,5,6,git@kujanssen.de,2015-12-17T14:52:44+01:00
+shiraji,78ed9093,2015-12-12,No Component,,78ed9093,207,0,isogai.shiraji@gmail.com,2015-12-12T15:16:55+01:00
+shiraji,309c7762,2015-12-14,No Component,,309c7762,11,4,isogai.shiraji@gmail.com,2015-12-14T15:55:36+01:00
+shiraji,fda43a0b,2015-12-11,No Component,,fda43a0b,2,0,isogai.shiraji@gmail.com,2015-12-11T05:49:29+01:00
+shiraji,aa63925d,2015-11-22,No Component,,aa63925d,677,0,isogai.shiraji@gmail.com,2015-11-22T16:34:40+01:00
+shiraji,3fe88e78,2015-11-22,No Component,,3fe88e78,565,25,isogai.shiraji@gmail.com,2015-11-22T16:34:14+01:00
+shiraji,0f550378,2015-11-22,No Component,,0f550378,283,0,isogai.shiraji@gmail.com,2015-11-22T16:33:23+01:00
+Sebastian Roth,f1989f4f,2015-11-23,No Component,,f1989f4f,26,6,sebastian.roth@gmail.com,2015-11-23T12:32:26+01:00
+shiraji,5fd6f076,2015-11-18,No Component,Fix,5fd6f076,56,57,isogai.shiraji@gmail.com,2015-11-18T15:47:59+01:00
+shiraji,07db76a9,2015-11-18,No Component,,07db76a9,8,35,isogai.shiraji@gmail.com,2015-11-18T15:47:45+01:00
+Sebastian Roth,fc0d3143,2015-11-19,No Component,,fc0d3143,72,0,sebastian.roth@gmail.com,2015-11-19T11:18:13+01:00
+Sebastian Roth,be5d3615,2015-11-17,No Component,Fix,be5d3615,7,0,sebastian.roth@gmail.com,2015-11-17T14:18:19+01:00
+Kay-Uwe Janssen,2d5ee083,2015-11-15,No Component,,2d5ee083,30,0,git@kujanssen.de,2015-11-15T09:30:32+01:00
+Kay-Uwe Janssen,8cf14890,2015-11-15,No Component,,8cf14890,7,0,git@kujanssen.de,2015-11-15T09:12:53+01:00
+Kay-Uwe Janssen,3cd2e0f7,2015-11-15,No Component,,3cd2e0f7,12,0,git@kujanssen.de,2015-11-15T09:12:12+01:00
+Kay-Uwe Janssen,7a82b96d,2015-11-15,No Component,,7a82b96d,13,2,git@kujanssen.de,2015-11-15T09:11:14+01:00
+shiraji,3222cfd5,2015-11-15,No Component,,3222cfd5,11,7,isogai.shiraji@gmail.com,2015-11-15T06:56:51+01:00
+shiraji,ec363807,2015-11-15,No Component,,ec363807,15,0,isogai.shiraji@gmail.com,2015-11-15T06:44:47+01:00
+shiraji,0a3ef6ff,2015-11-13,No Component,,0a3ef6ff,40,0,isogai.shiraji@gmail.com,2015-11-13T00:07:19+01:00
+shiraji,e4ac33c3,2015-11-12,No Component,,e4ac33c3,7,0,isogai.shiraji@gmail.com,2015-11-12T00:30:19+01:00
+shiraji,28a213e4,2015-11-11,No Component,,28a213e4,2,2,isogai.shiraji@gmail.com,2015-11-11T23:52:16+01:00
+shiraji,cc6dd2fc,2015-11-11,No Component,,cc6dd2fc,3,3,isogai.shiraji@gmail.com,2015-11-11T23:08:44+01:00
+shiraji,ee03bad0,2015-11-11,No Component,,ee03bad0,3,0,isogai.shiraji@gmail.com,2015-11-11T23:05:50+01:00
+shiraji,4c3657ca,2015-11-11,No Component,,4c3657ca,0,1,isogai.shiraji@gmail.com,2015-11-11T23:01:26+01:00
+shiraji,ac0ba561,2015-11-11,No Component,,ac0ba561,9,9,isogai.shiraji@gmail.com,2015-11-11T22:57:42+01:00
+Kay-Uwe Janssen,bdf41dc8,2015-11-14,No Component,,bdf41dc8,7,2,git@kujanssen.de,2015-11-14T21:31:17+01:00
+Kay-Uwe Janssen,9d22682d,2015-11-14,No Component,fix,9d22682d,10,0,git@kujanssen.de,2015-11-14T21:10:45+01:00
+WonderCsabo,2f971302,2015-11-14,No Component,,2f971302,14,4,kozakcsabi@gmail.com,2015-11-14T15:10:31+01:00
+Csaba Kozak,35ee75cb,2015-11-12,No Component,Fix BUG,35ee75cb,2,2,kozakcsabi@gmail.com,2015-11-12T01:16:55+01:00
+shiraji,56b7f0cb,2015-11-11,No Component,,56b7f0cb,2,2,isogai.shiraji@gmail.com,2015-11-11T15:29:57+01:00
+shiraji,f17bf75a,2015-11-11,No Component,,f17bf75a,1,1,isogai.shiraji@gmail.com,2015-11-11T15:28:12+01:00
+shiraji,d84b8e34,2015-11-11,No Component,,d84b8e34,0,5,isogai.shiraji@gmail.com,2015-11-11T15:05:45+01:00
+Csaba Kozak,299cfd9e,2015-11-11,No Component,,299cfd9e,9,0,kozakcsabi@gmail.com,2015-11-11T11:45:01+01:00
+Sebastian Roth,d58d5d51,2015-11-10,No Component,,d58d5d51,110,213,sebastian.roth@gmail.com,2015-11-10T04:19:00+01:00
+Sebastian Roth,a5eeb0d7,2015-11-09,No Component,fix,a5eeb0d7,515,0,sebastian.roth@gmail.com,2015-11-09T07:39:20+01:00
+shiraji,ad46c037,2015-11-07,No Component,Fix,ad46c037,63,70,isogai.shiraji@gmail.com,2015-11-07T08:25:30+01:00
+shiraji,63933b4b,2015-11-01,No Component,,63933b4b,107,78,isogai.shiraji@gmail.com,2015-11-01T03:05:48+01:00
+shiraji,dfab395e,2015-11-06,No Component,,dfab395e,20,0,isogai.shiraji@gmail.com,2015-11-06T15:45:11+01:00
+shiraji,7dd7c811,2015-11-01,No Component,,7dd7c811,46,0,isogai.shiraji@gmail.com,2015-11-01T02:44:07+01:00
+shiraji,c08cab9d,2015-10-31,No Component,,c08cab9d,49,0,isogai.shiraji@gmail.com,2015-10-31T08:33:08+01:00
+Kay-Uwe Janssen,7170f091,2015-10-31,No Component,,7170f091,7,0,git@kujanssen.de,2015-10-31T11:10:18+01:00
+Kay-Uwe Janssen,ba354b87,2015-10-31,No Component,,ba354b87,2,0,git@kujanssen.de,2015-10-31T11:09:59+01:00
+Kay-Uwe Janssen,01efc696,2015-10-30,No Component,,01efc696,58,0,git@kujanssen.de,2015-10-30T00:01:39+01:00
+Kay-Uwe Janssen,2b829cf6,2015-10-30,No Component,,2b829cf6,15,2,git@kujanssen.de,2015-10-30T00:01:14+01:00
+Kay-Uwe Janssen,e50967bd,2015-10-29,No Component,,e50967bd,0,11,git@kujanssen.de,2015-10-29T22:54:34+01:00
+Kay-Uwe Janssen,6953e34b,2015-09-20,No Component,,6953e34b,348,0,git@kujanssen.de,2015-09-20T16:50:41+02:00
+shiraji,12c146da,2015-10-29,No Component,,12c146da,10,1,isogai.shiraji@gmail.com,2015-10-29T15:10:24+01:00
+shiraji,ebb32339,2015-10-12,No Component,,ebb32339,103,0,isogai.shiraji@gmail.com,2015-10-12T16:50:56+02:00
+shiraji,eb4ab97e,2015-10-12,No Component,,eb4ab97e,1,1,isogai.shiraji@gmail.com,2015-10-12T16:40:43+02:00
+shiraji,ada12f75,2015-10-12,No Component,,ada12f75,6,4,isogai.shiraji@gmail.com,2015-10-12T16:38:35+02:00
+WonderCsabo,9cb87550,2015-10-14,No Component,,9cb87550,7,7,kozakcsabi@gmail.com,2015-10-14T22:57:13+02:00
+WonderCsabo,12342808,2015-10-14,No Component,,12342808,3,3,kozakcsabi@gmail.com,2015-10-14T10:54:21+02:00
+WonderCsabo,cb7aaef6,2015-10-10,No Component,,cb7aaef6,115,55,kozakcsabi@gmail.com,2015-10-10T18:03:18+02:00
+WonderCsabo,d28e4480,2015-10-11,No Component,Fix,d28e4480,37,1,kozakcsabi@gmail.com,2015-10-11T12:21:35+02:00
+WonderCsabo,37bf039a,2015-10-11,No Component,,37bf039a,2,1,kozakcsabi@gmail.com,2015-10-11T12:12:15+02:00
+WonderCsabo,f2e4c9a3,2015-10-11,No Component,,f2e4c9a3,1,1,kozakcsabi@gmail.com,2015-10-11T00:45:57+02:00
+Péter Simon,18377141,2015-10-10,No Component,,18377141,44,0,simonpeterferenc@gmail.com,2015-10-10T21:44:12+02:00
+Péter Simon,64b57128,2015-10-10,No Component,,64b57128,16,12,simonpeterferenc@gmail.com,2015-10-10T16:27:37+02:00
+Péter Simon,38229c2b,2015-10-10,No Component,,38229c2b,117,0,simonpeterferenc@gmail.com,2015-10-10T13:28:00+02:00
+Péter Simon,1a4a95b7,2015-10-10,No Component,,1a4a95b7,87,71,simonpeterferenc@gmail.com,2015-10-10T13:27:32+02:00
+Péter Simon,184c5eea,2015-10-10,No Component,,184c5eea,134,67,simonpeterferenc@gmail.com,2015-10-10T12:43:53+02:00
+Kay-Uwe Janssen,d36dd397,2015-06-07,No Component,,d36dd397,7,0,git@kujanssen.de,2015-06-07T23:21:28+02:00
+WonderCsabo,b31ebfbd,2015-09-14,No Component,Fix,b31ebfbd,3,8,kozakcsabi@gmail.com,2015-09-14T12:30:03+02:00
+Francis,41b698dd,2015-10-08,No Component,,41b698dd,2,2,tjdrms0121@gmail.com,2015-10-08T10:14:43+02:00
+Francis,c284e0df,2015-10-08,No Component,,c284e0df,3,3,tjdrms0121@gmail.com,2015-10-08T08:00:31+02:00
+John Ericksen,5df38589,2015-09-29,No Component,,5df38589,39,1,johncarl81@gmail.com,2015-09-29T03:03:32+02:00
+John Ericksen,34204c2d,2015-09-21,No Component,,34204c2d,132,85,johncarl81@gmail.com,2015-09-21T00:08:55+02:00
+John Ericksen,8cdcd700,2015-09-19,No Component,,8cdcd700,203,10,johncarl81@gmail.com,2015-09-19T08:23:20+02:00
+John Ericksen,1a6d0d30,2015-09-19,No Component,,1a6d0d30,3,0,johncarl81@gmail.com,2015-09-19T09:05:17+02:00
+WonderCsabo,0f89d419,2015-06-16,No Component,,0f89d419,60,0,kozakcsabi@gmail.com,2015-06-16T20:43:39+02:00
+Jonathan Maltz,79e66489,2015-06-16,No Component,,79e66489,218,0,maltz@yelp.com,2015-06-16T19:23:51+02:00
+Jonathan Maltz,e9dcd6fd,2015-06-16,No Component,,e9dcd6fd,151,8,maltz@yelp.com,2015-06-16T19:23:13+02:00
+Csaba Kozak,4e2bccfc,2015-09-28,No Component,,4e2bccfc,1,1,kozakcsabi@gmail.com,2015-09-28T14:22:10+02:00
+Csaba Kozak,7f49dbbf,2015-09-26,No Component,,7f49dbbf,4,3,kozakcsabi@gmail.com,2015-09-26T11:51:42+02:00
+Kay-Uwe Janssen,d09ae0f6,2015-09-21,No Component,,d09ae0f6,224,0,git@kujanssen.de,2015-09-21T22:57:00+02:00
+Kay-Uwe Janssen,19688cb8,2015-09-21,No Component,,19688cb8,224,0,git@kujanssen.de,2015-09-21T22:46:02+02:00
+WonderCsabo,074d41ed,2015-09-15,No Component,,074d41ed,8,6,kozakcsabi@gmail.com,2015-09-15T10:21:00+02:00
+WonderCsabo,a4d2a0eb,2015-09-15,No Component,,a4d2a0eb,42,58,kozakcsabi@gmail.com,2015-09-15T10:15:02+02:00
+WonderCsabo,42709a96,2015-09-15,No Component,Fix,42709a96,30,7,kozakcsabi@gmail.com,2015-09-15T09:41:32+02:00
+WonderCsabo,a65ba909,2015-09-21,No Component,,a65ba909,18,1,kozakcsabi@gmail.com,2015-09-21T15:12:09+02:00
+WonderCsabo,d1d56e9c,2015-09-14,No Component,,d1d56e9c,61,37,kozakcsabi@gmail.com,2015-09-14T10:51:57+02:00
+WonderCsabo,c87cbeb0,2015-09-12,No Component,,c87cbeb0,1428,1479,kozakcsabi@gmail.com,2015-09-12T22:47:29+02:00
+Jonathan Maltz,23715ea0,2015-06-16,No Component,,23715ea0,102,0,maltz@yelp.com,2015-06-16T19:22:35+02:00
+WonderCsabo,6f7ddbbf,2015-06-06,No Component,,6f7ddbbf,6,7,kozakcsabi@gmail.com,2015-06-06T17:08:21+02:00
+WonderCsabo,5da55aee,2015-06-07,No Component,,5da55aee,138,0,kozakcsabi@gmail.com,2015-06-07T09:22:15+02:00
+WonderCsabo,93305eb2,2015-06-07,No Component,,93305eb2,16,2,kozakcsabi@gmail.com,2015-06-07T09:22:52+02:00
+WonderCsabo,b67277f6,2015-06-07,No Component,,b67277f6,176,7,kozakcsabi@gmail.com,2015-06-07T09:23:40+02:00
+WonderCsabo,2d072edb,2015-05-31,No Component,,2d072edb,84,69,kozakcsabi@gmail.com,2015-05-31T15:53:57+02:00
+WonderCsabo,c2fe71ef,2015-09-11,No Component,,c2fe71ef,6,1,kozakcsabi@gmail.com,2015-09-11T19:04:48+02:00
+WonderCsabo,39d143a7,2015-09-11,No Component,,39d143a7,54,4,kozakcsabi@gmail.com,2015-09-11T19:03:18+02:00
+WonderCsabo,d66c9d45,2015-09-11,No Component,,d66c9d45,110,16,kozakcsabi@gmail.com,2015-09-11T18:59:54+02:00
+WonderCsabo,6ae48f86,2015-09-11,No Component,,6ae48f86,62,0,kozakcsabi@gmail.com,2015-09-11T18:38:26+02:00
+WonderCsabo,eb3459f1,2015-09-11,No Component,,eb3459f1,194,0,kozakcsabi@gmail.com,2015-09-11T18:35:46+02:00
+WonderCsabo,5113cb81,2015-09-11,No Component,,5113cb81,120,2,kozakcsabi@gmail.com,2015-09-11T18:30:10+02:00
+WonderCsabo,c8bf18e3,2015-09-11,No Component,,c8bf18e3,157,14,kozakcsabi@gmail.com,2015-09-11T18:25:50+02:00
+WonderCsabo,5592ae58,2015-09-11,No Component,,5592ae58,106,0,kozakcsabi@gmail.com,2015-09-11T16:48:32+02:00
+WonderCsabo,79c8ef16,2015-09-11,No Component,,79c8ef16,55,0,kozakcsabi@gmail.com,2015-09-11T16:43:10+02:00
+WonderCsabo,c943afc0,2015-09-11,No Component,,c943afc0,132,9,kozakcsabi@gmail.com,2015-09-11T16:40:02+02:00
+WonderCsabo,345f3253,2015-06-05,No Component,,345f3253,29,35,kozakcsabi@gmail.com,2015-06-05T00:11:22+02:00
+WonderCsabo,4dc1f187,2015-09-11,No Component,,4dc1f187,68,0,kozakcsabi@gmail.com,2015-09-11T16:23:36+02:00
+WonderCsabo,cc8cea55,2015-09-11,No Component,,cc8cea55,34,1,kozakcsabi@gmail.com,2015-09-11T16:22:38+02:00
+WonderCsabo,607e02a3,2015-09-11,No Component,,607e02a3,60,0,kozakcsabi@gmail.com,2015-09-11T16:17:53+02:00
+yDelouis,36dcc5f4,2015-09-20,No Component,Fix,36dcc5f4,1,1,ydelouis@gmail.com,2015-09-20T18:28:37+02:00
+yDelouis,776ba189,2015-09-20,No Component,Fix,776ba189,1,1,ydelouis@gmail.com,2015-09-20T18:29:06+02:00
+Kay-Uwe Janssen,c04444c3,2015-09-13,No Component,,c04444c3,0,10,git@kujanssen.de,2015-09-13T10:56:07+02:00
+Kay-Uwe Janssen,3b5ee5d1,2015-09-13,No Component,,3b5ee5d1,3,0,git@kujanssen.de,2015-09-13T10:49:33+02:00
+Kay-Uwe Janssen,87be9098,2015-09-13,No Component,fix,87be9098,19,7,git@kujanssen.de,2015-09-13T10:49:03+02:00
+WonderCsabo,c0a4b249,2015-06-15,No Component,,c0a4b249,32,4,kozakcsabi@gmail.com,2015-06-15T19:42:15+02:00
+yDelouis,eef07f2c,2015-09-20,No Component,Fix,eef07f2c,2,1,ydelouis@gmail.com,2015-09-20T16:50:10+02:00
+WonderCsabo,88dbd21f,2015-09-19,No Component,,88dbd21f,50,1,kozakcsabi@gmail.com,2015-09-19T13:49:36+02:00
+WonderCsabo,7d5e870c,2015-09-07,No Component,,7d5e870c,337,60,kozakcsabi@gmail.com,2015-09-07T13:05:50+02:00
+WonderCsabo,a411a699,2015-09-06,No Component,,a411a699,221,53,kozakcsabi@gmail.com,2015-09-06T16:12:56+02:00
+Kay-Uwe Janssen,599ce5d0,2015-09-17,No Component,,599ce5d0,11,0,git@kujanssen.de,2015-09-17T21:02:46+02:00
+Kay-Uwe Janssen,e604e2e2,2015-09-17,No Component,,e604e2e2,25,1,git@kujanssen.de,2015-09-17T19:30:18+02:00
+Kay-Uwe Janssen,ef986417,2015-09-17,No Component,,ef986417,71,0,git@kujanssen.de,2015-09-17T19:04:30+02:00
+Kay-Uwe Janssen,a0e6c5ec,2015-09-17,No Component,,a0e6c5ec,17,3,git@kujanssen.de,2015-09-17T18:57:37+02:00
+Kay-Uwe Janssen,ce98dc34,2015-09-17,No Component,,ce98dc34,5,0,git@kujanssen.de,2015-09-17T19:46:38+02:00
+WonderCsabo,240c51e8,2015-09-16,No Component,,240c51e8,6,3,kozakcsabi@gmail.com,2015-09-16T20:10:48+02:00
+Kay-Uwe Janssen,f1d6954b,2015-09-12,No Component,,f1d6954b,2,2,git@kujanssen.de,2015-09-12T23:38:51+02:00
+Kay-Uwe Janssen,59593c52,2015-08-19,No Component,,59593c52,169,0,git@kujanssen.de,2015-08-19T23:05:56+02:00
+Kay-Uwe Janssen,772d9386,2015-08-19,No Component,,772d9386,26,7,git@kujanssen.de,2015-08-19T22:49:06+02:00
+Péter Simon,c7ad0994,2015-09-09,No Component,,c7ad0994,169,0,simonpeterferenc@gmail.com,2015-09-09T13:37:19+02:00
+Péter Simon,cac49907,2015-09-09,No Component,,cac49907,281,0,simonpeterferenc@gmail.com,2015-09-09T07:58:22+02:00
+Péter Simon,c8b09c46,2015-09-08,No Component,,c8b09c46,82,14,simonpeterferenc@gmail.com,2015-09-08T16:24:00+02:00
+Kay-Uwe Janssen,f6c36f4f,2015-08-20,No Component,,f6c36f4f,1,1,git@kujanssen.de,2015-08-20T18:35:36+02:00
+Kay-Uwe Janssen,02a7cbb4,2015-08-20,No Component,,02a7cbb4,1,1,git@kujanssen.de,2015-08-20T18:15:40+02:00
+Matsegor Arthur,314fbec9,2015-07-09,No Component,Fix,314fbec9,1,1,macegor@meta.ua,2015-07-09T23:33:49+02:00
+Péter Simon,1afe4d5c,2015-09-07,No Component,,1afe4d5c,182,0,simonpeterferenc@gmail.com,2015-09-07T14:48:11+02:00
+Péter Simon,c6033b67,2015-09-07,No Component,,c6033b67,286,0,simonpeterferenc@gmail.com,2015-09-07T08:18:08+02:00
+Péter Simon,e8083175,2015-09-07,No Component,,e8083175,161,0,simonpeterferenc@gmail.com,2015-09-07T08:16:45+02:00
+Péter Simon,11f13072,2015-09-07,No Component,,11f13072,173,0,simonpeterferenc@gmail.com,2015-09-07T08:16:05+02:00
+Péter Simon,7b191dce,2015-09-07,No Component,,7b191dce,161,0,simonpeterferenc@gmail.com,2015-09-07T08:15:17+02:00
+Péter Simon,6cffea4f,2015-09-07,No Component,,6cffea4f,161,0,simonpeterferenc@gmail.com,2015-09-07T08:14:35+02:00
+Péter Simon,5b3bc236,2015-09-07,No Component,,5b3bc236,194,1,simonpeterferenc@gmail.com,2015-09-07T08:13:55+02:00
+Péter Simon,39e36dcb,2015-09-07,No Component,,39e36dcb,153,0,simonpeterferenc@gmail.com,2015-09-07T08:12:30+02:00
+Péter Simon,579520ef,2015-09-07,No Component,,579520ef,129,0,simonpeterferenc@gmail.com,2015-09-07T08:01:18+02:00
+Péter Simon,c723f905,2015-09-04,No Component,,c723f905,27,0,simonpeterferenc@gmail.com,2015-09-04T18:41:41+02:00
+Péter Simon,38eb8448,2015-09-04,No Component,Fix,38eb8448,13,0,simonpeterferenc@gmail.com,2015-09-04T18:40:34+02:00
+Péter Simon,9d0a7312,2015-07-30,No Component,,9d0a7312,49,0,simonpeterferenc@gmail.com,2015-07-30T21:55:28+02:00
+Péter Simon,b71645a1,2015-07-30,No Component,,b71645a1,15,1,simonpeterferenc@gmail.com,2015-07-30T21:47:02+02:00
+WonderCsabo,bd1acffc,2015-06-16,No Component,,bd1acffc,75,5,kozakcsabi@gmail.com,2015-06-16T16:40:08+02:00
+WonderCsabo,cf5ae3c7,2015-09-07,No Component,,cf5ae3c7,2,4,kozakcsabi@gmail.com,2015-09-07T13:49:47+02:00
+yDelouis,0a8cf132,2015-09-06,No Component,,0a8cf132,72,50,ydelouis@gmail.com,2015-09-06T14:39:55+02:00
+yDelouis,3a163326,2015-09-06,No Component,,3a163326,2,2,ydelouis@gmail.com,2015-09-06T13:37:17+02:00
+WonderCsabo,db9345ec,2015-09-06,No Component,,db9345ec,498,394,kozakcsabi@gmail.com,2015-09-06T00:34:55+02:00
+yDelouis,4063937f,2015-09-05,No Component,,4063937f,223,124,ydelouis@gmail.com,2015-09-05T23:16:49+02:00
+yDelouis,9d50b405,2015-09-05,No Component,,9d50b405,473,383,ydelouis@gmail.com,2015-09-05T23:16:25+02:00
+WonderCsabo,164feb68,2015-09-03,No Component,,164feb68,274,229,kozakcsabi@gmail.com,2015-09-03T17:38:36+02:00
+WonderCsabo,2c76f2c1,2015-09-03,No Component,,2c76f2c1,21,21,kozakcsabi@gmail.com,2015-09-03T16:40:27+02:00
+yDelouis,997c3247,2015-08-02,No Component,,997c3247,95,102,ydelouis@gmail.com,2015-08-02T16:27:18+02:00
+yDelouis,98845d8c,2015-08-02,No Component,,98845d8c,2,11,ydelouis@gmail.com,2015-08-02T16:18:25+02:00
+yDelouis,1b5439b7,2015-08-02,No Component,,1b5439b7,24,28,ydelouis@gmail.com,2015-08-02T16:16:12+02:00
+yDelouis,df4cfb7d,2015-08-02,No Component,,df4cfb7d,27,25,ydelouis@gmail.com,2015-08-02T16:05:43+02:00
+yDelouis,8577d80f,2015-08-02,No Component,,8577d80f,22,25,ydelouis@gmail.com,2015-08-02T16:03:11+02:00
+yDelouis,137a27d4,2015-08-02,No Component,,137a27d4,11,22,ydelouis@gmail.com,2015-08-02T15:57:40+02:00
+yDelouis,2273155e,2015-08-02,No Component,,2273155e,74,76,ydelouis@gmail.com,2015-08-02T15:51:41+02:00
+yDelouis,4b5ae53d,2015-08-02,No Component,,4b5ae53d,23,22,ydelouis@gmail.com,2015-08-02T15:51:22+02:00
+yDelouis,068dd253,2015-08-02,No Component,,068dd253,85,90,ydelouis@gmail.com,2015-08-02T15:22:28+02:00
+yDelouis,da65f789,2015-08-02,No Component,,da65f789,224,224,ydelouis@gmail.com,2015-08-02T15:13:40+02:00
+yDelouis,a63c6631,2015-08-02,No Component,,a63c6631,13,30,ydelouis@gmail.com,2015-08-02T14:50:31+02:00
+WonderCsabo,36957ee9,2015-07-27,No Component,,36957ee9,119,55,kozakcsabi@gmail.com,2015-07-27T19:17:43+02:00
+WonderCsabo,36fafbf6,2015-07-27,No Component,,36fafbf6,67,31,kozakcsabi@gmail.com,2015-07-27T14:05:13+02:00
+WonderCsabo,04b76114,2015-07-27,No Component,,04b76114,30,10,kozakcsabi@gmail.com,2015-07-27T13:47:54+02:00
+WonderCsabo,2c10bf2c,2015-07-27,No Component,,2c10bf2c,5,26,kozakcsabi@gmail.com,2015-07-27T13:35:40+02:00
+WonderCsabo,ae23d81e,2015-07-27,No Component,,ae23d81e,111,93,kozakcsabi@gmail.com,2015-07-27T13:26:33+02:00
+WonderCsabo,8c3566e0,2015-07-27,No Component,,8c3566e0,18,9,kozakcsabi@gmail.com,2015-07-27T11:25:29+02:00
+yDelouis,1bf60d89,2015-07-26,No Component,,1bf60d89,8,8,ydelouis@gmail.com,2015-07-26T19:35:06+02:00
+yDelouis,3fb74f38,2015-07-26,No Component,,3fb74f38,433,282,ydelouis@gmail.com,2015-07-26T19:29:21+02:00
+yDelouis,b37c08db,2015-07-26,No Component,Fix,b37c08db,4,4,ydelouis@gmail.com,2015-07-26T14:10:42+02:00
+yDelouis,f884b356,2015-07-23,No Component,,f884b356,117,93,ydelouis@gmail.com,2015-07-23T23:49:10+02:00
+yDelouis,1e4258f2,2015-07-19,No Component,Fix,1e4258f2,14,1,ydelouis@gmail.com,2015-07-19T15:41:59+02:00
+yDelouis,92cc7b90,2015-07-19,No Component,,92cc7b90,153,122,ydelouis@gmail.com,2015-07-19T15:40:25+02:00
+yDelouis,0bc449e2,2015-07-17,No Component,Fix,0bc449e2,2,2,ydelouis@gmail.com,2015-07-17T20:31:56+02:00
+yDelouis,98e87c8b,2015-07-17,No Component,,98e87c8b,21,41,ydelouis@gmail.com,2015-07-17T20:31:36+02:00
+yDelouis,eb725380,2015-07-16,No Component,Fix,eb725380,1,0,ydelouis@gmail.com,2015-07-16T21:35:46+02:00
+yDelouis,baddbd4c,2015-07-14,No Component,,baddbd4c,232,66,ydelouis@gmail.com,2015-07-14T21:22:46+02:00
+yDelouis,31e833a3,2015-07-14,No Component,Fix,31e833a3,9,9,ydelouis@gmail.com,2015-07-14T00:04:52+02:00
+yDelouis,35e48256,2015-07-13,No Component,,35e48256,218,301,ydelouis@gmail.com,2015-07-13T22:58:11+02:00
+yDelouis,18024031,2015-07-13,No Component,,18024031,1309,1357,ydelouis@gmail.com,2015-07-13T17:41:44+02:00
+WonderCsabo,5290a6f9,2015-07-11,No Component,,5290a6f9,18,3,kozakcsabi@gmail.com,2015-07-11T19:30:38+02:00
+WonderCsabo,73723eb0,2015-07-11,No Component,Fix,73723eb0,15,15,kozakcsabi@gmail.com,2015-07-11T18:44:01+02:00
+WonderCsabo,c6e9859a,2015-07-11,No Component,Fix,c6e9859a,11,1,kozakcsabi@gmail.com,2015-07-11T18:30:58+02:00
+yDelouis,ee49d407,2015-07-11,No Component,,ee49d407,695,566,ydelouis@gmail.com,2015-07-11T17:56:10+02:00
+yDelouis,4d39180b,2015-07-11,No Component,,4d39180b,19,20,ydelouis@gmail.com,2015-07-11T17:55:33+02:00
+WonderCsabo,4613d98e,2015-07-10,No Component,Fix,4613d98e,2,2,kozakcsabi@gmail.com,2015-07-10T23:49:29+02:00
+WonderCsabo,08c7be5f,2015-07-10,No Component,,08c7be5f,90,74,kozakcsabi@gmail.com,2015-07-10T22:36:04+02:00
+WonderCsabo,89ef719b,2015-07-10,No Component,,89ef719b,46,10,kozakcsabi@gmail.com,2015-07-10T22:07:45+02:00
+WonderCsabo,af008568,2015-07-10,No Component,,af008568,5,5,kozakcsabi@gmail.com,2015-07-10T12:04:05+02:00
+WonderCsabo,f13abd57,2015-07-10,No Component,Fix,f13abd57,5,43,kozakcsabi@gmail.com,2015-07-10T10:04:01+02:00
+WonderCsabo,dc41d31d,2015-07-09,No Component,,dc41d31d,0,0,kozakcsabi@gmail.com,2015-07-09T19:12:35+02:00
+WonderCsabo,f3d570aa,2015-07-09,No Component,,f3d570aa,0,0,kozakcsabi@gmail.com,2015-07-09T18:21:42+02:00
+yDelouis,9fc1038e,2015-07-01,No Component,,9fc1038e,302,302,ydelouis@gmail.com,2015-07-01T23:34:35+02:00
+yDelouis,7bd9fa12,2015-07-01,No Component,,7bd9fa12,480,280,ydelouis@gmail.com,2015-07-01T23:32:51+02:00
+yDelouis,e140ac11,2015-06-25,No Component,,e140ac11,0,0,ydelouis@gmail.com,2015-06-25T21:55:45+02:00
+yDelouis,a4d025c5,2014-06-07,No Component,,a4d025c5,16,40,ydelouis@gmail.com,2014-06-07T23:09:38+02:00
+yDelouis,db7270e4,2014-06-07,No Component,,db7270e4,1215,1286,ydelouis@gmail.com,2014-06-07T20:37:35+02:00
+WonderCsabo,08e5646e,2015-07-09,No Component,bug fix,08e5646e,5,1,kozakcsabi@gmail.com,2015-07-09T21:03:48+02:00
+WonderCsabo,10f833a0,2015-06-24,No Component,,10f833a0,4,2,kozakcsabi@gmail.com,2015-06-24T14:31:47+02:00
+WonderCsabo,e632f3c6,2015-06-16,No Component,,e632f3c6,0,3,kozakcsabi@gmail.com,2015-06-16T16:59:43+02:00
+WonderCsabo,cad795b6,2015-03-21,No Component,,cad795b6,145,80,kozakcsabi@gmail.com,2015-03-21T23:36:59+01:00
+WonderCsabo,43d95036,2015-06-10,No Component,,43d95036,18,3,kozakcsabi@gmail.com,2015-06-10T20:25:15+02:00
+Nikolay Belikov,a132c157,2014-09-27,No Component,,a132c157,32,4,nikolay@belikov.me,2014-09-27T23:52:34+02:00
+yDelouis,c68807b3,2015-06-10,No Component,,c68807b3,134,146,ydelouis@gmail.com,2015-06-10T17:23:49+02:00
+WonderCsabo,ccc9aff0,2015-04-25,No Component,,ccc9aff0,58,94,kozakcsabi@gmail.com,2015-04-25T19:13:30+02:00
+WonderCsabo,5512d74d,2015-04-25,No Component,,5512d74d,5,5,kozakcsabi@gmail.com,2015-04-25T19:11:02+02:00
+WonderCsabo,5b8b9d45,2015-06-04,No Component,,5b8b9d45,1,1,kozakcsabi@gmail.com,2015-06-04T16:33:21+02:00
+WonderCsabo,80f54d2a,2015-05-08,No Component,,80f54d2a,4,2,kozakcsabi@gmail.com,2015-05-08T23:29:20+02:00
+WonderCsabo,1012b2d5,2015-06-04,No Component,,1012b2d5,15,14,kozakcsabi@gmail.com,2015-06-04T16:32:32+02:00
+WonderCsabo,a6980e38,2015-05-08,No Component,,a6980e38,8,3,kozakcsabi@gmail.com,2015-05-08T23:27:52+02:00
+WonderCsabo,cc9509ee,2015-05-08,No Component,Fix,cc9509ee,110,4,kozakcsabi@gmail.com,2015-05-08T20:15:37+02:00
+WonderCsabo,2b5b74b4,2015-06-08,No Component,Fix,2b5b74b4,2,3,kozakcsabi@gmail.com,2015-06-08T23:42:07+02:00
+Péter Simon,a6858548,2015-06-08,No Component,,a6858548,148,0,simonpeterferenc@gmail.com,2015-06-08T20:08:24+02:00
+Péter Simon,57744db8,2015-06-08,No Component,,57744db8,117,0,simonpeterferenc@gmail.com,2015-06-08T20:07:49+02:00
+WonderCsabo,cba0a7f1,2015-06-08,No Component,,cba0a7f1,29,2,kozakcsabi@gmail.com,2015-06-08T17:26:00+02:00
+WonderCsabo,2fa78b62,2015-05-09,No Component,,2fa78b62,1,1,kozakcsabi@gmail.com,2015-05-09T20:06:51+02:00
+Péter Simon,3f7c66ac,2015-06-05,No Component,Bug,3f7c66ac,77,2,simonpeterferenc@gmail.com,2015-06-05T21:05:32+02:00
+WonderCsabo,9aa0e22b,2015-06-05,No Component,,9aa0e22b,1,1,kozakcsabi@gmail.com,2015-06-05T10:31:35+02:00
+WonderCsabo,607e755d,2015-06-04,No Component,,607e755d,4,67,kozakcsabi@gmail.com,2015-06-04T21:05:37+02:00
+WonderCsabo,a2339257,2015-06-04,No Component,,a2339257,91,0,kozakcsabi@gmail.com,2015-06-04T20:16:52+02:00
+WonderCsabo,23bca37c,2015-06-04,No Component,,23bca37c,36,22,kozakcsabi@gmail.com,2015-06-04T20:16:10+02:00
+WonderCsabo,78d80fa9,2015-06-04,No Component,,78d80fa9,7,34,kozakcsabi@gmail.com,2015-06-04T20:11:31+02:00
+Kay-Uwe Janssen,8f95477b,2015-06-04,No Component,,8f95477b,17,0,git@kujanssen.de,2015-06-04T10:35:00+02:00
+Kay-Uwe Janssen,760a246d,2015-06-04,No Component,,760a246d,11,5,git@kujanssen.de,2015-06-04T10:34:50+02:00
+Kay-Uwe Janssen,c02c4b1b,2015-06-04,No Component,,c02c4b1b,18,0,git@kujanssen.de,2015-06-04T10:31:45+02:00
+Kay-Uwe Janssen,e89b7106,2015-06-04,No Component,,e89b7106,9,4,git@kujanssen.de,2015-06-04T10:31:32+02:00
+Kay-Uwe Janssen,00b0df59,2015-06-04,No Component,,00b0df59,16,0,git@kujanssen.de,2015-06-04T10:09:16+02:00
+Kay-Uwe Janssen,f35b7509,2015-06-04,No Component,,f35b7509,10,5,git@kujanssen.de,2015-06-04T10:09:03+02:00
+Kay-Uwe Janssen,bce352bb,2015-06-04,No Component,,bce352bb,19,0,git@kujanssen.de,2015-06-04T10:03:43+02:00
+Kay-Uwe Janssen,75b6c1f1,2015-06-04,No Component,,75b6c1f1,10,5,git@kujanssen.de,2015-06-04T10:03:31+02:00
+Kay-Uwe Janssen,8d475a7f,2015-06-04,No Component,,8d475a7f,17,1,git@kujanssen.de,2015-06-04T09:54:24+02:00
+Kay-Uwe Janssen,ffafaeff,2015-06-04,No Component,,ffafaeff,8,3,git@kujanssen.de,2015-06-04T09:48:02+02:00
+Kay-Uwe Janssen,993fd409,2015-06-04,No Component,,993fd409,17,0,git@kujanssen.de,2015-06-04T09:47:38+02:00
+Kay-Uwe Janssen,e3047014,2015-06-04,No Component,,e3047014,10,5,git@kujanssen.de,2015-06-04T09:47:06+02:00
+Kay-Uwe Janssen,26649abf,2015-06-04,No Component,,26649abf,27,0,git@kujanssen.de,2015-06-04T09:46:22+02:00
+Kay-Uwe Janssen,9f6a6655,2015-06-04,No Component,,9f6a6655,19,10,git@kujanssen.de,2015-06-04T09:45:57+02:00
+Kay-Uwe Janssen,1ae49561,2015-06-04,No Component,,1ae49561,21,0,git@kujanssen.de,2015-06-04T09:45:40+02:00
+WonderCsabo,686e75ea,2015-05-31,No Component,,686e75ea,5,0,kozakcsabi@gmail.com,2015-05-31T19:51:59+02:00
+WonderCsabo,0c2b18ef,2015-05-31,No Component,,0c2b18ef,2,0,kozakcsabi@gmail.com,2015-05-31T17:46:59+02:00
+Sebastian Roth,943a15d7,2015-05-27,No Component,,943a15d7,1,1,sebastian.roth@gmail.com,2015-05-27T12:16:04+02:00
+Sebastian Roth,fdc69624,2015-05-26,No Component,,fdc69624,119,1,sebastian.roth@gmail.com,2015-05-26T17:37:36+02:00
+Sebastian Roth,c1aad3be,2015-05-26,No Component,,c1aad3be,179,31,sebastian.roth@gmail.com,2015-05-26T17:34:29+02:00
+WonderCsabo,27d25b6f,2015-05-25,No Component,,27d25b6f,2,0,kozakcsabi@gmail.com,2015-05-25T13:40:58+02:00
+WonderCsabo,92098190,2015-05-25,No Component,,92098190,8,1,kozakcsabi@gmail.com,2015-05-25T13:35:58+02:00
+WonderCsabo,9063c6fc,2014-09-28,No Component,,9063c6fc,0,64,kozakcsabi@gmail.com,2014-09-28T23:42:55+02:00
+WonderCsabo,63e1cb0b,2015-05-25,No Component,,63e1cb0b,4,8,kozakcsabi@gmail.com,2015-05-25T12:12:33+02:00
+Sebastian Roth,988b3358,2015-05-21,No Component,,988b3358,101,0,sebastian.roth@gmail.com,2015-05-21T04:06:42+02:00
+WonderCsabo,93176aaf,2015-05-18,No Component,,93176aaf,1,1,kozakcsabi@gmail.com,2015-05-18T13:53:28+02:00
+WonderCsabo,82392dce,2015-05-09,No Component,,82392dce,8,74,kozakcsabi@gmail.com,2015-05-09T18:46:35+02:00
+WonderCsabo,c2736357,2015-05-09,No Component,,c2736357,1,9,kozakcsabi@gmail.com,2015-05-09T18:21:09+02:00
+WonderCsabo,fd868926,2015-05-09,No Component,,fd868926,4,14,kozakcsabi@gmail.com,2015-05-09T17:59:54+02:00
+WonderCsabo,70ce1770,2015-05-09,No Component,,70ce1770,17,0,kozakcsabi@gmail.com,2015-05-09T17:56:42+02:00
+WonderCsabo,f8064e2d,2015-05-09,No Component,Fix,f8064e2d,4,0,kozakcsabi@gmail.com,2015-05-09T17:56:09+02:00
+WonderCsabo,f9961b46,2014-11-08,No Component,,f9961b46,125,180,kozakcsabi@gmail.com,2014-11-08T13:46:36+01:00
+WonderCsabo,24a547af,2015-05-05,No Component,,24a547af,187,1,kozakcsabi@gmail.com,2015-05-05T14:54:55+02:00
+WonderCsabo,a52c6a52,2015-05-05,No Component,Fix,a52c6a52,1,1,kozakcsabi@gmail.com,2015-05-05T15:12:43+02:00
+WonderCsabo,49928694,2015-05-05,No Component,,49928694,17,0,kozakcsabi@gmail.com,2015-05-05T16:55:26+02:00
+WonderCsabo,33b4153e,2015-05-05,No Component,,33b4153e,4,0,kozakcsabi@gmail.com,2015-05-05T16:55:01+02:00
+WonderCsabo,091e6384,2015-05-05,No Component,,091e6384,26,7,kozakcsabi@gmail.com,2015-05-05T16:54:17+02:00
+WonderCsabo,5a1afc91,2015-05-05,No Component,Fix,5a1afc91,4,4,kozakcsabi@gmail.com,2015-05-05T16:51:51+02:00
+Drozdov Artyom,ce449c84,2015-04-28,No Component,,ce449c84,68,15,artem.drozdov@corp.mail.ru,2015-04-28T23:58:05+02:00
+Drozdov Artyom,930f5993,2015-04-19,No Component,,930f5993,54,118,artem.drozdov@corp.mail.ru,2015-04-19T21:08:55+02:00
+Drozdov Artyom,71414c9a,2015-04-13,No Component,,71414c9a,189,100,artem.drozdov@corp.mail.ru,2015-04-13T09:13:03+02:00
+Drozdov Artyom,d1be16f9,2015-04-04,No Component,,d1be16f9,40,28,artem.drozdov@corp.mail.ru,2015-04-04T12:40:45+02:00
+WonderCsabo,e4cfd2f1,2015-03-28,No Component,,e4cfd2f1,18,0,kozakcsabi@gmail.com,2015-03-28T11:59:57+01:00
+WonderCsabo,2cb859e0,2015-03-28,No Component,,2cb859e0,37,2,kozakcsabi@gmail.com,2015-03-28T11:59:33+01:00
+WonderCsabo,56526f2e,2015-03-28,No Component,,56526f2e,84,0,kozakcsabi@gmail.com,2015-03-28T11:59:10+01:00
+WonderCsabo,887261dd,2015-03-28,No Component,,887261dd,44,0,kozakcsabi@gmail.com,2015-03-28T11:58:44+01:00
+Kay-Uwe Janssen,f9b40c78,2014-11-11,No Component,,f9b40c78,4,9,git@kujanssen.de,2014-11-11T20:17:58+01:00
+Kay-Uwe Janssen,a0897358,2014-11-11,No Component,,a0897358,5,5,git@kujanssen.de,2014-11-11T19:45:31+01:00
+Kay-Uwe Janssen,12f8e7ee,2014-11-19,No Component,,12f8e7ee,6,24,git@kujanssen.de,2014-11-19T20:08:29+01:00
+yDelouis,fd240dd6,2015-05-04,No Component,,fd240dd6,63,46,ydelouis@gmail.com,2015-05-04T23:33:27+02:00
+yDelouis,4da24367,2015-05-03,No Component,,4da24367,163,296,ydelouis@gmail.com,2015-05-03T19:08:36+02:00
+yDelouis,8a589176,2015-02-22,No Component,,8a589176,207,139,ydelouis@gmail.com,2015-02-22T17:54:24+01:00
+WonderCsabo,aa6cf51b,2014-12-25,No Component,,aa6cf51b,284,3,kozakcsabi@gmail.com,2014-12-25T22:58:09+01:00
+WonderCsabo,a4c647c5,2015-05-04,No Component,,a4c647c5,36,2,kozakcsabi@gmail.com,2015-05-04T14:38:49+02:00
+WonderCsabo,f218eeb2,2015-05-04,No Component,,f218eeb2,8,0,kozakcsabi@gmail.com,2015-05-04T12:56:40+02:00
+Kay-Uwe Janssen,5aacf3e9,2015-04-26,No Component,fix,5aacf3e9,56,0,git@kujanssen.de,2015-04-26T15:43:21+02:00
+Kay-Uwe Janssen,edc9af1f,2014-12-22,No Component,FIX,edc9af1f,114,72,git@kujanssen.de,2014-12-22T11:08:18+01:00
+WonderCsabo,c3427cc6,2015-04-30,No Component,,c3427cc6,105,0,kozakcsabi@gmail.com,2015-04-30T16:25:34+02:00
+WonderCsabo,ec9cdf97,2015-04-30,No Component,Fix,ec9cdf97,1,1,kozakcsabi@gmail.com,2015-04-30T13:30:16+02:00
+WonderCsabo,6a4fc0de,2015-04-28,No Component,Fix,6a4fc0de,0,3,kozakcsabi@gmail.com,2015-04-28T19:01:00+02:00
+yDelouis,3f6e5108,2015-04-25,No Component,Fix,3f6e5108,8,18,ydelouis@gmail.com,2015-04-25T19:28:01+02:00
+WonderCsabo,c3e4623b,2015-04-28,No Component,,c3e4623b,3,2,kozakcsabi@gmail.com,2015-04-28T18:22:15+02:00
+WonderCsabo,04c3b2cd,2015-04-24,No Component,,04c3b2cd,4,3,kozakcsabi@gmail.com,2015-04-24T12:02:14+02:00
+WonderCsabo,6b857733,2015-04-23,No Component,,6b857733,49,1,kozakcsabi@gmail.com,2015-04-23T14:05:19+02:00
+WonderCsabo,5f82ceee,2015-04-23,No Component,,5f82ceee,74,0,kozakcsabi@gmail.com,2015-04-23T12:15:55+02:00
+WonderCsabo,4b58f8f7,2015-04-23,No Component,,4b58f8f7,16,0,kozakcsabi@gmail.com,2015-04-23T12:15:26+02:00
+WonderCsabo,8bc1c3ac,2015-04-20,No Component,,8bc1c3ac,110,0,kozakcsabi@gmail.com,2015-04-20T12:00:09+02:00
+WonderCsabo,be8b5aa4,2015-04-17,No Component,Fix,be8b5aa4,14,17,kozakcsabi@gmail.com,2015-04-17T19:53:34+02:00
+WonderCsabo,2064edf4,2014-11-21,No Component,,2064edf4,643,0,kozakcsabi@gmail.com,2014-11-21T19:28:29+01:00
+WonderCsabo,502a5554,2014-11-21,No Component,,502a5554,250,0,kozakcsabi@gmail.com,2014-11-21T17:49:01+01:00
+WonderCsabo,2f2e544d,2014-12-28,No Component,,2f2e544d,1,0,kozakcsabi@gmail.com,2014-12-28T00:08:32+01:00
+WonderCsabo,8ac3e842,2015-04-16,No Component,,8ac3e842,169,3,kozakcsabi@gmail.com,2015-04-16T20:40:47+02:00
+WonderCsabo,f692e935,2015-04-16,No Component,,f692e935,30,0,kozakcsabi@gmail.com,2015-04-16T20:40:24+02:00
+WonderCsabo,cc847692,2014-09-24,No Component,,cc847692,56,0,kozakcsabi@gmail.com,2014-09-24T21:28:38+02:00
+WonderCsabo,b9b9b705,2014-09-24,No Component,,b9b9b705,26,0,kozakcsabi@gmail.com,2014-09-24T21:28:06+02:00
+WonderCsabo,81cef78a,2014-09-24,No Component,,81cef78a,101,0,kozakcsabi@gmail.com,2014-09-24T21:17:19+02:00
+WonderCsabo,38eb04fa,2014-09-24,No Component,,38eb04fa,30,0,kozakcsabi@gmail.com,2014-09-24T21:16:56+02:00
+WonderCsabo,fc08a401,2014-09-24,No Component,,fc08a401,201,1,kozakcsabi@gmail.com,2014-09-24T20:27:05+02:00
+WonderCsabo,9e73bc63,2014-09-24,No Component,,9e73bc63,106,38,kozakcsabi@gmail.com,2014-09-24T20:26:10+02:00
+WonderCsabo,54dbcbea,2014-09-24,No Component,,54dbcbea,30,0,kozakcsabi@gmail.com,2014-09-24T18:43:38+02:00
+WonderCsabo,bfefdc77,2014-09-24,No Component,,bfefdc77,410,46,kozakcsabi@gmail.com,2014-09-24T12:37:24+02:00
+WonderCsabo,0bcfc67b,2015-04-16,No Component,,0bcfc67b,4,6,kozakcsabi@gmail.com,2015-04-16T16:52:45+02:00
+WonderCsabo,5084997c,2015-04-07,No Component,Fix,5084997c,2,0,kozakcsabi@gmail.com,2015-04-07T11:54:20+02:00
+WonderCsabo,93a0b980,2015-04-07,No Component,,93a0b980,1,1,kozakcsabi@gmail.com,2015-04-07T11:51:44+02:00
+WonderCsabo,dde2477c,2014-09-24,No Component,,dde2477c,30,0,kozakcsabi@gmail.com,2014-09-24T12:29:55+02:00
+WonderCsabo,8b0ff951,2014-09-23,No Component,,8b0ff951,99,3,kozakcsabi@gmail.com,2014-09-23T20:41:17+02:00
+WonderCsabo,1919b966,2014-09-23,No Component,,1919b966,30,0,kozakcsabi@gmail.com,2014-09-23T20:40:43+02:00
+WonderCsabo,dfbebb86,2015-04-06,No Component,,dfbebb86,1,1,kozakcsabi@gmail.com,2015-04-06T12:42:32+02:00
+WonderCsabo,df6e8f0d,2015-03-24,No Component,,df6e8f0d,80,0,kozakcsabi@gmail.com,2015-03-24T19:11:58+01:00
+WonderCsabo,21c04a36,2015-03-24,No Component,Fix,21c04a36,12,3,kozakcsabi@gmail.com,2015-03-24T19:11:35+01:00
+WonderCsabo,e16139d5,2014-12-27,No Component,,e16139d5,12,16,kozakcsabi@gmail.com,2014-12-27T18:30:03+01:00
+Arnaud Ruffin,362814e7,2015-03-30,No Component,,362814e7,5,3,arnaud.ruffin@orange.com,2015-03-30T14:47:35+02:00
+WonderCsabo,567e885a,2015-03-27,No Component,,567e885a,7,0,kozakcsabi@gmail.com,2015-03-27T17:20:17+01:00
+WonderCsabo,b536359d,2015-03-27,No Component,,b536359d,7,2,kozakcsabi@gmail.com,2015-03-27T17:19:49+01:00
+WonderCsabo,9c4bd1b0,2015-03-27,No Component,,9c4bd1b0,3,0,kozakcsabi@gmail.com,2015-03-27T17:18:58+01:00
+WonderCsabo,c5cb93aa,2014-12-27,No Component,,c5cb93aa,57,0,kozakcsabi@gmail.com,2014-12-27T21:13:29+01:00
+WonderCsabo,cbfa3e6f,2014-12-27,No Component,Fix,cbfa3e6f,83,10,kozakcsabi@gmail.com,2014-12-27T13:24:59+01:00
+WonderCsabo,6c100e42,2015-03-24,No Component,,6c100e42,32,23,kozakcsabi@gmail.com,2015-03-24T23:46:05+01:00
+WonderCsabo,7293ebd0,2015-03-22,No Component,,7293ebd0,16,1,kozakcsabi@gmail.com,2015-03-22T22:20:48+01:00
+Vincent Pizzo,e0f34517,2014-11-19,No Component,,e0f34517,7,4,vincent.pizzo@singlewire.com,2014-11-19T22:53:19+01:00
+Roy Clarkson,6ebc1bc1,2014-09-27,No Component,,6ebc1bc1,5,3,roy@clarkson.org,2014-09-27T00:14:36+02:00
+WonderCsabo,ac156ed2,2014-12-29,No Component,,ac156ed2,65,0,kozakcsabi@gmail.com,2014-12-29T23:11:35+01:00
+WonderCsabo,9df2a3cb,2014-12-29,No Component,,9df2a3cb,26,3,kozakcsabi@gmail.com,2014-12-29T23:12:55+01:00
+WonderCsabo,475436fb,2014-12-29,No Component,,475436fb,156,16,kozakcsabi@gmail.com,2014-12-29T22:40:58+01:00
+WonderCsabo,b662a2c4,2014-12-28,No Component,,b662a2c4,40,22,kozakcsabi@gmail.com,2014-12-28T19:41:09+01:00
+WonderCsabo,2eaef9f2,2015-02-23,No Component,,2eaef9f2,1,1,kozakcsabi@gmail.com,2015-02-23T19:09:03+01:00
+WonderCsabo,c3d1db40,2015-02-23,No Component,,c3d1db40,2,0,kozakcsabi@gmail.com,2015-02-23T16:06:47+01:00
+WonderCsabo,929a6237,2015-02-17,No Component,,929a6237,7,0,kozakcsabi@gmail.com,2015-02-17T16:32:34+01:00
+WonderCsabo,ba3ac294,2015-02-17,No Component,fix,ba3ac294,1,1,kozakcsabi@gmail.com,2015-02-17T16:32:06+01:00
+Kay-Uwe Janssen,098164ae,2015-01-08,No Component,,098164ae,93,9,git@kujanssen.de,2015-01-08T18:26:55+01:00
+Kay-Uwe Janssen,a1234707,2014-12-23,No Component,fix,a1234707,67,25,git@kujanssen.de,2014-12-23T21:57:04+01:00
+WonderCsabo,326fe966,2015-01-10,No Component,Fix,326fe966,1,2,kozakcsabi@gmail.com,2015-01-10T19:38:38+01:00
+WonderCsabo,740c2f10,2015-01-10,No Component,,740c2f10,3,3,kozakcsabi@gmail.com,2015-01-10T19:37:18+01:00
+WonderCsabo,fcf1c3d9,2015-01-10,No Component,,fcf1c3d9,582,582,kozakcsabi@gmail.com,2015-01-10T19:34:14+01:00
+chvndb,58fbbf8b,2015-01-08,No Component,,58fbbf8b,62,73,chvndb@gmail.com,2015-01-08T20:09:55+01:00
+WonderCsabo,2964494a,2014-12-28,No Component,,2964494a,4,0,kozakcsabi@gmail.com,2014-12-28T18:20:01+01:00
+WonderCsabo,c9fe8e2b,2014-12-26,No Component,,c9fe8e2b,20,21,kozakcsabi@gmail.com,2014-12-26T10:25:25+01:00
+WonderCsabo,b2bc892a,2014-12-28,No Component,,b2bc892a,279,304,kozakcsabi@gmail.com,2014-12-28T11:30:52+01:00
+yDelouis,13d9a0ae,2014-12-27,No Component,fix,13d9a0ae,8,13,ydelouis@gmail.com,2014-12-27T13:52:25+01:00
+yDelouis,18ed5d70,2014-12-25,No Component,Fix,18ed5d70,2,0,ydelouis@gmail.com,2014-12-25T15:04:52+01:00
+WonderCsabo,c282cdf3,2014-12-25,No Component,,c282cdf3,30,0,kozakcsabi@gmail.com,2014-12-25T13:29:05+01:00
+WonderCsabo,d99e7cb0,2014-12-22,No Component,,d99e7cb0,7,0,kozakcsabi@gmail.com,2014-12-22T22:40:36+01:00
+WonderCsabo,ffeb011c,2014-12-22,No Component,,ffeb011c,5,4,kozakcsabi@gmail.com,2014-12-22T22:18:15+01:00
+WonderCsabo,5aeaf4c4,2014-12-22,No Component,,5aeaf4c4,49,32,kozakcsabi@gmail.com,2014-12-22T21:31:54+01:00
+WonderCsabo,11e5621b,2014-10-20,No Component,bug,11e5621b,318,21,kozakcsabi@gmail.com,2014-10-20T20:43:48+02:00
+WonderCsabo,f82dc918,2014-10-20,No Component,,f82dc918,637,60,kozakcsabi@gmail.com,2014-10-20T17:48:46+02:00
+WonderCsabo,edf3791e,2014-08-29,No Component,,edf3791e,1269,994,kozakcsabi@gmail.com,2014-08-29T19:29:04+02:00
+Kay-Uwe Janssen,567f2b43,2014-12-13,No Component,,567f2b43,3,3,git@kujanssen.de,2014-12-13T08:23:45+01:00
+WonderCsabo,87ac0063,2014-08-28,No Component,,87ac0063,14,7,kozakcsabi@gmail.com,2014-08-28T13:04:20+02:00
+Kay-Uwe Janssen,82e13625,2014-11-19,No Component,,82e13625,33,2,git@kujanssen.de,2014-11-19T21:13:38+01:00
+Kay-Uwe Janssen,c28d6ee2,2014-11-19,No Component,,c28d6ee2,210,123,git@kujanssen.de,2014-11-19T20:38:39+01:00
+WonderCsabo,492769cf,2014-12-06,No Component,Fix fix,492769cf,36,8,kozakcsabi@gmail.com,2014-12-06T11:40:29+01:00
+WonderCsabo,2caa8cf3,2014-11-20,No Component,,2caa8cf3,84,19,kozakcsabi@gmail.com,2014-11-20T21:41:24+01:00
+WonderCsabo,f86d7f15,2014-11-20,No Component,,f86d7f15,2,0,kozakcsabi@gmail.com,2014-11-20T19:54:13+01:00
+WonderCsabo,ad7fbb0d,2014-11-20,No Component,,ad7fbb0d,7,0,kozakcsabi@gmail.com,2014-11-20T18:23:11+01:00
+WonderCsabo,b04c54c6,2014-11-08,No Component,,b04c54c6,4,6,kozakcsabi@gmail.com,2014-11-08T20:23:21+01:00
+WonderCsabo,93d0d41e,2014-11-08,No Component,,93d0d41e,8,9,kozakcsabi@gmail.com,2014-11-08T10:50:24+01:00
+Kay-Uwe Janssen,5539bf96,2014-11-15,No Component,,5539bf96,11,6,git@kujanssen.de,2014-11-15T09:10:09+01:00
+Kay-Uwe Janssen,0038f254,2014-11-14,No Component,,0038f254,5,13,git@kujanssen.de,2014-11-14T20:55:37+01:00
+Kay-Uwe Janssen,40b2f493,2014-11-11,No Component,,40b2f493,45,13,git@kujanssen.de,2014-11-11T19:45:31+01:00
+zhangjiongxuan,ee9e1a8d,2014-11-18,No Component,,ee9e1a8d,37,17,jiongj.zhang@gmail.com,2014-11-18T11:20:39+01:00
+zhangjiongxuan,1d0f8914,2014-11-17,No Component,,1d0f8914,69,4,jiongj.zhang@gmail.com,2014-11-17T15:15:24+01:00
+zhangjiongxuan,ecfa454d,2014-11-17,No Component,,ecfa454d,87,0,jiongj.zhang@gmail.com,2014-11-17T12:32:05+01:00
+WonderCsabo,b2c88d32,2014-11-12,No Component,,b2c88d32,10,0,kozakcsabi@gmail.com,2014-11-12T13:08:03+01:00
+WonderCsabo,69adae11,2014-11-12,No Component,,69adae11,69,5,kozakcsabi@gmail.com,2014-11-12T12:31:43+01:00
+WonderCsabo,9b0ea4b9,2014-11-12,No Component,,9b0ea4b9,53,0,kozakcsabi@gmail.com,2014-11-12T10:24:03+01:00
+WonderCsabo,d485e340,2014-11-12,No Component,,d485e340,231,0,kozakcsabi@gmail.com,2014-11-12T00:59:59+01:00
+WonderCsabo,66b981c1,2014-11-12,No Component,,66b981c1,98,0,kozakcsabi@gmail.com,2014-11-12T00:22:13+01:00
+WonderCsabo,7e1be289,2014-11-11,No Component,,7e1be289,74,3,kozakcsabi@gmail.com,2014-11-11T19:19:32+01:00
+WonderCsabo,88796cce,2014-11-11,No Component,,88796cce,112,5,kozakcsabi@gmail.com,2014-11-11T18:46:44+01:00
+Kay-Uwe Janssen,0a83e6f0,2014-11-11,No Component,,0a83e6f0,30,23,git@kujanssen.de,2014-11-11T19:40:06+01:00
+WonderCsabo,d3939a1d,2014-11-12,No Component,,d3939a1d,85,8,kozakcsabi@gmail.com,2014-11-12T19:43:45+01:00
+Nils Andreas Svee,14a87578,2014-10-09,No Component,,14a87578,28,2,nils.a.svee@gmail.com,2014-10-09T17:54:04+02:00
+WonderCsabo,5839f540,2014-11-11,No Component,,5839f540,83,10,kozakcsabi@gmail.com,2014-11-11T13:12:32+01:00
+WonderCsabo,f67adf0f,2014-11-11,No Component,fix,f67adf0f,87,2,kozakcsabi@gmail.com,2014-11-11T12:29:07+01:00
+WonderCsabo,56d86273,2014-11-11,No Component,,56d86273,48,0,kozakcsabi@gmail.com,2014-11-11T10:18:54+01:00
+WonderCsabo,112ef364,2014-11-11,No Component,,112ef364,44,1,kozakcsabi@gmail.com,2014-11-11T10:18:20+01:00
+WonderCsabo,c1bc8839,2014-11-10,No Component,,c1bc8839,111,34,kozakcsabi@gmail.com,2014-11-10T23:22:13+01:00
+WonderCsabo,40684756,2014-11-12,No Component,,40684756,15,0,kozakcsabi@gmail.com,2014-11-12T01:04:22+01:00
+WonderCsabo,bdb4b46a,2014-11-08,No Component,Fix,bdb4b46a,3,3,kozakcsabi@gmail.com,2014-11-08T14:00:44+01:00
+yDelouis,9a066531,2014-11-06,No Component,,9a066531,35,24,ydelouis@gmail.com,2014-11-06T12:47:07+01:00
+Kay-Uwe Janssen,ed7092c3,2014-10-09,No Component,,ed7092c3,24,9,git@kujanssen.de,2014-10-09T09:18:24+02:00
+Kay-Uwe Janssen,7cf2dd05,2014-10-09,No Component,,7cf2dd05,60,26,git@kujanssen.de,2014-10-09T09:18:15+02:00
+Kay-Uwe Janssen,cdf8c94e,2014-10-09,No Component,,cdf8c94e,23,10,git@kujanssen.de,2014-10-09T09:18:02+02:00
+WonderCsabo,fd38af95,2014-10-18,No Component,,fd38af95,10,7,kozakcsabi@gmail.com,2014-10-18T13:38:10+02:00
+WonderCsabo,a35671af,2014-10-15,No Component,,a35671af,38,1,kozakcsabi@gmail.com,2014-10-15T10:58:54+02:00
+Kay-Uwe Janssen,b95da735,2014-10-05,No Component,,b95da735,13,10,git@kujanssen.de,2014-10-05T21:11:53+02:00
+Kay-Uwe Janssen,3fa05202,2014-10-05,No Component,,3fa05202,111,45,git@kujanssen.de,2014-10-05T21:11:33+02:00
+Kay-Uwe Janssen,e1ae50fe,2014-10-05,No Component,,e1ae50fe,23,0,git@kujanssen.de,2014-10-05T21:11:14+02:00
+WonderCsabo,1c146db0,2014-10-07,No Component,,1c146db0,30,0,kozakcsabi@gmail.com,2014-10-07T00:04:33+02:00
+yDelouis,773f9b3a,2014-10-04,No Component,Fix,773f9b3a,26,39,ydelouis@gmail.com,2014-10-04T17:18:02+02:00
+yDelouis,71f38796,2014-10-04,No Component,Fix,71f38796,24,22,ydelouis@gmail.com,2014-10-04T16:07:38+02:00
+yDelouis,f9561e64,2014-10-04,No Component,,f9561e64,68,125,ydelouis@gmail.com,2014-10-04T15:38:02+02:00
+yDelouis,6fa0b770,2014-10-04,No Component,,6fa0b770,256,105,ydelouis@gmail.com,2014-10-04T14:45:18+02:00
+yDelouis,c252766d,2014-10-04,No Component,,c252766d,19,8,ydelouis@gmail.com,2014-10-04T13:12:46+02:00
+yDelouis,8450cc6c,2014-10-04,No Component,,8450cc6c,58,22,ydelouis@gmail.com,2014-10-04T12:50:39+02:00
+yDelouis,d5469254,2014-10-03,No Component,Fix,d5469254,21,14,ydelouis@gmail.com,2014-10-03T17:52:53+02:00
+yDelouis,b974019a,2014-10-02,No Component,,b974019a,117,146,ydelouis@gmail.com,2014-10-02T23:11:49+02:00
+Nikolay Belikov,c1c6a60c,2014-09-26,No Component,,c1c6a60c,9,0,nikolay@belikov.me,2014-09-26T22:45:39+02:00
+WonderCsabo,a30e5252,2014-09-28,No Component,,a30e5252,44,44,kozakcsabi@gmail.com,2014-09-28T20:30:11+02:00
+Drozdov Artyom,60fd32d7,2014-08-31,No Component,fix,60fd32d7,67,31,artem.drozdov@corp.mail.ru,2014-08-31T10:27:56+02:00
+Nikolay Belikov,28362488,2014-09-27,No Component,Fix,28362488,30,19,nikolay@belikov.me,2014-09-27T20:43:20+02:00
+WonderCsabo,d65f5afb,2014-09-24,No Component,,d65f5afb,30,0,kozakcsabi@gmail.com,2014-09-24T23:28:17+02:00
+Kay-Uwe Janssen,5da8a0e5,2014-09-23,No Component,,5da8a0e5,17,5,git@kujanssen.de,2014-09-23T19:47:14+02:00
+WonderCsabo,574fd516,2014-09-23,No Component,Fix fix,574fd516,84,22,kozakcsabi@gmail.com,2014-09-23T00:15:04+02:00
+WonderCsabo,e4374f81,2014-09-07,No Component,,e4374f81,2,2,kozakcsabi@gmail.com,2014-09-07T22:31:28+02:00
+WonderCsabo,1fee3bbc,2014-09-20,No Component,,1fee3bbc,189,51,kozakcsabi@gmail.com,2014-09-20T20:35:20+02:00
+Kay-Uwe Janssen,e2ba1abd,2014-09-21,No Component,,e2ba1abd,28,23,git@kujanssen.de,2014-09-21T17:06:14+02:00
+yDelouis,e0c1dfa2,2014-09-21,No Component,Fix,e0c1dfa2,1,1,ydelouis@gmail.com,2014-09-21T10:39:34+02:00
+Kay-Uwe Janssen,bbed33f3,2014-08-26,No Component,,bbed33f3,25,4,git@kujanssen.de,2014-08-26T20:02:46+02:00
+Kay-Uwe Janssen,9af622f1,2014-08-25,No Component,fix,9af622f1,1,1,git@kujanssen.de,2014-08-25T21:55:55+02:00
+Kay-Uwe Janssen,3b48bb38,2014-08-23,No Component,,3b48bb38,57,0,git@kujanssen.de,2014-08-23T09:34:05+02:00
+Kay-Uwe Janssen,33648ac6,2014-08-23,No Component,,33648ac6,2,0,git@kujanssen.de,2014-08-23T09:10:04+02:00
+Kay-Uwe Janssen,5978d41b,2014-08-15,No Component,,5978d41b,1,0,git@kujanssen.de,2014-08-15T18:29:59+02:00
+Kay-Uwe Janssen,9d951547,2014-08-15,No Component,,9d951547,150,0,git@kujanssen.de,2014-08-15T18:29:27+02:00
+Kay-Uwe Janssen,79996a1a,2014-08-15,No Component,,79996a1a,6,0,git@kujanssen.de,2014-08-15T18:29:17+02:00
+Kay-Uwe Janssen,61cee35a,2014-08-27,No Component,,61cee35a,101,6,git@kujanssen.de,2014-08-27T18:47:17+02:00
+Kay-Uwe Janssen,b04b0b3e,2014-08-22,No Component,,b04b0b3e,2,1,git@kujanssen.de,2014-08-22T21:24:01+02:00
+Kay-Uwe Janssen,1fbdde3f,2014-08-22,No Component,,1fbdde3f,8,7,git@kujanssen.de,2014-08-22T21:23:54+02:00
+Kay-Uwe Janssen,ee569c95,2014-08-22,No Component,,ee569c95,68,9,git@kujanssen.de,2014-08-22T21:23:45+02:00
+Kay-Uwe Janssen,9e5607cf,2014-08-22,No Component,,9e5607cf,2,0,git@kujanssen.de,2014-08-22T21:23:32+02:00
+Kay-Uwe Janssen,6fe629c7,2014-08-15,No Component,,6fe629c7,42,6,git@kujanssen.de,2014-08-15T18:29:00+02:00
+Kay-Uwe Janssen,75c1ba33,2014-08-15,No Component,,75c1ba33,92,0,git@kujanssen.de,2014-08-15T18:28:39+02:00
+WonderCsabo,20204df8,2014-09-05,No Component,,20204df8,110,7,kozakcsabi@gmail.com,2014-09-05T00:19:43+02:00
+Kay-Uwe Janssen,869bc004,2014-09-04,No Component,,869bc004,94,0,git@kujanssen.de,2014-09-04T19:43:02+02:00
+Kay-Uwe Janssen,78bb4b2b,2014-09-03,No Component,,78bb4b2b,312,18,git@kujanssen.de,2014-09-03T21:26:15+02:00
+Kay-Uwe Janssen,eddce0e0,2014-09-03,No Component,,eddce0e0,8,5,git@kujanssen.de,2014-09-03T21:25:49+02:00
+Kay-Uwe Janssen,9422f0cc,2014-09-03,No Component,,9422f0cc,5,0,git@kujanssen.de,2014-09-03T21:23:55+02:00
+WonderCsabo,5a9fd252,2014-09-19,No Component,,5a9fd252,13,1,kozakcsabi@gmail.com,2014-09-19T20:17:13+02:00
+Seong-A Kong,0dd1eae1,2014-09-16,No Component,,0dd1eae1,5,21,simonz@hanmail.net,2014-09-16T16:28:39+02:00
+WonderCsabo,7d7213f2,2014-09-10,No Component,,7d7213f2,278,9,kozakcsabi@gmail.com,2014-09-10T19:13:06+02:00
+WonderCsabo,9e3a20f6,2014-09-01,No Component,,9e3a20f6,7,8,kozakcsabi@gmail.com,2014-09-01T20:45:15+02:00
+WonderCsabo,4360e3f9,2014-09-01,No Component,,4360e3f9,94,5,kozakcsabi@gmail.com,2014-09-01T11:13:06+02:00
+WonderCsabo,bb18d55a,2014-08-31,No Component,,bb18d55a,34,4,kozakcsabi@gmail.com,2014-08-31T23:09:19+02:00
+Drozdov Artyom,70460262,2014-08-31,No Component,,70460262,45,0,artem.drozdov@corp.mail.ru,2014-08-31T10:39:14+02:00
+WonderCsabo,8c9ea5ac,2014-08-31,No Component,Fix,8c9ea5ac,4,3,kozakcsabi@gmail.com,2014-08-31T19:53:51+02:00
+Drozdov Artyom,6d67509c,2014-08-31,No Component,,6d67509c,124,17,artem.drozdov@corp.mail.ru,2014-08-31T13:10:28+02:00
+Drozdov Artyom,f5f9742c,2014-08-31,No Component,fix,f5f9742c,138,3,artem.drozdov@corp.mail.ru,2014-08-31T11:14:09+02:00
+Drozdov Artyom,1735b43f,2014-08-31,No Component,fix,1735b43f,45,0,artem.drozdov@corp.mail.ru,2014-08-31T10:20:47+02:00
+yDelouis,fd4c3d94,2014-08-17,No Component,Fix,fd4c3d94,0,2,ydelouis@gmail.com,2014-08-17T15:05:38+02:00
+Yoann Delouis,b75c88bf,2013-07-17,No Component,,b75c88bf,79,38,ydelouis@gmail.com,2013-07-17T15:22:03+02:00
+Yoann Delouis,f6ebfb97,2013-07-17,No Component,,f6ebfb97,10,9,ydelouis@gmail.com,2013-07-17T15:21:31+02:00
+Kay-Uwe Janssen,a05ba180,2014-08-24,No Component,,a05ba180,11,0,git@kujanssen.de,2014-08-24T15:52:41+02:00
+Kay-Uwe Janssen,41ede010,2014-08-24,No Component,,41ede010,218,3,git@kujanssen.de,2014-08-24T12:43:34+02:00
+Kay-Uwe Janssen,2aa3b2c9,2014-08-24,No Component,,2aa3b2c9,93,7,git@kujanssen.de,2014-08-24T12:42:47+02:00
+Kay-Uwe Janssen,8a0e7351,2014-08-24,No Component,,8a0e7351,7,1,git@kujanssen.de,2014-08-24T07:20:33+02:00
+yDelouis,6c65b289,2014-08-23,No Component,fix,6c65b289,24,7,ydelouis@gmail.com,2014-08-23T14:24:05+02:00
+Kay-Uwe Janssen,472245f2,2014-08-23,No Component,,472245f2,1,1,git@kujanssen.de,2014-08-23T14:14:52+02:00
+yDelouis,c4c4c7c3,2014-08-23,No Component,,c4c4c7c3,3,6,ydelouis@gmail.com,2014-08-23T14:06:13+02:00
+yDelouis,3d1fd770,2014-08-23,No Component,Fix,3d1fd770,1,1,ydelouis@gmail.com,2014-08-23T11:23:53+02:00
+WonderCsabo,2fa58f8e,2014-08-22,No Component,,2fa58f8e,39,29,kozakcsabi@gmail.com,2014-08-22T18:51:53+02:00
+WonderCsabo,93d96ca6,2014-08-22,No Component,,93d96ca6,1,20,kozakcsabi@gmail.com,2014-08-22T18:23:20+02:00
+yDelouis,3d8035e8,2014-08-17,No Component,,3d8035e8,18,11,ydelouis@gmail.com,2014-08-17T17:11:07+02:00
+WonderCsabo,9dce86b4,2014-06-05,No Component,,9dce86b4,16,5,kozakcsabi@gmail.com,2014-06-05T23:59:43+02:00
+dodgex,d142fec5,2014-03-02,No Component,,d142fec5,1,1,kujanssen@freenet.de,2014-03-02T12:52:22+01:00
+dodgex,c86424cc,2014-05-11,No Component,,c86424cc,103,0,kujanssen@freenet.de,2014-05-11T19:26:36+02:00
+dodgex,49f96c12,2014-03-02,No Component,,49f96c12,93,0,kujanssen@freenet.de,2014-03-02T12:37:09+01:00
+Kay-Uwe Janssen,65e64af3,2014-08-15,No Component,,65e64af3,0,23,git@kujanssen.de,2014-08-15T19:29:21+02:00
+Kay-Uwe Janssen,e6765b1d,2014-08-15,No Component,,e6765b1d,1,1,git@kujanssen.de,2014-08-15T19:20:25+02:00
+Kay-Uwe Janssen,2798e222,2014-08-15,No Component,,2798e222,23,0,git@kujanssen.de,2014-08-15T19:18:31+02:00
+Jess Thrysoee,b909651d,2014-08-08,No Component,,b909651d,4,3,jess@thrysoee.dk,2014-08-08T19:07:34+02:00
+yDelouis,549c5d1a,2014-06-23,No Component,Fix,549c5d1a,35,98,ydelouis@gmail.com,2014-06-23T23:34:45+02:00
+Seong-A Kong,2d93178f,2014-06-23,No Component,,2d93178f,168,33,simonz@daumcorp.com,2014-06-23T09:04:22+02:00
+Damien,b8401d97,2014-06-17,No Component,,b8401d97,8,3,contact@dvilleneuve.fr,2014-06-17T19:02:10+02:00
+Damien,02afec9c,2014-06-17,No Component,,02afec9c,35,14,contact@dvilleneuve.fr,2014-06-17T19:00:20+02:00
+Maarten Mulders,a32e8da4,2014-06-16,No Component,,a32e8da4,3,0,maarten.mulders@ing.nl,2014-06-16T16:49:35+02:00
+Damien,f0dfe1b9,2014-06-09,No Component,,f0dfe1b9,3,0,contact@dvilleneuve.fr,2014-06-09T00:28:29+02:00
+Damien,0e442e93,2014-06-09,No Component,,0e442e93,83,32,contact@dvilleneuve.fr,2014-06-09T00:18:39+02:00
+Damien,7abadb12,2014-06-08,No Component,,7abadb12,13,12,contact@dvilleneuve.fr,2014-06-08T23:21:42+02:00
+yDelouis,7cd87aed,2014-06-06,No Component,,7cd87aed,4,4,ydelouis@gmail.com,2014-06-06T21:50:21+02:00
+yDelouis,42806c0c,2014-06-02,No Component,Fix,42806c0c,814,476,ydelouis@gmail.com,2014-06-02T23:22:13+02:00
+yDelouis,d9bbe467,2014-06-06,No Component,Fix,d9bbe467,17,2,ydelouis@gmail.com,2014-06-06T11:25:51+02:00
+yDelouis,667cf295,2014-06-06,No Component,Fix,667cf295,3,2,ydelouis@gmail.com,2014-06-06T10:09:55+02:00
+yDelouis,c5d5a69b,2014-03-23,No Component,Fix,c5d5a69b,19,33,ydelouis@gmail.com,2014-03-23T21:48:23+01:00
+yDelouis,03130e81,2014-03-21,No Component,,03130e81,7,8,ydelouis@gmail.com,2014-03-21T13:06:37+01:00
+Vincent Pizzo,4c463d02,2014-01-14,No Component,,4c463d02,3,0,vincent.pizzo@singlewire.com,2014-01-14T16:14:40+01:00
+Vincent Pizzo,1c9e73e3,2014-01-13,No Component,,1c9e73e3,111,4,vincent.pizzo@singlewire.com,2014-01-13T23:28:55+01:00
+Vincent Pizzo,e2fa5265,2014-01-13,No Component,,e2fa5265,102,0,vincent.pizzo@singlewire.com,2014-01-13T19:05:00+01:00
+Damien,aab5f203,2014-05-31,No Component,,aab5f203,60,16,contact@dvilleneuve.fr,2014-05-31T18:27:26+02:00
+yDelouis,e87ce670,2014-05-31,No Component,,e87ce670,4,0,ydelouis@gmail.com,2014-05-31T14:56:54+02:00
+yDelouis,de2e708e,2014-05-31,No Component,,de2e708e,3,3,ydelouis@gmail.com,2014-05-31T01:02:32+02:00
+WonderCsabo,412b7bf8,2014-05-27,No Component,,412b7bf8,52,36,kozakcsabi@gmail.com,2014-05-27T13:47:15+02:00
+Todor Lazov,ba561722,2014-05-18,No Component,,ba561722,5,3,todor@lazov.com,2014-05-18T05:27:52+02:00
+WonderCsabo,a6efac11,2014-05-14,No Component,,a6efac11,2,3,kozakcsabi@gmail.com,2014-05-14T17:20:49+02:00
+WonderCsabo,137353b7,2014-05-14,No Component,Fix,137353b7,14,9,kozakcsabi@gmail.com,2014-05-14T17:06:23+02:00
+yDelouis,ea6046e6,2014-05-13,No Component,Fix,ea6046e6,28,2,ydelouis@gmail.com,2014-05-13T19:28:05+02:00
+WonderCsabo,def8519c,2014-05-13,No Component,,def8519c,5,0,kozakcsabi@gmail.com,2014-05-13T16:46:46+02:00
+WonderCsabo,12750f96,2014-05-13,No Component,Fix fix,12750f96,76,2,kozakcsabi@gmail.com,2014-05-13T15:37:44+02:00
+WonderCsabo,7db376a4,2014-05-13,No Component,,7db376a4,28,17,kozakcsabi@gmail.com,2014-05-13T00:32:13+02:00
+Damien,ebcdf972,2014-05-12,No Component,Fix,ebcdf972,81,6,contact@dvilleneuve.fr,2014-05-12T10:38:51+02:00
+Damien,1aa661d2,2014-05-12,No Component,,1aa661d2,14,5,contact@dvilleneuve.fr,2014-05-12T08:59:36+02:00
+yDelouis,d28722c0,2014-05-11,No Component,,d28722c0,12,10,ydelouis@gmail.com,2014-05-11T23:43:44+02:00
+yDelouis,661f6588,2014-05-11,No Component,,661f6588,67,64,ydelouis@gmail.com,2014-05-11T23:34:46+02:00
+yDelouis,89a21f75,2014-05-11,No Component,,89a21f75,25,66,ydelouis@gmail.com,2014-05-11T23:06:30+02:00
+yDelouis,352809f4,2014-05-11,No Component,,352809f4,178,51,ydelouis@gmail.com,2014-05-11T22:29:51+02:00
+yDelouis,c11e74ff,2014-05-11,No Component,,c11e74ff,347,194,ydelouis@gmail.com,2014-05-11T21:30:30+02:00
+yDelouis,9bbaf76f,2014-03-27,No Component,,9bbaf76f,23,46,ydelouis@gmail.com,2014-03-27T22:24:50+01:00
+yDelouis,d3db0bdf,2014-03-27,No Component,,d3db0bdf,32,57,ydelouis@gmail.com,2014-03-27T22:06:32+01:00
+yDelouis,673c35c9,2014-03-20,No Component,,673c35c9,57,25,ydelouis@gmail.com,2014-03-20T23:44:29+01:00
+Drozdov Artyom,6c6ebfe5,2014-05-04,No Component,fix,6c6ebfe5,90,9,artem.drozdov@corp.mail.ru,2014-05-04T20:06:32+02:00
+yDelouis,9b06ae03,2014-05-02,No Component,,9b06ae03,41,28,ydelouis@gmail.com,2014-05-02T16:03:29+02:00
+WonderCsabo,cbf18645,2014-05-01,No Component,bug,cbf18645,311,326,kozakcsabi@gmail.com,2014-05-01T19:55:37+02:00
+WonderCsabo,9dcdf293,2014-05-02,No Component,,9dcdf293,124,89,kozakcsabi@gmail.com,2014-05-02T15:14:36+02:00
+WonderCsabo,051fc57e,2014-05-02,No Component,,051fc57e,30,0,kozakcsabi@gmail.com,2014-05-02T12:32:54+02:00
+WonderCsabo,5b31f202,2014-05-02,No Component,,5b31f202,245,9,kozakcsabi@gmail.com,2014-05-02T00:30:46+02:00
+yDelouis,e6721660,2014-04-28,No Component,,e6721660,9,25,ydelouis@gmail.com,2014-04-28T19:17:44+02:00
+yDelouis,585cd2d9,2014-04-28,No Component,,585cd2d9,88,297,ydelouis@gmail.com,2014-04-28T19:15:23+02:00
+Drozdov Artyom,ee604eed,2014-01-09,No Component,,ee604eed,385,1,artem.drozdov@corp.mail.ru,2014-01-09T13:05:05+01:00
+yDelouis,66811eb5,2014-04-22,No Component,,66811eb5,25,6,ydelouis@gmail.com,2014-04-22T18:44:30+02:00
+yDelouis,43fd15c9,2014-04-22,No Component,,43fd15c9,159,22,ydelouis@gmail.com,2014-04-22T18:32:17+02:00
+yDelouis,1f1fa015,2014-04-22,No Component,,1f1fa015,68,0,ydelouis@gmail.com,2014-04-22T17:03:17+02:00
+Damien,5e769c2d,2014-04-12,No Component,Fix,5e769c2d,1,1,contact@dvilleneuve.fr,2014-04-12T12:17:44+02:00
+WonderCsabo,7b5fe2af,2014-04-09,No Component,,7b5fe2af,0,17,kozakcsabi@gmail.com,2014-04-09T11:27:33+02:00
+WonderCsabo,c4eb1acd,2014-04-09,No Component,,c4eb1acd,36,35,kozakcsabi@gmail.com,2014-04-09T11:24:49+02:00
+WonderCsabo,d443a332,2014-04-09,No Component,,d443a332,181,52,kozakcsabi@gmail.com,2014-04-09T11:18:21+02:00
+WonderCsabo,099df714,2014-04-08,No Component,,099df714,44,8,kozakcsabi@gmail.com,2014-04-08T00:59:03+02:00
+Yoann Delouis,58f3a1df,2013-07-16,No Component,,58f3a1df,95,60,ydelouis@gmail.com,2013-07-16T13:24:21+02:00
+Damien,68c9e5d8,2014-04-06,No Component,,68c9e5d8,23,18,contact@dvilleneuve.fr,2014-04-06T14:55:35+02:00
+Damien,3abe79bd,2014-04-06,No Component,,3abe79bd,2,0,contact@dvilleneuve.fr,2014-04-06T13:37:30+02:00
+yDelouis,648f6c75,2014-04-01,No Component,,648f6c75,6,8,ydelouis@gmail.com,2014-04-01T12:03:01+02:00
+yDelouis,bbf70c60,2014-03-10,No Component,,bbf70c60,22,20,ydelouis@gmail.com,2014-03-10T15:41:12+01:00
+Manabu-GT,9d08512b,2014-03-31,No Component,,9d08512b,5,1,manabu1984+github@gmail.com,2014-03-31T18:59:39+02:00
+yDelouis,b7ffd141,2014-03-27,No Component,Fix,b7ffd141,9,2,ydelouis@gmail.com,2014-03-27T22:29:39+01:00
+yDelouis,16504b06,2014-03-21,No Component,Fix,16504b06,28,27,ydelouis@gmail.com,2014-03-21T14:19:13+01:00
+Damien,78918fb1,2014-03-16,No Component,,78918fb1,548,503,dvilleneuve@excilys.com,2014-03-16T17:22:57+01:00
+Damien,dfd71042,2014-03-16,No Component,,dfd71042,50,1,dvilleneuve@excilys.com,2014-03-16T17:11:41+01:00
+yDelouis,d474cdbf,2014-03-16,No Component,Fix,d474cdbf,62,108,ydelouis@gmail.com,2014-03-16T15:50:42+01:00
+Damien,96e10f91,2014-03-16,No Component,,96e10f91,27,14,dvilleneuve@excilys.com,2014-03-16T15:45:27+01:00
+yDelouis,dff7a680,2014-03-16,No Component,,dff7a680,47,0,ydelouis@gmail.com,2014-03-16T15:31:32+01:00
+Yoann Delouis,966630bf,2013-07-23,No Component,Fix,966630bf,35,22,ydelouis@gmail.com,2013-07-23T23:17:11+02:00
+Yoann Delouis,5c595b89,2013-06-18,No Component,,5c595b89,45,0,ydelouis@gmail.com,2013-06-18T14:06:09+02:00
+Yoann Delouis,99dfbb1f,2013-06-17,No Component,Fix,99dfbb1f,7,2,ydelouis@gmail.com,2013-06-17T16:44:24+02:00
+Yoann Delouis,ef40849c,2013-06-17,No Component,,ef40849c,137,79,ydelouis@gmail.com,2013-06-17T15:04:01+02:00
+Yoann Delouis,e3074e31,2013-06-17,No Component,,e3074e31,186,122,ydelouis@gmail.com,2013-06-17T14:37:29+02:00
+yDelouis,db85e0ea,2014-02-14,No Component,,db85e0ea,48,108,ydelouis@gmail.com,2014-02-14T18:35:29+01:00
+yDelouis,bead8893,2014-01-20,No Component,,bead8893,16,10,ydelouis@gmail.com,2014-01-20T23:55:41+01:00
+yDelouis,9b7228ca,2014-01-20,No Component,,9b7228ca,82,13,ydelouis@gmail.com,2014-01-20T23:36:53+01:00
+Bananeweizen,22fe246f,2014-01-19,No Component,Fix,22fe246f,6,6,bananeweizen@gmx.de,2014-01-19T10:21:55+01:00
+Kozák Csaba - kozcs - XJ6JXU,7fb2dbf4,2014-01-13,No Component,,7fb2dbf4,2,1,kozakcsabi@gmail.com,2014-01-13T17:11:41+01:00
+Kozák Csaba - kozcs - XJ6JXU,d3b5451e,2014-01-13,No Component,,d3b5451e,180,61,kozakcsabi@gmail.com,2014-01-13T15:27:36+01:00
+yDelouis,3f38176d,2014-01-13,No Component,,3f38176d,53,7,ydelouis@gmail.com,2014-01-13T12:05:27+01:00
+Damien,60b43652,2014-01-12,No Component,,60b43652,1,6,dvilleneuve@excilys.com,2014-01-12T17:06:50+01:00
+Damien,14f0ce69,2014-01-11,No Component,Fix,14f0ce69,7,6,dvilleneuve@excilys.com,2014-01-11T20:57:39+01:00
+Damien,67d05ba4,2014-01-11,No Component,,67d05ba4,90,0,dvilleneuve@excilys.com,2014-01-11T20:50:20+01:00
+Drozdov Artyom,eb80ac30,2014-01-11,No Component,fix,eb80ac30,84,25,artem.drozdov@corp.mail.ru,2014-01-11T20:26:38+01:00
+Drozdov Artyom,993a6801,2014-01-11,No Component,fix,993a6801,63,16,artem.drozdov@corp.mail.ru,2014-01-11T10:23:12+01:00
+yDelouis,c60d79e3,2014-01-10,No Component,,c60d79e3,109,0,ydelouis@gmail.com,2014-01-10T19:26:53+01:00
+yDelouis,1b9f70ed,2014-01-10,No Component,,1b9f70ed,303,0,ydelouis@gmail.com,2014-01-10T19:17:30+01:00
+Vincent Pizzo,eed9f0c9,2014-01-10,No Component,,eed9f0c9,39,7,vincent.pizzo@singlewire.com,2014-01-10T17:50:39+01:00
+yDelouis,696b90a5,2014-01-10,No Component,,696b90a5,569,47,ydelouis@gmail.com,2014-01-10T09:58:04+01:00
+yDelouis,d861769e,2014-01-05,No Component,,d861769e,81,0,ydelouis@gmail.com,2014-01-05T21:10:03+01:00
+Damien,44bce422,2014-01-10,No Component,Fix,44bce422,14,0,dvilleneuve@excilys.com,2014-01-10T11:31:54+01:00
+Drozdov Artyom,dfa270da,2014-01-09,No Component,fix,dfa270da,1,2,artem.drozdov@corp.mail.ru,2014-01-09T17:55:41+01:00
+Drozdov Artyom,e7de0657,2014-01-09,No Component,fix,e7de0657,17,21,artem.drozdov@corp.mail.ru,2014-01-09T17:41:26+01:00
+Drozdov Artyom,ac5ada61,2014-01-09,No Component,,ac5ada61,9,0,artem.drozdov@corp.mail.ru,2014-01-09T15:32:57+01:00
+Drozdov Artyom,091888cd,2014-01-09,No Component,,091888cd,73,13,artem.drozdov@corp.mail.ru,2014-01-09T15:18:57+01:00
+Damien,62219801,2014-01-06,No Component,,62219801,7,0,dvilleneuve@excilys.com,2014-01-06T08:57:48+01:00
+Damien,8783de5a,2014-01-05,No Component,,8783de5a,58,0,dvilleneuve@excilys.com,2014-01-05T14:54:10+01:00
+PerfectCarl,0c4be950,2014-01-04,No Component,Fix,0c4be950,41,0,name.is.carl@gmail.com,2014-01-04T15:34:52+01:00
+Damien,5d18fc8c,2014-01-02,No Component,Fix,5d18fc8c,2,1,dvilleneuve@excilys.com,2014-01-02T23:15:40+01:00
+Damien,b6ac6127,2014-01-01,No Component,,b6ac6127,2,2,dvilleneuve@excilys.com,2014-01-01T23:07:27+01:00
+Damien,623386f6,2014-01-01,No Component,,623386f6,121,24,dvilleneuve@excilys.com,2014-01-01T23:02:12+01:00
+Damien,94c8dda7,2013-12-30,No Component,,94c8dda7,5,13,dvilleneuve@excilys.com,2013-12-30T21:55:01+01:00
+Damien,6ef067dd,2013-12-29,No Component,,6ef067dd,5,0,dvilleneuve@excilys.com,2013-12-29T13:17:42+01:00
+Damien,7a5a283e,2013-12-29,No Component,,7a5a283e,6,1,dvilleneuve@excilys.com,2013-12-29T13:12:36+01:00
+Damien,21c07318,2013-12-29,No Component,Fix,21c07318,1,1,dvilleneuve@excilys.com,2013-12-29T12:52:24+01:00
+Damien,d9a95cae,2013-12-28,No Component,,d9a95cae,46,65,dvilleneuve@excilys.com,2013-12-28T23:27:42+01:00
+Yoann Delouis,73a6212f,2013-07-15,No Component,,73a6212f,92,51,ydelouis@gmail.com,2013-07-15T18:08:39+02:00
+Yoann Delouis,935929cf,2013-06-20,No Component,,935929cf,64,0,ydelouis@gmail.com,2013-06-20T17:56:08+02:00
+Yoann Delouis,57e3a916,2013-06-20,No Component,,57e3a916,203,24,ydelouis@gmail.com,2013-06-20T17:55:33+02:00
+Yoann Delouis,d59c86e0,2013-06-17,No Component,,d59c86e0,56,0,ydelouis@gmail.com,2013-06-17T13:12:01+02:00
+Yoann Delouis,4eabbbf1,2013-06-17,No Component,,4eabbbf1,135,98,ydelouis@gmail.com,2013-06-17T13:11:08+02:00
+Damien,edcd1368,2013-12-24,No Component,Fix,edcd1368,13,4,dvilleneuve@excilys.com,2013-12-24T18:52:05+01:00
+dodgex,fc8af077,2013-12-21,No Component,,fc8af077,4,2,kujanssen@freenet.de,2013-12-21T16:56:54+01:00
+Damien,c2935831,2013-12-21,No Component,Fix,c2935831,39,30,dvilleneuve@excilys.com,2013-12-21T14:33:19+01:00
+Damien,47827925,2013-12-19,No Component,,47827925,655,4,dvilleneuve@excilys.com,2013-12-19T15:39:09+01:00
+Damien,62daabdd,2013-12-19,No Component,,62daabdd,176,56,dvilleneuve@excilys.com,2013-12-19T14:25:09+01:00
+Damien,a4992209,2013-12-19,No Component,,a4992209,374,113,dvilleneuve@excilys.com,2013-12-19T13:35:20+01:00
+Damien,0a6eed4e,2013-12-19,No Component,Fix,0a6eed4e,2,2,dvilleneuve@excilys.com,2013-12-19T09:01:07+01:00
+Damien,94bf5b87,2013-12-18,No Component,,94bf5b87,716,147,dvilleneuve@excilys.com,2013-12-18T21:57:27+01:00
+Damien,ebf237b2,2013-12-18,No Component,,ebf237b2,358,70,dvilleneuve@excilys.com,2013-12-18T12:39:26+01:00
+Damien,74fd5f11,2013-12-18,No Component,,74fd5f11,447,70,dvilleneuve@excilys.com,2013-12-18T11:40:55+01:00
+Damien,5c209253,2013-12-17,No Component,,5c209253,0,1,dvilleneuve@excilys.com,2013-12-17T00:35:28+01:00
+Damien,9b6e113d,2013-12-16,No Component,,9b6e113d,180,0,dvilleneuve@excilys.com,2013-12-16T23:35:40+01:00
+Damien,997d9452,2013-12-16,No Component,Fix,997d9452,332,174,dvilleneuve@excilys.com,2013-12-16T23:34:41+01:00
+yDelouis,fa7fd138,2013-12-11,No Component,,fa7fd138,45,0,ydelouis@gmail.com,2013-12-11T09:14:43+01:00
+yDelouis,ea91f41e,2013-12-10,No Component,Fix,ea91f41e,39,24,ydelouis@gmail.com,2013-12-10T16:22:19+01:00
+yDelouis,1bed5393,2013-12-10,No Component,Fix,1bed5393,14,5,ydelouis@gmail.com,2013-12-10T15:45:21+01:00
+yDelouis,516cb961,2013-12-10,No Component,Fix,516cb961,4,4,ydelouis@gmail.com,2013-12-10T15:26:04+01:00
+yDelouis,f9056d63,2013-12-10,No Component,Fix,f9056d63,3,2,ydelouis@gmail.com,2013-12-10T15:18:32+01:00
+Damien,ccdb2d50,2013-12-08,No Component,,ccdb2d50,8,0,dvilleneuve@excilys.com,2013-12-08T22:52:54+01:00
+Damien,aae4ea9d,2013-12-08,No Component,,aae4ea9d,4,1,dvilleneuve@excilys.com,2013-12-08T22:37:11+01:00
+Damien,4d0f4463,2013-12-08,No Component,,4d0f4463,15,0,dvilleneuve@excilys.com,2013-12-08T22:25:37+01:00
+Damien,4a90ad6a,2013-12-08,No Component,,4a90ad6a,16,3,dvilleneuve@excilys.com,2013-12-08T22:15:12+01:00
+Damien,ed00b2eb,2013-12-08,No Component,,ed00b2eb,24,11,dvilleneuve@excilys.com,2013-12-08T21:29:04+01:00
+Damien,44a0206a,2013-12-06,No Component,,44a0206a,65,67,dvilleneuve@excilys.com,2013-12-06T12:40:43+01:00
+yDelouis,cce0a2cf,2013-12-08,No Component,,cce0a2cf,75,0,ydelouis@gmail.com,2013-12-08T20:46:35+01:00
+Damien,9ad6e162,2013-12-06,No Component,,9ad6e162,183,50,dvilleneuve@excilys.com,2013-12-06T12:19:37+01:00
+Thomas Bruyelle,7aa62309,2013-11-29,No Component,Fix,7aa62309,10,8,thomas.bruyelle@gmail.com,2013-11-29T09:52:27+01:00
+Artyom Drozdov,95f02ca2,2013-11-22,No Component,,95f02ca2,77,0,artyomcool@mail.ru,2013-11-22T19:29:00+01:00
+Damien,85042a7b,2013-11-22,No Component,,85042a7b,130,43,dvilleneuve@excilys.com,2013-11-22T17:13:51+01:00
+Damien,03d35cb4,2013-11-22,No Component,,03d35cb4,24,14,dvilleneuve@excilys.com,2013-11-22T16:28:06+01:00
+Damien,1c9d5144,2013-11-22,No Component,,1c9d5144,171,37,dvilleneuve@excilys.com,2013-11-22T16:01:36+01:00
+Damien,cc2cfc7b,2013-10-18,No Component,,cc2cfc7b,312,0,dvilleneuve@excilys.com,2013-10-18T09:56:37+02:00
+Damien,5d2c3fad,2013-11-08,No Component,,5d2c3fad,4,0,dvilleneuve@excilys.com,2013-11-08T11:55:03+01:00
+Damien,f0865bbf,2013-10-23,No Component,,f0865bbf,22,10,dvilleneuve@excilys.com,2013-10-23T18:49:16+02:00
+Damien,65d8c368,2013-10-23,No Component,,65d8c368,20,6,dvilleneuve@excilys.com,2013-10-23T18:35:10+02:00
+Damien,3b1ab57a,2013-10-23,No Component,,3b1ab57a,119,2,dvilleneuve@excilys.com,2013-10-23T18:24:35+02:00
+Damien,2ee251d0,2013-10-23,No Component,Fix,2ee251d0,63,17,dvilleneuve@excilys.com,2013-10-23T14:24:34+02:00
+Damien,51f31e1a,2013-10-23,No Component,Fix,51f31e1a,1,1,dvilleneuve@excilys.com,2013-10-23T17:22:10+02:00
+Joan Zapata,ed8e0318,2013-10-17,No Component,Fix,ed8e0318,42,0,jzapata@excilys.com,2013-10-17T14:12:00+02:00
+Damien,2c87f825,2013-10-12,No Component,,2c87f825,197,30,dvilleneuve@excilys.com,2013-10-12T16:02:42+02:00
+Damien,5887c5ab,2013-10-11,No Component,Fix,5887c5ab,35,9,dvilleneuve@excilys.com,2013-10-11T17:28:11+02:00
+Damien,ace22fdd,2013-10-11,No Component,Fix,ace22fdd,8,5,dvilleneuve@excilys.com,2013-10-11T16:52:18+02:00
+Sebastian Roth,c18702f6,2013-10-04,No Component,,c18702f6,4,0,sebastian.roth@gmail.com,2013-10-04T04:26:57+02:00
+dodgex,ff3436ce,2013-09-25,No Component,fix,ff3436ce,2,1,kujanssen@freenet.de,2013-09-25T15:45:53+02:00
+Damien,1f807e32,2013-09-24,No Component,,1f807e32,0,6,dvilleneuve@excilys.com,2013-09-24T10:06:50+02:00
+Damien,545642d2,2013-09-23,No Component,Fix,545642d2,1,1,dvilleneuve@excilys.com,2013-09-23T09:44:51+02:00
+dodgex,819bf2b3,2013-09-23,No Component,fix,819bf2b3,1,1,kujanssen@freenet.de,2013-09-23T08:09:53+02:00
+Damien,f4075851,2013-09-22,No Component,,f4075851,10,1,dvilleneuve@excilys.com,2013-09-22T22:10:30+02:00
+Damien,50da2b91,2013-09-22,No Component,,50da2b91,5,3,dvilleneuve@excilys.com,2013-09-22T22:09:54+02:00
+Damien,c4bc3991,2013-09-22,No Component,,c4bc3991,73,5,dvilleneuve@excilys.com,2013-09-22T21:36:47+02:00
+Damien,b95475d5,2013-09-22,No Component,,b95475d5,20,16,dvilleneuve@excilys.com,2013-09-22T21:08:38+02:00
+dodgex,347cb62f,2013-09-22,No Component,,347cb62f,9,6,kujanssen@freenet.de,2013-09-22T20:09:16+02:00
+Damien,da07f1f1,2013-09-22,No Component,Fix,da07f1f1,2,2,dvilleneuve@excilys.com,2013-09-22T18:04:53+02:00
+Damien,015e7806,2013-09-20,No Component,,015e7806,75,0,dvilleneuve@excilys.com,2013-09-20T19:03:14+02:00
+Damien,ce7d4b92,2013-09-20,No Component,Fix,ce7d4b92,4,4,dvilleneuve@excilys.com,2013-09-20T18:58:16+02:00
+Damien,2a60e05a,2013-09-20,No Component,,2a60e05a,21,16,dvilleneuve@excilys.com,2013-09-20T17:47:31+02:00
+Damien,65590d45,2013-09-20,No Component,,65590d45,39,9,dvilleneuve@excilys.com,2013-09-20T16:24:11+02:00
+Thomas Bruyelle,1239f624,2013-09-03,No Component,,1239f624,12,21,thomas.bruyelle@gmail.com,2013-09-03T10:47:25+02:00
+Seong-A Kong,7b0d2326,2013-09-02,No Component,,7b0d2326,8,3,simonz@daumcorp.com,2013-09-02T11:52:04+02:00
+dhleong,2dcd4a15,2013-08-28,No Component,,2dcd4a15,19,1,falcone88@gmail.com,2013-08-28T15:57:49+02:00
+Thomas Bruyelle,30c28d2d,2013-08-11,No Component,,30c28d2d,35,0,thomas.bruyelle@gmail.com,2013-08-11T14:40:32+02:00
+Thomas Bruyelle,4a6a77be,2013-07-28,No Component,,4a6a77be,0,17,thomas.bruyelle@gmail.com,2013-07-28T18:56:02+02:00
+Thomas Bruyelle,4cb345a9,2013-07-27,No Component,,4cb345a9,2,8,thomas.bruyelle@gmail.com,2013-07-27T13:16:08+02:00
+Thomas Bruyelle,d4f72ee5,2013-07-26,No Component,Fix fix,d4f72ee5,95,2,thomas.bruyelle@gmail.com,2013-07-26T11:33:41+02:00
+Thomas Bruyelle,c4e8e3d6,2013-07-25,No Component,fix,c4e8e3d6,37,2,thomas.bruyelle@gmail.com,2013-07-25T23:33:43+02:00
+Damien,d82f3c16,2013-07-19,No Component,,d82f3c16,5,3,dvilleneuve@excilys.com,2013-07-19T21:11:20+02:00
+Damien,511119d2,2013-07-19,No Component,,511119d2,25,7,dvilleneuve@excilys.com,2013-07-19T21:10:50+02:00
+Yoann Delouis,498daa90,2013-07-15,No Component,Fix,498daa90,3,3,ydelouis@gmail.com,2013-07-15T15:37:51+02:00
+rockytriton,01593148,2013-07-14,No Component,,01593148,75,0,rockytriton@yahoo.com,2013-07-14T23:00:35+02:00
+rockytriton,ecb8911c,2013-07-14,No Component,,ecb8911c,136,29,rockytriton@yahoo.com,2013-07-14T22:55:40+02:00
+rockytriton,a3c72003,2013-07-13,No Component,,a3c72003,11,3,rockytriton@yahoo.com,2013-07-13T09:50:43+02:00
+rockytriton,8663d981,2013-07-13,No Component,,8663d981,98,0,rockytriton@yahoo.com,2013-07-13T09:48:05+02:00
+Damien,53690025,2013-07-12,No Component,,53690025,2,1,dvilleneuve@excilys.com,2013-07-12T15:36:46+02:00
+Damien,e65d7183,2013-07-12,No Component,,e65d7183,28,11,dvilleneuve@excilys.com,2013-07-12T15:36:26+02:00
+Damien,8e033fbb,2013-07-12,No Component,,8e033fbb,1,0,dvilleneuve@excilys.com,2013-07-12T14:47:22+02:00
+Damien,e94261ea,2013-07-12,No Component,Fix,e94261ea,0,0,dvilleneuve@excilys.com,2013-07-12T12:05:29+02:00
+Damien,a851f79a,2013-07-12,No Component,Fix,a851f79a,10,0,dvilleneuve@excilys.com,2013-07-12T10:34:54+02:00
+Damien,e58eaaab,2013-07-12,No Component,,e58eaaab,8,7,dvilleneuve@excilys.com,2013-07-12T09:58:22+02:00
+Yoann Delouis,0414900c,2013-07-02,No Component,Fix,0414900c,3,0,ydelouis@gmail.com,2013-07-02T14:42:40+02:00
+Yoann Delouis,6dc7a83d,2013-07-02,No Component,Fix,6dc7a83d,8,5,ydelouis@gmail.com,2013-07-02T14:08:35+02:00
+Damien,7041feea,2013-06-20,No Component,,7041feea,5,1,dvilleneuve@excilys.com,2013-06-20T11:05:43+02:00
+Yoann Delouis,aee786f2,2013-06-17,No Component,,aee786f2,37,16,ydelouis@gmail.com,2013-06-17T10:26:04+02:00
+Yoann Delouis,99316790,2013-06-13,No Component,,99316790,199,190,ydelouis@gmail.com,2013-06-13T16:15:15+02:00
+Yoann Delouis,3fdc1903,2013-06-13,No Component,,3fdc1903,95,369,ydelouis@gmail.com,2013-06-13T14:55:58+02:00
+Yoann Delouis,2de8ad9c,2013-06-12,No Component,,2de8ad9c,12,3,ydelouis@gmail.com,2013-06-12T17:45:50+02:00
+Yoann Delouis,aa593ba3,2013-06-12,No Component,Fix,aa593ba3,17,5,ydelouis@gmail.com,2013-06-12T10:47:42+02:00
+Rocky Pulley,a5c4b7fa,2013-06-10,No Component,,a5c4b7fa,8,3,rockytriton@yahoo.com,2013-06-10T19:44:04+02:00
+Romain Vimont (®om),8d0c9f52,2013-06-10,No Component,bug,8d0c9f52,31,1,rom@rom1v.com,2013-06-10T13:53:53+02:00
+Yoann Delouis,94acf915,2013-06-10,No Component,,94acf915,1563,858,ydelouis@gmail.com,2013-06-10T10:27:22+02:00
+Yoann Delouis,22fd1b64,2013-06-06,No Component,,22fd1b64,1545,0,ydelouis@gmail.com,2013-06-06T21:56:55+02:00
+Yoann Delouis,bced1c81,2013-06-06,No Component,bug,bced1c81,14,0,ydelouis@gmail.com,2013-06-06T21:44:13+02:00
+Yoann Delouis,91914dda,2013-06-06,No Component,,91914dda,6,19,ydelouis@gmail.com,2013-06-06T17:16:30+02:00
+Yoann Delouis,ae63ccf5,2013-06-06,No Component,,ae63ccf5,42,23,ydelouis@gmail.com,2013-06-06T17:05:38+02:00
+Yoann Delouis,3d0292f6,2013-06-06,No Component,,3d0292f6,42,19,ydelouis@gmail.com,2013-06-06T17:05:06+02:00
+Yoann Delouis,f214ddd8,2013-06-06,No Component,,f214ddd8,151,922,ydelouis@gmail.com,2013-06-06T15:53:54+02:00
+Yoann Delouis,5c698d86,2013-06-06,No Component,,5c698d86,37,0,ydelouis@gmail.com,2013-06-06T15:02:05+02:00
+Yoann Delouis,13b13bf7,2013-06-06,No Component,,13b13bf7,79,17,ydelouis@gmail.com,2013-06-06T14:46:17+02:00
+Yoann Delouis,cea95c27,2013-06-06,No Component,,cea95c27,266,16,ydelouis@gmail.com,2013-06-06T14:34:15+02:00
+Yoann Delouis,95b75688,2013-06-06,No Component,,95b75688,195,1,ydelouis@gmail.com,2013-06-06T13:47:35+02:00
+Yoann Delouis,5218a5e9,2013-06-06,No Component,,5218a5e9,51,1,ydelouis@gmail.com,2013-06-06T13:35:17+02:00
+Yoann Delouis,5853e5a9,2013-06-06,No Component,,5853e5a9,121,0,ydelouis@gmail.com,2013-06-06T13:32:17+02:00
+Yoann Delouis,219f72b6,2013-06-06,No Component,,219f72b6,64,0,ydelouis@gmail.com,2013-06-06T13:24:14+02:00
+Yoann Delouis,f5bb517a,2013-06-06,No Component,,f5bb517a,64,0,ydelouis@gmail.com,2013-06-06T13:21:06+02:00
+Yoann Delouis,10969cd8,2013-06-06,No Component,,10969cd8,161,2,ydelouis@gmail.com,2013-06-06T13:16:14+02:00
+Yoann Delouis,d9c0250c,2013-06-06,No Component,,d9c0250c,43,0,ydelouis@gmail.com,2013-06-06T13:04:24+02:00
+Yoann Delouis,d5a75249,2013-06-06,No Component,,d5a75249,148,0,ydelouis@gmail.com,2013-06-06T12:04:15+02:00
+Yoann Delouis,140be6ab,2013-06-06,No Component,,140be6ab,246,4,ydelouis@gmail.com,2013-06-06T11:52:19+02:00
+Yoann Delouis,3bf319d8,2013-06-06,No Component,,3bf319d8,131,0,ydelouis@gmail.com,2013-06-06T11:10:36+02:00
+Yoann Delouis,3c94932d,2013-06-06,No Component,,3c94932d,162,1,ydelouis@gmail.com,2013-06-06T11:01:49+02:00
+Yoann Delouis,ba173b90,2013-06-06,No Component,,ba173b90,308,0,ydelouis@gmail.com,2013-06-06T10:06:06+02:00
+Yoann Delouis,d208897f,2013-06-06,No Component,,d208897f,175,292,ydelouis@gmail.com,2013-06-06T00:07:46+02:00
+Yoann Delouis,4ec69c90,2013-06-05,No Component,,4ec69c90,69,0,ydelouis@gmail.com,2013-06-05T17:13:12+02:00
+Yoann Delouis,7dd74db6,2013-06-05,No Component,,7dd74db6,223,0,ydelouis@gmail.com,2013-06-05T16:52:35+02:00
+Yoann Delouis,f38accd9,2013-06-05,No Component,,f38accd9,58,0,ydelouis@gmail.com,2013-06-05T15:04:04+02:00
+Yoann Delouis,908c44b5,2013-06-05,No Component,,908c44b5,105,4,ydelouis@gmail.com,2013-06-05T10:38:22+02:00
+Yoann Delouis,6061fff2,2013-06-04,No Component,,6061fff2,52,0,yoann.delouis@atos.net,2013-06-04T19:59:26+02:00
+Yoann Delouis,2c028241,2013-06-04,No Component,,2c028241,33,0,yoann.delouis@atos.net,2013-06-04T19:57:35+02:00
+Yoann Delouis,7b5f76a4,2013-06-04,No Component,,7b5f76a4,47,0,yoann.delouis@atos.net,2013-06-04T19:54:23+02:00
+Yoann Delouis,663b9448,2013-06-03,No Component,,663b9448,1,0,yoann.delouis@atos.net,2013-06-03T22:23:27+02:00
+Yoann Delouis,fb11534e,2013-06-03,No Component,,fb11534e,189,0,ydelouis@gmail.com,2013-06-03T17:59:37+02:00
+Yoann Delouis,665f1852,2013-06-03,No Component,,665f1852,62,0,ydelouis@gmail.com,2013-06-03T17:50:47+02:00
+Yoann Delouis,459dee7a,2013-06-03,No Component,,459dee7a,172,2,ydelouis@gmail.com,2013-06-03T17:25:22+02:00
+Yoann Delouis,d8af1f4b,2013-06-03,No Component,,d8af1f4b,45,0,ydelouis@gmail.com,2013-06-03T16:54:12+02:00
+Yoann Delouis,1cad3799,2013-06-03,No Component,,1cad3799,45,0,ydelouis@gmail.com,2013-06-03T16:41:07+02:00
+Yoann Delouis,75513cc8,2013-06-03,No Component,,75513cc8,47,0,ydelouis@gmail.com,2013-06-03T16:29:19+02:00
+Yoann Delouis,1ca9dccb,2013-06-03,No Component,,1ca9dccb,39,0,ydelouis@gmail.com,2013-06-03T16:23:21+02:00
+Yoann Delouis,d6a646ed,2013-06-03,No Component,,d6a646ed,49,0,ydelouis@gmail.com,2013-06-03T16:17:20+02:00
+Yoann Delouis,be221e6c,2013-06-03,No Component,,be221e6c,63,0,ydelouis@gmail.com,2013-06-03T16:08:21+02:00
+Yoann Delouis,6667c428,2013-06-03,No Component,,6667c428,68,0,ydelouis@gmail.com,2013-06-03T15:53:32+02:00
+Yoann Delouis,2c20fecd,2013-06-03,No Component,,2c20fecd,372,18,ydelouis@gmail.com,2013-06-03T15:53:05+02:00
+Damien,918e869e,2013-06-06,No Component,,918e869e,13,35,dvilleneuve@excilys.com,2013-06-06T20:26:53+02:00
+Yoann Delouis,a49f68c3,2013-06-03,No Component,,a49f68c3,269,4,ydelouis@gmail.com,2013-06-03T15:48:51+02:00
+Yoann Delouis,26ac5e88,2013-06-02,No Component,,26ac5e88,254,2,yoann.delouis@atos.net,2013-06-02T22:47:59+02:00
+Yoann Delouis,b822da41,2013-05-31,No Component,,b822da41,71,5,ydelouis@gmail.com,2013-05-31T15:57:42+02:00
+Yoann Delouis,ec481d75,2013-05-31,No Component,,ec481d75,142,0,ydelouis@gmail.com,2013-05-31T14:04:14+02:00
+Yoann Delouis,ffb7bd12,2013-05-31,No Component,,ffb7bd12,207,2,ydelouis@gmail.com,2013-05-31T17:17:32+02:00
+Yoann Delouis,18aaf831,2013-05-31,No Component,,18aaf831,198,33,ydelouis@gmail.com,2013-05-31T09:32:59+02:00
+Yoann Delouis,29c0e845,2013-05-31,No Component,,29c0e845,112,21,ydelouis@gmail.com,2013-05-31T09:20:28+02:00
+Yoann Delouis,a37c6b24,2013-05-30,No Component,,a37c6b24,96,0,ydelouis@gmail.com,2013-05-30T17:50:27+02:00
+Yoann Delouis,0ff7b93f,2013-05-30,No Component,,0ff7b93f,119,1,ydelouis@gmail.com,2013-05-30T17:41:07+02:00
+Yoann Delouis,90f94741,2013-05-30,No Component,,90f94741,94,0,ydelouis@gmail.com,2013-05-30T17:20:11+02:00
+Yoann Delouis,c3f8031e,2013-05-30,No Component,,c3f8031e,79,0,ydelouis@gmail.com,2013-05-30T16:55:02+02:00
+Yoann Delouis,7fd8a681,2013-05-30,No Component,,7fd8a681,72,0,ydelouis@gmail.com,2013-05-30T16:44:18+02:00
+Yoann Delouis,3f0f7e1f,2013-05-30,No Component,,3f0f7e1f,78,0,ydelouis@gmail.com,2013-05-30T14:50:51+02:00
+Yoann Delouis,9d0a9ebe,2013-05-30,No Component,,9d0a9ebe,74,0,ydelouis@gmail.com,2013-05-30T14:27:11+02:00
+Yoann Delouis,6e7d28a5,2013-05-30,No Component,,6e7d28a5,195,0,ydelouis@gmail.com,2013-05-30T14:01:11+02:00
+Yoann Delouis,d7126a31,2013-05-30,No Component,,d7126a31,66,0,ydelouis@gmail.com,2013-05-30T11:59:22+02:00
+Yoann Delouis,18a35bab,2013-05-30,No Component,,18a35bab,186,0,ydelouis@gmail.com,2013-05-30T11:47:51+02:00
+Yoann Delouis,84c38e1b,2013-05-29,No Component,,84c38e1b,192,0,ydelouis@gmail.com,2013-05-29T18:23:30+02:00
+Yoann Delouis,ba5d5e31,2013-05-29,No Component,,ba5d5e31,120,19,ydelouis@gmail.com,2013-05-29T17:32:24+02:00
+Yoann Delouis,20d6da44,2013-05-29,No Component,,20d6da44,76,0,ydelouis@gmail.com,2013-05-29T17:11:01+02:00
+Yoann Delouis,0fdf1909,2013-05-29,No Component,,0fdf1909,363,4,ydelouis@gmail.com,2013-05-29T17:00:23+02:00
+Yoann Delouis,b7fa4773,2013-05-23,No Component,,b7fa4773,404,63,ydelouis@gmail.com,2013-05-23T19:20:00+02:00
+Yoann Delouis,b685ed46,2013-05-23,No Component,,b685ed46,43,0,ydelouis@gmail.com,2013-05-23T17:01:43+02:00
+Yoann Delouis,4caf8169,2013-05-23,No Component,,4caf8169,106,5,ydelouis@gmail.com,2013-05-23T16:34:39+02:00
+Yoann Delouis,a7f29930,2013-05-23,No Component,,a7f29930,177,0,ydelouis@gmail.com,2013-05-23T15:56:26+02:00
+Yoann Delouis,02d42a63,2013-05-23,No Component,,02d42a63,107,0,ydelouis@gmail.com,2013-05-23T15:09:33+02:00
+Yoann Delouis,033807bf,2013-05-23,No Component,,033807bf,91,0,ydelouis@gmail.com,2013-05-23T15:02:33+02:00
+Yoann Delouis,b57cd254,2013-05-23,No Component,,b57cd254,80,0,ydelouis@gmail.com,2013-05-23T14:54:39+02:00
+Yoann Delouis,03620f93,2013-05-23,No Component,,03620f93,258,6,ydelouis@gmail.com,2013-05-23T14:33:23+02:00
+Damien,c62b8de1,2013-06-06,No Component,Fix,c62b8de1,12,0,dvilleneuve@excilys.com,2013-06-06T19:48:33+02:00
+Yoann Delouis,f1b3eb5e,2013-05-23,No Component,,f1b3eb5e,99,0,ydelouis@gmail.com,2013-05-23T12:04:45+02:00
+Yoann Delouis,8c359bfe,2013-06-04,No Component,,8c359bfe,513,10,yoann.delouis@atos.net,2013-06-04T23:27:41+02:00
+Yoann Delouis,71db357a,2013-05-22,No Component,,71db357a,150,0,ydelouis@gmail.com,2013-05-22T16:53:30+02:00
+Yoann Delouis,3b33792a,2013-06-04,No Component,,3b33792a,801,260,yoann.delouis@atos.net,2013-06-04T22:56:12+02:00
+Damien,00a0db50,2013-06-05,No Component,,00a0db50,30,0,dvilleneuve@excilys.com,2013-06-05T17:52:20+02:00
+Damien,cc78b4d2,2013-06-05,No Component,,cc78b4d2,41,0,dvilleneuve@excilys.com,2013-06-05T17:47:49+02:00
+Damien,e209f37d,2013-06-05,No Component,,e209f37d,5,1,dvilleneuve@excilys.com,2013-06-05T01:42:20+02:00
+Damien,0afbc427,2013-06-05,No Component,,0afbc427,5,1,dvilleneuve@excilys.com,2013-06-05T01:31:38+02:00
+Damien,9174d75a,2013-06-05,No Component,,9174d75a,27,0,dvilleneuve@excilys.com,2013-06-05T01:27:28+02:00
+Damien,9007253d,2013-06-04,No Component,,9007253d,99,16,dvilleneuve@excilys.com,2013-06-04T23:07:00+02:00
+Damien,84130ab3,2013-05-30,No Component,,84130ab3,27,0,dvilleneuve@excilys.com,2013-05-30T00:02:03+02:00
+Rocky Pulley,acd39723,2013-05-28,No Component,,acd39723,9,0,rockytriton@yahoo.com,2013-05-28T22:28:54+02:00
+Adrian Roos,74fc8864,2013-05-28,No Component,,74fc8864,13,2,adrian.roos@gmail.com,2013-05-28T01:36:45+02:00
+Damien,c1d25d33,2013-05-26,No Component,,c1d25d33,104,3,dvilleneuve@excilys.com,2013-05-26T22:10:05+02:00
+rockytriton,7f8afdf1,2013-05-27,No Component,,7f8afdf1,2,0,rockytriton@yahoo.com,2013-05-27T00:04:42+02:00
+Damien,5b975898,2013-05-26,No Component,Fix,5b975898,19,8,dvilleneuve@excilys.com,2013-05-26T21:38:52+02:00
+dhleong,8c517c1e,2013-05-26,No Component,,8c517c1e,97,6,falcone88@gmail.com,2013-05-26T05:57:07+02:00
+rockytriton,4c15846b,2013-05-24,No Component,,4c15846b,15,0,rockytriton@yahoo.com,2013-05-24T21:43:33+02:00
+rockytriton,86d3f485,2013-05-24,No Component,,86d3f485,19,0,rockytriton@yahoo.com,2013-05-24T21:42:23+02:00
+rockytriton,edf2dcdf,2013-05-24,No Component,fix,edf2dcdf,20,5,rockytriton@yahoo.com,2013-05-24T21:36:44+02:00
+rockytriton,5527b985,2013-05-24,No Component,,5527b985,19,0,rockytriton@yahoo.com,2013-05-24T17:51:47+02:00
+Damien,9d1b3ca0,2013-05-24,No Component,,9d1b3ca0,87,0,dvilleneuve@excilys.com,2013-05-24T11:11:17+02:00
+Damien,a8686e64,2013-05-23,No Component,,a8686e64,6,3,dvilleneuve@excilys.com,2013-05-23T21:41:20+02:00
+Damien,c9a53d3e,2013-05-23,No Component,,c9a53d3e,127,0,dvilleneuve@excilys.com,2013-05-23T21:38:46+02:00
+Damien,be954c9a,2013-05-23,No Component,,be954c9a,84,0,dvilleneuve@excilys.com,2013-05-23T20:20:30+02:00
+Romain Vimont (®om),4161c623,2013-05-22,No Component,,4161c623,19,2,rom@rom1v.com,2013-05-22T15:50:03+02:00
+Romain Vimont (®om),f3a5718a,2013-05-22,No Component,,f3a5718a,6,6,rom@rom1v.com,2013-05-22T15:35:22+02:00
+Romain Vimont (®om),75b15167,2013-05-22,No Component,,75b15167,3,3,rom@rom1v.com,2013-05-22T15:26:06+02:00
+Romain Vimont (®om),33b3cf49,2013-05-22,No Component,,33b3cf49,0,1,rom@rom1v.com,2013-05-22T15:24:59+02:00
+Romain Vimont (®om),fddcc1b6,2013-05-22,No Component,,fddcc1b6,4,2,rom@rom1v.com,2013-05-22T15:15:36+02:00
+Romain Vimont (®om),aa2fe11f,2013-05-21,No Component,bug,aa2fe11f,4,2,rom@rom1v.com,2013-05-21T23:14:40+02:00
+Mathieu Boniface,daf6102a,2013-05-18,No Component,Fix,daf6102a,6,0,mat.boniface@gmail.com,2013-05-18T18:57:01+02:00
+Damien,a17feafb,2013-05-05,No Component,,a17feafb,113,2,dvilleneuve@excilys.com,2013-05-05T22:45:50+02:00
+dhleong,a0986a27,2013-05-05,No Component,,a0986a27,62,2,falcone88@gmail.com,2013-05-05T06:39:32+02:00
+dhleong,0d2dabde,2013-05-05,No Component,Fix,0d2dabde,8,0,falcone88@gmail.com,2013-05-05T03:00:50+02:00
+dhleong,0afc92d5,2013-05-05,No Component,,0afc92d5,3,1,falcone88@gmail.com,2013-05-05T02:50:53+02:00
+dhleong,aac6b43b,2013-05-05,No Component,,aac6b43b,7,0,falcone88@gmail.com,2013-05-05T02:47:16+02:00
+dhleong,aae71df2,2013-05-05,No Component,,aae71df2,41,0,falcone88@gmail.com,2013-05-05T02:42:28+02:00
+dhleong,d73107ea,2013-05-05,No Component,,d73107ea,3,0,falcone88@gmail.com,2013-05-05T02:28:21+02:00
+dhleong,c377bb53,2013-05-05,No Component,,c377bb53,2,0,falcone88@gmail.com,2013-05-05T02:15:06+02:00
+dhleong,37ea7321,2013-05-04,No Component,,37ea7321,6,0,falcone88@gmail.com,2013-05-04T23:51:01+02:00
+dhleong,8122abf0,2013-05-04,No Component,,8122abf0,2,0,falcone88@gmail.com,2013-05-04T23:45:46+02:00
+dhleong,d23a232a,2013-05-04,No Component,,d23a232a,91,0,falcone88@gmail.com,2013-05-04T21:38:50+02:00
+Romain Vimont (®om),dbd7cafd,2013-04-22,No Component,,dbd7cafd,6,3,rom@rom1v.com,2013-04-22T19:35:38+02:00
+Romain Vimont (®om),0ec12b0d,2013-04-22,No Component,,0ec12b0d,208,18,rom@rom1v.com,2013-04-22T13:46:18+02:00
+Romain Vimont (®om),99ca871c,2013-04-21,No Component,,99ca871c,63,13,rom@rom1v.com,2013-04-21T15:18:55+02:00
+Romain Vimont (®om),1ab7373f,2013-04-22,No Component,,1ab7373f,15,12,rom@rom1v.com,2013-04-22T09:56:00+02:00
+Romain Vimont (®om),5254f56f,2013-04-21,No Component,,5254f56f,116,78,rom@rom1v.com,2013-04-21T14:51:26+02:00
+Damien,593901d2,2013-04-22,No Component,,593901d2,7,0,dvilleneuve@excilys.com,2013-04-22T12:20:29+02:00
+Damien,865e9913,2013-04-22,No Component,,865e9913,14,3,dvilleneuve@excilys.com,2013-04-22T11:54:23+02:00
+Damien,5e38b20e,2013-04-22,No Component,,5e38b20e,82,0,dvilleneuve@excilys.com,2013-04-22T01:43:01+02:00
+Romain Vimont (®om),2045e41b,2013-04-19,No Component,,2045e41b,4,6,rom@rom1v.com,2013-04-19T09:32:36+02:00
+Romain Vimont (®om),d39e77d6,2013-04-19,No Component,fix,d39e77d6,1,1,rom@rom1v.com,2013-04-19T09:32:17+02:00
+Romain Vimont (®om),2ded3aa0,2013-04-18,No Component,,2ded3aa0,59,0,rom@rom1v.com,2013-04-18T14:53:33+02:00
+Romain Vimont (®om),879f196e,2013-04-18,No Component,,879f196e,145,5,rom@rom1v.com,2013-04-18T10:24:51+02:00
+Romain Vimont (®om),c201130a,2013-04-18,No Component,,c201130a,42,10,rom@rom1v.com,2013-04-18T10:30:46+02:00
+Yoann Delouis,598aff3a,2013-04-17,No Component,,598aff3a,27,0,yoann.delouis@atos.net,2013-04-17T11:45:25+02:00
+Mathieu Boniface,b2b0fbd6,2013-04-13,No Component,,b2b0fbd6,63,3,mat.boniface@gmail.com,2013-04-13T17:08:39+02:00
+Mathieu Boniface,7a834171,2013-04-13,No Component,Fix,7a834171,9,75,mat.boniface@gmail.com,2013-04-13T17:04:44+02:00
+Erwan Loisant,cc39a0a5,2013-04-11,No Component,,cc39a0a5,4,0,eloisant@gmail.com,2013-04-11T10:43:28+02:00
+Sebastian Roth,516874bf,2013-03-29,No Component,,516874bf,0,0,sebastian.roth@gmail.com,2013-03-29T06:46:28+01:00
+Sebastian Roth,8051cc2a,2013-03-29,No Component,,8051cc2a,162,1,sebastian.roth@gmail.com,2013-03-29T06:10:47+01:00
+Yoann Delouis,0a28a28f,2013-03-24,No Component,,0a28a28f,54,0,ydelouis@gmail.com,2013-03-24T14:01:12+01:00
+Yoann Delouis,98c361ad,2013-03-13,No Component,,98c361ad,1,1,yoann.delouis@atos.net,2013-03-13T09:22:04+01:00
+Yoann Delouis,8fc6e05d,2013-03-11,No Component,,8fc6e05d,0,13,yoann.delouis@atos.net,2013-03-11T09:22:09+01:00
+Yoann Delouis,31adbd84,2013-03-06,No Component,,31adbd84,10,0,yoann.delouis@atos.net,2013-03-06T15:00:48+01:00
+Pierre-Yves Ricau,26199a5e,2013-03-05,No Component,,26199a5e,38,12,py.ricau@gmail.com,2013-03-05T15:20:49+01:00
+Pierre-Yves Ricau,e22ca8e7,2013-03-05,No Component,,e22ca8e7,83,0,py.ricau@gmail.com,2013-03-05T14:48:18+01:00
+Yoann Delouis,044017c2,2013-03-04,No Component,,044017c2,19,1,yoann.delouis@atos.net,2013-03-04T09:57:56+01:00
+Pierre-Yves Ricau,e0966806,2013-03-04,No Component,,e0966806,179,176,py.ricau@gmail.com,2013-03-04T02:51:05+01:00
+Pierre-Yves Ricau,bd6f6975,2013-03-04,No Component,,bd6f6975,55,3,py.ricau@gmail.com,2013-03-04T01:17:37+01:00
+Pierre-Yves Ricau,17e21f18,2013-03-04,No Component,fix,17e21f18,1,1,py.ricau@gmail.com,2013-03-04T00:16:26+01:00
+Pierre-Yves Ricau,f2233e07,2013-03-04,No Component,,f2233e07,0,1,py.ricau@gmail.com,2013-03-04T00:04:31+01:00
+Pierre-Yves Ricau,04790d71,2013-03-03,No Component,fix,04790d71,1,5,py.ricau@gmail.com,2013-03-03T23:55:40+01:00
+Pierre-Yves Ricau,3ea6c5a0,2013-03-03,No Component,fix,3ea6c5a0,6,0,py.ricau@gmail.com,2013-03-03T23:38:36+01:00
+Pierre-Yves Ricau,b3c3efb0,2013-03-02,No Component,,b3c3efb0,131,7,py.ricau@gmail.com,2013-03-02T18:28:18+01:00
+Colin Edwards,4d50e713,2013-03-02,No Component,,4d50e713,1,7,colin@recursivepenguin.com,2013-03-02T04:01:50+01:00
+Pierre-Yves Ricau,c38c649b,2013-02-28,No Component,,c38c649b,22,31,py.ricau@gmail.com,2013-02-28T17:41:38+01:00
+Pierre-Yves Ricau,be3f6bed,2013-02-28,No Component,,be3f6bed,445,311,py.ricau@gmail.com,2013-02-28T14:35:42+01:00
+Pierre-Yves Ricau,3e1617f4,2013-02-28,No Component,,3e1617f4,0,22,py.ricau@gmail.com,2013-02-28T14:33:54+01:00
+Pierre-Yves Ricau,2b38ca27,2013-02-28,No Component,fix,2b38ca27,3,3,py.ricau@gmail.com,2013-02-28T11:26:17+01:00
+Kolja Markwardt,3afac433,2013-02-27,No Component,,3afac433,1,1,vanmar.development@gmail.com,2013-02-27T17:02:13+01:00
+Damien,9968d62a,2013-02-08,No Component,,9968d62a,12,6,dvilleneuve@excilys.com,2013-02-08T16:48:11+01:00
+Mathieu Boniface,6bdf2c46,2013-02-08,No Component,,6bdf2c46,253,0,mat.boniface@gmail.com,2013-02-08T10:25:09+01:00
+Mathieu Boniface,bcd015cc,2013-02-06,No Component,Fix,bcd015cc,12,0,mat.boniface@gmail.com,2013-02-06T19:15:10+01:00
+Mathieu Boniface,0d85d6cb,2013-02-06,No Component,,0d85d6cb,193,0,mat.boniface@gmail.com,2013-02-06T16:51:25+01:00
+Thomas Fondrillon,b4185463,2013-02-04,No Component,,b4185463,12,6,tfondrillon@excilys.com,2013-02-04T14:17:27+01:00
+Thomas Fondrillon,7b8178b3,2013-02-04,No Component,,7b8178b3,3,3,tfondrillon@excilys.com,2013-02-04T11:56:32+01:00
+Thomas Fondrillon,38105e91,2013-02-04,No Component,,38105e91,80,0,tfondrillon@excilys.com,2013-02-04T11:47:17+01:00
+Thomas Fondrillon,da3b28a7,2013-01-29,No Component,,da3b28a7,982,6,tfondrillon@excilys.com,2013-01-29T17:52:23+01:00
+Yoann Delouis,c0449095,2013-02-02,No Component,,c0449095,291,1,ydelouis@gmail.com,2013-02-02T17:10:11+01:00
+Mathieu Boniface,fb6432ca,2013-01-31,No Component,,fb6432ca,11,0,mat.boniface@gmail.com,2013-01-31T19:02:15+01:00
+Mathieu Boniface,47d04f05,2013-01-31,No Component,,47d04f05,7,8,mat.boniface@gmail.com,2013-01-31T00:41:07+01:00
+Damien,36a289a7,2013-01-29,No Component,,36a289a7,15,0,dvilleneuve@excilys.com,2013-01-29T20:52:41+01:00
+Mathieu Boniface,100146a5,2013-01-29,No Component,,100146a5,12,5,mat.boniface@gmail.com,2013-01-29T12:22:36+01:00
+Colin Edwards,5b16df05,2013-01-27,No Component,Fix,5b16df05,7,2,colin@recursivepenguin.com,2013-01-27T07:10:47+01:00
+Mathieu Boniface,2de534f4,2013-01-26,No Component,Fix,2de534f4,26,0,mat.boniface@gmail.com,2013-01-26T02:21:58+01:00
+Mathieu Boniface,869de6d0,2013-01-22,No Component,,869de6d0,28,0,mat.boniface@gmail.com,2013-01-22T11:53:19+01:00
+naixx,07468b23,2013-01-18,No Component,,07468b23,22,2,programuha@gmail.com,2013-01-18T21:17:45+01:00
+naixx,85a54340,2013-01-18,No Component,,85a54340,112,4,programuha@gmail.com,2013-01-18T02:03:56+01:00
+naixx,1196bc21,2013-01-17,No Component,,1196bc21,221,110,programuha@gmail.com,2013-01-17T00:41:45+01:00
+naixx,381fb5b6,2013-01-15,No Component,,381fb5b6,24,0,programuha@gmail.com,2013-01-15T02:20:09+01:00
+naixx,9193f63e,2013-01-14,No Component,,9193f63e,3,2,programuha@gmail.com,2013-01-14T23:16:43+01:00
+naixx,de1874b2,2013-01-14,No Component,,de1874b2,4,4,naixx@github,2013-01-14T01:17:03+01:00
+Mathieu Boniface,f718e344,2013-01-13,No Component,,f718e344,42,2,mat.boniface@gmail.com,2013-01-13T11:51:46+01:00
+Mathieu Boniface,70aa1281,2013-01-05,No Component,,70aa1281,144,46,mat.boniface@gmail.com,2013-01-05T16:45:15+01:00
+Mathieu Boniface,2b2e59b0,2013-01-05,No Component,,2b2e59b0,90,0,mat.boniface@gmail.com,2013-01-05T01:45:59+01:00
+Pierre-Yves Ricau,1e79d729,2012-12-27,No Component,,1e79d729,4,0,py.ricau@gmail.com,2012-12-27T17:19:17+01:00
+Michael Greifeneder,189b9d98,2012-12-10,No Component,,189b9d98,5,0,mikegr@gmx.net,2012-12-10T13:11:52+01:00
+Mathieu Boniface,2a739bbf,2012-12-09,No Component,,2a739bbf,86,3,mat.boniface@gmail.com,2012-12-09T00:17:14+01:00
+Pierre-Yves Ricau,81ec0fc6,2012-12-06,No Component,,81ec0fc6,75,0,py.ricau@gmail.com,2012-12-06T11:56:43+01:00
+Pierre-Yves Ricau,1fe8511d,2012-11-29,No Component,,1fe8511d,69,24,py.ricau@gmail.com,2012-11-29T18:32:05+01:00
+Pierre-Yves Ricau,48c318e8,2012-11-29,No Component,,48c318e8,103,43,py.ricau@gmail.com,2012-11-29T17:05:01+01:00
+Pierre-Yves Ricau,486033e4,2012-11-29,No Component,fix,486033e4,27,12,py.ricau@gmail.com,2012-11-29T14:46:27+01:00
+Mathieu Boniface,fc3d52e3,2012-11-29,No Component,,fc3d52e3,54,4,mat.boniface@gmail.com,2012-11-29T11:07:07+01:00
+Mathieu Boniface,65186448,2012-11-26,No Component,,65186448,1,1,mat.boniface@gmail.com,2012-11-26T07:45:36+01:00
+Mathieu Boniface,dba2eb04,2012-11-26,No Component,,dba2eb04,43,12,mat.boniface@gmail.com,2012-11-26T07:43:18+01:00
+Mathieu Boniface,c5bfe3e7,2012-11-26,No Component,,c5bfe3e7,2,1,mat.boniface@gmail.com,2012-11-26T06:39:03+01:00
+Mathieu Boniface,556da489,2012-11-24,No Component,,556da489,13,13,mat.boniface@gmail.com,2012-11-24T16:52:32+01:00
+Mathieu Boniface,c8c6c5ae,2012-11-24,No Component,,c8c6c5ae,14,2,mat.boniface@gmail.com,2012-11-24T16:24:34+01:00
+Illia Bershadskyi,f61c956e,2012-11-23,No Component,,f61c956e,2,2,Illia.Bershadskyi@globallogic.com,2012-11-23T16:44:36+01:00
+Illia Bershadskyi,17937a0b,2012-11-19,No Component,fix,17937a0b,11,5,Illia.Bershadskyi@globallogic.com,2012-11-19T13:01:39+01:00
+Iliya Bershadskiy,65b7fb4f,2012-11-04,No Component,,65b7fb4f,30,0,ibersh20@gmail.com,2012-11-04T12:13:59+01:00
+Iliya Bershadskiy,6e69048a,2012-11-04,No Component,,6e69048a,11,0,ibersh20@gmail.com,2012-11-04T11:11:53+01:00
+Illia Bershadskyi,47d60dbb,2012-11-01,No Component,,47d60dbb,19,0,Illia.Bershadskyi@globallogic.com,2012-11-01T12:24:45+01:00
+Mathieu Boniface,1e9663bd,2012-11-06,No Component,Fix,1e9663bd,4,4,mat.boniface@gmail.com,2012-11-06T15:07:09+01:00
+Mathieu Boniface,fac7521e,2012-11-06,No Component,Fix,fac7521e,55,0,mat.boniface@gmail.com,2012-11-06T11:50:54+01:00
+Mathieu Boniface,83b265b6,2012-10-30,No Component,,83b265b6,889,889,mat.boniface@gmail.com,2012-10-30T21:20:57+01:00
+Mathieu Boniface,ddc0f655,2012-10-30,No Component,,ddc0f655,0,0,mat.boniface@gmail.com,2012-10-30T21:17:52+01:00
+Pierre-Yves Ricau,c5d338f0,2012-10-30,No Component,,c5d338f0,5,6,py.ricau@gmail.com,2012-10-30T09:11:43+01:00
+Mathieu Boniface,f704b3c4,2012-10-29,No Component,,f704b3c4,0,4,mat.boniface@gmail.com,2012-10-29T11:26:07+01:00
+Mathieu Boniface,701da521,2012-10-26,No Component,,701da521,1,1,mat.boniface@gmail.com,2012-10-26T18:28:30+02:00
+Mathieu Boniface,4e7d4628,2012-10-26,No Component,,4e7d4628,5,5,mat.boniface@gmail.com,2012-10-26T18:16:10+02:00
+Mathieu Boniface,49924fd6,2012-10-26,No Component,Fix,49924fd6,1,3,mat.boniface@gmail.com,2012-10-26T18:12:52+02:00
+Mathieu Boniface,3b020f91,2012-10-26,No Component,,3b020f91,38,50,mat.boniface@gmail.com,2012-10-26T17:49:30+02:00
+Pierre-Yves Ricau,87c7896e,2012-10-26,No Component,,87c7896e,111,44,py.ricau@gmail.com,2012-10-26T16:10:43+02:00
+Pierre-Yves Ricau,07071da7,2012-10-26,No Component,,07071da7,835,0,py.ricau@gmail.com,2012-10-26T14:03:24+02:00
+Pierre-Yves Ricau,cbfd5f2e,2012-10-25,No Component,,cbfd5f2e,65,11,py.ricau@gmail.com,2012-10-25T16:49:06+02:00
+Pierre-Yves Ricau,dc0e1e3c,2012-10-25,No Component,,dc0e1e3c,4,4,py.ricau@gmail.com,2012-10-25T12:05:47+02:00
+Pierre-Yves Ricau,6a329a9b,2012-10-25,No Component,,6a329a9b,7,4,py.ricau@gmail.com,2012-10-25T10:55:36+02:00
+Pierre-Yves Ricau,d0fd08ab,2012-10-22,No Component,,d0fd08ab,42,0,py.ricau@gmail.com,2012-10-22T09:30:56+02:00
+Pierre-Yves Ricau,88ebcd50,2012-10-21,No Component,,88ebcd50,40,27,py.ricau@gmail.com,2012-10-21T12:42:35+02:00
+Pierre-Yves Ricau,42a94814,2012-10-19,No Component,,42a94814,0,0,py.ricau@gmail.com,2012-10-19T15:11:45+02:00
+Pierre-Jean Vardanéga,b43105ef,2012-10-18,No Component,,b43105ef,25,1,pierrejean.vardanega@gmail.com,2012-10-18T22:41:47+02:00
+Mathieu Boniface,2958a014,2012-10-18,No Component,,2958a014,209,10,mat.boniface@gmail.com,2012-10-18T20:25:17+02:00
+Mathieu Boniface,cd81968a,2012-10-17,No Component,,cd81968a,15,0,mathieu.boniface@jcdecaux.fr,2012-10-17T10:57:51+02:00
+Damien,ea5503b4,2012-10-02,No Component,,ea5503b4,31,2,dvilleneuve@excilys.com,2012-10-02T23:12:16+02:00
+Mathieu Boniface,b38145d8,2012-09-26,No Component,,b38145d8,4,5,mat.boniface@gmail.com,2012-09-26T20:34:10+02:00
+Mathieu Boniface,8c95cf17,2012-09-26,No Component,,8c95cf17,8,8,mat.boniface@gmail.com,2012-09-26T20:27:41+02:00
+Mathieu Boniface,e74bb671,2012-09-26,No Component,,e74bb671,18,18,mat.boniface@gmail.com,2012-09-26T20:22:52+02:00
+Mathieu Boniface,93ef86a9,2012-09-26,No Component,,93ef86a9,18,18,mat.boniface@gmail.com,2012-09-26T19:58:37+02:00
+naixx,aacf66f7,2012-09-09,No Component,,aacf66f7,1,1,rostislav.chekan@appsys.net,2012-09-09T01:35:18+02:00
+naixx,f0c77ffe,2012-09-09,No Component,,f0c77ffe,54,54,rostislav.chekan@appsys.net,2012-09-09T01:22:22+02:00
+naixx,f20dec8a,2012-09-09,No Component,,f20dec8a,7,1,rostislav.chekan@appsys.net,2012-09-09T01:15:14+02:00
+Pierre-Yves Ricau,b6a40d7c,2012-09-04,No Component,,b6a40d7c,16,14,py.ricau@gmail.com,2012-09-04T14:37:54+02:00
+Pierre-Yves Ricau,b3db34e0,2012-09-04,No Component,Fix,b3db34e0,1,1,py.ricau@gmail.com,2012-09-04T13:32:41+02:00
+Pierre-Yves Ricau,263b7001,2012-09-04,No Component,,263b7001,15,7,py.ricau@gmail.com,2012-09-04T10:11:08+02:00
+Pierre-Yves Ricau,05579236,2012-09-01,No Component,,05579236,6,6,py.ricau@gmail.com,2012-09-01T14:18:22+02:00
+naixx,84b3418e,2012-09-01,No Component,,84b3418e,326,1,rostislav.chekan@appsys.net,2012-09-01T08:07:56+02:00
+naixx,253ee67a,2012-09-01,No Component,,253ee67a,341,1,rostislav.chekan@appsys.net,2012-09-01T08:07:56+02:00
+Pierre-Yves Ricau,37b634d1,2012-08-31,No Component,,37b634d1,12,5,py.ricau@gmail.com,2012-08-31T15:40:09+02:00
+Pierre-Yves Ricau,d8158ba6,2012-08-31,No Component,Fix,d8158ba6,57,4,py.ricau@gmail.com,2012-08-31T15:09:21+02:00
+Mathieu Boniface,1878e0dc,2012-08-18,No Component,,1878e0dc,43,9,mat.boniface@gmail.com,2012-08-18T12:59:52+02:00
+Mathieu Boniface,a74b1c84,2012-08-18,No Component,,a74b1c84,16,5,mat.boniface@gmail.com,2012-08-18T11:47:34+02:00
+Mathieu Boniface,9393394b,2012-08-18,No Component,,9393394b,17,5,mat.boniface@gmail.com,2012-08-18T11:41:00+02:00
+Pierre-Yves Ricau,80582712,2012-08-17,No Component,fix,80582712,1,1,py.ricau@gmail.com,2012-08-17T11:48:08+02:00
+Pierre-Yves Ricau,f0c48c35,2012-08-17,No Component,,f0c48c35,25,14,py.ricau@gmail.com,2012-08-17T11:32:47+02:00
+Pierre-Yves Ricau,311fa519,2012-08-16,No Component,Fix,311fa519,18,0,py.ricau@gmail.com,2012-08-16T15:58:36+02:00
+Pierre-Yves Ricau,bfade7eb,2012-08-16,No Component,Fix,bfade7eb,33,54,py.ricau@gmail.com,2012-08-16T15:21:51+02:00
+Pierre-Yves Ricau,e301beed,2012-08-16,No Component,,e301beed,13,26,py.ricau@gmail.com,2012-08-16T13:18:41+02:00
+Pierre-Yves Ricau,9d15c635,2012-08-16,No Component,,9d15c635,30,0,py.ricau@gmail.com,2012-08-16T11:03:05+02:00
+Mathieu Boniface,d1da1ac2,2012-08-15,No Component,,d1da1ac2,33,125,mat.boniface@gmail.com,2012-08-15T16:50:54+02:00
+Mathieu Boniface,fe8872cb,2012-08-15,No Component,,fe8872cb,25,0,mat.boniface@gmail.com,2012-08-15T16:23:15+02:00
+Mathieu Boniface,117efec0,2012-08-15,No Component,,117efec0,176,0,mat.boniface@gmail.com,2012-08-15T15:44:48+02:00
+Mathieu Boniface,f6598d5c,2012-08-15,No Component,,f6598d5c,45,0,mat.boniface@gmail.com,2012-08-15T15:39:53+02:00
+Mathieu Boniface,1d881f89,2012-08-15,No Component,,1d881f89,6,0,mat.boniface@gmail.com,2012-08-15T15:38:20+02:00
+Mathieu Boniface,82a28b91,2012-08-15,No Component,,82a28b91,88,0,mat.boniface@gmail.com,2012-08-15T15:31:36+02:00
+Mathieu Boniface,63a57a92,2012-08-15,No Component,,63a57a92,2,0,mat.boniface@gmail.com,2012-08-15T14:44:53+02:00
+Mathieu Boniface,2ed75906,2012-08-15,No Component,Fix,2ed75906,2,2,mat.boniface@gmail.com,2012-08-15T11:08:48+02:00
+Pierre-Yves Ricau,4ae80836,2012-08-10,No Component,,4ae80836,261,210,py.ricau@gmail.com,2012-08-10T15:36:32+02:00
+Pierre-Yves Ricau,75dc71ee,2012-08-02,No Component,,75dc71ee,79,0,py.ricau@gmail.com,2012-08-02T18:34:28+02:00
+naixx,82b3eece,2012-07-14,No Component,,82b3eece,1,1,rostislav.chekan@appsys.net,2012-07-14T20:16:21+02:00
+Pierre-Yves Ricau,4dfa7038,2012-07-12,No Component,,4dfa7038,6,1,py.ricau@gmail.com,2012-07-12T17:12:34+02:00
+Alexandre THOMAS,f78947c4,2012-07-03,No Component,,f78947c4,25,9,athomas.nc@gmail.com,2012-07-03T19:02:14+02:00
+Pierre-Yves Ricau,5c82ec2d,2012-06-28,No Component,,5c82ec2d,69,0,py.ricau@gmail.com,2012-06-28T15:21:57+02:00
+Pierre-Yves Ricau,6de57bc4,2012-06-28,No Component,,6de57bc4,3,3,py.ricau@gmail.com,2012-06-28T11:58:17+02:00
+Alexandre THOMAS,ba50c4eb,2012-06-27,No Component,,ba50c4eb,14,0,athomas.nc@gmail.com,2012-06-27T22:57:32+02:00
+Johan Poirier,7a23ecc0,2012-06-25,No Component,,7a23ecc0,123,3,johan.poirier@gmail.com,2012-06-25T17:07:25+02:00
+Johan Poirier,fe82b1c1,2012-06-25,No Component,Fix,fe82b1c1,117,28,johan.poirier@gmail.com,2012-06-25T16:56:10+02:00
+Pierre-Yves Ricau,bd27b057,2012-06-21,No Component,,bd27b057,393,185,py.ricau@gmail.com,2012-06-21T18:43:18+02:00
+Johan Poirier,eb950c1c,2012-06-20,No Component,,eb950c1c,97,1,johan.poirier@gmail.com,2012-06-20T16:41:28+02:00
+Pierre-Yves Ricau,97d9eff8,2012-06-14,No Component,,97d9eff8,98,2,py.ricau@gmail.com,2012-06-14T12:19:00+02:00
+Pierre-Yves Ricau,36fd751f,2012-06-13,No Component,,36fd751f,1,9,py.ricau@gmail.com,2012-06-13T09:52:31+02:00
+Johan Poirier,371bf7f3,2012-06-08,No Component,,371bf7f3,231,1,johan.poirier@gmail.com,2012-06-08T11:14:15+02:00
+Pierre-Yves Ricau,4b48d3c8,2012-06-07,No Component,Fix,4b48d3c8,2,1,py.ricau@gmail.com,2012-06-07T15:45:53+02:00
+Pierre-Yves Ricau,6a9d5b3c,2012-06-07,No Component,Bug,6a9d5b3c,1,1,py.ricau@gmail.com,2012-06-07T15:20:07+02:00
+Pierre-Yves Ricau,1c844739,2012-06-07,No Component,,1c844739,5,4,py.ricau@gmail.com,2012-06-07T15:06:48+02:00
+Pierre-Yves Ricau,82cd0265,2012-06-07,No Component,,82cd0265,20,18,py.ricau@gmail.com,2012-06-07T14:51:39+02:00
+Pierre-Yves Ricau,d3995399,2012-06-07,No Component,,d3995399,165,0,py.ricau@gmail.com,2012-06-07T11:54:51+02:00
+Nabil Hachicha,afc3e432,2012-06-03,No Component,,afc3e432,164,0,nabil.hachicha@gmail.com,2012-06-03T04:22:04+02:00
+Nabil Hachicha,0151060e,2012-06-03,No Component,,0151060e,28,3,nabil.hachicha@gmail.com,2012-06-03T03:47:01+02:00
+Mathieu Boniface,d68c0860,2012-06-02,No Component,,d68c0860,209,209,mat.boniface@gmail.com,2012-06-02T17:06:45+02:00
+Mathieu Boniface,8a833047,2012-06-02,No Component,,8a833047,29,0,mat.boniface@gmail.com,2012-06-02T16:51:23+02:00
+Pierre-Yves Ricau,c9fdca9a,2012-05-31,No Component,,c9fdca9a,0,5,py.ricau@gmail.com,2012-05-31T18:23:26+02:00
+Pierre-Yves Ricau,ba035498,2012-05-31,No Component,,ba035498,120,64,py.ricau@gmail.com,2012-05-31T17:36:44+02:00
+Alexandre THOMAS,2d748ad4,2012-05-30,No Component,,2d748ad4,12,19,athomas.nc@gmail.com,2012-05-30T21:15:40+02:00
+Alexandre THOMAS,b438427b,2012-05-30,No Component,,b438427b,23,2,athomas.nc@gmail.com,2012-05-30T21:09:36+02:00
+Pierre-Yves Ricau,0b886d75,2012-05-29,No Component,Bug,0b886d75,12,2,py.ricau@gmail.com,2012-05-29T11:30:57+02:00
+Pierre-Yves Ricau,58f6df92,2012-05-28,No Component,,58f6df92,8,3,py.ricau@gmail.com,2012-05-28T22:06:57+02:00
+Pierre-Yves Ricau,886318d7,2012-05-28,No Component,,886318d7,209,5,py.ricau@gmail.com,2012-05-28T10:56:41+02:00
+Pierre-Yves Ricau,63e401be,2012-05-28,No Component,,63e401be,187,2,py.ricau@gmail.com,2012-05-28T00:17:06+02:00
+Pierre-Yves Ricau,51c0bf78,2012-05-24,No Component,Fix,51c0bf78,9,4,py.ricau@gmail.com,2012-05-24T18:29:39+02:00
+Pierre-Yves Ricau,579f0a5a,2012-05-24,No Component,,579f0a5a,38,0,py.ricau@gmail.com,2012-05-24T11:54:43+02:00
+Pierre-Yves Ricau,343aee3d,2012-05-24,No Component,,343aee3d,3,4,py.ricau@gmail.com,2012-05-24T11:20:23+02:00
+Nachiket Apte,82d01285,2012-05-15,No Component,,82d01285,6,0,nachiket@mobilabsolutions.com,2012-05-15T11:10:05+02:00
+Pierre-Yves Ricau,390c69f5,2012-05-10,No Component,Fix,390c69f5,0,4,py.ricau@gmail.com,2012-05-10T16:43:08+02:00
+Pierre-Yves Ricau,4c06621f,2012-05-10,No Component,,4c06621f,16,56,py.ricau@gmail.com,2012-05-10T15:52:43+02:00
+Pierre-Yves Ricau,ff1269dd,2012-05-10,No Component,,ff1269dd,59,26,py.ricau@gmail.com,2012-05-10T12:14:46+02:00
+Pierre-Yves Ricau,e5594657,2012-05-10,No Component,,e5594657,3,3,py.ricau@gmail.com,2012-05-10T12:14:00+02:00
+Mathieu Boniface,0d5669d4,2012-05-09,No Component,,0d5669d4,138,0,mat.boniface@gmail.com,2012-05-09T22:15:15+02:00
+Mathieu Boniface,55603238,2012-05-09,No Component,,55603238,12,0,mat.boniface@gmail.com,2012-05-09T21:56:59+02:00
+Mathieu Boniface,c4c781c5,2012-05-08,No Component,,c4c781c5,202,1,mat.boniface@gmail.com,2012-05-08T18:52:25+02:00
+Eric Kok,0ff5c1fd,2012-05-01,No Component,,0ff5c1fd,2,2,eric@turing.(none),2012-05-01T10:07:23+02:00
+Mathieu Boniface,7626fa0f,2012-05-01,No Component,,7626fa0f,37,7,mat.boniface@gmail.com,2012-05-01T06:58:02+02:00
+Mathieu Boniface,c5f8081e,2012-04-30,No Component,,c5f8081e,11,10,mat.boniface@gmail.com,2012-04-30T19:28:10+02:00
+Linus Brimstedt,7309dc25,2012-04-22,No Component,Fix,7309dc25,63,0,linus@brimstedt.se,2012-04-22T18:16:41+02:00
+Pierre-Yves Ricau,8ddbdf67,2012-03-25,No Component,,8ddbdf67,14,2,py.ricau@gmail.com,2012-03-25T18:24:37+02:00
+Mathieu Boniface,11e0f993,2012-03-17,No Component,Fix,11e0f993,87,6,mat.boniface@gmail.com,2012-03-17T16:16:30+01:00
+Pierre-Yves Ricau,2e1a83a3,2012-03-17,No Component,,2e1a83a3,169,11,py.ricau@gmail.com,2012-03-17T15:24:34+01:00
+Pierre-Yves Ricau,60555b9c,2012-03-15,No Component,,60555b9c,45,0,py.ricau@gmail.com,2012-03-15T12:38:29+01:00
+Pierre-Yves Ricau,36c849c8,2012-03-15,No Component,,36c849c8,44,0,py.ricau@gmail.com,2012-03-15T12:38:01+01:00
+Mathieu Boniface,bf972800,2012-03-11,No Component,,bf972800,8,0,mat.boniface@gmail.com,2012-03-11T22:00:53+01:00
+Pierre-Yves Ricau,653f6da8,2012-03-11,No Component,,653f6da8,106,4,py.ricau@gmail.com,2012-03-11T09:33:40+01:00
+Mathieu Boniface,e206c138,2012-03-10,No Component,Fix,e206c138,0,1,mat.boniface@gmail.com,2012-03-10T17:03:01+01:00
+Mathieu Boniface,61bef5d5,2012-03-10,No Component,,61bef5d5,14,0,mat.boniface@gmail.com,2012-03-10T16:35:15+01:00
+Mathieu Boniface,89fb7e0e,2012-03-10,No Component,,89fb7e0e,15,0,mat.boniface@gmail.com,2012-03-10T15:49:35+01:00
+Mathieu Boniface,a64f2d9b,2012-03-10,No Component,,a64f2d9b,7,0,mat.boniface@gmail.com,2012-03-10T15:18:23+01:00
+Mathieu Boniface,ac372ff6,2012-03-10,No Component,,ac372ff6,17,3,mat.boniface@gmail.com,2012-03-10T15:09:32+01:00
+Mathieu Boniface,a32a44c7,2012-03-10,No Component,,a32a44c7,6,0,mat.boniface@gmail.com,2012-03-10T13:36:16+01:00
+Pierre-Yves Ricau,a3c167c8,2012-03-06,No Component,Fix,a3c167c8,15,0,py.ricau@gmail.com,2012-03-06T17:07:07+01:00
+Pierre-Yves Ricau,38ce56b7,2012-03-06,No Component,,38ce56b7,6,0,py.ricau@gmail.com,2012-03-06T16:04:12+01:00
+Pierre-Yves Ricau,6995b949,2012-03-06,No Component,,6995b949,90,0,py.ricau@gmail.com,2012-03-06T12:24:55+01:00
+Pierre-Yves Ricau,401a4b19,2012-03-06,No Component,,401a4b19,47,6,py.ricau@gmail.com,2012-03-06T11:56:22+01:00
+Pierre-Yves Ricau,cf774651,2012-03-06,No Component,fix,cf774651,36,7,py.ricau@gmail.com,2012-03-06T11:43:13+01:00
+Pierre-Yves Ricau,2d982286,2012-03-06,No Component,,2d982286,9,3,py.ricau@gmail.com,2012-03-06T11:26:27+01:00
+Pierre-Yves Ricau,0edd4c8f,2012-03-06,No Component,,0edd4c8f,1,1,py.ricau@gmail.com,2012-03-06T11:16:21+01:00
+Alexandre THOMAS,4c6e6fe0,2012-03-05,No Component,,4c6e6fe0,9,1,athomas.nc@gmail.com,2012-03-05T23:57:51+01:00
+Nycholas de Oliveira e Oliveira,23500145,2012-03-03,No Component,,23500145,0,1,nycholas@gmail.com,2012-03-03T17:31:40+01:00
+Nycholas de Oliveira e Oliveira,0eb576cd,2012-02-26,No Component,,0eb576cd,1,0,nycholas@gmail.com,2012-02-26T00:40:36+01:00
+Pierre-Yves Ricau,1c91e3a8,2012-02-17,No Component,,1c91e3a8,56,56,py.ricau@gmail.com,2012-02-17T11:28:16+01:00
+Pierre-Yves Ricau,0cd7bca0,2012-02-17,No Component,,0cd7bca0,98,15,py.ricau@gmail.com,2012-02-17T11:03:31+01:00
+Pierre-Yves Ricau,596cf162,2012-02-17,No Component,Fix,596cf162,17,28,py.ricau@gmail.com,2012-02-17T09:50:39+01:00
+Pierre-Yves Ricau,b563c851,2012-02-17,No Component,,b563c851,2,2,py.ricau@gmail.com,2012-02-17T08:40:47+01:00
+Joan Zapata,c3945e83,2012-02-16,No Component,,c3945e83,34,0,jzapata@excilys.com,2012-02-16T23:36:25+01:00
+Pierre-Yves Ricau,c93707a4,2012-02-16,No Component,,c93707a4,157,268,py.ricau@gmail.com,2012-02-16T18:56:11+01:00
+Pierre-Yves Ricau,7cce5930,2012-02-16,No Component,,7cce5930,7,6,py.ricau@gmail.com,2012-02-16T15:18:27+01:00
+Pierre-Yves Ricau,c39eb5ca,2012-02-16,No Component,,c39eb5ca,6,12,py.ricau@gmail.com,2012-02-16T12:58:41+01:00
+Pierre-Yves Ricau,cc93da5d,2012-02-16,No Component,Bug,cc93da5d,27,1,py.ricau@gmail.com,2012-02-16T12:38:04+01:00
+Mathieu Boniface,724a1339,2012-02-08,No Component,Fix,724a1339,3,3,mat.boniface@gmail.com,2012-02-08T19:37:46+01:00
+Mathieu Boniface,5c3440cd,2012-02-08,No Component,Fix,5c3440cd,2,2,mat.boniface@gmail.com,2012-02-08T18:23:34+01:00
+Mathieu Boniface,c5ac7afc,2012-02-08,No Component,,c5ac7afc,353,0,mat.boniface@gmail.com,2012-02-08T00:14:30+01:00
+Mathieu Boniface,caf248c5,2012-02-03,No Component,,caf248c5,7,1,mat.boniface@gmail.com,2012-02-03T23:38:33+01:00
+Mathieu Boniface,01a9a78a,2012-02-03,No Component,Fix,01a9a78a,22,0,mat.boniface@gmail.com,2012-02-03T23:37:47+01:00
+Mathieu Boniface,9d7ad638,2012-02-02,No Component,,9d7ad638,2,2,mat.boniface@gmail.com,2012-02-02T18:50:42+01:00
+Pierre-Yves Ricau,90e534e5,2012-02-02,No Component,,90e534e5,58,58,py.ricau@gmail.com,2012-02-02T14:13:37+01:00
+Pierre-Yves Ricau,fc07f31d,2012-02-02,No Component,Fix,fc07f31d,21,0,py.ricau@gmail.com,2012-02-02T12:04:02+01:00
+Mathieu Boniface,8ac2d929,2012-02-01,No Component,,8ac2d929,171,0,mat.boniface@gmail.com,2012-02-01T23:28:36+01:00
+Alexandre THOMAS,91555bb8,2012-01-28,No Component,Fix,91555bb8,14,0,athomas.nc@gmail.com,2012-01-28T16:29:10+01:00
+Pierre-Yves Ricau,025e32ff,2012-01-27,No Component,,025e32ff,124,2,py.ricau@gmail.com,2012-01-27T12:35:54+01:00
+Pierre-Yves Ricau,f12a634b,2012-01-27,No Component,,f12a634b,178,4,py.ricau@gmail.com,2012-01-27T11:22:16+01:00
+Pierre-Yves Ricau,ebe0afb4,2012-01-26,No Component,,ebe0afb4,0,1,py.ricau@gmail.com,2012-01-26T18:09:34+01:00
+Pierre-Yves Ricau,48d225bf,2012-01-26,No Component,,48d225bf,137,2,py.ricau@gmail.com,2012-01-26T17:45:23+01:00
+Pierre-Yves Ricau,afc54755,2012-01-26,No Component,,afc54755,0,14,py.ricau@gmail.com,2012-01-26T12:46:25+01:00
+Pierre-Yves Ricau,08fbafa9,2012-01-26,No Component,Fix,08fbafa9,5,1,py.ricau@gmail.com,2012-01-26T11:40:48+01:00
+Pierre-Yves Ricau,55369a4f,2012-01-19,No Component,,55369a4f,108,57,py.ricau@gmail.com,2012-01-19T15:06:10+01:00
+Pierre-Yves Ricau,6bf91f1a,2012-01-19,No Component,,6bf91f1a,5,5,py.ricau@gmail.com,2012-01-19T11:28:41+01:00
+Joan Zapata,575aab87,2012-01-17,No Component,,575aab87,34,9,jzapata@excilys.com,2012-01-17T23:01:29+01:00
+Joan Zapata,bb7d8199,2012-01-17,No Component,,bb7d8199,13,7,jzapata@excilys.com,2012-01-17T22:54:40+01:00
+Pierre-Yves Ricau,7d700d68,2012-01-16,No Component,,7d700d68,12,67,py.ricau@gmail.com,2012-01-16T09:32:03+01:00
+Sony Tricoire,49fd84eb,2012-01-15,No Component,,49fd84eb,62,0,sony.tricoire@gmail.com,2012-01-15T22:01:44+01:00
+Joan Zapata,15c8a2ee,2012-01-15,No Component,,15c8a2ee,37,0,jzapata@excilys.com,2012-01-15T17:02:46+01:00
+Pierre-Yves Ricau,3efcc090,2012-01-13,No Component,fix,3efcc090,177,46,py.ricau@gmail.com,2012-01-13T11:03:14+01:00
+Pierre-Yves Ricau,0d5b3a3a,2012-01-12,No Component,,0d5b3a3a,175,37,py.ricau@gmail.com,2012-01-12T18:29:50+01:00
+Mathieu Boniface,f33b5a80,2012-01-15,No Component,,f33b5a80,33,2,mat.boniface@gmail.com,2012-01-15T14:27:04+01:00
+Pierre-Yves Ricau,b60a7ff2,2012-01-13,No Component,,b60a7ff2,24,1,py.ricau@gmail.com,2012-01-13T18:08:47+01:00
+Pierre-Yves Ricau,6605d9e0,2012-01-13,No Component,,6605d9e0,56,2,py.ricau@gmail.com,2012-01-13T12:07:22+01:00
+Pierre-Yves Ricau,1f71bc7d,2012-01-13,No Component,fix,1f71bc7d,177,46,py.ricau@gmail.com,2012-01-13T11:03:14+01:00
+Pierre-Yves Ricau,6360ab3d,2012-01-12,No Component,,6360ab3d,175,37,py.ricau@gmail.com,2012-01-12T18:29:50+01:00
+Pierre-Yves Ricau,7d3c76f7,2012-01-02,No Component,,7d3c76f7,4,1,py.ricau@gmail.com,2012-01-02T18:16:08+01:00
+Pierre-Yves Ricau,fc47ab2f,2011-12-29,No Component,,fc47ab2f,64,2,py.ricau@gmail.com,2011-12-29T17:22:36+01:00
+Pierre-Yves Ricau,a51ab7ce,2011-12-29,No Component,,a51ab7ce,46,1,py.ricau@gmail.com,2011-12-29T16:13:32+01:00
+Pierre-Yves Ricau,342f3d25,2011-12-29,No Component,,342f3d25,0,2,py.ricau@gmail.com,2011-12-29T16:13:12+01:00
+Pierre-Yves Ricau,1bfbd2d2,2011-12-29,No Component,,1bfbd2d2,1,12,py.ricau@gmail.com,2011-12-29T16:12:44+01:00
+Pierre-Yves Ricau,62cf6080,2011-12-29,No Component,,62cf6080,2,2,py.ricau@gmail.com,2011-12-29T16:11:44+01:00
+Pierre-Yves Ricau,85a32c77,2011-12-29,No Component,,85a32c77,0,27,py.ricau@gmail.com,2011-12-29T16:11:33+01:00
+Pierre-Yves Ricau,9305a9f7,2011-12-29,No Component,,9305a9f7,84,3,py.ricau@gmail.com,2011-12-29T15:29:45+01:00
+Pierre-Yves Ricau,4ac1c10c,2011-12-27,No Component,,4ac1c10c,257,23,py.ricau@gmail.com,2011-12-27T16:37:34+01:00
+Pierre-Yves Ricau,ebb9028c,2011-12-15,No Component,,ebb9028c,60,1,py.ricau@gmail.com,2011-12-15T16:18:39+01:00
+Pierre-Yves Ricau,25f5c64f,2011-12-07,No Component,,25f5c64f,29,10,py.ricau@gmail.com,2011-12-07T09:21:44+01:00
+Pierre-Yves Ricau,160bd3a7,2011-12-07,No Component,Fix,160bd3a7,100,8,py.ricau@gmail.com,2011-12-07T08:36:54+01:00
+Ealden Esto E. Escanan,5ffaefaa,2011-12-06,No Component,,5ffaefaa,90,0,ealden@gmail.com,2011-12-06T02:20:45+01:00
+matboniface,ba7202eb,2011-11-30,No Component,Fix,ba7202eb,5,0,mat.boniface@gmail.com,2011-11-30T20:31:14+01:00
+matboniface,53c46edb,2011-11-30,No Component,,53c46edb,382,33,mat.boniface@gmail.com,2011-11-30T19:24:43+01:00
+matboniface,6445b956,2011-11-27,No Component,,6445b956,56,6,mat.boniface@gmail.com,2011-11-27T13:54:50+01:00
+matboniface,f00b3411,2011-11-27,No Component,,f00b3411,124,0,mat.boniface@gmail.com,2011-11-27T13:30:22+01:00
+THOMAS Alexandre,9023edf8,2011-11-27,No Component,Fix,9023edf8,4,1,athomas.nc@gmail.com,2011-11-27T12:49:01+01:00
+Pierre-Yves Ricau,a33bdd52,2011-11-25,No Component,Fix,a33bdd52,1,1,py.ricau@gmail.com,2011-11-25T12:25:23+01:00
+Pierre-Yves Ricau,fe9a8b55,2011-11-25,No Component,,fe9a8b55,13,0,py.ricau@gmail.com,2011-11-25T11:53:56+01:00
+Pierre-Yves Ricau,dae39a34,2011-11-24,No Component,,dae39a34,85,15,py.ricau@gmail.com,2011-11-24T00:51:22+01:00
+Pierre-Yves Ricau,4f329447,2011-11-23,No Component,fix,4f329447,2,2,py.ricau@gmail.com,2011-11-23T22:44:25+01:00
+Pierre-Yves Ricau,e9d2dede,2011-11-23,No Component,,e9d2dede,69,21,py.ricau@gmail.com,2011-11-23T22:37:40+01:00
+Pierre-Yves Ricau,9eefcc31,2011-11-23,No Component,,9eefcc31,6,3,py.ricau@gmail.com,2011-11-23T11:33:21+01:00
+Pierre-Yves Ricau,2c827cc3,2011-11-23,No Component,,2c827cc3,130,143,py.ricau@gmail.com,2011-11-23T11:18:28+01:00
+Pierre-Yves Ricau,acbe7fac,2011-11-23,No Component,,acbe7fac,76,1,py.ricau@gmail.com,2011-11-23T11:08:50+01:00
+Pierre-Yves Ricau,a33f759b,2011-11-23,No Component,,a33f759b,12,0,py.ricau@gmail.com,2011-11-23T11:08:25+01:00
+Pierre-Yves Ricau,fd7a8eb6,2011-11-23,No Component,,fd7a8eb6,26,8,py.ricau@gmail.com,2011-11-23T10:21:37+01:00
+Pierre-Yves Ricau,a09e7fe6,2011-11-22,No Component,,a09e7fe6,60,1,py.ricau@gmail.com,2011-11-22T22:23:59+01:00
+Pierre-Yves Ricau,cfeaf3a5,2011-11-22,No Component,,cfeaf3a5,6,5,py.ricau@gmail.com,2011-11-22T21:58:00+01:00
+matboniface,09763aa4,2011-11-20,No Component,,09763aa4,12,0,mat.boniface@gmail.com,2011-11-20T17:59:12+01:00
+matboniface,477ba711,2011-11-20,No Component,,477ba711,77,2,mat.boniface@gmail.com,2011-11-20T12:57:43+01:00
+matboniface,053be775,2011-11-20,No Component,,053be775,76,0,mat.boniface@gmail.com,2011-11-20T12:54:31+01:00
+matboniface,943400bf,2011-11-20,No Component,,943400bf,44,0,mat.boniface@gmail.com,2011-11-20T12:45:40+01:00
+Alexandre THOMAS,1332cf6a,2011-11-03,No Component,,1332cf6a,0,2,althomas@excilys.com,2011-11-03T18:52:41+01:00
+Pierre-Yves Ricau,cf400432,2011-11-17,No Component,,cf400432,162,1,py.ricau@gmail.com,2011-11-17T17:39:51+01:00
+Pierre-Yves Ricau,d897f2e9,2011-11-17,No Component,,d897f2e9,81,8,py.ricau@gmail.com,2011-11-17T11:59:41+01:00
+matboniface,f40f47bc,2011-11-15,No Component,,f40f47bc,6,0,mat.boniface@gmail.com,2011-11-15T22:30:57+01:00
+matboniface,8cf857d9,2011-11-15,No Component,,8cf857d9,9,0,mat.boniface@gmail.com,2011-11-15T22:05:14+01:00
+matboniface,cb6bedb4,2011-11-15,No Component,,cb6bedb4,19,19,mat.boniface@gmail.com,2011-11-15T21:23:22+01:00
+matboniface,34cc4bfd,2011-11-13,No Component,,34cc4bfd,44,0,mat.boniface@gmail.com,2011-11-13T14:38:51+01:00
+Pierre-Yves Ricau,92052e52,2011-11-12,No Component,,92052e52,5,0,py.ricau@gmail.com,2011-11-12T09:32:31+01:00
+matboniface,20471aec,2011-11-11,No Component,Fix,20471aec,1,0,mat.boniface@gmail.com,2011-11-11T18:40:51+01:00
+Pierre-Yves Ricau,a7118106,2011-11-10,No Component,Fix,a7118106,28,0,py.ricau@gmail.com,2011-11-10T11:08:53+01:00
+Pierre-Yves Ricau,b02b81b5,2011-11-10,No Component,fix,b02b81b5,1,1,py.ricau@gmail.com,2011-11-10T10:10:45+01:00
+Alexandre THOMAS,f655d0df,2011-11-03,No Component,,f655d0df,2,2,althomas@excilys.com,2011-11-03T15:51:12+01:00
+Alexandre THOMAS,b9ea3ff8,2011-10-28,No Component,,b9ea3ff8,34,12,althomas@excilys.com,2011-10-28T10:37:28+02:00
+Pierre-Yves Ricau,adf11c17,2011-11-03,No Component,Fix,adf11c17,41,0,py.ricau@gmail.com,2011-11-03T15:16:52+01:00
+matboniface,2319193f,2011-11-01,No Component,,2319193f,84,31,mat.boniface@gmail.com,2011-11-01T10:13:08+01:00
+Pierre-Yves Ricau,1ac58dae,2011-10-31,No Component,Fix,1ac58dae,15,0,py.ricau@gmail.com,2011-10-31T09:51:00+01:00
+Pierre-Yves Ricau,1e502f56,2011-10-31,No Component,,1e502f56,13,0,py.ricau@gmail.com,2011-10-31T09:08:40+01:00
+matboniface,99f19f38,2011-10-27,No Component,Fix,99f19f38,1,0,mat.boniface@gmail.com,2011-10-27T23:59:30+02:00
+Romain Sertelon,7822f9b8,2011-10-27,No Component,,7822f9b8,40,1,bluepyth@gmail.com,2011-10-27T12:47:11+02:00
+Pierre-Yves Ricau,7e3f0f30,2011-10-26,No Component,,7e3f0f30,141,141,py.ricau@gmail.com,2011-10-26T17:38:05+02:00
+Alexandre THOMAS,ef3b6179,2011-10-21,No Component,,ef3b6179,199,67,althomas@excilys.com,2011-10-21T18:19:30+02:00
+Pierre-Yves Ricau,dfd6943e,2011-10-19,No Component,fix,dfd6943e,15,0,py.ricau@gmail.com,2011-10-19T18:34:56+02:00
+Joan Zapata,63488c2e,2011-10-19,No Component,,63488c2e,3,3,jzapata@excilys.com,2011-10-19T15:55:13+02:00
+Joan Zapata,73a46254,2011-10-19,No Component,,73a46254,160,53,jzapata@excilys.com,2011-10-19T15:24:44+02:00
+Joan Z,be0c22f0,2011-10-14,No Component,,be0c22f0,210,40,jzapata@excilys.com,2011-10-14T17:35:00+02:00
+Pierre-Yves Ricau,946d428b,2011-10-13,No Component,,946d428b,45,0,py.ricau@gmail.com,2011-10-13T17:57:35+02:00
+Romain SERTELON,04457203,2011-10-13,No Component,,04457203,10,0,bluepyth@gmail.com,2011-10-13T17:39:44+02:00
+Pierre-Yves Ricau,d85d8667,2011-10-13,No Component,Fix,d85d8667,11,11,py.ricau@gmail.com,2011-10-13T17:28:50+02:00
+Romain SERTELON,18f3511b,2011-10-13,No Component,fix,18f3511b,36,2,bluepyth@gmail.com,2011-10-13T17:17:33+02:00
+Romain SERTELON,24ff865e,2011-10-13,No Component,,24ff865e,52,1,bluepyth@gmail.com,2011-10-13T16:08:49+02:00
+Pierre-Yves Ricau,ecec2e45,2011-10-02,No Component,Fix,ecec2e45,5,0,py.ricau@gmail.com,2011-10-02T18:34:27+02:00
+Pierre-Yves Ricau,10702f94,2011-10-02,No Component,Fix,10702f94,135,15,py.ricau@gmail.com,2011-10-02T15:40:44+02:00
+Pierre-Yves Ricau,6fd05620,2011-10-02,No Component,Fix,6fd05620,26,14,py.ricau@gmail.com,2011-10-02T13:04:26+02:00
+Pierre-Yves Ricau,12357ccf,2011-09-20,No Component,Fix,12357ccf,17,8,py.ricau@gmail.com,2011-09-20T00:23:26+02:00
+Pierre-Yves Ricau,f9596530,2011-09-17,No Component,Fix,f9596530,69,0,py.ricau@gmail.com,2011-09-17T17:42:30+02:00
+Pierre-Yves Ricau,450ca3da,2011-09-17,No Component,Fix,450ca3da,117,2,py.ricau@gmail.com,2011-09-17T12:16:51+02:00
+Pierre-Yves Ricau,df33be89,2011-09-17,No Component,,df33be89,126,16,py.ricau@gmail.com,2011-09-17T11:03:15+02:00
+Pierre-Yves Ricau,f1d52eba,2011-09-08,No Component,,f1d52eba,5,3,py.ricau@gmail.com,2011-09-08T12:02:40+02:00
+Pierre-Yves Ricau,3475ad65,2011-09-08,No Component,,3475ad65,30,0,py.ricau@gmail.com,2011-09-08T11:53:12+02:00
+Pierre-Yves Ricau,8c79fcd4,2011-09-08,No Component,,8c79fcd4,262,9,py.ricau@gmail.com,2011-09-08T11:33:26+02:00
+Pierre-Yves Ricau,c73df99b,2011-08-30,No Component,,c73df99b,3,3,py.ricau@gmail.com,2011-08-30T17:56:49+02:00
+Pierre-Yves Ricau,c959cfb5,2011-08-30,No Component,,c959cfb5,112,0,py.ricau@gmail.com,2011-08-30T16:01:52+02:00
+Pierre-Yves Ricau,a14ecea2,2011-08-29,No Component,Fix,a14ecea2,18,48,py.ricau@gmail.com,2011-08-29T16:44:56+02:00
+Pierre-Yves Ricau,3520c002,2011-08-29,No Component,,3520c002,2,8,py.ricau@gmail.com,2011-08-29T16:43:08+02:00
+Pierre-Yves Ricau,40ae938a,2011-08-29,No Component,Fix,40ae938a,92,1,py.ricau@gmail.com,2011-08-29T15:48:37+02:00
+Pierre-Yves Ricau,110e5fd8,2011-08-29,No Component,,110e5fd8,420,0,py.ricau@gmail.com,2011-08-29T14:59:51+02:00
+Pierre-Yves Ricau,06d30546,2011-08-29,No Component,,06d30546,445,236,py.ricau@gmail.com,2011-08-29T14:55:45+02:00
+Pierre-Yves Ricau,dd9c0d2a,2011-08-29,No Component,,dd9c0d2a,1,1,py.ricau@gmail.com,2011-08-29T14:53:48+02:00
+Pierre-Yves Ricau,6db5485e,2011-08-29,No Component,Fix,6db5485e,288,1,py.ricau@gmail.com,2011-08-29T14:16:57+02:00
+Pierre-Yves Ricau,4734c3a9,2011-07-20,No Component,Fix,4734c3a9,114,16,py.ricau@gmail.com,2011-07-20T12:30:51+02:00
+Pierre-Yves Ricau,d9c834e0,2011-07-20,No Component,,d9c834e0,66,27,py.ricau@gmail.com,2011-07-20T12:30:05+02:00
+Pierre-Yves Ricau,565b3d53,2011-07-20,No Component,,565b3d53,39,12,py.ricau@gmail.com,2011-07-20T12:29:52+02:00
+Pierre-Yves Ricau,8974a882,2011-07-20,No Component,,8974a882,2,1,py.ricau@gmail.com,2011-07-20T12:29:39+02:00
+Pierre-Yves Ricau,c9c71a89,2011-07-18,No Component,Fix,c9c71a89,14,4,py.ricau@gmail.com,2011-07-18T18:09:30+02:00
+Pierre-Yves Ricau,a1d53add,2011-07-18,No Component,Fix,a1d53add,56,11,py.ricau@gmail.com,2011-07-18T16:58:54+02:00
+Pierre-Yves Ricau,a35fd9eb,2011-07-18,No Component,Fix,a35fd9eb,18,0,py.ricau@gmail.com,2011-07-18T16:33:43+02:00
+Pierre-Yves Ricau,c3c685ac,2011-07-18,No Component,,c3c685ac,63,0,py.ricau@gmail.com,2011-07-18T16:32:36+02:00
+Pierre-Yves Ricau,3ba9e831,2011-07-18,No Component,Fix,3ba9e831,6,0,py.ricau@gmail.com,2011-07-18T15:39:15+02:00
+Pierre-Yves Ricau,acdfbb90,2011-07-18,No Component,,acdfbb90,102,0,py.ricau@gmail.com,2011-07-18T15:33:57+02:00
+Pierre-Yves Ricau,4a38ef96,2011-07-18,No Component,Fix,4a38ef96,1,1,py.ricau@gmail.com,2011-07-18T15:32:57+02:00
+Pierre-Yves Ricau,e8fe9d09,2011-04-18,No Component,,e8fe9d09,11,473,py.ricau@gmail.com,2011-04-18T22:22:50+02:00
+Pierre-Yves Ricau,dba50699,2011-04-18,No Component,,dba50699,181,9,py.ricau@gmail.com,2011-04-18T22:22:37+02:00
+Pierre-Yves Ricau,0c06ca1f,2011-04-18,No Component,,0c06ca1f,10,1,py.ricau@gmail.com,2011-04-18T22:22:13+02:00
+Pierre-Yves Ricau,48e57123,2011-04-18,No Component,FIX,48e57123,2,3,py.ricau@gmail.com,2011-04-18T22:22:05+02:00
+Pierre-Yves Ricau,aece8247,2011-04-18,No Component,,aece8247,349,0,py.ricau@gmail.com,2011-04-18T22:21:54+02:00
+Pierre-Yves Ricau,921f622a,2011-04-18,No Component,,921f622a,525,10,py.ricau@gmail.com,2011-04-18T18:29:50+02:00
+Pierre-Yves Ricau,8ec3cf9e,2011-04-17,No Component,,8ec3cf9e,2,2,py.ricau@gmail.com,2011-04-17T17:30:03+02:00
+Pierre-Yves Ricau,f5bc9c73,2011-04-17,No Component,,f5bc9c73,15,4,py.ricau@gmail.com,2011-04-17T11:53:35+02:00
+Pierre-Yves Ricau,d06a06cb,2011-04-15,No Component,Fix,d06a06cb,30,1,py.ricau@gmail.com,2011-04-15T15:46:36+02:00
+Pierre-Yves Ricau,15f3e211,2011-04-14,No Component,Fix,15f3e211,43,0,py.ricau@gmail.com,2011-04-14T17:48:52+02:00
+Pierre-Yves Ricau,0b70598f,2011-04-14,No Component,,0b70598f,0,0,py.ricau@gmail.com,2011-04-14T17:44:22+02:00
+Pierre-Yves Ricau,876e032b,2011-04-12,No Component,Fix,876e032b,1,0,py.ricau@gmail.com,2011-04-12T18:04:55+02:00
+Pierre-Yves Ricau,d269e479,2011-04-12,No Component,,d269e479,833,1,py.ricau@gmail.com,2011-04-12T17:49:20+02:00
+Pierre-Yves Ricau,e6fdea70,2011-04-11,No Component,Fix,e6fdea70,54,2,py.ricau@gmail.com,2011-04-11T16:56:04+02:00
+Pierre-Yves Ricau,b7811869,2011-04-11,No Component,,b7811869,14,1,py.ricau@gmail.com,2011-04-11T16:32:07+02:00
+Pierre-Yves Ricau,7477c8f6,2011-04-09,No Component,,7477c8f6,17,6,py.ricau@gmail.com,2011-04-09T18:46:38+02:00
+Pierre-Yves Ricau,065dfbcf,2011-04-06,No Component,Fix,065dfbcf,24,24,py.ricau@gmail.com,2011-04-06T16:57:08+02:00
+Pierre-Yves Ricau,03c1edfb,2011-04-06,No Component,,03c1edfb,33,4,py.ricau@gmail.com,2011-04-06T16:29:44+02:00
+Pierre-Yves Ricau,98d4f37d,2011-04-06,No Component,Fix,98d4f37d,28,7,py.ricau@gmail.com,2011-04-06T14:36:38+02:00
+Pierre-Yves Ricau,7a2523b2,2011-04-06,No Component,Fix,7a2523b2,239,11,py.ricau@gmail.com,2011-04-06T11:54:54+02:00
+Pierre-Yves Ricau,727dc615,2011-04-06,No Component,Fix,727dc615,16,14,py.ricau@gmail.com,2011-04-06T10:24:09+02:00
+Pierre-Yves Ricau,96ec5413,2011-04-05,No Component,,96ec5413,25,18,py.ricau@gmail.com,2011-04-05T18:11:44+02:00
+Pierre-Yves Ricau,d085072e,2011-04-05,No Component,Fix,d085072e,5,20,py.ricau@gmail.com,2011-04-05T11:55:52+02:00
+Pierre-Yves Ricau,129afbf7,2011-04-03,No Component,Fix,129afbf7,24,22,py.ricau@gmail.com,2011-04-03T08:16:59+02:00
+Pierre-Yves Ricau,32d7434c,2011-04-03,No Component,,32d7434c,16,12,py.ricau@gmail.com,2011-04-03T08:16:52+02:00
+Pierre-Yves Ricau,4964b05d,2011-04-03,No Component,,4964b05d,4,3,py.ricau@gmail.com,2011-04-03T08:16:26+02:00
+Pierre-Yves Ricau,fdef0bc2,2011-04-03,No Component,,fdef0bc2,11,14,py.ricau@gmail.com,2011-04-03T08:16:05+02:00
+Pierre-Yves Ricau,daa1156f,2011-04-03,No Component,,daa1156f,19,0,py.ricau@gmail.com,2011-04-03T08:15:46+02:00
+Pierre-Yves Ricau,edd42722,2011-03-25,No Component,,edd42722,54,0,py.ricau@gmail.com,2011-03-25T15:43:38+01:00
+Pierre-Yves Ricau,e98e2e00,2011-03-17,No Component,Fix,e98e2e00,7,0,py.ricau@gmail.com,2011-03-17T18:48:08+01:00
+Pierre-Yves Ricau,838c55c3,2011-03-17,No Component,,838c55c3,43,9,py.ricau@gmail.com,2011-03-17T18:47:54+01:00
+Pierre-Yves Ricau,ca65fe2b,2011-03-17,No Component,,ca65fe2b,83,32,py.ricau@gmail.com,2011-03-17T18:46:40+01:00
+Pierre-Yves Ricau,39275778,2011-03-17,No Component,bug Fix,39275778,11,0,py.ricau@gmail.com,2011-03-17T08:00:33+01:00
+Pierre-Yves Ricau,567e42de,2011-03-11,No Component,,567e42de,12,19,py.ricau@gmail.com,2011-03-11T16:07:09+01:00
+Pierre-Yves Ricau,47fad0c4,2011-03-11,No Component,fix Fix,47fad0c4,11,0,py.ricau@gmail.com,2011-03-11T15:28:31+01:00
+Pierre-Yves Ricau,0b806793,2011-03-11,No Component,Fix,0b806793,4,9,py.ricau@gmail.com,2011-03-11T15:16:09+01:00
+Pierre-Yves Ricau,46208a89,2011-02-25,No Component,fix,46208a89,2,2,py.ricau@gmail.com,2011-02-25T13:12:34+01:00
+Pierre-Yves Ricau,88dd46b8,2011-02-25,No Component,,88dd46b8,2,2,py.ricau@gmail.com,2011-02-25T13:05:38+01:00
+Pierre-Yves Ricau,6bbc8e03,2011-02-25,No Component,bug,6bbc8e03,1,1,py.ricau@gmail.com,2011-02-25T12:57:31+01:00
+Pierre-Yves Ricau,c03001c0,2011-02-25,No Component,,c03001c0,2,2,py.ricau@gmail.com,2011-02-25T12:51:50+01:00
+Pierre-Yves Ricau,cd8004ed,2011-02-25,No Component,fix,cd8004ed,476,106,py.ricau@gmail.com,2011-02-25T12:39:32+01:00
+Pierre-Yves Ricau,02aa4137,2011-02-24,No Component,,02aa4137,5,5,py.ricau@gmail.com,2011-02-24T14:24:20+01:00
+Pierre-Yves Ricau,64836a69,2011-02-24,No Component,,64836a69,25,1,py.ricau@gmail.com,2011-02-24T10:14:40+01:00
+Pierre-Yves Ricau,d2278644,2011-02-23,No Component,fix,d2278644,2,2,py.ricau@gmail.com,2011-02-23T16:07:24+01:00
+Pierre-Yves Ricau,dc346a59,2011-02-23,No Component,fix,dc346a59,11,1,py.ricau@gmail.com,2011-02-23T15:15:10+01:00
+Pierre-Yves Ricau,edbe3dbb,2011-01-17,No Component,fix,edbe3dbb,10,5,py.ricau@gmail.com,2011-01-17T11:30:25+01:00
+Pierre-Yves Ricau,fae27760,2011-01-17,No Component,,fae27760,10,9,py.ricau@gmail.com,2011-01-17T11:30:04+01:00
+Pierre-Yves Ricau,0ebd5cbb,2011-01-17,No Component,fix,0ebd5cbb,7,22,py.ricau@gmail.com,2011-01-17T10:50:56+01:00
+Pierre-Yves Ricau,6e413ccc,2011-01-09,No Component,,6e413ccc,115,8,py.ricau@gmail.com,2011-01-09T12:50:36+01:00
+Pierre-Yves Ricau,a3202d07,2011-01-06,No Component,,a3202d07,39,3,py.ricau@gmail.com,2011-01-06T18:04:26+01:00
+Pierre-Yves Ricau,f3178798,2011-01-06,No Component,,f3178798,9,0,py.ricau@gmail.com,2011-01-06T17:30:05+01:00
+Pierre-Yves Ricau,a7387649,2011-01-06,No Component,,a7387649,8,3,py.ricau@gmail.com,2011-01-06T17:13:51+01:00
+Pierre-Yves Ricau,df93ea39,2011-01-06,No Component,Fix,df93ea39,49,0,py.ricau@gmail.com,2011-01-06T16:11:03+01:00
+Pierre-Yves Ricau,41965d2f,2011-01-06,No Component,,41965d2f,57,6,py.ricau@gmail.com,2011-01-06T13:03:03+01:00
+Pierre-Yves Ricau,ad165a87,2011-01-06,No Component,,ad165a87,13,4,py.ricau@gmail.com,2011-01-06T12:38:10+01:00
+Pierre-Yves Ricau,35864164,2011-01-06,No Component,bug,35864164,5,0,py.ricau@gmail.com,2011-01-06T11:53:19+01:00
+Pierre-Yves Ricau,804c18b1,2011-01-06,No Component,,804c18b1,189,16,py.ricau@gmail.com,2011-01-06T11:37:47+01:00
+Pierre-Yves Ricau,58997086,2011-01-06,No Component,,58997086,50,1,py.ricau@gmail.com,2011-01-06T10:13:36+01:00
+Pierre-Yves Ricau,4c90fd40,2011-01-06,No Component,,4c90fd40,90,1,py.ricau@gmail.com,2011-01-06T08:09:55+01:00
+Pierre-Yves Ricau,a94ae941,2011-01-05,No Component,,a94ae941,7,2,py.ricau@gmail.com,2011-01-05T14:46:16+01:00
+Pierre-Yves Ricau,3ed88081,2011-01-04,No Component,,3ed88081,207,171,py.ricau@gmail.com,2011-01-04T18:26:42+01:00
+Pierre-Yves Ricau,ff201636,2011-01-04,No Component,,ff201636,14,0,py.ricau@gmail.com,2011-01-04T17:39:58+01:00
+Pierre-Yves Ricau,19705a83,2011-01-04,No Component,,19705a83,86,8,py.ricau@gmail.com,2011-01-04T17:39:43+01:00
+Pierre-Yves Ricau,7a9666a2,2011-01-04,No Component,,7a9666a2,56,3,py.ricau@gmail.com,2011-01-04T16:38:37+01:00
+Pierre-Yves Ricau,86a3d199,2011-01-04,No Component,,86a3d199,10,1,py.ricau@gmail.com,2011-01-04T12:19:40+01:00
+Pierre-Yves Ricau,6e41b823,2011-01-04,No Component,,6e41b823,32,2,py.ricau@gmail.com,2011-01-04T12:19:23+01:00
+Pierre-Yves Ricau,3f82663c,2011-01-04,No Component,,3f82663c,80,12,py.ricau@gmail.com,2011-01-04T12:19:11+01:00
+Pierre-Yves Ricau,ef5d337e,2011-01-04,No Component,,ef5d337e,52,54,py.ricau@gmail.com,2011-01-04T12:18:53+01:00
+Pierre-Yves Ricau,e7092721,2011-01-04,No Component,,e7092721,29,11,py.ricau@gmail.com,2011-01-04T08:15:10+01:00
+Pierre-Yves Ricau,b8c425f2,2011-01-04,No Component,,b8c425f2,14,0,py.ricau@gmail.com,2011-01-04T08:14:52+01:00
+Pierre-Yves Ricau,d35fe672,2011-01-04,No Component,,d35fe672,38,0,py.ricau@gmail.com,2011-01-04T08:14:44+01:00
+Pierre-Yves Ricau,e7d7637f,2011-01-04,No Component,,e7d7637f,1,1,py.ricau@gmail.com,2011-01-04T08:14:35+01:00
+Pierre-Yves Ricau,e0a4e771,2011-01-04,No Component,,e0a4e771,3,3,py.ricau@gmail.com,2011-01-04T08:13:55+01:00
+Pierre-Yves Ricau,cd79e212,2011-01-03,No Component,,cd79e212,21,0,py.ricau@gmail.com,2011-01-03T18:48:15+01:00
+Pierre-Yves Ricau,b9376e5d,2011-01-03,No Component,,b9376e5d,29,8,py.ricau@gmail.com,2011-01-03T17:58:47+01:00
+Pierre-Yves Ricau,456f8c58,2011-01-03,No Component,,456f8c58,2,0,py.ricau@gmail.com,2011-01-03T17:58:32+01:00
+Pierre-Yves Ricau,f08d9693,2011-01-03,No Component,,f08d9693,12,16,py.ricau@gmail.com,2011-01-03T17:25:51+01:00
+Pierre-Yves Ricau,d7a06fd8,2011-01-02,No Component,,d7a06fd8,1,1,py.ricau@gmail.com,2011-01-02T22:24:49+01:00
+Pierre-Yves Ricau,ff7e22dc,2011-01-02,No Component,,ff7e22dc,3,3,py.ricau@gmail.com,2011-01-02T22:20:46+01:00
+Pierre-Yves Ricau,1383f0af,2011-01-02,No Component,,1383f0af,15,9,py.ricau@gmail.com,2011-01-02T22:20:32+01:00
+Pierre-Yves Ricau,d38736f6,2011-01-02,No Component,,d38736f6,7,0,py.ricau@gmail.com,2011-01-02T21:21:35+01:00
+Pierre-Yves Ricau,5424f331,2011-01-02,No Component,,5424f331,171,3,py.ricau@gmail.com,2011-01-02T21:21:17+01:00
+Pierre-Yves Ricau,8eefe91e,2011-01-02,No Component,,8eefe91e,73,28,py.ricau@gmail.com,2011-01-02T21:20:48+01:00
+Pierre-Yves Ricau,1894ef51,2010-12-24,No Component,,1894ef51,321,318,py.ricau@gmail.com,2010-12-24T16:51:45+01:00
+Pierre-Yves Ricau,291be140,2010-12-24,No Component,,291be140,4,3,py.ricau@gmail.com,2010-12-24T16:51:38+01:00
+Pierre-Yves Ricau,ec2932d3,2010-12-23,No Component,,ec2932d3,105,65,py.ricau@gmail.com,2010-12-23T16:48:23+01:00
+Pierre-Yves Ricau,9c54af30,2010-12-22,No Component,,9c54af30,0,0,py.ricau@gmail.com,2010-12-22T22:59:59+01:00
+Pierre-Yves Ricau,df8981f2,2010-12-22,No Component,,df8981f2,395,0,py.ricau@gmail.com,2010-12-22T19:11:57+01:00

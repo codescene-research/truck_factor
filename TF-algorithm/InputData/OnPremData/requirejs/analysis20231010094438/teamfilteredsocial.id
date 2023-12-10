@@ -1,0 +1,9 @@
+author,rev,date,entity,message,ticket-id,loc-added,loc-deleted,author-email,basic-date-time
+jrburke,51d005f,2016-09-05,requirejs/require.js,,51d005f,2,2,jrburke@gmail.com,2016-09-05T19:03:58+02:00
+jrburke,6bded39,2016-09-05,requirejs/require.js,,6bded39,2,2,jrburke@gmail.com,2016-09-05T00:43:38+02:00
+jrburke,4c84ff2,2016-09-04,requirejs/require.js,,4c84ff2,2,2,jrburke@gmail.com,2016-09-04T19:24:22+02:00
+jrburke,4c84ff2,2016-09-04,requirejs/tests/remoteUrls/jqwrap.js,,4c84ff2,21,2,jrburke@gmail.com,2016-09-04T19:24:22+02:00
+jrburke,4c84ff2,2016-09-04,requirejs/tests/remoteUrls/remoteUrls-tests.js,,4c84ff2,3,0,jrburke@gmail.com,2016-09-04T19:24:22+02:00
+jrburke,4c84ff2,2016-09-04,requirejs/tests/remoteUrls/util.js,,4c84ff2,3,0,jrburke@gmail.com,2016-09-04T19:24:22+02:00
+jrburke,4c84ff2,2016-09-04,requirejs/tests/remoteUrls/util2.js,,4c84ff2,3,0,jrburke@gmail.com,2016-09-04T19:24:22+02:00
+Valera Rozuvan,663244f,2016-07-23,requirejs/require.js,Fix,663244f,1,1,valera.rozuvan@gmail.com,2016-07-23T02:21:41+02:00

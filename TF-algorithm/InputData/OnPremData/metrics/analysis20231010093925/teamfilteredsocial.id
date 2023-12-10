@@ -1,0 +1,4 @@
+author,rev,date,entity,message,ticket-id,loc-added,loc-deleted,author-email,basic-date-time
+Mike Gilbode,84801bf8,2015-08-03,metrics/metrics-jersey2/src/main/java/com/codahale/metrics/jersey2/InstrumentedResourceMethodApplicationListener.java,fix,84801bf8,10,10,mike.gilbode@oracle.com,2015-08-03T03:07:42+02:00
+Mike Gilbode,47c5ba2a,2015-08-01,metrics/metrics-jersey2/src/main/java/com/codahale/metrics/jersey2/InstrumentedResourceMethodApplicationListener.java,Fix,47c5ba2a,43,34,gilbode@gmail.com,2015-08-01T07:36:24+02:00
+Mike Gilbode,47c5ba2a,2015-08-01,metrics/metrics-jersey2/src/test/java/com/codahale/metrics/jersey2/SingletonMetricsJerseyTest.java,Fix,47c5ba2a,13,0,gilbode@gmail.com,2015-08-01T07:36:24+02:00

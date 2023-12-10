@@ -1,0 +1,115 @@
+author,rev,date,entity,message,ticket-id,loc-added,loc-deleted,author-email,basic-date-time
+Benjamin Ragan-Kelley,6dc238d1f,2015-08-12,ipython/IPython/core/release.py,,6dc238d1f,3,3,benjaminrk@gmail.com,2015-08-12T03:04:26+02:00
+Benjamin Ragan-Kelley,f534027be,2015-08-12,ipython/IPython/core/release.py,,f534027be,2,2,benjaminrk@gmail.com,2015-08-12T02:52:39+02:00
+Benjamin Ragan-Kelley,3792978be,2015-08-11,ipython/docs/source/conf.py,,3792978be,4,1,benjaminrk@gmail.com,2015-08-11T21:54:55+02:00
+Benjamin Ragan-Kelley,1b9c89e1d,2015-08-11,ipython/docs/autogen_api.py,fix,1b9c89e1d,10,6,benjaminrk@gmail.com,2015-08-11T22:19:52+02:00
+Benjamin Ragan-Kelley,1b9c89e1d,2015-08-11,ipython/docs/autogen_config.py,fix,1b9c89e1d,9,3,benjaminrk@gmail.com,2015-08-11T22:19:52+02:00
+Benjamin Ragan-Kelley,1b9c89e1d,2015-08-11,ipython/docs/autogen_magics.py,fix,1b9c89e1d,5,1,benjaminrk@gmail.com,2015-08-11T22:19:52+02:00
+Benjamin Ragan-Kelley,97449e5b0,2015-08-11,ipython/docs/source/conf.py,,97449e5b0,7,0,benjaminrk@gmail.com,2015-08-11T20:03:08+02:00
+Ivan Pozdeev,c588a3a27,2015-08-09,ipython/IPython/core/magics/execution.py,,c588a3a27,3,2,ivan_pozdeev@mail.ru,2015-08-09T18:27:35+02:00
+Thomas Kluyver,adb5ba035,2015-08-06,ipython/IPython/core/completer.py,Fix,adb5ba035,1,1,takowl@gmail.com,2015-08-06T18:30:20+02:00
+Thomas Kluyver,adb5ba035,2015-08-06,ipython/IPython/core/magics/pylab.py,Fix,adb5ba035,1,1,takowl@gmail.com,2015-08-06T18:30:20+02:00
+Thomas Kluyver,adb5ba035,2015-08-06,ipython/tools/github_stats.py,Fix,adb5ba035,1,1,takowl@gmail.com,2015-08-06T18:30:20+02:00
+Thomas Kluyver,05339cadb,2015-08-06,ipython/IPython/paths.py,Fix,05339cadb,2,0,takowl@gmail.com,2015-08-06T18:09:12+02:00
+Thomas Kluyver,05339cadb,2015-08-06,ipython/docs/autogen_api.py,Fix,05339cadb,14,23,takowl@gmail.com,2015-08-06T18:09:12+02:00
+Thomas Kluyver,37ff5bd21,2015-08-04,ipython/IPython/core/release.py,,37ff5bd21,4,29,takowl@gmail.com,2015-08-04T20:16:22+02:00
+Joel Nothman,1a63c2f97,2015-07-30,ipython/IPython/terminal/ipapp.py,,1a63c2f97,4,1,joel.nothman@gmail.com,2015-07-30T07:19:36+02:00
+Drekin,1059cf477,2015-07-29,ipython/IPython/terminal/interactiveshell.py,,1059cf477,1,1,drekin@gmail.com,2015-07-29T18:24:54+02:00
+Thomas Kluyver,1d9ef7624,2015-07-27,ipython/IPython/lib/tests/test_deepreload.py,,1d9ef7624,3,2,takowl@gmail.com,2015-07-27T18:31:03+02:00
+Thomas Kluyver,6525f3bb5,2015-07-27,ipython/IPython/lib/tests/test_deepreload.py,,6525f3bb5,3,0,takowl@gmail.com,2015-07-27T18:22:48+02:00
+Marin Gilles,a38307b20,2015-07-25,ipython/IPython/utils/tests/test_text.py,,a38307b20,1,0,mrngilles@gmail.com,2015-07-25T19:32:06+02:00
+Marin Gilles,14dd04c0f,2015-07-25,ipython/IPython/utils/tests/test_text.py,fix,14dd04c0f,1,0,mrngilles@gmail.com,2015-07-25T19:29:31+02:00
+Marin Gilles,310c41723,2015-07-25,ipython/IPython/utils/tests/test_text.py,fix,310c41723,1,1,mrngilles@gmail.com,2015-07-25T19:09:29+02:00
+Marin Gilles,b37201e3f,2015-07-25,ipython/IPython/utils/tests/test_text.py,,b37201e3f,1,1,mrngilles@gmail.com,2015-07-25T19:03:20+02:00
+Marin Gilles,d3fde8121,2015-07-24,ipython/IPython/utils/tests/test_text.py,,d3fde8121,1,3,mrngilles@gmail.com,2015-07-24T23:53:02+02:00
+Marin Gilles,172b830d3,2015-07-24,ipython/IPython/utils/tests/test_text.py,fix,172b830d3,3,0,mrngilles@gmail.com,2015-07-24T22:46:10+02:00
+Marin Gilles,172b830d3,2015-07-24,ipython/IPython/utils/text.py,fix,172b830d3,1,0,mrngilles@gmail.com,2015-07-24T22:46:10+02:00
+Marin Gilles,55c0cb15b,2015-07-24,ipython/IPython/utils/tests/test_text.py,,55c0cb15b,0,3,mrngilles@gmail.com,2015-07-24T22:42:17+02:00
+Marin Gilles,55c0cb15b,2015-07-24,ipython/IPython/utils/text.py,,55c0cb15b,0,1,mrngilles@gmail.com,2015-07-24T22:42:17+02:00
+Marin Gilles,20d56660b,2015-07-24,ipython/IPython/utils/tests/test_text.py,,20d56660b,3,0,mrngilles@gmail.com,2015-07-24T21:37:07+02:00
+Marin Gilles,20d56660b,2015-07-24,ipython/IPython/utils/text.py,,20d56660b,1,0,mrngilles@gmail.com,2015-07-24T21:37:07+02:00
+Jason Grout,059ea261c,2015-07-23,ipython/IPython/lib/latextools.py,Fix,059ea261c,1,1,jgrout6@bloomberg.net,2015-07-23T19:49:11+02:00
+Frazer McLean,5b9cee89e,2015-07-23,ipython/IPython/lib/pretty.py,Fix,5b9cee89e,1,1,frazer@frazermclean.co.uk,2015-07-23T12:06:06+02:00
+Jason Grout,a08029261,2015-07-20,ipython/IPython/core/application.py,,a08029261,2,2,jgrout6@bloomberg.net,2015-07-20T22:12:57+02:00
+Jason Grout,a08029261,2015-07-20,ipython/IPython/core/display_trap.py,,a08029261,1,1,jgrout6@bloomberg.net,2015-07-20T22:12:57+02:00
+Jason Grout,a08029261,2015-07-20,ipython/IPython/core/formatters.py,,a08029261,1,1,jgrout6@bloomberg.net,2015-07-20T22:12:57+02:00
+Jason Grout,a08029261,2015-07-20,ipython/IPython/core/magic.py,,a08029261,2,2,jgrout6@bloomberg.net,2015-07-20T22:12:57+02:00
+Jason Grout,a08029261,2015-07-20,ipython/IPython/core/shellapp.py,,a08029261,4,4,jgrout6@bloomberg.net,2015-07-20T22:12:57+02:00
+Andrew Murray,6ea81c964,2015-07-14,ipython/tools/gen_latex_symbols.py,Fix,6ea81c964,1,1,radarhere@gmail.com,2015-07-14T15:20:04+02:00
+Benjamin Ragan-Kelley,3dcf94a47,2015-07-11,ipython/IPython/core/release.py,,3dcf94a47,1,1,benjaminrk@gmail.com,2015-07-11T22:04:05+02:00
+Benjamin Ragan-Kelley,8137f8f0d,2015-07-11,ipython/IPython/core/release.py,,8137f8f0d,1,1,benjaminrk@gmail.com,2015-07-11T22:00:41+02:00
+Thomas Kluyver,8ea23f363,2015-07-09,ipython/IPython/core/ultratb.py,Fix,8ea23f363,2,0,takowl@gmail.com,2015-07-09T16:16:01+02:00
+Thomas Kluyver,48aac09dd,2015-07-09,ipython/IPython/core/tests/test_ultratb.py,,48aac09dd,13,0,takowl@gmail.com,2015-07-09T16:15:39+02:00
+Sebastiaan Mathot,cda41d92f,2015-07-08,ipython/IPython/utils/path.py,,cda41d92f,1,0,s.mathot@cogsci.nl,2015-07-08T16:11:37+02:00
+Benjamin Ragan-Kelley,2c9013e46,2015-07-02,ipython/IPython/config.py,,2c9013e46,3,2,benjaminrk@gmail.com,2015-07-02T20:22:53+02:00
+Benjamin Ragan-Kelley,2c9013e46,2015-07-02,ipython/IPython/frontend.py,,2c9013e46,3,3,benjaminrk@gmail.com,2015-07-02T20:22:53+02:00
+Benjamin Ragan-Kelley,2c9013e46,2015-07-02,ipython/IPython/html.py,,2c9013e46,3,3,benjaminrk@gmail.com,2015-07-02T20:22:53+02:00
+Benjamin Ragan-Kelley,2c9013e46,2015-07-02,ipython/IPython/kernel/__init__.py,,2c9013e46,3,3,benjaminrk@gmail.com,2015-07-02T20:22:53+02:00
+Benjamin Ragan-Kelley,2c9013e46,2015-07-02,ipython/IPython/nbconvert.py,,2c9013e46,3,3,benjaminrk@gmail.com,2015-07-02T20:22:53+02:00
+Benjamin Ragan-Kelley,2c9013e46,2015-07-02,ipython/IPython/nbformat.py,,2c9013e46,3,3,benjaminrk@gmail.com,2015-07-02T20:22:53+02:00
+Benjamin Ragan-Kelley,2c9013e46,2015-07-02,ipython/IPython/parallel.py,,2c9013e46,3,3,benjaminrk@gmail.com,2015-07-02T20:22:53+02:00
+Benjamin Ragan-Kelley,2c9013e46,2015-07-02,ipython/IPython/qt.py,,2c9013e46,3,3,benjaminrk@gmail.com,2015-07-02T20:22:53+02:00
+Benjamin Ragan-Kelley,2c9013e46,2015-07-02,ipython/IPython/terminal/console.py,,2c9013e46,3,5,benjaminrk@gmail.com,2015-07-02T20:22:53+02:00
+Benjamin Ragan-Kelley,2c9013e46,2015-07-02,ipython/IPython/utils/shimmodule.py,,2c9013e46,2,0,benjaminrk@gmail.com,2015-07-02T20:22:53+02:00
+Benjamin Ragan-Kelley,2c9013e46,2015-07-02,ipython/IPython/utils/tests/test_shimmodule.py,,2c9013e46,15,0,benjaminrk@gmail.com,2015-07-02T20:22:53+02:00
+Matthias Bussonnier,702159755,2015-07-02,ipython/IPython/core/magics/extension.py,,702159755,3,0,bussonniermatthias@gmail.com,2015-07-02T17:20:41+02:00
+Benjamin Ragan-Kelley,9e713c799,2015-06-30,ipython/IPython/core/tests/test_completer.py,,9e713c799,2,0,benjaminrk@gmail.com,2015-06-30T21:02:53+02:00
+Benjamin Ragan-Kelley,f4ed417c7,2015-06-29,ipython/IPython/core/oinspect.py,,f4ed417c7,9,10,benjaminrk@gmail.com,2015-06-29T02:52:55+02:00
+Benjamin Ragan-Kelley,f4ed417c7,2015-06-29,ipython/IPython/core/tests/test_oinspect.py,,f4ed417c7,2,0,benjaminrk@gmail.com,2015-06-29T02:52:55+02:00
+Thomas Kluyver,36683fff1,2015-06-26,ipython/IPython/terminal/ipapp.py,,36683fff1,1,1,takowl@gmail.com,2015-06-26T23:32:34+02:00
+Thomas Kluyver,b0100c6f1,2015-06-24,ipython/docs/source/conf.py,,b0100c6f1,1,0,takowl@gmail.com,2015-06-24T23:52:23+02:00
+Matthias Bussonnier,d2f74cd65,2015-06-22,ipython/IPython/extensions/sympyprinting.py,,d2f74cd65,1,1,bussonniermatthias@gmail.com,2015-06-22T13:55:02+02:00
+Matthias Bussonnier,454a419c3,2015-06-22,ipython/IPython/extensions/sympyprinting.py,,454a419c3,2,2,bussonniermatthias@gmail.com,2015-06-22T00:14:04+02:00
+Matthias Bussonnier,7faa1fb9e,2015-06-21,ipython/IPython/testing/globalipapp.py,,7faa1fb9e,0,27,bussonniermatthias@gmail.com,2015-06-21T22:01:17+02:00
+Matthias Bussonnier,318f416b5,2015-06-21,ipython/IPython/lib/inputhook.py,,318f416b5,0,14,bussonniermatthias@gmail.com,2015-06-21T21:31:51+02:00
+Matthias Bussonnier,384220537,2015-06-18,ipython/IPython/extensions/cythonmagic.py,,384220537,4,26,bussonniermatthias@gmail.com,2015-06-18T20:45:07+02:00
+Matthias Bussonnier,384220537,2015-06-18,ipython/IPython/extensions/rmagic.py,,384220537,2,692,bussonniermatthias@gmail.com,2015-06-18T20:45:07+02:00
+Matthias Bussonnier,384220537,2015-06-18,ipython/IPython/extensions/sympyprinting.py,,384220537,2,140,bussonniermatthias@gmail.com,2015-06-18T20:45:07+02:00
+Sylvain Corlay,e2f48fa8a,2015-06-13,ipython/IPython/qt.py,Fix,e2f48fa8a,6,2,scorlay@bloomberg.net,2015-06-13T20:36:28+02:00
+Thomas Kluyver,353f7f0df,2015-06-11,ipython/IPython/lib/tests/test_deepreload.py,,353f7f0df,1,1,takowl@gmail.com,2015-06-11T22:00:29+02:00
+Thomas Kluyver,786c612bf,2015-06-11,ipython/IPython/lib/tests/test_deepreload.py,,786c612bf,2,7,takowl@gmail.com,2015-06-11T21:46:33+02:00
+Matthias Bussonnier,a33a0632c,2015-06-10,ipython/IPython/core/magics/execution.py,,a33a0632c,1,1,bussonniermatthias@gmail.com,2015-06-10T01:55:20+02:00
+Matthias Bussonnier,a33a0632c,2015-06-10,ipython/IPython/core/profiledir.py,,a33a0632c,1,2,bussonniermatthias@gmail.com,2015-06-10T01:55:20+02:00
+Matthias Bussonnier,a33a0632c,2015-06-10,ipython/IPython/utils/io.py,,a33a0632c,0,22,bussonniermatthias@gmail.com,2015-06-10T01:55:20+02:00
+chebee7i,e2b4f66ce,2015-06-09,ipython/IPython/sphinxext/ipython_directive.py,,e2b4f66ce,31,2,chebee7i@gmail.com,2015-06-09T03:46:04+02:00
+Thomas Kluyver,2e032c218,2015-06-08,ipython/IPython/terminal/ipapp.py,Fix,2e032c218,1,1,takowl@gmail.com,2015-06-08T19:49:37+02:00
+Matthias Bussonnier,41b8f2f0a,2015-06-04,ipython/IPython/core/magics/pylab.py,,41b8f2f0a,1,1,bussonniermatthias@gmail.com,2015-06-04T01:23:26+02:00
+Matthias Bussonnier,56fbc14c2,2015-06-03,ipython/IPython/core/displayhook.py,Fix fix,56fbc14c2,12,10,bussonniermatthias@gmail.com,2015-06-03T20:48:57+02:00
+Matthias Bussonnier,56fbc14c2,2015-06-03,ipython/IPython/lib/tests/test_deepreload.py,Fix fix,56fbc14c2,1,1,bussonniermatthias@gmail.com,2015-06-03T20:48:57+02:00
+thethomask,fe67899d9,2015-05-24,ipython/IPython/core/displayhook.py,,fe67899d9,4,0,thethomask@users.noreply.github.com,2015-05-24T04:54:25+02:00
+thethomask,eaf200b89,2015-05-23,ipython/IPython/core/displayhook.py,,eaf200b89,11,4,thethomask@users.noreply.github.com,2015-05-23T17:07:13+02:00
+Tianhui Michael Li,64e63ff5e,2015-05-31,ipython/IPython/core/interactiveshell.py,,64e63ff5e,9,5,tianhuil@cs.princeton.edu,2015-05-31T23:57:28+02:00
+Tianhui Michael Li,b259affc2,2015-05-31,ipython/IPython/core/interactiveshell.py,,b259affc2,3,3,tianhuil@cs.princeton.edu,2015-05-31T23:56:55+02:00
+Tianhui Michael Li,1ea4357e3,2015-05-31,ipython/IPython/core/interactiveshell.py,,1ea4357e3,2,0,tianhuil@cs.princeton.edu,2015-05-31T23:56:19+02:00
+Tianhui Michael Li,ba8af4d6b,2015-05-31,ipython/IPython/core/interactiveshell.py,,ba8af4d6b,9,6,tianhuil@cs.princeton.edu,2015-05-31T15:07:35+02:00
+Matthias Bussonnier,ec2ff4569,2015-05-29,ipython/IPython/core/builtin_trap.py,,ec2ff4569,4,2,bussonniermatthias@gmail.com,2015-05-29T23:03:56+02:00
+Matthias Bussonnier,ec2ff4569,2015-05-29,ipython/IPython/core/interactiveshell.py,,ec2ff4569,3,1,bussonniermatthias@gmail.com,2015-05-29T23:03:56+02:00
+Matthias Bussonnier,ec2ff4569,2015-05-29,ipython/IPython/core/shellapp.py,,ec2ff4569,1,1,bussonniermatthias@gmail.com,2015-05-29T23:03:56+02:00
+Matthias Bussonnier,ec2ff4569,2015-05-29,ipython/IPython/lib/deepreload.py,,ec2ff4569,14,1,bussonniermatthias@gmail.com,2015-05-29T23:03:56+02:00
+Koen van Besien,e54e44b9b,2015-05-29,ipython/IPython/core/magics/pylab.py,,e54e44b9b,8,4,koen.vanbesien@gmail.com,2015-05-29T04:44:19+02:00
+Matthias Bussonnier,e1b98ee4a,2015-05-28,ipython/IPython/core/interactiveshell.py,,e1b98ee4a,1,3,bussonniermatthias@gmail.com,2015-05-28T21:08:56+02:00
+Thomas Kluyver,916e70316,2015-05-28,ipython/docs/autogen_config.py,,916e70316,7,51,takowl@gmail.com,2015-05-28T21:01:04+02:00
+Matthias Bussonnier,fb7adcb90,2015-05-28,ipython/IPython/core/interactiveshell.py,,fb7adcb90,3,4,bussonniermatthias@gmail.com,2015-05-28T04:10:15+02:00
+Victor Ramirez,453f768fc,2015-05-28,ipython/IPython/core/debugger.py,,453f768fc,23,0,virako@wadobo.com,2015-05-28T01:10:47+02:00
+Matthias Bussonnier,4763214a4,2015-05-27,ipython/IPython/core/tests/test_interactiveshell.py,,4763214a4,24,0,bussonniermatthias@gmail.com,2015-05-27T20:24:07+02:00
+Matthias Bussonnier,a4980283b,2015-05-27,ipython/IPython/core/tests/test_interactiveshell.py,,a4980283b,17,0,bussonniermatthias@gmail.com,2015-05-27T20:02:30+02:00
+Matthias Bussonnier,1478e0d7c,2015-05-27,ipython/IPython/core/interactiveshell.py,,1478e0d7c,14,0,bussonniermatthias@gmail.com,2015-05-27T19:50:45+02:00
+Thomas Kluyver,538475906,2015-05-26,ipython/docs/source/conf.py,,538475906,3,1,takowl@gmail.com,2015-05-26T23:27:41+02:00
+Matthias Bussonnier,836106352,2015-05-26,ipython/IPython/lib/tests/test_deepreload.py,fix,836106352,8,1,bussonniermatthias@gmail.com,2015-05-26T22:33:25+02:00
+Thomas Kluyver,cf133197c,2015-05-25,ipython/IPython/core/debugger.py,Fix,cf133197c,1,0,takowl@gmail.com,2015-05-25T00:55:14+02:00
+Frazer McLean,a1cc866c2,2015-05-23,ipython/IPython/lib/pretty.py,,a1cc866c2,10,40,frazer@frazermclean.co.uk,2015-05-23T15:26:16+02:00
+Frazer McLean,533e8c3a6,2015-05-23,ipython/IPython/lib/pretty.py,,533e8c3a6,45,0,frazer@frazermclean.co.uk,2015-05-23T03:28:22+02:00
+Frazer McLean,533e8c3a6,2015-05-23,ipython/IPython/lib/tests/test_pretty.py,,533e8c3a6,88,0,frazer@frazermclean.co.uk,2015-05-23T03:28:22+02:00
+Benjamin Ragan-Kelley,34d98b660,2015-05-22,ipython/setup.py,,34d98b660,0,1,benjaminrk@gmail.com,2015-05-22T21:26:09+02:00
+Benjamin Ragan-Kelley,34d98b660,2015-05-22,ipython/setupbase.py,,34d98b660,0,21,benjaminrk@gmail.com,2015-05-22T21:26:09+02:00
+Benjamin Ragan-Kelley,7032d0548,2015-05-22,ipython/setup.py,,7032d0548,16,13,benjaminrk@gmail.com,2015-05-22T21:04:33+02:00
+Benjamin Ragan-Kelley,7032d0548,2015-05-22,ipython/setupbase.py,,7032d0548,0,67,benjaminrk@gmail.com,2015-05-22T21:04:33+02:00
+Benjamin Ragan-Kelley,ef2eae528,2015-05-22,ipython/setup.py,,ef2eae528,0,17,benjaminrk@gmail.com,2015-05-22T21:06:08+02:00
+Koen van Besien,5d4f256b5,2015-05-20,ipython/IPython/core/magics/pylab.py,,5d4f256b5,8,0,koen.vanbesien@gmail.com,2015-05-20T07:42:34+02:00
+Benjamin Ragan-Kelley,11ed7eae5,2015-05-14,ipython/IPython/qt.py,,11ed7eae5,3,1,benjaminrk@gmail.com,2015-05-14T21:00:27+02:00
+Thomas Kluyver,4228454ad,2015-05-14,ipython/IPython/html.py,,4228454ad,2,2,takowl@gmail.com,2015-05-14T20:38:14+02:00
+Thomas Kluyver,8e65f9c64,2015-05-14,ipython/IPython/html.py,,8e65f9c64,3,3,takowl@gmail.com,2015-05-14T20:26:26+02:00
+Thomas Kluyver,8e65f9c64,2015-05-14,ipython/IPython/terminal/ipapp.py,,8e65f9c64,3,3,takowl@gmail.com,2015-05-14T20:26:26+02:00
+Thomas Kluyver,8e65f9c64,2015-05-14,ipython/IPython/utils/io.py,,8e65f9c64,3,3,takowl@gmail.com,2015-05-14T20:26:26+02:00
+Thomas Kluyver,8e65f9c64,2015-05-14,ipython/setup.py,,8e65f9c64,1,1,takowl@gmail.com,2015-05-14T20:26:26+02:00
+Lucretiel,04c5d358c,2015-05-13,ipython/IPython/lib/inputhook.py,,04c5d358c,2,1,Lucretiel@users.noreply.github.com,2015-05-13T19:12:43+02:00
