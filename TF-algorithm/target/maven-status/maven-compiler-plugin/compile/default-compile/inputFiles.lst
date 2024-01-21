@@ -1,0 +1,14 @@
+/Users/andreaskarlsson/Documents/graphs/data/truck_factor/TF-algorithm/src/main/java/org/example/Mappers/OnPremMapper.java
+/Users/andreaskarlsson/Documents/graphs/data/truck_factor/TF-algorithm/src/main/java/org/example/Mappers/CloudMapper.java
+/Users/andreaskarlsson/Documents/graphs/data/truck_factor/TF-algorithm/src/main/java/org/example/Main.java
+/Users/andreaskarlsson/Documents/graphs/data/truck_factor/TF-algorithm/src/main/java/org/example/Utils/Thresholds.java
+/Users/andreaskarlsson/Documents/graphs/data/truck_factor/TF-algorithm/src/main/java/org/example/DO/CSAuthorDO.java
+/Users/andreaskarlsson/Documents/graphs/data/truck_factor/TF-algorithm/src/main/java/org/example/DO/FileDO.java
+/Users/andreaskarlsson/Documents/graphs/data/truck_factor/TF-algorithm/src/main/java/org/example/Utils/Statistics/AnalyzedFiles.java
+/Users/andreaskarlsson/Documents/graphs/data/truck_factor/TF-algorithm/src/main/java/org/example/Optimize/OptimizeThresholds.java
+/Users/andreaskarlsson/Documents/graphs/data/truck_factor/TF-algorithm/src/main/java/org/example/DO/FileListDO.java
+/Users/andreaskarlsson/Documents/graphs/data/truck_factor/TF-algorithm/src/main/java/org/example/Utils/Statistics/OpenSource/ActiveDevelopers.java
+/Users/andreaskarlsson/Documents/graphs/data/truck_factor/TF-algorithm/src/main/java/org/example/Utils/Developers.java
+/Users/andreaskarlsson/Documents/graphs/data/truck_factor/TF-algorithm/src/main/java/org/example/Utils/Statistics/OpenSource/ParetoDevelopers.java
+/Users/andreaskarlsson/Documents/graphs/data/truck_factor/TF-algorithm/src/main/java/org/example/Utils/Statistics/AverageTopFileAuthorship.java
+/Users/andreaskarlsson/Documents/graphs/data/truck_factor/TF-algorithm/src/main/java/org/example/Utils/CSVWriter.java

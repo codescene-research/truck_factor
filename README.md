@@ -4,7 +4,7 @@ This repository contains the source code used in the master thesis, "Driving Dev
 
 ## Environment
 
-The Truck Factor (TF) analysis is performed using the code within the `TF-algorithm` folder. Before running the analysis, make sure to build the project using Maven.
+The Truck Factor (TF) analysis is performed using the code within the `TF-algorithm` folder. Before running the analysis, make sure to build the project using Maven. The author has utulized intellij.
 
 ## Installation
 
@@ -13,4 +13,4 @@ To build the project with Maven, follow these steps:
 ```bash
 cd TF-algorithm
 mvn clean install
-compile and run
+compile and run by using intellij.
