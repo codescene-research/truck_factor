@@ -1,5 +1,0 @@
-cacerts.bks
-eclipse.importorder
-gradlew
-gradlew
-gradlew

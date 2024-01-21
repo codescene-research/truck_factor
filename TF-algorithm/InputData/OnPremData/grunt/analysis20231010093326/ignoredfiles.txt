@@ -1,6 +1,0 @@
-AUTHORS
-CHANGELOG
-file-no-extension
-file.ext.ension
-file.ext.ension
-LICENSE-MIT

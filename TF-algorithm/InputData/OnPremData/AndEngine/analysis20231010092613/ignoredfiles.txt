@@ -1,2 +1,0 @@
-andengine_classdiagram.ucls
-proguard.cfg

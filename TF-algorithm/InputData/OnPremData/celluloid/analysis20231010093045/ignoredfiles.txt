@@ -1,4 +1,0 @@
-celluloid.gemspec
-Gemfile
-Guardfile
-Rakefile

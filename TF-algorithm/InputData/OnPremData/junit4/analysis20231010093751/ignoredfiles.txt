@@ -1,5 +1,0 @@
-BUILDING
-faq.fml
-org.eclipse.jdt.core.prefs
-org.eclipse.jdt.ui.prefs
-Version.java.template

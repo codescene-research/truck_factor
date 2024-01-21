@@ -1,1 +1,0 @@
-{"version":1,"aspects":[{"id":"author","name":"Main Authors","maxValue":0},{"id":"loss","name":"Knowledge Loss","maxValue":0},{"id":"fragmentation","name":"Coordination Needs","maxValue":1.0},{"id":"codeowner","name":"Code Owners Diffusion","maxValue":0}],"hotspots-span":"1 year","pm-data-span":"2 years","team-analysis-span":"3 months","name":"System","path":[],"children":null}

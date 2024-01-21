@@ -39,6 +39,7 @@ public class Main {
 
         //For optimizing
         //OptimizeThresholds.runRemainingAuthorshipAndAuthorThreshold(listAnalysisFilePaths(ANALYSES_PATH));
+
     }
 
 

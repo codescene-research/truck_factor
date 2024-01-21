@@ -1,1 +1,0 @@
-{"code-health-degradations":{"monthly":[{"name":"osquery/osquery/filesystem/filesystem.cpp","strength":0.56}],"improvements":[],"predictions":[],"yearly":[{"name":"osquery/osquery/config/config.cpp","strength":3.09},{"name":"osquery/osquery/tables/system/darwin/processes.cpp","strength":2.09},{"name":"osquery/osquery/core/init.cpp","strength":1.58}]}}
