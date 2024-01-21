@@ -1,7 +1,8 @@
-package org.example.Utils.Statistics;
+package src.main.java.org.example.Utils.Statistics;
 
-import org.example.DO.FileListDO;
-import org.example.Utils.CSVWriter;
+
+import src.main.java.org.example.DO.FileListDO;
+import src.main.java.org.example.Utils.CSVWriter;
 
 import java.util.Map;
 

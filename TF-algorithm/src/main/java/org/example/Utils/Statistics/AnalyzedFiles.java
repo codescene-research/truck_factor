@@ -1,13 +1,14 @@
-package org.example.Utils.Statistics;
+package src.main.java.org.example.Utils.Statistics;
 
-import org.example.DO.FileListDO;
-import org.example.Mappers.OnPremMapper;
+import src.main.java.org.example.DO.FileListDO;
+import src.main.java.org.example.Mappers.OnPremMapper;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-import static org.example.Main.listAnalysisFilePaths;
+import static src.main.java.org.example.Main.listAnalysisFilePaths;
+
 
 public class AnalyzedFiles {
     static String ANALYSES_PATH = "";

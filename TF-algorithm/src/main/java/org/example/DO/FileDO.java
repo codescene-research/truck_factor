@@ -1,7 +1,7 @@
-package org.example.DO;
+package src.main.java.org.example.DO;
 
-import org.example.Utils.Thresholds;
-import org.example.Utils.Developers;
+import src.main.java.org.example.Utils.Thresholds;
+import src.main.java.org.example.Utils.Developers;
 
 import java.util.HashMap;
 import java.util.Iterator;

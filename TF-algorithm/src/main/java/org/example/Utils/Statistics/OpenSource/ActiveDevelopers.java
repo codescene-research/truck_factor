@@ -1,6 +1,7 @@
-package org.example.Utils.Statistics.OpenSource;
+package src.main.java.org.example.Utils.Statistics.OpenSource;
 
-import org.example.Utils.CSVWriter;
+
+import src.main.java.org.example.Utils.CSVWriter;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

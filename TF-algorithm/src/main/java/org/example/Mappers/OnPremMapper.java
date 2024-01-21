@@ -1,9 +1,8 @@
-package org.example.Mappers;
+package src.main.java.org.example.Mappers;
 
-import com.fasterxml.jackson.databind.JsonNode;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import org.example.DO.CSAuthorDO;
-import org.example.DO.FileListDO;
+
+import src.main.java.org.example.DO.CSAuthorDO;
+import src.main.java.org.example.DO.FileListDO;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -12,6 +11,9 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.Map;
+
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class OnPremMapper {
 

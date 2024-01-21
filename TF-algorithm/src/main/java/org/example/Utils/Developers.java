@@ -1,4 +1,4 @@
-package org.example.Utils;
+package src.main.java.org.example.Utils;
 
 import java.util.Set;
 import java.util.TreeSet;

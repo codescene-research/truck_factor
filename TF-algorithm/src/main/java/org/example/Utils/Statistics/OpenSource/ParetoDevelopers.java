@@ -1,13 +1,14 @@
-package org.example.Utils.Statistics.OpenSource;
+package src.main.java.org.example.Utils.Statistics.OpenSource;
 
-import org.example.DO.FileListDO;
-import org.example.Utils.CSVWriter;
-import org.example.Mappers.OnPremMapper;
+
+import src.main.java.org.example.DO.FileListDO;
+import src.main.java.org.example.Mappers.OnPremMapper;
+import src.main.java.org.example.Utils.CSVWriter;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import static org.example.Main.listAnalysisFilePaths;
+import static src.main.java.org.example.Main.listAnalysisFilePaths;
 
 public class ParetoDevelopers {
 

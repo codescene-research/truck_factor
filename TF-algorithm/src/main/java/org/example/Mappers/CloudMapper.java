@@ -1,7 +1,9 @@
-package org.example.Mappers;
+package src.main.java.org.example.Mappers;
 
-import org.example.DO.FileListDO;
-import org.example.Utils.CSVWriter;
+
+
+import src.main.java.org.example.DO.FileListDO;
+import src.main.java.org.example.Utils.CSVWriter;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

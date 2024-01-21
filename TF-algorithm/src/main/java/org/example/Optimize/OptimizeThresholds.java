@@ -1,10 +1,10 @@
-package org.example.Optimize;
+package src.main.java.org.example.Optimize;
 
-import org.example.DO.CSAuthorDO;
-import org.example.Utils.Thresholds;
-import org.example.DO.FileListDO;
-import org.example.Utils.CSVWriter;
-import org.example.Mappers.OnPremMapper;
+import src.main.java.org.example.DO.CSAuthorDO;
+import src.main.java.org.example.DO.FileListDO;
+import src.main.java.org.example.Mappers.OnPremMapper;
+import src.main.java.org.example.Utils.CSVWriter;
+import src.main.java.org.example.Utils.Thresholds;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -14,8 +14,8 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.Map;
 
-import static org.example.Main.listAnalysisFilePaths;
-import static org.example.Utils.Statistics.OpenSource.ActiveDevelopers.getActiveDevelopers;
+import static src.main.java.org.example.Main.listAnalysisFilePaths;
+import static src.main.java.org.example.Utils.Statistics.OpenSource.ActiveDevelopers.getActiveDevelopers;
 
 public class OptimizeThresholds {
     static String RESULT_ORACLE_PATH = "InputData/result-oracle.csv";

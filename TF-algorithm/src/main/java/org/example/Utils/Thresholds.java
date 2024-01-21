@@ -1,4 +1,4 @@
-package org.example.Utils;
+package src.main.java.org.example.Utils;
 
 public class Thresholds {
     static private Double authorshipThreshold = 0.0;

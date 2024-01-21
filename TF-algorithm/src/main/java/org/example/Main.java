@@ -1,11 +1,10 @@
-package org.example;
+package src.main.java.org.example;
 
-import org.example.DO.CSAuthorDO;
-import org.example.DO.FileListDO;
-import org.example.Mappers.CloudMapper;
-import org.example.Mappers.OnPremMapper;
-import org.example.Optimize.OptimizeThresholds;
-import org.example.Utils.CSVWriter;
+
+import src.main.java.org.example.DO.CSAuthorDO;
+import src.main.java.org.example.DO.FileListDO;
+import src.main.java.org.example.Mappers.CloudMapper;
+import src.main.java.org.example.Mappers.OnPremMapper;
 
 import java.io.File;
 import java.util.HashMap;
@@ -19,9 +18,19 @@ public class Main {
     public static void main(String[] args) {
 
         //For retrieveing TF values
-        String resultFerreira = getTFResultFromOnPremData("TF_Ferreira",ANALYSES_PATH);
-        String resultCS = getTFResultFromCloudData("TF_CS_CS",CS_DATA_CS);
-        String resultOS = getTFResultFromCloudData("TF_CS_OSS",CS_DATA_OSS);
+        String resultFerreira = getTFResultFromOnPremData("TF_Ferreira", ANALYSES_PATH);
+        System.out.println("TF results for Ferreira:");
+        System.out.print(resultFerreira);
+
+        String resultCS = getTFResultFromCloudData("TF_CS_CS", CS_DATA_CS);
+        System.out.println("TF result for Closed Source projects:");
+        System.out.println(resultCS);
+
+        String resultOS = getTFResultFromCloudData("TF_CS_OSS", CS_DATA_OSS);
+        System.out.println("Result for proprietary projects:");
+        System.out.println(resultOS);
+
+        //listAnalysisFilePaths
 
         //For saving.
         //CSVWriter.saveAsFile("TF_CS_CS_ALGO3", resultCS)
@@ -30,40 +39,42 @@ public class Main {
 
         //For optimizing
         //OptimizeThresholds.runRemainingAuthorshipAndAuthorThreshold(listAnalysisFilePaths(ANALYSES_PATH));
-
     }
 
 
-    public static String getTFResultFromOnPremData(String filename, String data_folder_filepath){
-        Map<String,String> filePaths = listAnalysisFilePaths(data_folder_filepath);
-        Map<String, FileListDO> repoProviderFileListDO =  OnPremMapper.mapAnalysisMap(filePaths);
+    public static String getTFResultFromOnPremData(String filename, String data_folder_filepath) {
+        Map<String, String> filePaths = listAnalysisFilePaths(data_folder_filepath);
+        Map<String, FileListDO> repoProviderFileListDO = OnPremMapper.mapAnalysisMap(filePaths);
 
         StringBuilder output = new StringBuilder();
         output.append("repo,tf\n");
 
-        for( Map.Entry<String,FileListDO> entry : repoProviderFileListDO.entrySet()){
+        for (Map.Entry<String, FileListDO> entry : repoProviderFileListDO.entrySet()) {
             String repo = entry.getKey();
             FileListDO fileList = entry.getValue();
 
             Integer tf = fileList.algorithm1();
-            output.append(String.format("%s,%s\n",repo, tf));
+            output.append(String.format("%s,%s\n", repo, tf));
         }
 
         return output.toString();
 
 
-    };
-    public static String getAlgoCSTFResult(String analyses_path){
+    }
+
+    ;
+
+    public static String getAlgoCSTFResult(String analyses_path) {
         Map<String, String> feirraAnalysReults = listAnalysisFilePaths(analyses_path);
         Map<String, CSAuthorDO> csPrimaryOwners = OnPremMapper.developerImpactMapper(feirraAnalysReults);
         StringBuilder output = new StringBuilder();
         output.append("repo,TF\n");
 
-        for(Map.Entry<String, CSAuthorDO> entry : csPrimaryOwners.entrySet()){
+        for (Map.Entry<String, CSAuthorDO> entry : csPrimaryOwners.entrySet()) {
             String repo = entry.getKey();
             Integer tf = entry.getValue().calculateTF();
 
-            output.append(String.format("%s,%s\n",repo,tf));
+            output.append(String.format("%s,%s\n", repo, tf));
         }
 
         return output.toString();

@@ -1,6 +1,7 @@
-package org.example.DO;
+package src.main.java.org.example.DO;
 
-import org.example.Utils.Thresholds;
+
+import src.main.java.org.example.Utils.Thresholds;
 
 import java.util.Collections;
 import java.util.LinkedList;
